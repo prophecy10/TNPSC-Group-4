@@ -70,6 +70,7 @@ const Bank = (() => {
   function topics(){
     const groups = [];
     const labels = {tamil:'தமிழ்', general_studies:'பொது அறிவு', aptitude:'கணிதம் & நுண்ணறிவு'};
+    const labelsEn = {tamil:'Tamil', general_studies:'General Studies', aptitude:'Aptitude & Mental Ability'};
     for (const subj of ['tamil','general_studies','aptitude']){
       const arr = loaded[subj]||[];
       const byTopic = {};
@@ -78,7 +79,7 @@ const Bank = (() => {
         if(!byTopic[key]) byTopic[key] = {topic:key, name:q.topic_name_ta||key, name_en:q.topic_name_en||null, unit:q.unit, subject:subj, qs:[]};
         byTopic[key].qs.push(q);
       });
-      groups.push({subject:subj, label:labels[subj], topics:Object.values(byTopic)});
+      groups.push({subject:subj, label:labels[subj], label_en:labelsEn[subj], topics:Object.values(byTopic)});
     }
     return groups;
   }

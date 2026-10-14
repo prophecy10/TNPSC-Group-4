@@ -13,123 +13,153 @@
     "topics": {
       "split_join": {
         "unit": "1",
-        "ta": "பிரித்தல் & சேர்த்தல்"
+        "ta": "பிரித்தல் & சேர்த்தல்",
+        "en": "Splitting & joining words"
       },
       "sandhi": {
         "unit": "1",
-        "ta": "சந்திப்பிழை & ஒற்றுப்பிழை"
+        "ta": "சந்திப்பிழை & ஒற்றுப்பிழை",
+        "en": "Sandhi & consonant-doubling errors"
       },
       "letter_diff": {
         "unit": "1",
-        "ta": "மயங்கொலிச் சொற்கள் (ல-ள-ழ, ன-ண-ந, ர-ற)"
+        "ta": "மயங்கொலிச் சொற்கள் (ல-ள-ழ, ன-ண-ந, ர-ற)",
+        "en": "Similar-sounding words (ல-ள-ழ, ன-ண-ந, ர-ற)"
       },
       "root_verb": {
         "unit": "1",
-        "ta": "வேர்ச்சொல் & வினை வடிவங்கள்"
+        "ta": "வேர்ச்சொல் & வினை வடிவங்கள்",
+        "en": "Root words & verb forms"
       },
       "grammar_note": {
         "unit": "1",
-        "ta": "இலக்கணக் குறிப்பு"
+        "ta": "இலக்கணக் குறிப்பு",
+        "en": "Grammatical notes (இலக்கணக் குறிப்பு)"
       },
       "yappu_ani": {
         "unit": "1",
-        "ta": "யாப்பு & அணி"
+        "ta": "யாப்பு & அணி",
+        "en": "Prosody & figures of speech"
       },
       "grammar_general": {
         "unit": "1",
-        "ta": "பொது இலக்கணம்"
+        "ta": "பொது இலக்கணம்",
+        "en": "General grammar"
       },
       "antonym": {
         "unit": "2",
-        "ta": "எதிர்ச்சொல்"
+        "ta": "எதிர்ச்சொல்",
+        "en": "Antonyms"
       },
       "word_meaning": {
         "unit": "2",
-        "ta": "சொல்லும் பொருளும்"
+        "ta": "சொல்லும் பொருளும்",
+        "en": "Words & meanings"
       },
       "one_letter_word": {
         "unit": "2",
-        "ta": "ஓரெழுத்து ஒருமொழி"
+        "ta": "ஓரெழுத்து ஒருமொழி",
+        "en": "One-letter words"
       },
       "multi_meaning": {
         "unit": "2",
-        "ta": "பலபொருள் ஒருசொல் / ஒருபொருள் பலசொல்"
+        "ta": "பலபொருள் ஒருசொல் / ஒருபொருள் பலசொல்",
+        "en": "Words with many meanings / synonyms"
       },
       "alpha_order": {
         "unit": "2",
-        "ta": "அகர வரிசை"
+        "ta": "அகர வரிசை",
+        "en": "Alphabetical order"
       },
       "fill_word": {
         "unit": "2",
-        "ta": "பொருத்தமான சொல்"
+        "ta": "பொருத்தமான சொல்",
+        "en": "Choosing the right word"
       },
       "pure_tamil": {
         "unit": "2",
-        "ta": "தூய தமிழ்ச்சொல் / அயற்சொல்"
+        "ta": "தூய தமிழ்ச்சொல் / அயற்சொல்",
+        "en": "Pure Tamil & loan words"
       },
       "place_names": {
         "unit": "2",
-        "ta": "ஊர்ப் பெயர் மரூஉ"
+        "ta": "ஊர்ப் பெயர் மரூஉ",
+        "en": "Place-name forms (மரூஉ)"
       },
       "error_correction": {
         "unit": "2",
-        "ta": "பிழை திருத்தம்"
+        "ta": "பிழை திருத்தம்",
+        "en": "Error correction"
       },
       "sentence_types": {
         "unit": "3",
-        "ta": "தொடர் வகைகள்"
+        "ta": "தொடர் வகைகள்",
+        "en": "Types of sentences"
       },
       "voice_verb": {
         "unit": "3",
-        "ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை"
+        "ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை",
+        "en": "Active / passive / causative voice"
       },
       "tamil_marabu": {
         "unit": "3",
-        "ta": "மரபுத் தமிழ்"
+        "ta": "மரபுத் தமிழ்",
+        "en": "Tamil usage conventions (மரபு)"
       },
       "question_framing": {
         "unit": "3",
-        "ta": "வினா அமைத்தல்"
+        "ta": "வினா அமைத்தல்",
+        "en": "Framing questions"
       },
       "punctuation": {
         "unit": "3",
-        "ta": "நிறுத்தற் குறிகள்"
+        "ta": "நிறுத்தற் குறிகள்",
+        "en": "Punctuation"
       },
       "word_order": {
         "unit": "3",
-        "ta": "சொற்றொடர் அமைத்தல்"
+        "ta": "சொற்றொடர் அமைத்தல்",
+        "en": "Sentence formation"
       },
       "technical_terms": {
         "unit": "4",
-        "ta": "கலைச் சொற்கள்"
+        "ta": "கலைச் சொற்கள்",
+        "en": "Technical terms"
       },
       "comprehension": {
         "unit": "5",
-        "ta": "பத்தி – புரிதல்"
+        "ta": "பத்தி – புரிதல்",
+        "en": "Reading comprehension"
       },
       "proverbs": {
         "unit": "5",
-        "ta": "பழமொழிகள் & மரபுத்தொடர்கள்"
+        "ta": "பழமொழிகள் & மரபுத்தொடர்கள்",
+        "en": "Proverbs & idioms"
       },
       "translation": {
         "unit": "6",
-        "ta": "மொழிபெயர்ப்பு"
+        "ta": "மொழிபெயர்ப்பு",
+        "en": "Translation"
       },
       "thirukkural": {
         "unit": "7",
-        "ta": "திருக்குறள்"
+        "ta": "திருக்குறள்",
+        "en": "Thirukkural"
       },
       "ethical_lit": {
         "unit": "7",
-        "ta": "அறநூல்கள்"
+        "ta": "அறநூல்கள்",
+        "en": "Ethical literature"
       },
       "tamil_scholars": {
         "unit": "7",
-        "ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு"
+        "ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+        "en": "Tamil scholars & their service"
       },
       "literature": {
         "unit": "7",
-        "ta": "இலக்கிய வரலாறு & நூல்கள்"
+        "ta": "இலக்கிய வரலாறு & நூல்கள்",
+        "en": "History of literature & works"
       }
     }
   },

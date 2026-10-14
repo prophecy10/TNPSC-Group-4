@@ -16,7 +16,7 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 
 | Section | What it does |
 |---|---|
-| **த / En (Language)** | Shows Part B questions (General Studies and Aptitude) in Tamil or English. The switch is on the home page and at the top of the screen whenever a Part B question is showing, and the site remembers your choice. Part A (Tamil) is always in Tamil, as in the real exam. |
+| **த / En (Language)** | The switch at the top of the screen changes the whole site, and the Part B questions (General Studies and Aptitude), to Tamil or English. The site remembers your choice. Part A (Tamil) questions always stay in Tamil, as in the real exam, so the switch is hidden while one is showing. |
 | 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. Leaving returns you to the topic list. |
 | ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
 | 📝 **முழுத் தேர்வு (Full Test)** | A full **200-question mock exam**: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown** and submits automatically when time runs out. You can skip a question and come back to it. |

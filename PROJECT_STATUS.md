@@ -19,7 +19,7 @@ Per-unit counts are in `data/_coverage.json`. Run `python tools/build_bank.py` t
 - Marks out of 300 (1.5 per question), shown per part, plus the Part A Tamil qualifying check (40%, i.e. 60/150).
 - Answer review shows each question with your answer, the correct answer and the explanation, with a filter for wrong answers.
 - Also: resume, mistakes and bookmarks review, weak-area dashboard, score history.
-- Tamil / English switch for Part B questions (home page, topic list, score page, and in the quiz while a Part B question is shown); the choice is saved in the browser.
+- Tamil / English switch (top of the screen): changes the whole interface and the Part B questions; Part A Tamil questions stay in Tamil. The choice is saved in the browser.
 - Leaving a topic-wise (Study) quiz returns to the topic list.
 - Optional private visit counter: set `GOATCOUNTER_CODE` in `js/config.js`.
 

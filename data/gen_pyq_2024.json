@@ -9,6 +9,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "root_verb",
       "topic_name_ta": "வேர்ச்சொல் & வினை வடிவங்கள்",
+      "topic_name_en": "Root words & verb forms",
       "difficulty": "easy",
       "question_ta": "'வா' என்ற வேர்ச்சொல்லின் வினைமுற்று எது?",
       "options_ta": [
@@ -30,6 +31,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "sentence_types",
       "topic_name_ta": "தொடர் வகைகள்",
+      "topic_name_en": "Types of sentences",
       "difficulty": "easy",
       "question_ta": "'இராமன் வந்தான்' – எவ்வகைத் தொடர் என அறிந்து எழுதுக.",
       "options_ta": [
@@ -51,6 +53,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "medium",
       "question_ta": "ஓர் அடியுள் முதல், மூன்று, நான்காம் சீர்களில் முதலெழுத்து அளவொத்து நிற்க, இரண்டாம் எழுத்து ஒன்றிவரத் தொடுப்பது ________ எதுகை ஆகும்.",
       "options_ta": [
@@ -72,6 +75,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "medium",
       "question_ta": "இச்சொல்லின் பொருள்: 'நனந்தலை உலகம்'",
       "options_ta": [
@@ -93,6 +97,7 @@
       "unit_name_ta": "வாசித்தல் – புரிந்து கொள்ளும் திறன்",
       "topic": "proverbs",
       "topic_name_ta": "பழமொழிகள் & மரபுத்தொடர்கள்",
+      "topic_name_en": "Proverbs & idioms",
       "difficulty": "easy",
       "question_ta": "பழமொழியினை நிறைவு செய்க: 'மரத்தை இலை காக்கும் ________'",
       "options_ta": [
@@ -114,6 +119,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "medium",
       "question_ta": "மோனைச் சொல்லைக் கண்டறி:\n'நந்தவனம் கண் திறந்து\nநற்றமிழ்ப் பூ எடுத்து\nபண்ணோடு பாட்டிசைத்துப்\nபார் போற்ற வந்தாயோ!'",
       "options_ta": [
@@ -135,6 +141,7 @@
       "unit_name_ta": "வாசித்தல் – புரிந்து கொள்ளும் திறன்",
       "topic": "proverbs",
       "topic_name_ta": "பழமொழிகள் & மரபுத்தொடர்கள்",
+      "topic_name_en": "Proverbs & idioms",
       "difficulty": "medium",
       "question_ta": "பொருத்தமான பொருளைத் தேர்வு செய்க: 'நெல்லிக்காய் மூட்டையைக் கொட்டினார் போல'",
       "options_ta": [
@@ -156,6 +163,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "question_framing",
       "topic_name_ta": "வினா அமைத்தல்",
+      "topic_name_en": "Framing questions",
       "difficulty": "easy",
       "question_ta": "விடைக்கேற்ற வினா அமைக்க: 'மீனாட்சி சுந்தரனார் தல புராணங்களைப் பாடுவதில் சிறந்தவர்.'",
       "options_ta": [
@@ -177,6 +185,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_note",
       "topic_name_ta": "இலக்கணக் குறிப்பு",
+      "topic_name_en": "Grammatical notes (இலக்கணக் குறிப்பு)",
       "difficulty": "easy",
       "question_ta": "'செந்தமிழ்' – இலக்கணக் குறிப்பு தருக.",
       "options_ta": [
@@ -198,6 +207,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'காவ்ய தரிசனம்' எனும் வடமொழி நூலின் தழுவலாக அமைந்த தமிழ் நூல் எது?",
       "options_ta": [
@@ -219,6 +229,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "word_order",
       "topic_name_ta": "சொற்றொடர் அமைத்தல்",
+      "topic_name_en": "Sentence formation",
       "difficulty": "medium",
       "question_ta": "சொற்களை ஒழுங்குபடுத்திச் சரியான சொற்றொடரைத் தேர்ந்தெடுக்க.",
       "options_ta": [
@@ -240,6 +251,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "tamil_marabu",
       "topic_name_ta": "மரபுத் தமிழ்",
+      "topic_name_en": "Tamil usage conventions (மரபு)",
       "difficulty": "easy",
       "question_ta": "மரபுப் பிழைகளை நீக்கி எழுதுக: 'இல்லத்தின் அருகே புதிதாகக் கூரை போட்டனர்'",
       "options_ta": [
@@ -261,6 +273,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "medium",
       "question_ta": "பொருந்தாச் சொல்லைக் கண்டறிக.",
       "options_ta": [
@@ -282,6 +295,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "antonym",
       "topic_name_ta": "எதிர்ச்சொல்",
+      "topic_name_en": "Antonyms",
       "difficulty": "easy",
       "question_ta": "எதிர்ச்சொல் அறிதல்: 'ஊக்கம்'",
       "options_ta": [
@@ -303,6 +317,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "split_join",
       "topic_name_ta": "பிரித்தல் & சேர்த்தல்",
+      "topic_name_en": "Splitting & joining words",
       "difficulty": "easy",
       "question_ta": "'நீளுழைப்பு' என்பதைப் பிரித்து எழுதுக.",
       "options_ta": [
@@ -324,6 +339,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "hard",
       "question_ta": "'படமாடக் கோயில் பகவற்கு ஒன்று ஈயில்\nநடமாடக் கோயில் நம்பர்க்கு அங்குஆகா\nநடமாடக் கோயில் நம்பர்க்கு ஒன்று ஈயில்\nபடமாடக் கோயில் பகவற்கு அதுஆமே.'\n– இப்பாடலில் பயின்று வந்துள்ள மோனை ________",
       "options_ta": [
@@ -345,6 +361,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "sentence_types",
       "topic_name_ta": "தொடர் வகைகள்",
+      "topic_name_en": "Types of sentences",
       "difficulty": "easy",
       "question_ta": "எவ்வகை வாக்கியம் என அறிக: 'பூக்களைப் பறிக்காதீர்'",
       "options_ta": [
@@ -366,6 +383,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_note",
       "topic_name_ta": "இலக்கணக் குறிப்பு",
+      "topic_name_en": "Grammatical notes (இலக்கணக் குறிப்பு)",
       "difficulty": "medium",
       "question_ta": "'இமிழிசை' – இலக்கணக் குறிப்பு அறிக.",
       "options_ta": [
@@ -387,6 +405,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_general",
       "topic_name_ta": "பொது இலக்கணம்",
+      "topic_name_en": "General grammar",
       "difficulty": "medium",
       "question_ta": "'மல்லிகை சூடினாள்' என்பது",
       "options_ta": [
@@ -408,6 +427,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "thirukkural",
       "topic_name_ta": "திருக்குறள்",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "திருக்குறளின்படி பயனில்லாத களர்நிலத்திற்கு ஒப்பானவர்கள் யார்?",
       "options_ta": [
@@ -429,6 +449,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "thirukkural",
       "topic_name_ta": "திருக்குறள்",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "திருக்குறளின் வழியில் துன்பப்படுபவர் யார்?",
       "options_ta": [
@@ -450,6 +471,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "medium",
       "question_ta": "'நச்சப் படாதவன் செல்வம் நடுவூருள்\nநச்சு மரம்பழுத் தற்று'\n– இக்குறளில் இடம்பெற்றுள்ள அணி யாது?",
       "options_ta": [
@@ -471,6 +493,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "ethical_lit",
       "topic_name_ta": "அறநூல்கள்",
+      "topic_name_en": "Ethical literature",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவற்றில் ஔவையார் இயற்றிய நூல் எது?",
       "options_ta": [
@@ -492,6 +515,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_note",
       "topic_name_ta": "இலக்கணக் குறிப்பு",
+      "topic_name_en": "Grammatical notes (இலக்கணக் குறிப்பு)",
       "difficulty": "medium",
       "question_ta": "'கரைபொரு' – இலக்கணக் குறிப்பு வரைக.",
       "options_ta": [
@@ -513,6 +537,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "புறநானூற்றின் சில பாடல்களை ஆங்கிலத்தில் மொழிபெயர்த்தவர் யார்?",
       "options_ta": [
@@ -534,6 +559,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'வலவன் ஏவா வானூர்தி' – எனும் பாடல் வரி இடம் பெற்ற நூல்",
       "options_ta": [
@@ -555,6 +581,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "hard",
       "question_ta": "புறநானூறு – இந்நூலை 'The Four Hundred Songs of War and Wisdom: An Anthology of Poems from Classical Tamil, the Purananuru' என்னும் தலைப்பில் மொழிபெயர்த்தவர்",
       "options_ta": [
@@ -576,6 +603,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "தேம்பாவணியின்படி கிறிஸ்துவின் வருகையை அறிவித்த முன்னோடி யார்?",
       "options_ta": [
@@ -597,6 +625,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "தேம்பாவணியின் பாட்டுடைத் தலைவன் யார்?",
       "options_ta": [
@@ -618,6 +647,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "hard",
       "question_ta": "முத்தொள்ளாயிரம் பாடும் நாடுகளுள் இடம்பெறாதது எது?",
       "options_ta": [
@@ -639,6 +669,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "hard",
       "question_ta": "'சேரிமொழியாற் செவ்விதிற் கிளந்து\nதேர்தல் வேண்டாது குறித்தது தோன்றிற்\nபுலனென மொழிப் புலனுணர்ந் தோரே'\n– தொல்காப்பியரின் இவ்வடிகள் குறிப்பிடும் இலக்கியம்",
       "options_ta": [
@@ -660,6 +691,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "'சந்து இலக்கியம்' (அ) 'வாயில் இலக்கியம்' என்று அழைக்கப்படுவது",
       "options_ta": [
@@ -681,6 +713,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "சங்க இலக்கியங்களில் 'கரகாட்டம்' எவ்வாறு அழைக்கப்படுகிறது?",
       "options_ta": [
@@ -702,6 +735,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'யோக சமாதி உகந்தவர் சித்தரே' என்றவர் யார்?",
       "options_ta": [
@@ -723,6 +757,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "வெட்ட வெளியைக் கடவுளாக வழிபடுபவர் யார்?",
       "options_ta": [
@@ -744,6 +779,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "காந்தியடிகள் தமிழகம் வந்தபோதெல்லாம் அவரது மேடைப் பேச்சினை மொழிபெயர்த்தவர் யார்?",
       "options_ta": [
@@ -765,6 +801,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "'தமிழ் வடமொழியின் மகளன்று; அது தனிக் குடும்பத்திற்கு உரிய மொழி; சமஸ்கிருதக் கலப்பின்றி அது தனித்தியங்கும் ஆற்றல் பெற்ற மொழி' – எனக் கூறியவர்",
       "options_ta": [
@@ -786,6 +823,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "'தாதாசாகேப் பால்கே' விருது முதன்முதலில் தொடங்கப்பட்ட ஆண்டு எது?",
       "options_ta": [
@@ -807,6 +845,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'நாடகக்கலையை மீட்டெடுப்பதே தமது குறிக்கோள்' என்றவர் யார்?",
       "options_ta": [
@@ -828,6 +867,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "ஆசியாவிலேயே மிகப் பழமையான நூலகம் என்ற புகழுக்குரியது எது?",
       "options_ta": [
@@ -849,6 +889,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "medium",
       "question_ta": "மஞ்சட்காமாலைக்கு எளிய மருந்தாக இன்றும் பயன்பட்டு வரும் செடி எது?",
       "options_ta": [
@@ -870,6 +911,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "உப்பளத் தொழிலாளர் உவர்ப்பு வாழ்க்கையைக் குறிக்கும் புதினம் எது?",
       "options_ta": [
@@ -891,6 +933,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'தினத்தந்தி' நாளிதழில் பணியாற்றிய தமிழ்ப் படைப்பாளர் யார்?",
       "options_ta": [
@@ -912,6 +955,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "முத்துராமலிங்கத்தேவரை 'தேசியம் காத்த செம்மல்' என்று பாராட்டியவர் யார்?",
       "options_ta": [
@@ -933,6 +977,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "easy",
       "question_ta": "உலகின் பல்வேறு பகுதிகளில் நடக்கும் நிகழ்வுகளைப் படமாகக் காட்டுவதற்கான பெயர்",
       "options_ta": [
@@ -954,6 +999,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "தமிழ் மொழியில் நவீனக்கதை இலக்கியத்தினைத் தொடக்கத்திலேயே செழுமைப்படுத்தியவர்",
       "options_ta": [
@@ -975,6 +1021,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "தெருக்கூத்தைத் தமிழ்க்கலையின் முக்கிய அடையாளமாக உருவாக்கியவர்",
       "options_ta": [
@@ -996,6 +1043,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "காந்தியடிகள் பெற்றோரிடம் அன்பாக நடந்துகொள்ளக் காரணமாக அமைந்த நூல் எது?",
       "options_ta": [
@@ -1017,6 +1065,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "hard",
       "question_ta": "பொருத்துக:\n(a) அலெக்சாண்டர் பெயின் – 1. குறியீடுகளை மின்னாற்றலுடன் அச்சிடுதல்\n(b) ஹாங்க் மாக்னஸ்கி – 2. இணைய வணிகம்\n(c) ஜான் ஷெப்பர்டு பாரன் – 3. கணினி மூலம் தொலைநகல் எடுக்கும் இயந்திரம்\n(d) மைக்கேல் ஆல்ட்ரிச் – 4. தானியங்கிப் பண இயந்திரம்",
       "options_ta": [
@@ -1038,6 +1087,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'தமிழ்ப் பதிப்புலகின் தலைமகன்' என்று போற்றப்படுபவர்",
       "options_ta": [
@@ -1059,6 +1109,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "hard",
       "question_ta": "கூற்று 1: (1953 சென்னை) மாநகராட்சிக் கூட்டத்திற்குத் தலைமை வகித்தவர் இராஜாஜி.\nகூற்று 2: அக்கூட்டத்தில் 'தலையைக் கொடுத்தேனும் தலைநகரைக் காப்போம்' என்று ம.பொ.சி. முழங்கினார்.",
       "options_ta": [
@@ -1080,6 +1131,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "திருச்சிராப்பள்ளிக்கு அருகில் அமைந்துள்ள அல்லூரில் 'திருவள்ளுவர் தவச்சாலையை' அமைத்தவர்",
       "options_ta": [
@@ -1101,6 +1153,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "hard",
       "question_ta": "இராசராச சோழனுக்குக் கோயில் கட்டவேண்டுமென்ற ஆர்வத்தைத் தூண்டிய கோயில் எது?",
       "options_ta": [
@@ -1122,6 +1175,7 @@
       "unit_name_ta": "வாசித்தல் – புரிந்து கொள்ளும் திறன்",
       "topic": "proverbs",
       "topic_name_ta": "பழமொழிகள் & மரபுத்தொடர்கள்",
+      "topic_name_en": "Proverbs & idioms",
       "difficulty": "easy",
       "question_ta": "'குந்தி தின்றால் குன்றும் கரையும்' என்னும் பழமொழி உணர்த்தும் பொருளை எழுதுக.",
       "options_ta": [
@@ -1143,6 +1197,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "alpha_order",
       "topic_name_ta": "அகர வரிசை",
+      "topic_name_en": "Alphabetical order",
       "difficulty": "easy",
       "question_ta": "இசைக் கருவிகளின் பெயர்களை அகர வரிசைப்படுத்துக: படகம், தவில், கணப்பறை, உடுக்கை, நாகசுரம், மகுடி",
       "options_ta": [
@@ -1164,6 +1219,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_note",
       "topic_name_ta": "இலக்கணக் குறிப்பு",
+      "topic_name_en": "Grammatical notes (இலக்கணக் குறிப்பு)",
       "difficulty": "easy",
       "question_ta": "'மனக்குரங்கு' என்னும் சொல்லிற்கு இலக்கணக் குறிப்புத் தருக.",
       "options_ta": [
@@ -1185,6 +1241,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "multi_meaning",
       "topic_name_ta": "பலபொருள் ஒருசொல் / ஒருபொருள் பலசொல்",
+      "topic_name_en": "Words with many meanings / synonyms",
       "difficulty": "easy",
       "question_ta": "பொருந்தாச் சொல்லைக் கண்டறிக.",
       "options_ta": [
@@ -1206,6 +1263,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "tamil_marabu",
       "topic_name_ta": "மரபுத் தமிழ்",
+      "topic_name_en": "Tamil usage conventions (மரபு)",
       "difficulty": "easy",
       "question_ta": "பிழை திருத்தம் செய்க (ஒலி மரபு).",
       "options_ta": [
@@ -1227,6 +1285,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "error_correction",
       "topic_name_ta": "பிழை திருத்தம்",
+      "topic_name_en": "Error correction",
       "difficulty": "medium",
       "question_ta": "பிழை திருத்தம் செய்க (பிழையற்ற தொடரைத் தேர்க).",
       "options_ta": [
@@ -1248,6 +1307,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "voice_verb",
       "topic_name_ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை",
+      "topic_name_en": "Active / passive / causative voice",
       "difficulty": "medium",
       "question_ta": "பிறவினைச் சொற்களைக் கண்டறிக.",
       "options_ta": [
@@ -1269,6 +1329,7 @@
       "unit_name_ta": "எழுதும் திறன்",
       "topic": "voice_verb",
       "topic_name_ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை",
+      "topic_name_en": "Active / passive / causative voice",
       "difficulty": "easy",
       "question_ta": "பின்வரும் தொடரைக் கண்டறிக: 'பூங்குழலி யாழ் மீட்டினாள்'",
       "options_ta": [
@@ -1290,6 +1351,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "alpha_order",
       "topic_name_ta": "அகர வரிசை",
+      "topic_name_en": "Alphabetical order",
       "difficulty": "medium",
       "question_ta": "அகர வரிசைப்படுத்துக: கேள்வர், பொளிக்கும், நசைஇ, போத்து, மஞ்ஞை, நல்குவர், சாவகர்",
       "options_ta": [
@@ -1311,6 +1373,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "root_verb",
       "topic_name_ta": "வேர்ச்சொல் & வினை வடிவங்கள்",
+      "topic_name_en": "Root words & verb forms",
       "difficulty": "easy",
       "question_ta": "'தா' என்ற வேர்ச்சொல்லின் வினையாலணையும் பெயர் ________",
       "options_ta": [
@@ -1332,6 +1395,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "root_verb",
       "topic_name_ta": "வேர்ச்சொல் & வினை வடிவங்கள்",
+      "topic_name_en": "Root words & verb forms",
       "difficulty": "easy",
       "question_ta": "வேர்ச்சொல்லைத் தேர்வு செய்க: 'மலர் வீட்டுக்குச் சென்றாள்' – இதில் 'சென்றாள்' என்பதன் வேர்ச்சொல்",
       "options_ta": [
@@ -1353,6 +1417,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "letter_diff",
       "topic_name_ta": "மயங்கொலிச் சொற்கள் (ல-ள-ழ, ன-ண-ந, ர-ற)",
+      "topic_name_en": "Similar-sounding words (ல-ள-ழ, ன-ண-ந, ர-ற)",
       "difficulty": "medium",
       "question_ta": "ஒலி வேறுபாடறிந்து சரியான பொருளை அறிதல்: சூல், சூழ், சூள்",
       "options_ta": [
@@ -1374,6 +1439,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "error_correction",
       "topic_name_ta": "பிழை திருத்தம்",
+      "topic_name_en": "Error correction",
       "difficulty": "easy",
       "question_ta": "பிழையற்ற தொடரைக் கண்டறிக.",
       "options_ta": [
@@ -1395,6 +1461,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_general",
       "topic_name_ta": "பொது இலக்கணம்",
+      "topic_name_en": "General grammar",
       "difficulty": "hard",
       "question_ta": "கீழ்க்காணும் சொல்வழக்கினை வரிசைப்படுத்துக (சரியா, தவறா எனக் காண்க).\n(I) நாகரிகம் கருதி மறைமுகமாகக் குறிப்பிடுதல் இடக்கரடக்கல்.\n(II) மங்கலமான சொற்களை மாற்றி மங்கலம் இல்லாச் சொற்களால் குறிப்பிடுதல் மங்கலம்.\n(III) ஒரு சொல்லுக்கு மாற்றாக வேறு சொல்லைப் பயன்படுத்தும் முறையே இடக்கரடக்கல், மங்கலம் ஆகியவை ஆகும்.",
       "options_ta": [
@@ -1416,6 +1483,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "yappu_ani",
       "topic_name_ta": "யாப்பு & அணி",
+      "topic_name_en": "Prosody & figures of speech",
       "difficulty": "easy",
       "question_ta": "வெண்பாவுக்குரிய ஓசை",
       "options_ta": [
@@ -1437,6 +1505,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "பொருத்துக:\n(a) முல்லைப்பாட்டு – 1. கண்ணதாசன்\n(b) காசிக்காண்டம் – 2. இளங்கோவடிகள்\n(c) சிலப்பதிகாரம் – 3. நப்பூதனார்\n(d) காலக்கணிதம் – 4. அதிவீரராமபாண்டியர்",
       "options_ta": [
@@ -1458,6 +1527,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "one_letter_word",
       "topic_name_ta": "ஓரெழுத்து ஒருமொழி",
+      "topic_name_en": "One-letter words",
       "difficulty": "medium",
       "question_ta": "'ஐ' எனும் ஓரெழுத்து ஒருமொழியின் பொருள் (பாடநூலின்படி)",
       "options_ta": [
@@ -1479,6 +1549,7 @@
       "unit_name_ta": "கலைச் சொற்கள்",
       "topic": "technical_terms",
       "topic_name_ta": "கலைச் சொற்கள்",
+      "topic_name_en": "Technical terms",
       "difficulty": "easy",
       "question_ta": "'Fiction' என்னும் சொல்லின் தமிழ்ச்சொல்",
       "options_ta": [
@@ -1500,6 +1571,7 @@
       "unit_name_ta": "இலக்கணம்",
       "topic": "grammar_general",
       "topic_name_ta": "பொது இலக்கணம்",
+      "topic_name_en": "General grammar",
       "difficulty": "medium",
       "question_ta": "'கத்துங் குயிலோசை – சற்றே வந்து\nகாதிற் படவேணும்' – பாரதியார்.\nஇத்தொடரில் இடம்பெற்றுள்ள வழுவமைதியைக் குறிப்பிடுக.",
       "options_ta": [
@@ -1521,6 +1593,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "ethical_lit",
       "topic_name_ta": "அறநூல்கள்",
+      "topic_name_en": "Ethical literature",
       "difficulty": "hard",
       "question_ta": "'மணிமொழிக்கோவை' – இவ்வடைமொழிகளால் (மணி, மொழி, கோவை) குறிக்கப்படும் நூல்கள்",
       "options_ta": [
@@ -1542,6 +1615,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "easy",
       "question_ta": "'பதினெண்' என்றால்",
       "options_ta": [
@@ -1563,6 +1637,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "ethical_lit",
       "topic_name_ta": "அறநூல்கள்",
+      "topic_name_en": "Ethical literature",
       "difficulty": "medium",
       "question_ta": "'இனியவை நாற்பது' பாடலின் ஆசிரியர் யார்?",
       "options_ta": [
@@ -1584,6 +1659,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "medium",
       "question_ta": "'பூவையும் குயில்களும் பொலங்கை வண்டரும்' – இவ்வடியில் 'பூவையும்' என்பது ________ குறிக்கும்.",
       "options_ta": [
@@ -1605,6 +1681,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'உத்தர காண்டம்' எழுதியவர்",
       "options_ta": [
@@ -1626,6 +1703,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "medium",
       "question_ta": "'பாடை மாக்கள்' என அழைக்கப்படுபவர்கள் யாவர்?",
       "options_ta": [
@@ -1647,6 +1725,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "பொருத்துக:\n(a) மணிமேகலை – 1. சேக்கிழார்\n(b) சிலப்பதிகாரம் – 2. சீத்தலைச்சாத்தனார்\n(c) பெரியபுராணம் – 3. பரஞ்சோதி முனிவர்\n(d) திருவிளையாடற் புராணம் – 4. இளங்கோவடிகள்",
       "options_ta": [
@@ -1668,6 +1747,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "'முடிகெழு வேந்தர் மூவர்க்கும் உரியது' – என அழைக்கப்படும் காப்பியம் எது?",
       "options_ta": [
@@ -1689,6 +1769,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "medium",
       "question_ta": "'ஓங்கு தண்பணைசூழ் நீப வனத்தை நீத்து ஒரு போதேனும்' – இவ்வடியில் 'நீப வனம்' என்பது",
       "options_ta": [
@@ -1710,6 +1791,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "பாரதியார் பாடிய பாடல்களுள் ஒன்று",
       "options_ta": [
@@ -1731,6 +1813,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'வாலெங்கே? நீண்டுஎழுந்த வல்லுகி ரெங்கே? நாலு …' எனத் தொடங்கும் இரட்டுறமொழிதல் பாடலின் ஆசிரியர் யார்?",
       "options_ta": [
@@ -1752,6 +1835,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "hard",
       "question_ta": "மனோன்மணீயம் குறித்துச் சரியானதைக் கண்டறிக.\n(I) மனோன்மணீயத்தின் கிளைக்கதை சிவகாமியின் சரிதம்.\n(II) நூலின் தொடக்கத்தில் கடவுள் வாழ்த்துடன் தமிழ்த்தாய் வாழ்த்தும் இடம் பெற்றுள்ளது.\n(III) நூல் முழுவதும் வெண்பாவால் அமைந்தது.",
       "options_ta": [
@@ -1773,6 +1857,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'திருவிருத்தம்' என்ற நூலின் ஆசிரியர்",
       "options_ta": [
@@ -1794,6 +1879,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'திருக்கேதாரப்' பதிகத்தைப் பாடியவர் யார்? (பாடநூல்)",
       "options_ta": [
@@ -1815,6 +1901,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "easy",
       "question_ta": "மார்கழித் திங்களில் திருமால் கோயில்களிலும் வீடுகளிலும் ஓதப்படும் பாடல்",
       "options_ta": [
@@ -1836,6 +1923,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'தமிழ்ப் பெருங்காவலர்' என்ற சிறப்புப் பெயருக்குரியவர் யார்?",
       "options_ta": [
@@ -1857,6 +1945,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "thirukkural",
       "topic_name_ta": "திருக்குறள்",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "'திருக்குறள் மூலத்தை நேரடியாகப் படிக்க விரும்பியே தமிழ் பயிலத் தொடங்கினேன்' – என்று கூறியவர் யார்?",
       "options_ta": [
@@ -1878,6 +1967,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "தமிழக அரசின் பாவேந்தர் நினைவுப் பரிசினைப் பெற்ற முதற்பாவலர்",
       "options_ta": [
@@ -1899,6 +1989,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'பகுத்தறிவுக் கவிராயர்' என்று புகழப்படுபவர் யார்?",
       "options_ta": [
@@ -1920,6 +2011,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "'வாழ்வினில் செம்மையைச் செய்பவள் நீயே' எனும் தமிழ்த்தாய் வாழ்த்துப்பாடலைப் பாடியவர்",
       "options_ta": [
@@ -1941,6 +2033,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "hard",
       "question_ta": "சரியானவற்றைப் பொருத்துக:\n(a) அக்ஷராப்பியாசம் – 1. தாழை மடல்\n(b) வித்தியாப்பியாசம் – 2. கல்விப் பயிற்சி\n(c) வித்தியாரம்பம் – 3. எழுத்துப் பயிற்சி\n(d) சீதாள பத்திரம் – 4. கல்வித் தொடக்கம்",
       "options_ta": [
@@ -1962,6 +2055,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "medium",
       "question_ta": "'எனக்கு வறுமையும் உண்டு; மனைவி மக்களும் உண்டு; அவற்றோடு மானமும் உண்டு' – என்று கூறிய தமிழறிஞர்",
       "options_ta": [
@@ -1983,6 +2077,7 @@
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
       "topic_name_ta": "சொல்லும் பொருளும்",
+      "topic_name_en": "Words & meanings",
       "difficulty": "easy",
       "question_ta": "படைப்பாளன் தன் கருத்துகளை உணர்ச்சிகளோடு வெளிப்படுத்தும் வடிவம்",
       "options_ta": [
@@ -2004,6 +2099,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "tamil_scholars",
       "topic_name_ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு",
+      "topic_name_en": "Tamil scholars & their service",
       "difficulty": "easy",
       "question_ta": "தேர்ந்தெடுத்து எழுதுக: 'மக்கள் கவிஞர்' என்றழைக்கப்படுபவர் ________, 'பகுத்தறிவுக் கவிராயர்' என்றழைக்கப்படுபவர் ________ முறையே,",
       "options_ta": [
@@ -2025,6 +2121,7 @@
       "unit_name_ta": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்",
       "topic": "literature",
       "topic_name_ta": "இலக்கிய வரலாறு & நூல்கள்",
+      "topic_name_en": "History of literature & works",
       "difficulty": "medium",
       "question_ta": "தவறான தொடரைத் தேர்ந்தெடுக்க.",
       "options_ta": [

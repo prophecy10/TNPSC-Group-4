@@ -14,8 +14,8 @@
 <div id="app">
   <header class="app-header">
     <h1>TNPSC குரூப் 4</h1>
-    <p class="tagline">தேர்வுப் பயிற்சி · 2027</p>
-    <div class="lang-toggle" id="lang-top" title="பொது அறிவு & திறனறிவு வினாக்களின் மொழி / Language for GS & Aptitude questions">
+    <p class="tagline" data-en="Exam practice · 2027">தேர்வுப் பயிற்சி · 2027</p>
+    <div class="lang-toggle" id="lang-top" title="மொழி / Language (Part A Tamil questions always stay in Tamil)">
       <button data-lang="ta">த</button><button data-lang="en">En</button>
     </div>
   </header>
@@ -24,26 +24,21 @@
     <!-- Resume banner (shown only if an unfinished test exists) -->
     <div id="resume-banner" style="display:none"></div>
 
-    <div class="lang-row">
-      <span class="lang-row-label">பகுதி ஆ (பொது அறிவு, திறனறிவு) வினா மொழி<br><small>Language for Part B questions</small></span>
-      <div class="lang-toggle wide" id="lang-home"><button data-lang="ta">தமிழ்</button><button data-lang="en">English</button></div>
-    </div>
-
     <div class="mode-grid">
       <button class="mode-card" data-mode="study">
         <span class="mode-icon">📚</span>
-        <span class="mode-title">படிப்பு முறை</span>
-        <span class="mode-sub">தலைப்பு வாரியாக · உடனடி விளக்கம்</span>
+        <span class="mode-title" data-en="Study mode">படிப்பு முறை</span>
+        <span class="mode-sub" data-en="Topic-wise · instant explanation">தலைப்பு வாரியாக · உடனடி விளக்கம்</span>
       </button>
       <button class="mode-card" data-mode="quick">
         <span class="mode-icon">⚡</span>
-        <span class="mode-title">விரைவுத் தேர்வு</span>
-        <span class="mode-sub">25 வினாக்கள் · 22½ நிமிடம் · 37.5 மதிப்பெண்</span>
+        <span class="mode-title" data-en="Quick test">விரைவுத் தேர்வு</span>
+        <span class="mode-sub" data-en="25 questions · 22½ minutes · 37.5 marks">25 வினாக்கள் · 22½ நிமிடம் · 37.5 மதிப்பெண்</span>
       </button>
       <button class="mode-card" data-mode="full">
         <span class="mode-icon">📝</span>
-        <span class="mode-title">முழுத் தேர்வு</span>
-        <span class="mode-sub">200 வினாக்கள் · 3 மணி நேரம் · 300 மதிப்பெண்</span>
+        <span class="mode-title" data-en="Full test">முழுத் தேர்வு</span>
+        <span class="mode-sub" data-en="200 questions · 3 hours · 300 marks">200 வினாக்கள் · 3 மணி நேரம் · 300 மதிப்பெண்</span>
       </button>
     </div>
 
@@ -51,13 +46,13 @@
     <div class="review-grid">
       <button class="review-card" id="review-wrong">
         <span class="rev-icon">🔁</span>
-        <span class="rev-title">தவறுகள் மீள்பார்வை</span>
-        <span class="rev-count"><span id="review-wrong-count">0</span> வினா</span>
+        <span class="rev-title" data-en="Practise mistakes">தவறுகள் மீள்பார்வை</span>
+        <span class="rev-count"><span id="review-wrong-count">0</span> <span data-en="questions">வினா</span></span>
       </button>
       <button class="review-card" id="review-marks">
         <span class="rev-icon">★</span>
-        <span class="rev-title">அடையாளமிட்டவை</span>
-        <span class="rev-count"><span id="review-mark-count">0</span> வினா</span>
+        <span class="rev-title" data-en="Bookmarks">அடையாளமிட்டவை</span>
+        <span class="rev-count"><span id="review-mark-count">0</span> <span data-en="questions">வினா</span></span>
       </button>
     </div>
 
@@ -65,24 +60,23 @@
     <section id="dashboard" class="dashboard"></section>
 
     <section class="history-section">
-      <h2>📊 முந்தைய மதிப்பெண்கள்</h2>
+      <h2 data-en="📊 Previous scores">📊 முந்தைய மதிப்பெண்கள்</h2>
       <div id="history-list" class="history-list">
-        <p class="empty-note">இதுவரை தேர்வுகள் எதுவும் முடிக்கப்படவில்லை.</p>
-      </div>
+        </div>
     </section>
   </main>
 
   <!-- Study: topic picker -->
   <section id="topic-picker" class="screen">
-    <button class="back-btn" data-back="home">← முகப்பு</button>
-    <h2>தலைப்பைத் தேர்ந்தெடுக்கவும்</h2>
+    <button class="back-btn" data-back="home" data-en="← Home">← முகப்பு</button>
+    <h2 data-en="Choose a topic">தலைப்பைத் தேர்ந்தெடுக்கவும்</h2>
     <div id="topic-list" class="topic-list"></div>
   </section>
 
   <!-- Quiz runner -->
   <section id="quiz" class="screen">
     <div class="quiz-topbar">
-      <button class="back-btn" id="quiz-exit">← வெளியேறு</button>
+      <button class="back-btn" id="quiz-exit" data-en="← Exit">← வெளியேறு</button>
       <div class="progress-wrap"><div id="progress-bar" class="progress-bar"></div></div>
       <span id="timer" class="timer" style="display:none"></span>
       <span id="q-counter" class="q-counter">1 / 25</span>
@@ -96,8 +90,8 @@
     <div id="score-card" class="score-card"></div>
     <div id="explanations" class="explanations"></div>
     <div class="score-actions">
-      <button class="btn-ghost" id="back-topics" style="display:none">📚 தலைப்புகள்</button>
-      <button class="btn-primary" data-back="home">🏠 முகப்பு</button>
+      <button class="btn-ghost" id="back-topics" style="display:none" data-en="📚 Topics">📚 தலைப்புகள்</button>
+      <button class="btn-primary" data-back="home" data-en="🏠 Home">🏠 முகப்பு</button>
     </div>
   </section>
 </div>
