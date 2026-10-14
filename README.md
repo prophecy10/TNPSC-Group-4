@@ -1,40 +1,75 @@
-# TNPSC குரூப் 4 — தேர்வுப் பயிற்சி (Quiz App)
+# TNPSC குரூப் 4 — தேர்வுப் பயிற்சி
 
-**▶ Open the site: https://prophecy10.github.io/TNPSC-Group-4/** (works on phone and desktop, no sign-up)
+**▶ Open the site: https://prophecy10.github.io/TNPSC-Group-4/**
 
-Contributions are welcome: new questions, corrections and app improvements. See [CONTRIBUTING.md](CONTRIBUTING.md).
+A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on phone and desktop, with no sign-up and no ads.
 
-A mobile-friendly, fully client-side quiz site for the TNPSC Group 4 exam (CCSE-IV, Notification 11/2026, exam on 10 Jan 2027).
-All questions are in Tamil. Progress is stored only in the browser (localStorage). There is no backend and no tracking.
+- Built for **Notification 11/2026** (exam on **10 January 2027**), following its official syllabus.
+- **799 questions, all in Tamil.** Each has a detailed explanation of why the answer is right and why the other options are wrong.
+- Your progress stays only in your own browser. Nothing is uploaded and nothing is tracked.
 
-## Features
-- **படிப்பு முறை (Study):** pick a topic and answer one question at a time. You see right or wrong straight away, with a detailed Tamil explanation. A session is up to 25 questions.
-- **விரைவுத் தேர்வு (Quick Test):** 25 questions weighted to the syllabus, with 22½ minutes on the clock.
-- **முழுத் தேர்வு (Full Test):** a 200-question mock exam with the real pattern: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown that auto-submits**.
-- **Exam-style scoring:** 1.5 marks per question, **out of 300**, with marks for each part and the **Part A (Tamil) qualifying check of 40%, i.e. 60/150**. Below that, Parts B and C are not evaluated in the real exam.
-- **Answer review:** for every question you see your answer, the correct answer and the explanation. You can filter to only the wrong or skipped ones.
-- **Also included:** resume an unfinished test, practise your mistakes, bookmarks, a weak-area dashboard, and score history.
+> This project was built with **[Claude Code](https://claude.com/claude-code)** (Anthropic's AI coding assistant), guided and reviewed by the repo owner. That covers the app, the transcription of past papers, the new questions, and the answer checking.
 
-## Question bank (799 questions)
-| File | Source |
+---
+
+## Sections of the site
+
+| Section | What it does |
 |---|---|
-| `data/gen_pyq_2024.json`, `gen_pyq_2025.json`, `gen_pyq_2022.json` | Past TNPSC Group 4 papers. Each ticked answer was re-verified, and wrong ticks or misprints were corrected with a note. |
-| `data/gen_new.json` | New questions written from the Samacheer textbooks and the official syllabus. Facts were cross-checked and every maths answer was recomputed. |
-| `data/general_studies.json`, `data/aptitude.json` | Starter questions |
+| 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. |
+| ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
+| 📝 **முழுத் தேர்வு (Full Test)** | A full **200-question mock exam**: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown** and submits automatically when time runs out. You can skip a question and come back to it. |
+| 🏆 **Score page** | Marks **out of 300** (1.5 per question), shown separately for each part. It also checks the **Part A Tamil pass mark (60/150)**: in the real exam, Parts B and C are only marked if you clear it. |
+| 🔍 **விடைகள் மீள்பார்வை (Answer review)** | Every question with your answer, the correct answer and the explanation. A filter shows only the wrong or skipped ones. |
+| 🔁 **தவறுகள் மீள்பார்வை (Practise mistakes)** | Re-attempt the questions you got wrong. A question leaves this list once you answer it correctly. |
+| ★ **அடையாளமிட்டவை (Bookmarks)** | Tap ☆ on any question to save it for revision. |
+| 🎯 **பலவீனப் பகுதிகள் (Weak areas)** | Your accuracy for each topic, weakest first, so you know what to study next. |
+| 📊 **முந்தைய மதிப்பெண்கள் (History)** | Your past test scores with date and time taken. An unfinished test can be **resumed**. |
 
-Past-paper questions that could not be made reliable are listed in `HELD_BACK.md` and are **not** in the app.
+---
 
-### Adding or editing questions
-Questions are written in a short format in `tools/staging/*.json`. To rebuild and check the bank, run:
+## Where the questions come from
 
-```bash
-python tools/build_bank.py
-```
+| Source | Used for |
+|---|---|
+| **TNPSC Notification 11/2026, Annexure III (syllabus)** | Units, topics and question weightage (Tamil 100 · GS 75 · Aptitude 25) |
+| **TNPSC Group 4 question papers: 2022, 2024, 2025** | Past questions, transcribed and with **every answer independently re-checked**. Where the official key or the printed question was wrong, it has been corrected and a note added in the explanation. |
+| **Samacheer Kalvi (Tamil Nadu State Board) textbooks, Classes 6–12, Tamil and English medium** | New questions on geography, polity, economics, history, science and Tamil grammar, with facts cross-checked against the textbook text |
+| **Topic-wise TNPSC study material** and **"where to study" guides** | Checking that the syllabus is fully covered |
+| **Official and reliable websites** (government portals, PRS, ISRO and Election Commission information, major newspapers) | Current affairs and recent schemes. These questions are marked as time-sensitive. |
 
-The script writes `data/gen_*.json` and validates the whole bank: exactly 4 options, a valid answer, unique IDs, topics from `data/_taxonomy.json`, and no garbled text. It also prints coverage for each syllabus unit.
+All aptitude and reasoning answers were **recalculated by computer**, not copied from answer keys.
 
-## Running locally
-The app loads its questions with `fetch()`, so opening `index.html` directly does not work. Serve the folder instead:
+> ⚠️ Current-affairs questions (marked `is_current_affairs` in the data) can go out of date. Please recheck them before the exam.
+
+---
+
+## How to contribute
+
+Contributions are very welcome, whether that's new questions, corrections or app improvements.
+
+### Found a wrong answer or a typo?
+[Open an issue](https://github.com/prophecy10/TNPSC-Group-4/issues) and include:
+- the question text, or its ID (for example `PYQ-2024-GS-148`; IDs are in `data/gen_*.json`)
+- what is wrong
+- a **source**, such as a Samacheer textbook class and chapter, an official notification or a reliable website
+
+### Want to add questions?
+1. Fork this repo.
+2. Add your questions to a file in `tools/staging/` in the short format described in [CONTRIBUTING.md](CONTRIBUTING.md): question, 4 options, answer, Tamil explanation and source.
+3. Run `python tools/build_bank.py`. It builds the question files and checks every question for mistakes such as wrong option counts, duplicate IDs, unknown topics or garbled Tamil.
+4. Test locally (see below), then open a pull request.
+
+**The one rule: accuracy first.** Every fact needs a source, and every maths answer must be recalculated. If a question could have two correct answers, rewrite it or leave it out. Full guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Want to improve the app?
+It's plain HTML, CSS and JavaScript with no build step. Please keep it mobile-friendly and free of tracking.
+
+---
+
+## Run it on your computer
+
+The app loads its questions with `fetch()`, so opening `index.html` directly won't work. Serve the folder instead:
 
 ```bash
 python -m http.server 8000
@@ -42,27 +77,18 @@ python -m http.server 8000
 
 Then open http://localhost:8000.
 
-## Contributing
-- **Found a wrong answer?** [Open an issue](https://github.com/prophecy10/TNPSC-Group-4/issues) with the question ID (shown in `data/gen_*.json`) and a source.
-- **Want to add questions?** Write them in `tools/staging/`, then run `python tools/build_bank.py` and open a pull request.
-
-Full guide, question format and accuracy rules: [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Project structure
+
 ```
-TNPSC-Quiz/
-├── index.html, css/, js/       # the app (static, no build step)
+├── index.html, css/, js/     # the website (static, no build step)
 ├── data/
-│   ├── gen_*.json              # generated question files (do not edit by hand)
-│   ├── _taxonomy.json          # allowed topics per syllabus unit
-│   ├── _coverage.json          # question count vs target per unit
-│   └── manifest.json           # list of files the app loads
+│   ├── gen_*.json            # question files used by the site (generated, do not edit by hand)
+│   ├── _taxonomy.json        # syllabus units and allowed topics
+│   └── _coverage.json        # questions per unit vs target
 ├── tools/
-│   ├── build_bank.py           # build + validate the bank
-│   └── staging/*.json          # editable question sources
-├── HELD_BACK.md                # past-paper questions left out, with reasons
-└── CONTRIBUTING.md
+│   ├── build_bank.py         # builds and validates the question bank
+│   └── staging/*.json        # editable question sources: add questions here
+└── CONTRIBUTING.md           # detailed contribution guide
 ```
 
-## Hosting
-The site is served by GitHub Pages from the `main` branch root (`.nojekyll` is included).
+The site is hosted on GitHub Pages from the `main` branch.
