@@ -92,3 +92,11 @@ Then open http://localhost:8000.
 ```
 
 The site is hosted on GitHub Pages from the `main` branch.
+
+## License
+
+- **Code** (HTML, CSS, JavaScript, Python tools): [MIT License](LICENSE).
+- **Questions and explanations** (`data/`, `tools/staging/`): [CC BY-SA 4.0](LICENSE-CONTENT). You can reuse and adapt them with credit to this repo, and must share your changes under the same license.
+- **Past-paper questions** (`PYQ-` IDs) are based on TNPSC question papers. TNPSC's original wording remains its own and is used here for educational practice. See [LICENSE-CONTENT](LICENSE-CONTENT).
+
+By contributing, you agree that your code is released under MIT and your questions under CC BY-SA 4.0.

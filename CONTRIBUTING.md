@@ -68,3 +68,6 @@ Explain which units you added to and the sources you used.
 - Keep it a static site, so GitHub Pages can serve it without a build step.
 - Store progress in `localStorage` only. No tracking, no backend.
 - Check the layout on a phone-sized screen before submitting.
+
+## License
+By contributing, you agree that code changes are released under the [MIT License](LICENSE) and questions/explanations under [CC BY-SA 4.0](LICENSE-CONTENT).
