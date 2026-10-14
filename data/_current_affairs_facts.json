@@ -1,0 +1,22 @@
+{
+  "note": "VERIFIED current-affairs anchor facts (as of 2026-10-13) for generating accurate TN current-affairs questions. Sources: Wikipedia, The Hindu, Indian Express (Oct 2026). Re-verify before each exam cycle.",
+  "tamil_nadu_government_2026": {
+    "election": "2026 TN Legislative Assembly election — polled 23 April 2026, results 4 May 2026",
+    "result": "Hung assembly; TVK single largest party with 108 seats (majority mark 118)",
+    "vote_share": {"TVK": "34.92%", "DMK+": "31.39%", "AIADMK+": "27.22%"},
+    "seats": {"TVK": 108, "DMK": 59, "AIADMK": 47, "INC": 5, "BJP": 1},
+    "chief_minister": "C. Joseph Vijay (Thalapathy Vijay), TVK — sworn in 10 May 2026; first non-Dravidian govt since 1967",
+    "cm_constituency": "Perambur (resigned Tiruchirappalli East, retained Perambur)",
+    "floor_test": "Won with 144 MLAs backing TVK-led post-poll coalition",
+    "coalition": "TVK + INC + IUML + VCK + CPI + CPI(M) support",
+    "governor": "Rajendra Vishwanath Arlekar (full-time Governor of TN from 12 Oct 2026; earlier additional charge from 12 Mar 2026)",
+    "opposition_party": "DMK",
+    "opposition_leader": "Udhayanidhi Stalin",
+    "assembly": "17th Tamil Nadu Legislative Assembly (constituted May 2026)",
+    "total_seats": 234
+  },
+  "national_2026": {
+    "president_of_india": "Droupadi Murmu"
+  },
+  "usage_guidance": "Only create current-affairs questions from facts listed here. Tag them is_current_affairs:true, topic:'current_affairs', source_hint:'current_affairs_2026'. Do NOT invent dates, portfolios, or figures not present above."
+}

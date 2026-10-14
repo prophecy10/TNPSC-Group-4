@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#0b7285">
+<title>TNPSC குரூப் 4 — பயிற்சி</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+  <header class="app-header">
+    <h1>TNPSC குரூப் 4</h1>
+    <p class="tagline">தேர்வுப் பயிற்சி · 2027</p>
+  </header>
+
+  <main id="home" class="screen active">
+    <!-- Resume banner (shown only if an unfinished test exists) -->
+    <div id="resume-banner" style="display:none"></div>
+
+    <div class="mode-grid">
+      <button class="mode-card" data-mode="study">
+        <span class="mode-icon">📚</span>
+        <span class="mode-title">படிப்பு முறை</span>
+        <span class="mode-sub">தலைப்பு வாரியாக · உடனடி விளக்கம்</span>
+      </button>
+      <button class="mode-card" data-mode="quick">
+        <span class="mode-icon">⚡</span>
+        <span class="mode-title">விரைவுத் தேர்வு</span>
+        <span class="mode-sub">25 வினாக்கள் · 22½ நிமிடம் · 37.5 மதிப்பெண்</span>
+      </button>
+      <button class="mode-card" data-mode="full">
+        <span class="mode-icon">📝</span>
+        <span class="mode-title">முழுத் தேர்வு</span>
+        <span class="mode-sub">200 வினாக்கள் · 3 மணி நேரம் · 300 மதிப்பெண்</span>
+      </button>
+    </div>
+
+    <!-- Review row -->
+    <div class="review-grid">
+      <button class="review-card" id="review-wrong">
+        <span class="rev-icon">🔁</span>
+        <span class="rev-title">தவறுகள் மீள்பார்வை</span>
+        <span class="rev-count"><span id="review-wrong-count">0</span> வினா</span>
+      </button>
+      <button class="review-card" id="review-marks">
+        <span class="rev-icon">★</span>
+        <span class="rev-title">அடையாளமிட்டவை</span>
+        <span class="rev-count"><span id="review-mark-count">0</span> வினா</span>
+      </button>
+    </div>
+
+    <!-- Weak-area dashboard (shown once there are stats) -->
+    <section id="dashboard" class="dashboard"></section>
+
+    <section class="history-section">
+      <h2>📊 முந்தைய மதிப்பெண்கள்</h2>
+      <div id="history-list" class="history-list">
+        <p class="empty-note">இதுவரை தேர்வுகள் எதுவும் முடிக்கப்படவில்லை.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Study: topic picker -->
+  <section id="topic-picker" class="screen">
+    <button class="back-btn" data-back="home">← முகப்பு</button>
+    <h2>தலைப்பைத் தேர்ந்தெடுக்கவும்</h2>
+    <div id="topic-list" class="topic-list"></div>
+  </section>
+
+  <!-- Quiz runner -->
+  <section id="quiz" class="screen">
+    <div class="quiz-topbar">
+      <button class="back-btn" data-back="home">← வெளியேறு</button>
+      <div class="progress-wrap"><div id="progress-bar" class="progress-bar"></div></div>
+      <span id="timer" class="timer" style="display:none"></span>
+      <span id="q-counter" class="q-counter">1 / 25</span>
+    </div>
+    <div id="question-area" class="question-area"></div>
+    <div id="quiz-footer" class="quiz-footer"></div>
+  </section>
+
+  <!-- Score -->
+  <section id="score" class="screen">
+    <div id="score-card" class="score-card"></div>
+    <div id="explanations" class="explanations"></div>
+    <div class="score-actions">
+      <button class="btn-primary" data-back="home">🏠 முகப்பு</button>
+    </div>
+  </section>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/quiz.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

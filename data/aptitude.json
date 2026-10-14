@@ -1,0 +1,118 @@
+{
+  "subject": "aptitude",
+  "part": "C",
+  "unit_names_ta": {
+    "1": "திறனறிவு (Aptitude)",
+    "2": "மன ஆற்றல் / நுண்ணறிவு (Mental Ability / Reasoning)"
+  },
+  "questions": [
+    {
+      "id": "AP-U1-0001", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "simplification", "topic_name_ta": "எளிமையாக்கல்", "difficulty": "easy",
+      "question_ta": "12 + 8 × 3 − 4 இன் மதிப்பு என்ன?",
+      "options_ta": ["60", "32", "56", "28"],
+      "answer_index": 1,
+      "explanation_ta": "BODMAS விதிப்படி பெருக்கல் முதலில்: 8 × 3 = 24. பிறகு 12 + 24 − 4 = 32. எனவே சரியான விடை 32. மற்ற விடைகள் செயல்வரிசையை தவறாகப் பயன்படுத்தினால் (எ.கா. இடமிருந்து வலமாக கூட்டி 60) கிடைக்கும் தவறான மதிப்புகள்.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0002", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "percentage", "topic_name_ta": "விழுக்காடு", "difficulty": "easy",
+      "question_ta": "200 இன் 25% எவ்வளவு?",
+      "options_ta": ["25", "40", "50", "75"],
+      "answer_index": 2,
+      "explanation_ta": "25% என்பது 25/100 = 1/4. 200 × 1/4 = 50. எனவே விடை 50. 50 என்பது பாதி (50%); 25 என்பது விழுக்காட்டை நேரடியாக எடுத்த தவறு.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0003", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "hcf_lcm", "topic_name_ta": "மீ.பொ.வ / மீ.பொ.ம", "difficulty": "medium",
+      "question_ta": "12 மற்றும் 18 இன் மீப்பெரு பொது வகுத்தி (HCF) என்ன?",
+      "options_ta": ["3", "6", "12", "36"],
+      "answer_index": 1,
+      "explanation_ta": "12 = 2×2×3, 18 = 2×3×3. பொதுவான காரணிகள் 2 மற்றும் 3 → HCF = 2×3 = 6. 36 என்பது மீ.பொ.ம (LCM), HCF அல்ல.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0004", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "ratio_proportion", "topic_name_ta": "விகிதம் & விகிதசமம்", "difficulty": "medium",
+      "question_ta": "ஒரு தொகையை 2:3 என்ற விகிதத்தில் பிரித்தால், மொத்தம் ₹500 எனில் பெரிய பங்கு எவ்வளவு?",
+      "options_ta": ["₹200", "₹250", "₹300", "₹350"],
+      "answer_index": 2,
+      "explanation_ta": "மொத்த பங்குகள் = 2+3 = 5. ஒரு பங்கின் மதிப்பு = 500/5 = ₹100. பெரிய பங்கு = 3 × 100 = ₹300. சிறிய பங்கு = 2 × 100 = ₹200.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0005", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "simple_interest", "topic_name_ta": "தனி வட்டி", "difficulty": "medium",
+      "question_ta": "₹1000-க்கு ஆண்டுக்கு 10% வட்டி வீதத்தில் 2 ஆண்டுகளுக்கு தனி வட்டி எவ்வளவு?",
+      "options_ta": ["₹100", "₹200", "₹210", "₹1200"],
+      "answer_index": 1,
+      "explanation_ta": "தனி வட்டி = (P × R × T) / 100 = (1000 × 10 × 2)/100 = ₹200. ₹210 என்பது கூட்டு வட்டி; ₹1200 என்பது மொத்தத் தொகை (அசல்+வட்டி).",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0006", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "area_volume", "topic_name_ta": "பரப்பு & கன அளவு", "difficulty": "easy",
+      "question_ta": "பக்க அளவு 5 செ.மீ உள்ள சதுரத்தின் பரப்பளவு என்ன?",
+      "options_ta": ["10 ச.செ.மீ", "20 ச.செ.மீ", "25 ச.செ.மீ", "30 ச.செ.மீ"],
+      "answer_index": 2,
+      "explanation_ta": "சதுரத்தின் பரப்பு = பக்கம் × பக்கம் = 5 × 5 = 25 ச.செ.மீ. 20 என்பது சுற்றளவு (4×5); அதைப் பரப்போடு குழப்பக்கூடாது.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0007", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "time_work", "topic_name_ta": "காலமும் வேலையும்", "difficulty": "hard",
+      "question_ta": "A ஒரு வேலையை 10 நாளிலும், B அதே வேலையை 15 நாளிலும் முடிப்பர். இருவரும் சேர்ந்து எத்தனை நாளில் முடிப்பர்?",
+      "options_ta": ["5 நாள்", "6 நாள்", "12 நாள்", "25 நாள்"],
+      "answer_index": 1,
+      "explanation_ta": "A ஒரு நாளில் 1/10, B ஒரு நாளில் 1/15 வேலை செய்வர். சேர்ந்து = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. எனவே 6 நாளில் முடிப்பர். 25 என்பது 10+15 என்று தவறாகக் கூட்டியது.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U1-0008", "part": "C", "subject": "aptitude", "unit": "1", "unit_name_ta": "திறனறிவு",
+      "topic": "average", "topic_name_ta": "சராசரி", "difficulty": "easy",
+      "question_ta": "10, 20, 30 ஆகியவற்றின் சராசரி என்ன?",
+      "options_ta": ["15", "20", "25", "60"],
+      "answer_index": 1,
+      "explanation_ta": "சராசரி = கூட்டுத்தொகை / எண்ணிக்கை = (10+20+30)/3 = 60/3 = 20. 60 என்பது கூட்டுத்தொகை மட்டுமே.",
+      "source_hint": "SSLC Maths", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U2-0001", "part": "C", "subject": "aptitude", "unit": "2", "unit_name_ta": "மன ஆற்றல்",
+      "topic": "number_series", "topic_name_ta": "எண் தொடர்", "difficulty": "easy",
+      "question_ta": "2, 4, 8, 16, ? — அடுத்த எண் எது?",
+      "options_ta": ["20", "24", "32", "64"],
+      "answer_index": 2,
+      "explanation_ta": "ஒவ்வொரு எண்ணும் முந்தையதை 2 ஆல் பெருக்கிக் கிடைக்கிறது (×2 தொடர்). 16 × 2 = 32. 20, 24 என்பவை கூட்டல் முறையை தவறாக ஊகித்தது.",
+      "source_hint": "Reasoning", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U2-0002", "part": "C", "subject": "aptitude", "unit": "2", "unit_name_ta": "மன ஆற்றல்",
+      "topic": "coding_decoding", "topic_name_ta": "குறியீடு", "difficulty": "medium",
+      "question_ta": "ஒரு குறியீட்டில் CAT = 3,1,20 எனில் அது எழுத்துகளின் வரிசை எண்ணைக் குறிக்கிறது. DOG என்பதன் குறியீடு என்ன?",
+      "options_ta": ["4,15,7", "4,14,7", "3,15,7", "4,15,8"],
+      "answer_index": 0,
+      "explanation_ta": "ஒவ்வொரு எழுத்தும் அகரவரிசையில் அதன் நிலை எண்ணால் குறிக்கப்படுகிறது: D=4, O=15, G=7 → 4,15,7. மற்ற விடைகள் ஏதேனும் ஓர் எழுத்தின் நிலையைத் தவறாகக் கணக்கிட்டவை.",
+      "source_hint": "Reasoning", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U2-0003", "part": "C", "subject": "aptitude", "unit": "2", "unit_name_ta": "மன ஆற்றல்",
+      "topic": "blood_relation", "topic_name_ta": "இரத்த உறவு", "difficulty": "medium",
+      "question_ta": "ஒருவரைச் சுட்டி 'அவர் என் தந்தையின் மகன்' என்று ஒரு ஆண் கூறினால், அவருக்கு அந்த நபர் யார்? (தனக்கு சகோதரர் மட்டுமே உள்ளார் எனக் கொள்க)",
+      "options_ta": ["தந்தை", "மகன்", "சகோதரர்", "தானே"],
+      "answer_index": 2,
+      "explanation_ta": "'என் தந்தையின் மகன்' என்பது பேசுபவரின் சகோதரரையோ அல்லது தன்னையோ குறிக்கும். இங்கு வேறொருவரைச் சுட்டுவதால், அது அவரது சகோதரர். (தன்னையே குறித்தால் 'சுட்டுதல்' பொருந்தாது.)",
+      "source_hint": "Reasoning", "is_current_affairs": false
+    },
+    {
+      "id": "AP-U2-0004", "part": "C", "subject": "aptitude", "unit": "2", "unit_name_ta": "மன ஆற்றல்",
+      "topic": "odd_one_out", "topic_name_ta": "பொருந்தாதது", "difficulty": "easy",
+      "question_ta": "பின்வருவனவற்றுள் பொருந்தாதது எது?",
+      "options_ta": ["ரோஜா", "மல்லிகை", "தாமரை", "மாம்பழம்"],
+      "answer_index": 3,
+      "explanation_ta": "ரோஜா, மல்லிகை, தாமரை ஆகியவை பூக்கள்; மாம்பழம் ஒரு பழம். எனவே பொருந்தாதது மாம்பழம்.",
+      "source_hint": "Reasoning", "is_current_affairs": false
+    }
+  ]
+}

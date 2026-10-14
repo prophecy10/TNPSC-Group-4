@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "description": "TNPSC Group 4 (CCSE-IV, Notification 11/2026) question bank. Tamil only. Each question object conforms to the shape below.",
+  "exam": {
+    "name": "TNPSC Combined Civil Services Examination - IV (Group IV Services)",
+    "notification": "11/2026",
+    "exam_date": "2027-01-10",
+    "total_questions": 200,
+    "standard": "SSLC",
+    "negative_marking": false
+  },
+  "question_shape": {
+    "id": "unique string id, e.g. TA-U1-0001",
+    "part": "A | B | C",
+    "subject": "tamil | general_studies | aptitude",
+    "unit": "unit number as string, matching syllabus",
+    "unit_name_ta": "Tamil name of the unit",
+    "topic": "machine tag (snake_case english) for easy filtering",
+    "topic_name_ta": "Tamil display name of the topic",
+    "difficulty": "easy | medium | hard",
+    "question_ta": "the question text in Tamil",
+    "options_ta": ["option A", "option B", "option C", "option D"],
+    "answer_index": "0-based index of correct option (0-3)",
+    "explanation_ta": "detailed explanation: why the answer is correct and, where applicable, why others are wrong",
+    "source_hint": "optional: textbook/standard or 'current_affairs_2026'",
+    "is_current_affairs": "boolean - true if time-sensitive (verify before each exam cycle)"
+  },
+  "weightage_full_test_200": {
+    "A_tamil": {"total": 100, "units": {"1": 25, "2": 15, "3": 15, "4": 10, "5": 15, "6": 5, "7": 15}},
+    "B_general_studies": {"total": 75, "units": {"1": 5, "2": 5, "3": 10, "4": 15, "5": 20, "6": 20}},
+    "C_aptitude": {"total": 25, "units": {"1_aptitude": 15, "2_reasoning": 10}}
+  },
+  "weightage_quick_test_25": {
+    "A_tamil": 12,
+    "B_general_studies": 9,
+    "C_aptitude": 4,
+    "note": "Proportional 1/8 scale of the full 200-question weightage. App should sample per-unit proportionally."
+  },
+  "files": {
+    "tamil.json": "Part A - Tamil questions (Units 1-7)",
+    "general_studies.json": "Part B - General Studies questions (Units 1-6)",
+    "aptitude.json": "Part C - Aptitude & Mental Ability questions (Units 1-2)"
+  }
+}

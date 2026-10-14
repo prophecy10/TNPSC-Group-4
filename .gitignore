@@ -1,0 +1,10 @@
+# Old drafts and notes from earlier tooling (not part of the site)
+.versions/
+PENDING_WORK_PROMPT.md
+
+# Local tooling / OS clutter
+.claude/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store

@@ -1,0 +1,99 @@
+{
+  "note": "Syllabus coverage tracker. target = minimum questions wanted per unit for good coverage (roughly 4x exam weightage so the bank can serve varied tests). Update 'have' by re-counting the data files.",
+  "tamil": {
+    "1": {
+      "name_ta": "இலக்கணம்",
+      "weight": 25,
+      "target": 80,
+      "have": 79
+    },
+    "2": {
+      "name_ta": "சொல்லகராதி",
+      "weight": 15,
+      "target": 50,
+      "have": 47
+    },
+    "3": {
+      "name_ta": "எழுத்தும் திறனும்",
+      "weight": 15,
+      "target": 50,
+      "have": 36
+    },
+    "4": {
+      "name_ta": "கலைச் சொற்கள்",
+      "weight": 10,
+      "target": 35,
+      "have": 33
+    },
+    "5": {
+      "name_ta": "வாசித்தல்-புரிதல்",
+      "weight": 15,
+      "target": 40,
+      "have": 40
+    },
+    "6": {
+      "name_ta": "எளிய மொழிபெயர்ப்பு",
+      "weight": 5,
+      "target": 20,
+      "have": 20
+    },
+    "7": {
+      "name_ta": "இலக்கியம்/அறிஞர்கள்",
+      "weight": 15,
+      "target": 60,
+      "have": 118
+    }
+  },
+  "general_studies": {
+    "1": {
+      "name_ta": "பொது அறிவியல்",
+      "weight": 5,
+      "target": 40,
+      "have": 44
+    },
+    "2": {
+      "name_ta": "புவியியல்",
+      "weight": 5,
+      "target": 40,
+      "have": 33
+    },
+    "3": {
+      "name_ta": "இந்திய வரலாறு & தேசிய இயக்கம்",
+      "weight": 10,
+      "target": 50,
+      "have": 52
+    },
+    "4": {
+      "name_ta": "இந்திய அரசியலமைப்பு",
+      "weight": 15,
+      "target": 70,
+      "have": 55
+    },
+    "5": {
+      "name_ta": "இந்தியப் பொருளாதாரம் & TN வளர்ச்சி",
+      "weight": 20,
+      "target": 80,
+      "have": 79
+    },
+    "6": {
+      "name_ta": "TN வரலாறு/பண்பாடு/இயக்கங்கள் + நடப்பு",
+      "weight": 20,
+      "target": 80,
+      "have": 60
+    }
+  },
+  "aptitude": {
+    "1": {
+      "name_ta": "திறனறிவு",
+      "weight": 15,
+      "target": 60,
+      "have": 62
+    },
+    "2": {
+      "name_ta": "மன ஆற்றல்/நுண்ணறிவு",
+      "weight": 10,
+      "target": 40,
+      "have": 41
+    }
+  }
+}
