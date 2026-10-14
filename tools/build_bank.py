@@ -64,7 +64,7 @@ def build_paper(paper, files):
                 "question_ta": e["q"].strip(), "options_ta": [o.strip() for o in e["o"]],
                 "answer_index": e["a"], "explanation_ta": e["e"].strip(),
                 "source_hint": f"TNPSC குரூப் 4 – {year} வினாத்தாள், வினா {n}" if is_pyq
-                               else e.get("src", "சமச்சீர் பாடநூல் / பாடத்திட்டம் அடிப்படையில் புதிய வினா"),
+                               else e["src"],
                 "is_current_affairs": bool(e.get("ca", False)),
             })
     out.sort(key=lambda q: int(q["id"].rsplit("-", 1)[1]))
