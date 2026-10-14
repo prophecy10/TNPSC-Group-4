@@ -1,0 +1,519 @@
+{
+ "PYQ-2024-GS-152": {
+  "q": "Choose the correct pairs:\n1. Phenolphthalein – colourless in acidic medium, pink in basic medium\n2. Methyl orange – pink in basic medium, yellow in acidic medium\n3. Red litmus paper – turns blue in basic medium\n4. Blue litmus paper – turns red in basic medium",
+  "o": [
+   "1 and 2 are correct",
+   "1 and 3 are correct",
+   "2 and 3 are correct",
+   "3 and 4 are correct"
+  ],
+  "e": "1 Correct — phenolphthalein is colourless in acid and pink in base. 2 Wrong — methyl orange is pink/red in acid and yellow in base (the statement is reversed). 3 Correct — a base turns red litmus blue. 4 Wrong — blue litmus turns red only in an acid.",
+  "h": "2a9a06ea160f"
+ },
+ "PYQ-2024-GS-153": {
+  "q": "It was recently found that a fungus that causes disease in plants infected a human. Which fungus was it?",
+  "o": [
+   "Plasmodiophora brassicae",
+   "Chondrostereum purpureum",
+   "Taphrina deformans",
+   "Puccinia graminis var. tritici"
+  ],
+  "e": "Chondrostereum purpureum, which causes 'silver leaf disease' in plants, infected a man in Kolkata in 2023 — the first recorded case of a plant fungus infecting a human. The others are only plant pathogens (cabbage club root, peach leaf curl, wheat rust).",
+  "h": "d39f97d2f11e"
+ },
+ "PYQ-2024-GS-154": {
+  "q": "The swamp deer (Barasingha) is the state animal of which state?",
+  "o": [
+   "Maharashtra",
+   "Madhya Pradesh",
+   "Kerala",
+   "Gujarat"
+  ],
+  "e": "The swamp deer (Barasingha) is the state animal of Madhya Pradesh; its 'hard-ground' subspecies is protected in Kanha National Park there. Maharashtra's state animal is the Indian giant squirrel (Shekru); Kerala – elephant; Gujarat – Asiatic lion. (Note: the 2024 paper marked 'Maharashtra', which is wrong; this question has been set with the correct answer.)",
+  "h": "efcb3d0697c0"
+ },
+ "PYQ-2024-GS-155": {
+  "q": "In which country was the 49th G7 summit (2023) held?",
+  "o": [
+   "USA",
+   "South Africa",
+   "Brazil",
+   "Japan"
+  ],
+  "e": "The 49th G7 summit was held at Hiroshima, Japan, on 19–21 May 2023. South Africa and Brazil are not G7 members.",
+  "h": "8061b042476e"
+ },
+ "PYQ-2024-GS-156": {
+  "q": "Choose the correct statements:\n(i) The Government of India enacted the Wildlife Protection Act in 1972.\n(ii) Project Tiger was launched in April 1974.\n(iii) The Government of India has set up 16 biosphere reserves.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "(i) Correct — Wildlife Protection Act, 1972. (ii) Wrong — Project Tiger was launched on 1 April 1973. (iii) Wrong — India has 18 biosphere reserves.",
+  "h": "9bc933cea14a"
+ },
+ "PYQ-2024-GS-157": {
+  "q": "To prevent elephant accidents on railway tracks, Indian Railways has introduced an advanced AI-based system called ________.",
+  "o": [
+   "Hathi Port",
+   "Radio Galaxy",
+   "Gajraj Suraksha",
+   "Geoglyph Saver"
+  ],
+  "e": "'Gajraj Suraksha' is an Indian Railways system that uses optical-fibre sensors and artificial intelligence to detect elephant movement near tracks and alert loco pilots (first implemented in the Northeast Frontier Railway).",
+  "h": "27c9c8fb2dec"
+ },
+ "PYQ-2024-GS-159": {
+  "q": "Who started the mass celebration of Raksha Bandhan during the Partition of Bengal?",
+  "o": [
+   "M.K. Gandhi",
+   "Jawaharlal Nehru",
+   "Surendranath Banerjee",
+   "Rabindranath Tagore"
+  ],
+  "e": "On 16 October 1905, the day the Partition of Bengal came into effect, Rabindranath Tagore started a mass Raksha Bandhan in which people tied rakhis on one another as a symbol of Hindu–Muslim unity. The day was observed as a day of mourning.",
+  "h": "9ceeae04ee29"
+ },
+ "PYQ-2024-GS-160": {
+  "q": "Which ruler inscribed his name as 'the second Alexander' on his coins to commemorate his victories?",
+  "o": [
+   "Bahman Shah",
+   "Mahmud Gawan",
+   "Krishnadevaraya",
+   "Samudragupta"
+  ],
+  "e": "Alauddin Hasan Bahman Shah (1347–1358), founder of the Bahmani kingdom, inscribed the title 'Sikandar-us-Sani' (the second Alexander) on his gold and silver coins. (Alauddin Khalji of Delhi also used this title; he is not among the options here.) Mahmud Gawan was a Bahmani minister; Samudragupta is called 'the Napoleon of India'.",
+  "h": "78f9297cdff8"
+ },
+ "PYQ-2024-GS-161": {
+  "q": "Which inscriptions refer to trade links between Mesopotamia and Harappa?",
+  "o": [
+   "Devanagari",
+   "Kharosthi",
+   "Cuneiform",
+   "Hieroglyphics"
+  ],
+  "e": "Mesopotamian cuneiform (wedge-shaped script) inscriptions refer to trade with 'Meluhha' (the Indus region). Hieroglyphics is the Egyptian script; Kharosthi and Devanagari are later Indian scripts.",
+  "h": "45f45f4b0116"
+ },
+ "PYQ-2024-GS-162": {
+  "q": "Identify the correct statement(s) about the Directive Principles of State Policy:\n(i) Articles 36 to 51 deal with the Directive Principles.\n(ii) Dr. B.R. Ambedkar described them as a novel feature of the Indian Constitution.\n(iii) These principles can be enforced by the courts.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "(i) Correct — Part IV, Articles 36–51. (ii) Correct — Ambedkar called them 'novel features' of the Constitution. (iii) Wrong — Directive Principles are non-justiciable; courts cannot enforce them (Article 37).",
+  "h": "3ce82f5fc0d5"
+ },
+ "PYQ-2024-GS-163": {
+  "q": "Arrange the three tiers of the Panchayati Raj system as per the Constitution.",
+  "o": [
+   "Village Panchayat – Intermediate Panchayat – District Panchayat",
+   "Panchayat Union – District Panchayat – Village Panchayat",
+   "District Panchayat – Village Panchayat – Intermediate Panchayat",
+   "Village Panchayat – Town Panchayat – District Panchayat"
+  ],
+  "e": "The 73rd Amendment (1992) provides a three-tier system: village level (Village Panchayat), intermediate level (Panchayat Union/block) and district level (District Panchayat). A Town Panchayat is an urban local body, not a tier of Panchayati Raj.",
+  "h": "5f2863917ec8"
+ },
+ "PYQ-2024-GS-164": {
+  "q": "Assertion [A]: Under Article 249 of the Constitution, Parliament can transfer a power from the State List to the Union List.\nReason [R]: Parliament may make this change in the national interest.",
+  "o": [
+   "[A] is true, but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, but [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Under Article 249, if the Rajya Sabha passes a resolution by a two-thirds majority, Parliament may make laws on a State List subject in the national interest (valid for one year; can be extended). In effect, the subject temporarily comes under Union law-making. The national interest is the reason — so both are true and the Reason explains the Assertion (answer key).",
+  "h": "6f3fa95a021f"
+ },
+ "PYQ-2024-GS-165": {
+  "q": "On which day is 'Pravasi Bharatiya Divas' (Non-Resident Indians' Day) celebrated?",
+  "o": [
+   "November 9",
+   "December 9",
+   "January 9",
+   "February 9"
+  ],
+  "e": "Pravasi Bharatiya Divas is celebrated on 9 January every year (since 2003), marking Gandhiji's return to India from South Africa on 9 January 1915.",
+  "h": "fdac42609c31"
+ },
+ "PYQ-2024-GS-166": {
+  "q": "Who is regarded as the architect of the Indian Constitution?",
+  "o": [
+   "Dr. B.R. Ambedkar",
+   "Dr. Rajendra Prasad",
+   "H.C. Mukherjee",
+   "V.T. Krishnamachari"
+  ],
+  "e": "Dr. B.R. Ambedkar, Chairman of the Drafting Committee, is honoured as the 'architect of the Indian Constitution'. Rajendra Prasad was President of the Constituent Assembly; H.C. Mukherjee was its Vice-President.",
+  "h": "026a4b40d06c"
+ },
+ "PYQ-2024-GS-167": {
+  "q": "In 1855, the first modern jute mill was set up at ________ in West Bengal.",
+  "o": [
+   "Burnpur",
+   "Serampore",
+   "Gloster",
+   "Rishra"
+  ],
+  "e": "India's first modern jute mill was started by George Acland in 1855 at Rishra on the Hooghly near Kolkata. Burnpur is known for its iron and steel plant.",
+  "h": "c3e3a6c6fdfc"
+ },
+ "PYQ-2024-GS-168": {
+  "q": "Arrange the countries from highest to lowest Human Development Index score (as of 2016):\n1. Norway\n2. Switzerland\n3. India\n4. Australia",
+  "o": [
+   "1 4 2 3",
+   "4 2 1 3",
+   "2 1 4 3",
+   "2 1 3 4"
+  ],
+  "e": "In the UNDP Human Development Report 2016, Norway ranked 1st, Australia 2nd and Switzerland 3rd; India was 131st. Hence 1, 4, 2, 3.",
+  "h": "0b88430013dd"
+ },
+ "PYQ-2024-GS-169": {
+  "q": "Find the incorrect pairs (power to levy tax):\n(i) Agricultural income tax – State\n(ii) Tax on lands and buildings – State\n(iii) Tax on consumption or sale of electricity – Union\n(iv) Land revenue – Union",
+  "o": [
+   "(i) and (ii)",
+   "(ii) and (iii)",
+   "(iii) and (iv)",
+   "(i) and (iv)"
+  ],
+  "e": "Under the State List of the Seventh Schedule, agricultural income tax, tax on lands and buildings, tax on consumption/sale of electricity and land revenue all belong to the States. So pairing the electricity tax (iii) and land revenue (iv) with the 'Union' is wrong.",
+  "h": "33631a21b017"
+ },
+ "PYQ-2024-GS-170": {
+  "q": "Who is the executive (functional) head of NITI Aayog?",
+  "o": [
+   "Chairperson",
+   "Ex-officio members",
+   "Vice-Chairperson",
+   "President of India"
+  ],
+  "e": "The Prime Minister is the Chairperson of NITI Aayog; but its functional head, who runs day-to-day work, is the Vice-Chairperson appointed by the PM. The President has no role in NITI Aayog.",
+  "h": "87cb98916b50"
+ },
+ "PYQ-2024-GS-171": {
+  "q": "Which woman reformer was the backbone of Dr. Muthulakshmi's effort to bring the Devadasi Abolition Act?",
+  "o": [
+   "Moovalur Ramamirtham Ammaiyar",
+   "Annie Besant",
+   "Dr. Dharmambal Ammaiyar",
+   "Nagammaiyar"
+  ],
+  "e": "Moovalur Ramamirtham Ammaiyar, born into the Devadasi tradition and a campaigner against it, strongly supported Muthulakshmi Reddy's effort to abolish the Devadasi system. The Tamil Nadu government's 'Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme' is named after her.",
+  "h": "d7c2ad510d69"
+ },
+ "PYQ-2024-GS-172": {
+  "q": "The author of 'Why I am an Atheist' is",
+  "o": [
+   "E.V.R. Periyar",
+   "C.N. Annadurai",
+   "Bhagat Singh",
+   "Rajguru"
+  ],
+  "e": "Bhagat Singh wrote the essay 'Why I am an Atheist' in 1930 while in Lahore jail. It was translated into Tamil by P. Jeevanandham and published by Periyar — which can cause confusion with Periyar.",
+  "h": "5ffad2c8f705"
+ },
+ "PYQ-2024-GS-173": {
+  "q": "The author of 'Poverty and Un-British Rule in India' is",
+  "o": [
+   "Bal Gangadhar Tilak",
+   "Gopal Krishna Gokhale",
+   "Dadabhai Naoroji",
+   "M.G. Ranade"
+  ],
+  "e": "Dadabhai Naoroji, who put forward the 'Drain Theory', published this book in 1901. He is honoured as the 'Grand Old Man of India'.",
+  "h": "7db8d5a3dde8"
+ },
+ "PYQ-2024-GS-174": {
+  "q": "Which of the following statements about Dheeran Chinnamalai is correct?\n(i) Dheeran Chinnamalai was a Palayakkarar of Kongu Nadu who fought against the English East India Company.\n(ii) He was a Palayakkarar trained by the French and by Tipu.\n(iii) From 1800 until he was hanged on 31 July 1805, he fought against the French.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "(i) Correct — Dheeran Chinnamalai was a Palayakkarar of Kongu Nadu. (ii) Correct — he received military training from the French and Tipu Sultan. (iii) Wrong — from 1800 to 31 July 1805 he fought against the British, not the French.",
+  "h": "58ab770e8bd2"
+ },
+ "PYQ-2024-GS-175": {
+  "q": "Who published the Tamil journal 'Thozhilalan' (Worker)?",
+  "o": [
+   "M. Singaravelar",
+   "M.C. Rajah",
+   "Rettaimalai Srinivasan",
+   "Moovalur Ramamirtham"
+  ],
+  "e": "'Sinthanai Sirpi' M. Singaravelar ran the journals 'Thozhilalan' (Tamil) and 'Labour Kisan Gazette' (English); in 1923 he celebrated India's first May Day in Chennai.",
+  "h": "002b7974b3fa"
+ },
+ "PYQ-2024-AP-176": {
+  "q": "The LCM of two numbers is 6 times their HCF. If the HCF is 12 and one number is 36, find the other number.",
+  "o": [
+   "24",
+   "34",
+   "12",
+   "6"
+  ],
+  "e": "LCM = 6 × 12 = 72. Product of the two numbers = HCF × LCM = 12 × 72 = 864. Other number = 864 ÷ 36 = 24. Check: HCF(36, 24) = 12, LCM = 72.",
+  "h": "25386463db55"
+ },
+ "PYQ-2024-GS-177": {
+  "q": "The ________ coin introduced in the Vijayanagara Empire was called the Pagoda.",
+  "o": [
+   "Silver",
+   "Copper",
+   "Bronze",
+   "Gold"
+  ],
+  "e": "The famous gold coin of the Vijayanagara Empire was the 'Varahan'; Europeans called it the 'Pagoda' (because it bore a temple image). The 'Tar' was a silver coin and the 'Jital' a copper coin.",
+  "h": "cc3a810edb0a"
+ },
+ "PYQ-2024-GS-178": {
+  "q": "Which of the following statements about V.O. Chidambaram Pillai are correct?\n(i) He was a disciple of Gopal Krishna Gokhale.\n(ii) He was called 'Sekkizhutha Semmal' (the noble one who pulled the oil press).\n(iii) He founded the Servants of India Society.\n(iv) He was a lawyer.",
+  "o": [
+   "(iii) and (iv) only",
+   "(ii), (iii) and (iv) only",
+   "(ii) and (iv) only",
+   "(i), (ii) and (iv) only"
+  ],
+  "e": "(i) Wrong — V.O.C. followed the Extremist leader Bal Gangadhar Tilak. (ii) Correct — he was called 'Sekkizhutha Semmal' because he was made to pull an oil press in jail. (iii) Wrong — the Servants of India Society (1905) was founded by Gokhale. (iv) Correct — he was a lawyer.",
+  "h": "d999a04c512b"
+ },
+ "PYQ-2024-GS-179": {
+  "q": "The 'Satyaputras' mentioned in Ashoka's inscription are",
+  "o": [
+   "Athiyaman",
+   "Karikalan",
+   "Paari",
+   "Nedumcheralathan"
+  ],
+  "e": "Ashoka's Rock Edict II mentions the 'Satyaputras' along with the Chola, Pandya and Keralaputra (Chera) kingdoms. The Jambai inscription reads 'ஸதியபுதோ அதியந் நெடுமாந் அஞ்சி', confirming that the Satyaputras were the Athiyaman line.",
+  "h": "996935b8fd7a"
+ },
+ "PYQ-2024-GS-180": {
+  "q": "In the Kural 'நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால் காமம் நுதுப்பேம் எனல்', what does 'நுதுப்பேம்' mean?",
+  "o": [
+   "To put out (extinguish)",
+   "Order",
+   "Lifespan",
+   "Practice"
+  ],
+  "e": "'நுதுப்பேம்' = we will put out (extinguish). Trying to quench love with the town's gossip is like trying to put out a fire by pouring ghee on it — it only grows (Kural 1148, Alararivuruththal).",
+  "h": "b83070208adf"
+ },
+ "PYQ-2024-GS-181": {
+  "q": "Valluvar holds that all beings are equal by birth. By what does he distinguish them?",
+  "o": [
+   "Their work (deeds)",
+   "Food",
+   "Clothing",
+   "Place"
+  ],
+  "e": "'பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா செய்தொழில் வேற்றுமை யான்' (Kural 972). All are equal by birth; greatness differs only by the nature of the work (deeds) each one does.",
+  "h": "8f35eef9783c"
+ },
+ "PYQ-2024-GS-182": {
+  "q": "Aksai Chin is a disputed area between ________ and China.",
+  "o": [
+   "Bangladesh",
+   "India",
+   "Nepal",
+   "Japan"
+  ],
+  "e": "Aksai Chin, east of Ladakh, is a disputed area claimed by India and controlled by China; it was one of the main causes of the 1962 India–China war.",
+  "h": "88905e724a4e"
+ },
+ "PYQ-2024-GS-183": {
+  "q": "Assertion [A]: Despite a general slowdown in the economy, cement production and consumption keep growing.\nReason [R]: India is one of the largest cement producers and ranks first in the world.",
+  "o": [
+   "[A] is true but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Due to construction and infrastructure demand, cement production and consumption keep growing — Assertion true. But India is the world's second-largest cement producer; China is first — so the Reason is false.",
+  "h": "99228144e82d"
+ },
+ "PYQ-2024-GS-184": {
+  "q": "The Tamil Nadu Government has declared ________ as Education Development Day.",
+  "o": [
+   "15 February",
+   "15 June",
+   "15 July",
+   "15 November"
+  ],
+  "e": "July 15, the birthday of Perunthalaivar Kamarajar, who opened the doors of education through free education and the midday meal scheme, is celebrated in Tamil Nadu as 'Education Development Day' (since 2006).",
+  "h": "298929573bee"
+ },
+ "PYQ-2024-GS-185": {
+  "q": "In 2022–2023, Tamil Nadu's Gross State Domestic Product (GSDP) grew by ________%, against India's GDP growth rate of 7.24% in the same period.",
+  "o": [
+   "8.10",
+   "8.12",
+   "8.15",
+   "8.19"
+  ],
+  "e": "In 2022–23 Tamil Nadu's GSDP (at constant prices) grew by 8.19%, higher than the national growth (7.24%) (exam answer key; Union Statistics Ministry estimate).",
+  "h": "fd7adb591fc9"
+ },
+ "PYQ-2024-GS-187": {
+  "q": "Who said that a bullock cart with freedom is better than a luxurious train with slavery?",
+  "o": [
+   "M. Veeraraghavachari",
+   "B.P. Wadia",
+   "G.S. Arundale",
+   "Annie Besant"
+  ],
+  "e": "'Better bullock carts and freedom than a train de luxe with subjection' is the famous saying of Annie Besant, who started the Home Rule movement. Wadia and Arundale were her colleagues in the movement.",
+  "h": "2635c7d92105"
+ },
+ "PYQ-2024-AP-188": {
+  "q": "The HCF of two numbers is 11 and their LCM is 693. If one number is 77, what is the other number?",
+  "o": [
+   "79",
+   "88",
+   "99",
+   "77"
+  ],
+  "e": "Other number = (HCF × LCM) ÷ known number = (11 × 693) ÷ 77 = 7623 ÷ 77 = 99. Check: HCF(77, 99) = 11; LCM = 693.",
+  "h": "38bd44365cad"
+ },
+ "PYQ-2024-AP-189": {
+  "q": "A trader has two kinds of oil, 120 litres and 180 litres, in two containers. He wants to fill both oils in cans of equal size. What is the maximum capacity of such a can?",
+  "o": [
+   "10 litres",
+   "30 litres",
+   "60 litres",
+   "90 litres"
+  ],
+  "e": "The largest can that measures both quantities exactly = HCF (120, 180) = 60 litres. (120 = 2 × 60; 180 = 3 × 60.) 90 litres does not divide 120.",
+  "h": "facfb2cb9198"
+ },
+ "PYQ-2024-AP-190": {
+  "q": "If 1³ + 2³ + 3³ + … + K³ = 72900, find the value of 1 + 2 + 3 + … + K.",
+  "o": [
+   "220",
+   "370",
+   "270",
+   "170"
+  ],
+  "e": "The sum of the cubes of the first K natural numbers = (sum of the first K natural numbers)², i.e. 1³ + 2³ + … + K³ = (1 + 2 + … + K)². So 1 + 2 + … + K = √72900 = 270.",
+  "h": "578258fa63b2"
+ },
+ "PYQ-2024-AP-191": {
+  "q": "In the series 2, 3, 5, 9, x, 33, y, …, what is the value of x + y?",
+  "o": [
+   "65",
+   "72",
+   "75",
+   "82"
+  ],
+  "e": "The successive differences are 1, 2, 4, 8, 16, 32 (doubling). 9 + 8 = 17 = x; 17 + 16 = 33 ✓; 33 + 32 = 65 = y. x + y = 17 + 65 = 82.",
+  "h": "9827cb13da40"
+ },
+ "PYQ-2024-AP-192": {
+  "q": "When the letters are written as A Z B Y C X … M N N M … X C Y B Z A, how many consonants appear immediately to the left of a vowel?",
+  "o": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "e": "Full series: AZBYCXDWEVFUGTHSIRJQKPLOMN NMOLPKQJRISHTGUFVEWDXCYBZA. Consonants immediately to the left of a vowel: W(E), F(U), S(I), L(O) — 4 in the first half; M(O), R(I), G(U), V(E), Z(A) — 5 in the second half. Total 9. (The first A has no letter to its left.)",
+  "h": "68dbbce2b381"
+ },
+ "PYQ-2024-AP-193": {
+  "q": "Ramila says, 'Raman, the only son of my father-in-law Ramanathan, is Raghavi's father.' If Ramani is Raghavi's sister, how is Ramani related to Ramanathan?",
+  "o": [
+   "Wife",
+   "Sister",
+   "Daughter",
+   "Granddaughter"
+  ],
+  "e": "Raman is Ramanathan's son; Raghavi is Raman's daughter. Since Ramani is Raghavi's sister, she too is Raman's daughter — so she is Ramanathan's son's daughter, i.e. his granddaughter.",
+  "h": "74082b46d2dd"
+ },
+ "PYQ-2024-AP-194": {
+  "q": "3 men and 4 women earn ₹3,780 in 7 days. 11 men and 13 women together earn ₹15,040 in 8 days. In how many days will 7 men and 9 women together earn ₹12,400?",
+  "o": [
+   "9 days",
+   "12 days",
+   "10 days",
+   "11 days"
+  ],
+  "e": "Daily earnings: 3m + 4w = 3780 ÷ 7 = 540; 11m + 13w = 15040 ÷ 8 = 1880. Solving: m = ₹100, w = ₹60 (check: 300 + 240 = 540; 1100 + 780 = 1880). 7 men + 9 women per day = 700 + 540 = ₹1240. Days = 12400 ÷ 1240 = 10.",
+  "h": "62d2e531c150"
+ },
+ "PYQ-2024-AP-195": {
+  "q": "Find the difference between the compound interest and simple interest on a principal of ₹10,000 at 15% per annum for 3 years.",
+  "o": [
+   "70.86",
+   "708",
+   "708.75",
+   "775"
+  ],
+  "e": "Simple interest = 10000 × 15 × 3 ÷ 100 = ₹4500. Compound interest = 10000 × (1.15)³ − 10000 = 15208.75 − 10000 = ₹5208.75. Difference = 5208.75 − 4500 = ₹708.75. (Formula: P r² (300 + r) / 100³ = 10000 × 225 × 315 / 10⁶ = 708.75.)",
+  "h": "57969bfab297"
+ },
+ "PYQ-2024-AP-196": {
+  "q": "A person borrows ₹2,000 at 6% simple interest. He repays ₹1,000 at the end of one year. How much must he pay at the end of the second year to clear the loan fully?",
+  "o": [
+   "₹1,240",
+   "₹1,180",
+   "₹1,120",
+   "₹1,200"
+  ],
+  "e": "Under simple interest (no interest on interest): first-year interest = 2000 × 6% = ₹120. If the ₹1000 paid is taken off the principal, the second-year principal is ₹1000, with interest ₹60. Total due = 2000 + 120 + 60 = ₹2180; since ₹1000 is already paid, the balance = ₹1180.",
+  "h": "4413f5ed5ff7"
+ },
+ "PYQ-2024-AP-197": {
+  "q": "Vignesh borrowed ₹10,000 for 2 years at 4% interest. He lent this money to Sanjay for 2 years at 6% interest. What was his gain per year in this transaction?",
+  "o": [
+   "200",
+   "400",
+   "600",
+   "800"
+  ],
+  "e": "Interest received per year = 10000 × 6% = ₹600; interest paid per year = 10000 × 4% = ₹400. Gain per year = 600 − 400 = ₹200 (₹400 for two years).",
+  "h": "16b2e5ce2ff4"
+ },
+ "PYQ-2024-AP-198": {
+  "q": "Find the ratio of the HCF to the LCM of 7 and 13.",
+  "o": [
+   "1 : 91",
+   "13 : 7",
+   "91 : 10",
+   "7 : 13"
+  ],
+  "e": "7 and 13 are both prime ⇒ HCF = 1, LCM = 7 × 13 = 91. Ratio = 1 : 91.",
+  "h": "201f9d3cda9c"
+ },
+ "PYQ-2024-AP-199": {
+  "q": "Kayal bought 5 dozen eggs. 45 of them were good. Find the percentage of bad eggs.",
+  "o": [
+   "45%",
+   "35%",
+   "25%",
+   "15%"
+  ],
+  "e": "5 dozen = 60 eggs. Bad = 60 − 45 = 15. Percentage = 15 ÷ 60 × 100 = 25%. (45% wrongly treats the number of good eggs as a percentage; actually 75% are good.)",
+  "h": "575c5142a3be"
+ },
+ "PYQ-2024-AP-200": {
+  "q": "If Sunday = 2, Tuesday = 3 and Thursday = 2, what is the value of Monday?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "e": "Value = number of vowels in the word: SUNDAY (U, A) = 2; TUESDAY (U, E, A) = 3; THURSDAY (U, A) = 2. MONDAY (O, A) = 2.",
+  "h": "c204baf1f69d"
+ }
+}

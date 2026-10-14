@@ -1,5 +1,6 @@
 /* app.js — screen controller + quiz runtime (with resume, review, dashboard, timer) */
 const OPT_KEYS = ['அ','ஆ','இ','ஈ'];
+const OPT_KEYS_EN = ['A','B','C','D'];
 const MARK_PER_Q = 1.5;                 // 200 questions × 1.5 = 300 marks (Notification 11/2026)
 const FULL_SECONDS = 3*60*60;           // 3 hours for 200 questions
 const PASS_FRACTION = 0.4;              // Part A Tamil: 40% (60 of 150) needed to qualify
@@ -8,6 +9,35 @@ const MODE_LABELS = {study:'படிப்பு முறை', quick:'வி�
                      review_wrong:'தவறுகள் மீள்பார்வை', review_marks:'அடையாளமிட்டவை'};
 
 let state = null;       // active quiz state
+let lang = Store.getLang();   // 'ta' | 'en' — applies only to Part B (GS + aptitude) questions
+
+/* ========== LANGUAGE (Part B questions only) ========== */
+function useEn(q){ return lang==='en' && (q._subject||q.subject)!=='tamil' && !!q.question_en; }
+function qText(q){ return useEn(q) ? q.question_en : q.question_ta; }
+function qOpts(q){ return useEn(q) ? q.options_en : q.options_ta; }
+function qExp(q){ return (useEn(q) ? q.explanation_en : q.explanation_ta) || ''; }
+function qMeta(q){
+  return useEn(q) ? `${q.unit_name_en||''} ${q.topic_name_en?'· '+q.topic_name_en:''}`
+                  : `${q.unit_name_ta||''} ${q.topic_name_ta?'· '+q.topic_name_ta:''}`;
+}
+function optKeys(q){ return useEn(q) ? OPT_KEYS_EN : OPT_KEYS; }
+function updateLangToggles(){
+  document.querySelectorAll('.lang-toggle button').forEach(b=>b.classList.toggle('on', b.dataset.lang===lang));
+  // Header switch: on home, topic list and score page, and in a quiz only while a Part B question is showing
+  const onHome = $('#home').classList.contains('active');
+  const onScore = $('#score').classList.contains('active');
+  const q = state && $('#quiz').classList.contains('active') ? state.questions[state.idx] : null;
+  const partB = q && (q._subject||q.subject)!=='tamil' && !!q.question_en;
+  const onTopics = $('#topic-picker').classList.contains('active');
+  $('#lang-top').classList.toggle('hidden', !(onHome || onScore || onTopics || partB));
+}
+function setLang(l){
+  if(l===lang) return;
+  lang = l; Store.setLang(l); updateLangToggles();
+  if($('#quiz').classList.contains('active') && state) renderQuestion();
+  else if($('#score').classList.contains('active') && state) renderReview();
+  else if($('#topic-picker').classList.contains('active')) renderTopics();
+}
 let timerId = null;     // setInterval handle
 
 function $(s){ return document.querySelector(s); }
@@ -15,6 +45,7 @@ function show(id){
   document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
   $('#'+id).classList.add('active');
   window.scrollTo(0,0);
+  updateLangToggles();
 }
 function fmtTime(sec){
   sec = Math.max(0, Math.round(sec));
@@ -107,8 +138,9 @@ function renderTopics(){
     if(!g.topics.length) return;
     html += `<div class="topic-group-label">${g.label}</div>`;
     g.topics.forEach(t=>{
+      const label = (lang==='en' && t.name_en) ? `${t.name_en} <small class="t-alt">${t.name}</small>` : t.name;
       html += `<button class="topic-btn" data-topic="${t.topic}" data-name="${t.name}">
-        <span>${t.name}</span><span class="t-count">${t.qs.length} வினா</span></button>`;
+        <span>${label}</span><span class="t-count">${t.qs.length} வினா</span></button>`;
     });
   });
   el.innerHTML = html || '<p class="empty-note">வினாக்கள் ஏற்றப்படவில்லை.</p>';
@@ -200,13 +232,13 @@ function renderQuestion(){
   const area = $('#question-area');
   area.innerHTML = `
     <div class="q-head">
-      <div class="q-meta">${q.unit_name_ta||''} ${q.topic_name_ta?'· '+q.topic_name_ta:''}</div>
+      <div class="q-meta">${qMeta(q)}</div>
       <button class="bookmark-btn ${marked?'on':''}" id="bm" title="அடையாளமிடு">${marked?'★':'☆'}</button>
     </div>
-    <div class="q-text">${state.idx+1}. ${q.question_ta}</div>
+    <div class="q-text">${state.idx+1}. ${qText(q)}</div>
     <div class="options">
-      ${q.options_ta.map((o,i)=>`<button class="option" data-i="${i}">
-        <span class="opt-key">${OPT_KEYS[i]}</span><span class="opt-text">${o}</span></button>`).join('')}
+      ${qOpts(q).map((o,i)=>`<button class="option" data-i="${i}">
+        <span class="opt-key">${optKeys(q)[i]}</span><span class="opt-text">${o}</span></button>`).join('')}
     </div>
     <div id="fb-slot"></div>`;
   area.querySelectorAll('.option').forEach(btn=>{
@@ -217,6 +249,7 @@ function renderQuestion(){
     $('#bm').textContent = now?'★':'☆';
     $('#bm').classList.toggle('on', now);
   };
+  updateLangToggles();
   // If this question was already answered (resume), re-render its answered state
   if(state.answers[state.idx]!==undefined && state.answers[state.idx]!==null){
     replayAnswered();
@@ -235,13 +268,19 @@ function replayAnswered(){
       if(i===q.answer_index) b.classList.add('correct');
       if(i===choice && choice!==q.answer_index) b.classList.add('wrong'); });
     const ok = choice===q.answer_index;
-    $('#fb-slot').innerHTML = `<div class="feedback ${ok?'ok':'no'}">
-      <div class="f-title ${ok?'ok':'no'}">${ok?'✓ சரி!':'✗ தவறு'}</div>
-      <div class="f-exp">${q.explanation_ta||''}</div></div>`;
+    $('#fb-slot').innerHTML = feedbackHtml(q, ok);
   } else {
     opts.forEach((b,i)=>b.classList.toggle('selected', i===choice));
   }
   renderNextBtn();
+}
+
+function feedbackHtml(q, ok){
+  const en = useEn(q);
+  const title = ok ? (en?'✓ Correct!':'✓ சரி!') : (en?'✗ Wrong':'✗ தவறு');
+  return `<div class="feedback ${ok?'ok':'no'}">
+      <div class="f-title ${ok?'ok':'no'}">${title}</div>
+      <div class="f-exp">${qExp(q)}</div></div>`;
 }
 
 function selectOption(choice){
@@ -255,9 +294,7 @@ function selectOption(choice){
       if(i===q.answer_index) b.classList.add('correct');
       if(i===choice && choice!==q.answer_index) b.classList.add('wrong'); });
     const ok = choice===q.answer_index;
-    $('#fb-slot').innerHTML = `<div class="feedback ${ok?'ok':'no'}">
-      <div class="f-title ${ok?'ok':'no'}">${ok?'✓ சரி!':'✗ தவறு'}</div>
-      <div class="f-exp">${q.explanation_ta||''}</div></div>`;
+    $('#fb-slot').innerHTML = feedbackHtml(q, ok);
     // study/review: record stats + wrong list immediately
     if(firstTime){
       Store.recordAnswer(q.topic, q.topic_name_ta, ok);
@@ -346,35 +383,44 @@ function finishQuiz(){
        <div class="score-pct">${pct}% சரியான விடைகள்</div>`;
   $('#score-card').innerHTML = `${big}${timeLine}${partRows}${qualifyHtml}<div class="score-msg">${msg}</div>`;
 
-  // Answer review: every question with your answer, the correct answer and why
+  $('#back-topics').style.display = state.mode==='study' ? '' : 'none';
+  renderReview();
+  show('score');
+}
+
+// Answer review: every question with your answer, the correct answer and why
+function renderReview(){
+  const qs = state.questions;
+  let score = 0;
   const items = qs.map((q,i)=>{
     const your = state.answers[i], ok = your===q.answer_index, none = your===undefined||your===null;
+    if(ok) score++;
+    const en = useEn(q);
     const status = ok ? 'ok' : none ? 'skip' : 'no';
-    const badge = ok ? '✓ சரி' : none ? '— விடையளிக்கவில்லை' : '✗ தவறு';
-    const opts = q.options_ta.map((o,j)=>{
+    const badge = ok ? (en?'✓ Correct':'✓ சரி') : none ? (en?'— Not answered':'— விடையளிக்கவில்லை') : (en?'✗ Wrong':'✗ தவறு');
+    const opts = qOpts(q).map((o,j)=>{
       const cls = j===q.answer_index ? 'rv-opt right' : (j===your ? 'rv-opt picked' : 'rv-opt');
-      const tag = j===q.answer_index ? ' ✓ சரியான விடை' : (j===your ? ' ✗ உங்கள் விடை' : '');
-      return `<div class="${cls}"><b>${OPT_KEYS[j]}.</b> ${o}<span class="rv-tag">${tag}</span></div>`;
+      const tag = j===q.answer_index ? (en?' ✓ Correct answer':' ✓ சரியான விடை') : (j===your ? (en?' ✗ Your answer':' ✗ உங்கள் விடை') : '');
+      return `<div class="${cls}"><b>${optKeys(q)[j]}.</b> ${o}<span class="rv-tag">${tag}</span></div>`;
     }).join('');
     return `<div class="exp-item st-${status}">
       <div class="exp-head"><span class="exp-num">${i+1}</span><span class="exp-badge ${status}">${badge}</span></div>
-      <div class="exp-q">${q.question_ta.replace(/\n/g,'<br>')}</div>
+      <div class="exp-q">${qText(q).replace(/\n/g,'<br>')}</div>
       <div class="rv-opts">${opts}</div>
-      <div class="exp-detail"><span class="lab">💡 விளக்கம்:</span> ${q.explanation_ta||''}</div></div>`;
+      <div class="exp-detail"><span class="lab">💡 ${en?'Explanation':'விளக்கம்'}:</span> ${qExp(q)}</div></div>`;
   });
   const wrongCount = qs.length - score;
+  const filter = $('#rv-list') && $('#rv-list').classList.contains('only-bad') ? 'bad' : 'all';
   $('#explanations').innerHTML = `<h3>விடைகள் மீள்பார்வை</h3>
     <div class="rv-filter">
-      <button class="chip on" data-f="all">அனைத்தும் (${qs.length})</button>
-      <button class="chip" data-f="bad">தவறு / விடையில்லை (${wrongCount})</button>
+      <button class="chip ${filter==='all'?'on':''}" data-f="all">அனைத்தும் (${qs.length})</button>
+      <button class="chip ${filter==='bad'?'on':''}" data-f="bad">தவறு / விடையில்லை (${wrongCount})</button>
     </div>
-    <div id="rv-list">${items.join('')}</div>`;
+    <div id="rv-list" class="${filter==='bad'?'only-bad':''}">${items.join('')}</div>`;
   $('#explanations').querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
     $('#explanations').querySelectorAll('.chip').forEach(x=>x.classList.toggle('on', x===c));
     $('#rv-list').classList.toggle('only-bad', c.dataset.f==='bad');
   });
-
-  show('score');
 }
 
 /* ========== STUDY: extend / switch after a stretch ========== */
@@ -384,6 +430,9 @@ function studyFollowUp(){
 
 /* ========== WIRING ========== */
 function goHome(){ stopTimer(); renderHome(); show('home'); }
+// Leaving a topic-wise (study) quiz returns to the topic list; tests and reviews return home
+function goTopics(){ stopTimer(); renderTopics(); show('topic-picker'); }
+function exitQuiz(){ if(state && state.mode==='study') goTopics(); else goHome(); }
 
 async function init(){
   await Bank.load();
@@ -397,6 +446,10 @@ async function init(){
       else if(m==='full') startFull();
     };
   });
+  $('#quiz-exit').onclick = exitQuiz;
+  $('#back-topics').onclick = goTopics;
+  document.querySelectorAll('.lang-toggle button').forEach(b=> b.onclick = ()=> setLang(b.dataset.lang));
+  updateLangToggles();
   $('#review-wrong').onclick = ()=>{ if(Store.allWrong().length) startReviewWrong(); };
   $('#review-marks').onclick = ()=>{ if(Store.allBookmarks().length) startReviewMarks(); };
 

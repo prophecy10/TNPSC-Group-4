@@ -11,36 +11,126 @@
       "7": "இலக்கியம், தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்"
     },
     "topics": {
-      "split_join":       {"unit": "1", "ta": "பிரித்தல் & சேர்த்தல்"},
-      "sandhi":           {"unit": "1", "ta": "சந்திப்பிழை & ஒற்றுப்பிழை"},
-      "letter_diff":      {"unit": "1", "ta": "எழுத்து வேறுபாடு (ல-ள-ழ, ன-ண-ந, ர-ற)"},
-      "root_verb":        {"unit": "1", "ta": "வேர்ச்சொல் & வினை வடிவங்கள்"},
-      "grammar_note":     {"unit": "1", "ta": "இலக்கணக் குறிப்பு"},
-      "yappu_ani":        {"unit": "1", "ta": "யாப்பு & அணி"},
-      "grammar_general":  {"unit": "1", "ta": "பொது இலக்கணம்"},
-      "antonym":          {"unit": "2", "ta": "எதிர்ச்சொல்"},
-      "word_meaning":     {"unit": "2", "ta": "சொல்லின் பொருள்"},
-      "one_letter_word":  {"unit": "2", "ta": "ஓரெழுத்து ஒருமொழி"},
-      "multi_meaning":    {"unit": "2", "ta": "பலபொருள் ஒருசொல் / ஒருபொருள் பலசொல்"},
-      "alpha_order":      {"unit": "2", "ta": "அகர வரிசை"},
-      "fill_word":        {"unit": "2", "ta": "பொருத்தமான சொல்"},
-      "pure_tamil":       {"unit": "2", "ta": "தூய தமிழ்ச்சொல் / அயற்சொல்"},
-      "place_names":      {"unit": "2", "ta": "ஊர்ப் பெயர் மரூஉ"},
-      "error_correction": {"unit": "2", "ta": "பிழை திருத்தம்"},
-      "sentence_types":   {"unit": "3", "ta": "தொடர் வகைகள்"},
-      "voice_verb":       {"unit": "3", "ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை"},
-      "tamil_marabu":     {"unit": "3", "ta": "மரபுத் தமிழ்"},
-      "question_framing": {"unit": "3", "ta": "வினா அமைத்தல்"},
-      "punctuation":      {"unit": "3", "ta": "நிறுத்தற் குறிகள்"},
-      "word_order":       {"unit": "3", "ta": "சொற்றொடர் அமைத்தல்"},
-      "technical_terms":  {"unit": "4", "ta": "கலைச் சொற்கள்"},
-      "comprehension":    {"unit": "5", "ta": "பத்தி – புரிதல்"},
-      "proverbs":         {"unit": "5", "ta": "பழமொழிகள் & மரபுத்தொடர்கள்"},
-      "translation":      {"unit": "6", "ta": "மொழிபெயர்ப்பு"},
-      "thirukkural":      {"unit": "7", "ta": "திருக்குறள்"},
-      "ethical_lit":      {"unit": "7", "ta": "அறநூல்கள்"},
-      "tamil_scholars":   {"unit": "7", "ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு"},
-      "literature":       {"unit": "7", "ta": "இலக்கிய வரலாறு & நூல்கள்"}
+      "split_join": {
+        "unit": "1",
+        "ta": "பிரித்தல் & சேர்த்தல்"
+      },
+      "sandhi": {
+        "unit": "1",
+        "ta": "சந்திப்பிழை & ஒற்றுப்பிழை"
+      },
+      "letter_diff": {
+        "unit": "1",
+        "ta": "மயங்கொலிச் சொற்கள் (ல-ள-ழ, ன-ண-ந, ர-ற)"
+      },
+      "root_verb": {
+        "unit": "1",
+        "ta": "வேர்ச்சொல் & வினை வடிவங்கள்"
+      },
+      "grammar_note": {
+        "unit": "1",
+        "ta": "இலக்கணக் குறிப்பு"
+      },
+      "yappu_ani": {
+        "unit": "1",
+        "ta": "யாப்பு & அணி"
+      },
+      "grammar_general": {
+        "unit": "1",
+        "ta": "பொது இலக்கணம்"
+      },
+      "antonym": {
+        "unit": "2",
+        "ta": "எதிர்ச்சொல்"
+      },
+      "word_meaning": {
+        "unit": "2",
+        "ta": "சொல்லும் பொருளும்"
+      },
+      "one_letter_word": {
+        "unit": "2",
+        "ta": "ஓரெழுத்து ஒருமொழி"
+      },
+      "multi_meaning": {
+        "unit": "2",
+        "ta": "பலபொருள் ஒருசொல் / ஒருபொருள் பலசொல்"
+      },
+      "alpha_order": {
+        "unit": "2",
+        "ta": "அகர வரிசை"
+      },
+      "fill_word": {
+        "unit": "2",
+        "ta": "பொருத்தமான சொல்"
+      },
+      "pure_tamil": {
+        "unit": "2",
+        "ta": "தூய தமிழ்ச்சொல் / அயற்சொல்"
+      },
+      "place_names": {
+        "unit": "2",
+        "ta": "ஊர்ப் பெயர் மரூஉ"
+      },
+      "error_correction": {
+        "unit": "2",
+        "ta": "பிழை திருத்தம்"
+      },
+      "sentence_types": {
+        "unit": "3",
+        "ta": "தொடர் வகைகள்"
+      },
+      "voice_verb": {
+        "unit": "3",
+        "ta": "செய்வினை / செயப்பாட்டுவினை / தன்வினை / பிறவினை"
+      },
+      "tamil_marabu": {
+        "unit": "3",
+        "ta": "மரபுத் தமிழ்"
+      },
+      "question_framing": {
+        "unit": "3",
+        "ta": "வினா அமைத்தல்"
+      },
+      "punctuation": {
+        "unit": "3",
+        "ta": "நிறுத்தற் குறிகள்"
+      },
+      "word_order": {
+        "unit": "3",
+        "ta": "சொற்றொடர் அமைத்தல்"
+      },
+      "technical_terms": {
+        "unit": "4",
+        "ta": "கலைச் சொற்கள்"
+      },
+      "comprehension": {
+        "unit": "5",
+        "ta": "பத்தி – புரிதல்"
+      },
+      "proverbs": {
+        "unit": "5",
+        "ta": "பழமொழிகள் & மரபுத்தொடர்கள்"
+      },
+      "translation": {
+        "unit": "6",
+        "ta": "மொழிபெயர்ப்பு"
+      },
+      "thirukkural": {
+        "unit": "7",
+        "ta": "திருக்குறள்"
+      },
+      "ethical_lit": {
+        "unit": "7",
+        "ta": "அறநூல்கள்"
+      },
+      "tamil_scholars": {
+        "unit": "7",
+        "ta": "தமிழறிஞர்கள் & தமிழ்த்தொண்டு"
+      },
+      "literature": {
+        "unit": "7",
+        "ta": "இலக்கிய வரலாறு & நூல்கள்"
+      }
     }
   },
   "general_studies": {
@@ -53,38 +143,174 @@
       "6": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்"
     },
     "topics": {
-      "physics":             {"unit": "1", "ta": "இயற்பியல்"},
-      "chemistry":           {"unit": "1", "ta": "வேதியியல்"},
-      "biology":             {"unit": "1", "ta": "உயிரியல்"},
-      "science_tech":        {"unit": "1", "ta": "அறிவியல் & தொழில்நுட்பம்"},
-      "geography_india":     {"unit": "2", "ta": "இந்தியப் புவியியல்"},
-      "geography_tn":        {"unit": "2", "ta": "தமிழ்நாட்டுப் புவியியல்"},
-      "geography_general":   {"unit": "2", "ta": "பொதுப் புவியியல்"},
-      "environment":         {"unit": "2", "ta": "சுற்றுச்சூழல் & பேரிடர் மேலாண்மை"},
-      "ancient_india":       {"unit": "3", "ta": "பண்டைய இந்தியா"},
-      "medieval_india":      {"unit": "3", "ta": "இடைக்கால இந்தியா"},
-      "south_india_history": {"unit": "3", "ta": "தென்னிந்திய வரலாறு"},
-      "national_movement":   {"unit": "3", "ta": "இந்திய தேசிய இயக்கம்"},
-      "national_leaders":    {"unit": "3", "ta": "தேசியத் தலைவர்கள்"},
-      "indian_culture":      {"unit": "3", "ta": "இந்தியப் பண்பாடு"},
-      "constitution_basics": {"unit": "4", "ta": "அரசியலமைப்பு – அடிப்படைகள்"},
-      "rights_duties":       {"unit": "4", "ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்"},
-      "union_govt":          {"unit": "4", "ta": "ஒன்றிய அரசு"},
-      "state_govt":          {"unit": "4", "ta": "மாநில அரசு"},
-      "local_govt":          {"unit": "4", "ta": "உள்ளாட்சி அமைப்புகள்"},
-      "judiciary":           {"unit": "4", "ta": "நீதித்துறை"},
-      "polity_misc":         {"unit": "4", "ta": "தேர்தல், ஊழல் தடுப்பு & மனித உரிமைகள்"},
-      "indian_economy":      {"unit": "5", "ta": "இந்தியப் பொருளாதாரம்"},
-      "planning":            {"unit": "5", "ta": "திட்டமிடல் & நிதி ஆயோக்"},
-      "banking_finance":     {"unit": "5", "ta": "வங்கி, வரி & நிதி"},
-      "agri_industry":       {"unit": "5", "ta": "வேளாண்மை & தொழில்"},
-      "tn_development":      {"unit": "5", "ta": "தமிழ்நாடு வளர்ச்சி & நலத்திட்டங்கள்"},
-      "tn_ancient":          {"unit": "6", "ta": "தமிழ்ச் சமூக வரலாறு & தொல்லியல்"},
-      "tamil_lit_history":   {"unit": "6", "ta": "தமிழ் இலக்கிய வரலாறு"},
-      "thirukkural_gs":      {"unit": "6", "ta": "திருக்குறள் – சிறப்பு"},
-      "tn_freedom":          {"unit": "6", "ta": "விடுதலைப் போரில் தமிழ்நாடு"},
-      "social_reform":       {"unit": "6", "ta": "சமூக சீர்திருத்த இயக்கங்கள்"},
-      "current_affairs":     {"unit": "6", "ta": "நடப்பு நிகழ்வுகள்"}
+      "physics": {
+        "unit": "1",
+        "ta": "இயற்பியல்",
+        "en": "Physics"
+      },
+      "chemistry": {
+        "unit": "1",
+        "ta": "வேதியியல்",
+        "en": "Chemistry"
+      },
+      "biology": {
+        "unit": "1",
+        "ta": "உயிரியல்",
+        "en": "Biology"
+      },
+      "science_tech": {
+        "unit": "1",
+        "ta": "அறிவியல் & தொழில்நுட்பம்",
+        "en": "Science & Technology"
+      },
+      "geography_india": {
+        "unit": "2",
+        "ta": "இந்தியப் புவியியல்",
+        "en": "Indian Geography"
+      },
+      "geography_tn": {
+        "unit": "2",
+        "ta": "தமிழ்நாட்டுப் புவியியல்",
+        "en": "Tamil Nadu Geography"
+      },
+      "geography_general": {
+        "unit": "2",
+        "ta": "பொதுப் புவியியல்",
+        "en": "General Geography"
+      },
+      "environment": {
+        "unit": "2",
+        "ta": "சுற்றுச்சூழல் & பேரிடர் மேலாண்மை",
+        "en": "Environment & Disaster Management"
+      },
+      "ancient_india": {
+        "unit": "3",
+        "ta": "பண்டைய இந்தியா",
+        "en": "Ancient India"
+      },
+      "medieval_india": {
+        "unit": "3",
+        "ta": "இடைக்கால இந்தியா",
+        "en": "Medieval India"
+      },
+      "south_india_history": {
+        "unit": "3",
+        "ta": "தென்னிந்திய வரலாறு",
+        "en": "South Indian History"
+      },
+      "national_movement": {
+        "unit": "3",
+        "ta": "இந்திய தேசிய இயக்கம்",
+        "en": "Indian National Movement"
+      },
+      "national_leaders": {
+        "unit": "3",
+        "ta": "தேசியத் தலைவர்கள்",
+        "en": "National Leaders"
+      },
+      "indian_culture": {
+        "unit": "3",
+        "ta": "இந்தியப் பண்பாடு",
+        "en": "Indian Culture"
+      },
+      "constitution_basics": {
+        "unit": "4",
+        "ta": "அரசியலமைப்பு – அடிப்படைகள்",
+        "en": "Constitution – Basics"
+      },
+      "rights_duties": {
+        "unit": "4",
+        "ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்",
+        "en": "Rights, Duties & Directive Principles"
+      },
+      "union_govt": {
+        "unit": "4",
+        "ta": "ஒன்றிய அரசு",
+        "en": "Union Government"
+      },
+      "state_govt": {
+        "unit": "4",
+        "ta": "மாநில அரசு",
+        "en": "State Government"
+      },
+      "local_govt": {
+        "unit": "4",
+        "ta": "உள்ளாட்சி அமைப்புகள்",
+        "en": "Local Government"
+      },
+      "judiciary": {
+        "unit": "4",
+        "ta": "நீதித்துறை",
+        "en": "Judiciary"
+      },
+      "polity_misc": {
+        "unit": "4",
+        "ta": "தேர்தல், ஊழல் தடுப்பு & மனித உரிமைகள்",
+        "en": "Elections, Anti-corruption & Human Rights"
+      },
+      "indian_economy": {
+        "unit": "5",
+        "ta": "இந்தியப் பொருளாதாரம்",
+        "en": "Indian Economy"
+      },
+      "planning": {
+        "unit": "5",
+        "ta": "திட்டமிடல் & நிதி ஆயோக்",
+        "en": "Planning & NITI Aayog"
+      },
+      "banking_finance": {
+        "unit": "5",
+        "ta": "வங்கி, வரி & நிதி",
+        "en": "Banking, Taxation & Finance"
+      },
+      "agri_industry": {
+        "unit": "5",
+        "ta": "வேளாண்மை & தொழில்",
+        "en": "Agriculture & Industry"
+      },
+      "tn_development": {
+        "unit": "5",
+        "ta": "தமிழ்நாடு வளர்ச்சி & நலத்திட்டங்கள்",
+        "en": "Tamil Nadu Development & Welfare Schemes"
+      },
+      "tn_ancient": {
+        "unit": "6",
+        "ta": "தமிழ்ச் சமூக வரலாறு & தொல்லியல்",
+        "en": "Tamil Society History & Archaeology"
+      },
+      "tamil_lit_history": {
+        "unit": "6",
+        "ta": "தமிழ் இலக்கிய வரலாறு",
+        "en": "History of Tamil Literature"
+      },
+      "thirukkural_gs": {
+        "unit": "6",
+        "ta": "திருக்குறள் – சிறப்பு",
+        "en": "Thirukkural"
+      },
+      "tn_freedom": {
+        "unit": "6",
+        "ta": "விடுதலைப் போரில் தமிழ்நாடு",
+        "en": "Tamil Nadu in the Freedom Struggle"
+      },
+      "social_reform": {
+        "unit": "6",
+        "ta": "சமூக சீர்திருத்த இயக்கங்கள்",
+        "en": "Social Reform Movements"
+      },
+      "current_affairs": {
+        "unit": "6",
+        "ta": "நடப்பு நிகழ்வுகள்",
+        "en": "Current Affairs"
+      }
+    },
+    "unit_names_en": {
+      "1": "General Science",
+      "2": "Geography",
+      "3": "History, Culture & National Movement",
+      "4": "Indian Polity",
+      "5": "Indian Economy & Development Administration in Tamil Nadu",
+      "6": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu"
     }
   },
   "aptitude": {
@@ -93,24 +319,100 @@
       "2": "நுண்ணறிவு (காரணவியல்)"
     },
     "topics": {
-      "simplification":    {"unit": "1", "ta": "சுருக்குதல்"},
-      "percentage":        {"unit": "1", "ta": "சதவீதம்"},
-      "hcf_lcm":           {"unit": "1", "ta": "மீ.பொ.வ & மீ.சி.ம"},
-      "ratio_proportion":  {"unit": "1", "ta": "விகிதம் & விகிதசமம்"},
-      "simple_interest":   {"unit": "1", "ta": "தனிவட்டி"},
-      "compound_interest": {"unit": "1", "ta": "கூட்டு வட்டி"},
-      "area_volume":       {"unit": "1", "ta": "பரப்பளவு & கனஅளவு"},
-      "time_work":         {"unit": "1", "ta": "நேரமும் வேலையும்"},
-      "average":           {"unit": "1", "ta": "சராசரி"},
-      "number_series":     {"unit": "2", "ta": "எண் தொடர்"},
-      "logical_reasoning": {"unit": "2", "ta": "தருக்க அறிவு"},
-      "puzzles":           {"unit": "2", "ta": "புதிர்கள்"},
-      "alpha_numeric":     {"unit": "2", "ta": "எழுத்து-எண் காரணவியல்"},
-      "coding_decoding":   {"unit": "2", "ta": "குறியீடு"},
-      "blood_relation":    {"unit": "2", "ta": "இரத்த உறவு"},
-      "odd_one_out":       {"unit": "2", "ta": "பொருந்தாதது"},
-      "dice":              {"unit": "2", "ta": "பகடை"},
-      "visual_reasoning":  {"unit": "2", "ta": "காட்சிக் காரணவியல்"}
+      "simplification": {
+        "unit": "1",
+        "ta": "சுருக்குதல்",
+        "en": "Simplification"
+      },
+      "percentage": {
+        "unit": "1",
+        "ta": "சதவீதம்",
+        "en": "Percentage"
+      },
+      "hcf_lcm": {
+        "unit": "1",
+        "ta": "மீ.பொ.வ & மீ.சி.ம",
+        "en": "HCF & LCM"
+      },
+      "ratio_proportion": {
+        "unit": "1",
+        "ta": "விகிதம் & விகிதசமம்",
+        "en": "Ratio & Proportion"
+      },
+      "simple_interest": {
+        "unit": "1",
+        "ta": "தனிவட்டி",
+        "en": "Simple Interest"
+      },
+      "compound_interest": {
+        "unit": "1",
+        "ta": "கூட்டு வட்டி",
+        "en": "Compound Interest"
+      },
+      "area_volume": {
+        "unit": "1",
+        "ta": "பரப்பளவு & கனஅளவு",
+        "en": "Area & Volume"
+      },
+      "time_work": {
+        "unit": "1",
+        "ta": "நேரமும் வேலையும்",
+        "en": "Time & Work"
+      },
+      "average": {
+        "unit": "1",
+        "ta": "சராசரி",
+        "en": "Average"
+      },
+      "number_series": {
+        "unit": "2",
+        "ta": "எண் தொடர்",
+        "en": "Number Series"
+      },
+      "logical_reasoning": {
+        "unit": "2",
+        "ta": "தருக்க அறிவு",
+        "en": "Logical Reasoning"
+      },
+      "puzzles": {
+        "unit": "2",
+        "ta": "புதிர்கள்",
+        "en": "Puzzles"
+      },
+      "alpha_numeric": {
+        "unit": "2",
+        "ta": "எழுத்து-எண் காரணவியல்",
+        "en": "Alpha-Numeric Reasoning"
+      },
+      "coding_decoding": {
+        "unit": "2",
+        "ta": "குறியீடு",
+        "en": "Coding & Decoding"
+      },
+      "blood_relation": {
+        "unit": "2",
+        "ta": "இரத்த உறவு",
+        "en": "Blood Relations"
+      },
+      "odd_one_out": {
+        "unit": "2",
+        "ta": "பொருந்தாதது",
+        "en": "Odd One Out"
+      },
+      "dice": {
+        "unit": "2",
+        "ta": "பகடை",
+        "en": "Dice"
+      },
+      "visual_reasoning": {
+        "unit": "2",
+        "ta": "காட்சிக் காரணவியல்",
+        "en": "Visual Reasoning"
+      }
+    },
+    "unit_names_en": {
+      "1": "Aptitude",
+      "2": "Mental Ability (Reasoning)"
     }
   }
 }

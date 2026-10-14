@@ -1,0 +1,552 @@
+{
+ "PYQ-2024-GS-101": {
+  "q": "The acids present in grapes and tomatoes are ________ and ________ respectively.",
+  "o": [
+   "Malic acid, citric acid",
+   "Acetic acid, lactic acid",
+   "Tartaric acid, oxalic acid",
+   "Ascorbic acid, tannic acid"
+  ],
+  "e": "Grapes – tartaric acid; tomatoes – oxalic acid. Malic acid is in apples, citric acid in lemons, acetic acid in vinegar, lactic acid in curd, ascorbic acid (vitamin C) in amla/oranges and tannic acid in tea.",
+  "h": "fab2090d3408"
+ },
+ "PYQ-2024-GS-102": {
+  "q": "Match:\n(a) Cerebral cortex – 1. Regulates body temperature\n(b) Hypothalamus – 2. Receives sensations\n(c) Cerebellum – 3. Sleep–wake cycle\n(d) Pons – 4. Body balance",
+  "o": [
+   "(a)-1, (b)-3, (c)-2, (d)-4",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-2, (b)-1, (c)-3, (d)-4",
+   "(a)-2, (b)-1, (c)-4, (d)-3"
+  ],
+  "e": "Cerebral cortex – receives and perceives sensations (2); hypothalamus – body temperature control (1); cerebellum – balance and posture (4); pons – role in the sleep–wake cycle and breathing control (3). Hence 2, 1, 4, 3.",
+  "h": "dbfe8f5142dd"
+ },
+ "PYQ-2024-GS-103": {
+  "q": "Match:\n(a) Ganymede – 1. Revolves opposite to its planet's rotation\n(b) Titan – 2. Looks like a green star\n(c) Neptune – 3. The moon of the solar system with clouds\n(d) Triton – 4. The largest moon of the solar system",
+  "o": [
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "Ganymede (Jupiter's moon) – the largest moon in the solar system (4); Titan (Saturn's moon) – a moon with a thick atmosphere and clouds (3); Neptune – looks like a greenish-blue star (2); Triton (Neptune's moon) – orbits opposite to the planet's rotation (retrograde) (1). Hence 4, 3, 2, 1.",
+  "h": "5c6e65dbc132"
+ },
+ "PYQ-2024-GS-104": {
+  "q": "Who is the chief executive officer of a Municipal Corporation?",
+  "o": [
+   "City Manager",
+   "Municipal Commissioner",
+   "District Collector",
+   "Assistant Commissioner of Police"
+  ],
+  "e": "The Chief Executive Authority of a Municipal Corporation is the Commissioner appointed by the State Government — usually an IAS officer. The Mayor is the head of the council (political head); the District Collector heads the district administration.",
+  "h": "841fce290e66"
+ },
+ "PYQ-2024-GS-105": {
+  "q": "Who delivered 'I have a dream', one of the greatest speeches in history?",
+  "o": [
+   "Winston Churchill",
+   "Paul Kennedy",
+   "Martin Luther King",
+   "Abraham Lincoln"
+  ],
+  "e": "'I have a dream' is the famous speech delivered in Washington on 28 August 1963 by Martin Luther King Jr., leader of the American civil rights movement. Lincoln's famous speech is the 'Gettysburg Address'.",
+  "h": "b376cf0b2f94"
+ },
+ "PYQ-2024-GS-106": {
+  "q": "The aim of the Samagra Shiksha Abhiyan scheme is (as per the answer key)",
+  "o": [
+   "Integrating vocational education with general education",
+   "Integrating higher education with technical education",
+   "Integrating teacher education with general education",
+   "Integrating non-formal education with formal education"
+  ],
+  "e": "Samagra Shiksha (an integrated school-education scheme from pre-school to Class 12, launched in 2018) has vocationalisation — integrating vocational education with general education — among its main aims; the exam answer key also gives this. Higher education is outside the scheme.",
+  "h": "46e4248bb8a0"
+ },
+ "PYQ-2024-GS-107": {
+  "q": "Who wrote the book 'Ambedkar: A Life'?",
+  "o": [
+   "Shashi Tharoor",
+   "Ashwin Fernandes",
+   "Meghnad Desai",
+   "Satyajit Ray"
+  ],
+  "e": "The biography 'Ambedkar: A Life' (2022) was written by Shashi Tharoor. Satyajit Ray was a film director; Meghnad Desai is an economist.",
+  "h": "216820326470"
+ },
+ "PYQ-2024-GS-108": {
+  "q": "Match the religion with its place of worship:\n(a) Jainism – 1. Synagogue\n(b) Judaism – 2. Agiary\n(c) Buddhism – 3. Basadi\n(d) Zoroastrianism – 4. Vihara",
+  "o": [
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-2, (b)-3, (c)-1, (d)-4",
+   "(a)-1, (b)-4, (c)-2, (d)-3",
+   "(a)-3, (b)-1, (c)-4, (d)-2"
+  ],
+  "e": "Jainism – Basadi (3); Judaism – Synagogue (1); Buddhism – Vihara (4); Zoroastrianism (Parsi) – Agiary (fire temple) (2). Hence 3, 1, 4, 2.",
+  "h": "453949729e7a"
+ },
+ "PYQ-2024-GS-109": {
+  "q": "Consider the following (Assertion and Reason):\nAssertion [A]: The Make in India scheme was launched in 2014.\nReason [R]: Its main aim is to promote domestic manufacturing and increase investment in the country.",
+  "o": [
+   "[A] is true, but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "'Make in India' was launched on 25 September 2014 (Assertion true). It was launched to promote domestic manufacturing and attract investment; so the Reason is true and is the correct explanation.",
+  "h": "0f5cad881b42"
+ },
+ "PYQ-2024-GS-110": {
+  "q": "Which of the following statements correctly relate to the Himalayas?\n(i) The important ranges Zaskar, Ladakh, Kailash and Karakoram lie in the Trans-Himalayas.\n(ii) The Greater Himalayas receive less rainfall than the Lesser Himalayas and the Siwaliks.\n(iii) The Outer Himalayas form the most continuous range.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(i) and (iii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "(i) Correct — the Karakoram, Ladakh, Zaskar and Kailash are Trans-Himalayan ranges. (ii) Correct — the high Greater Himalayas (Himadri) receive less rain than the Lesser Himalayas and Siwaliks. (iii) Wrong — the most continuous range is the Greater Himalaya (Himadri); the Outer Himalaya (Siwaliks) is discontinuous.",
+  "h": "265ee2b635e9"
+ },
+ "PYQ-2024-GS-111": {
+  "q": "Which animal was not known to the Harappans?",
+  "o": [
+   "Pig",
+   "Elephant",
+   "Horse",
+   "Buffalo"
+  ],
+  "e": "The Indus Valley (Harappan) people knew the elephant, buffalo, pig and bull (they appear on seals); but the textbook says there is no firm evidence that they knew the horse. The horse became important in the Vedic age.",
+  "h": "d9ff5fe48d21"
+ },
+ "PYQ-2024-GS-112": {
+  "q": "Match the following correctly (Maratha Ashtapradhan):\n(a) Peshwa – 1. Secretary\n(b) Surnavis – 2. Chief Justice\n(c) Nyayadhish – 3. Chief Priest\n(d) Pandit Rao – 4. Prime Minister",
+  "o": [
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-2, (b)-3, (c)-4, (d)-1"
+  ],
+  "e": "In Shivaji's Ashtapradhan (council of eight ministers): Peshwa – Prime Minister (4); Surnavis – Secretary (1); Nyayadhish – Chief Justice (2); Pandit Rao – Chief Priest (religious affairs) (3). Hence 4, 1, 2, 3.",
+  "h": "d93c3aee22fc"
+ },
+ "PYQ-2024-GS-113": {
+  "q": "Which of the following states share a common High Court?",
+  "o": [
+   "Delhi and Kolkata",
+   "Kerala and Telangana",
+   "Punjab and Haryana",
+   "Maharashtra and Gujarat"
+  ],
+  "e": "The 'Punjab and Haryana High Court' at Chandigarh is common to Punjab, Haryana and the Union Territory of Chandigarh (Article 231 allows a common High Court for two or more States). The other pairs have separate High Courts.",
+  "h": "163e1e478717"
+ },
+ "PYQ-2024-GS-114": {
+  "q": "In which year did the Government of India declare Tamil as the first classical language?",
+  "o": [
+   "2008",
+   "2010",
+   "2004",
+   "2002"
+  ],
+  "e": "In October 2004 the Government of India declared Tamil the country's first classical language. Later Sanskrit (2005), Telugu and Kannada (2008), Malayalam (2013) and Odia (2014) received classical status.",
+  "h": "cfe4eced21c8"
+ },
+ "PYQ-2024-GS-115": {
+  "q": "Human Rights Day is observed on ________.",
+  "o": [
+   "December 9",
+   "December 11",
+   "December 10",
+   "December 12"
+  ],
+  "e": "December 10 is observed every year as Human Rights Day, marking the adoption of the Universal Declaration of Human Rights by the UN General Assembly on 10 December 1948.",
+  "h": "2890961abb98"
+ },
+ "PYQ-2024-GS-116": {
+  "q": "Arrange the following committees in chronological order:\nI. G.V.K. Rao Committee\nII. Balwant Rai Mehta Committee\nIII. L.M. Singhvi Committee\nIV. Ashok Mehta Committee",
+  "o": [
+   "III, I, II, IV",
+   "IV, III, I, II",
+   "II, IV, III, I",
+   "II, IV, I, III"
+  ],
+  "e": "Committees on Panchayati Raj: Balwant Rai Mehta Committee (1957) → Ashok Mehta Committee (1977) → G.V.K. Rao Committee (1985) → L.M. Singhvi Committee (1986). Hence II, IV, I, III.",
+  "h": "958969f71376"
+ },
+ "PYQ-2024-GS-117": {
+  "q": "Which of the following statements about the Anti-Defection Law is correct?\n(i) It was provided by the 52nd Constitutional Amendment, 1985.\n(ii) It was added to the 9th Schedule of the Constitution.\n(iii) A minor change was made to it by the 91st Constitutional Amendment, 2003.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "The Anti-Defection Law was brought in by the 52nd Amendment (1985) — (i) correct. It was added as the 10th Schedule, not the 9th — (ii) wrong. The 91st Amendment (2003) amended it by removing the 'split' exception — (iii) correct.",
+  "h": "d676d69e697b"
+ },
+ "PYQ-2024-GS-118": {
+  "q": "Which industrial policy removed the restrictions of the MRTP Act, 1969 in India?",
+  "o": [
+   "Industrial Policy of 1991",
+   "Industrial Policy of 1977",
+   "Industrial Policy of 1980",
+   "Industrial Policy of 1990"
+  ],
+  "e": "The New Industrial Policy of 1991, which began liberalisation, removed the asset-limit restrictions of the MRTP (Monopolies and Restrictive Trade Practices) Act, 1969. Later the Competition Act, 2002 replaced the MRTP Act.",
+  "h": "b421c0575c08"
+ },
+ "PYQ-2024-GS-119": {
+  "q": "By whom was the Kisan Credit Card (KCC) introduced in 1998?",
+  "o": [
+   "Reserve Bank of India (RBI)",
+   "NABARD",
+   "Government of India",
+   "RBI and NABARD"
+  ],
+  "e": "To give farmers easy short-term credit, the Reserve Bank of India and NABARD jointly designed the Kisan Credit Card scheme in 1998 (on the recommendation of the R.V. Gupta Committee).",
+  "h": "95ad711045e6"
+ },
+ "PYQ-2024-GS-120": {
+  "q": "Assertion [A]: The Union Ministry of Education (formerly the Ministry of Human Resource Development – MHRD) formulates and implements the country's education policies and programmes.\nReason [R]: The Union Ministry of Education decides the budget for education.",
+  "o": [
+   "Both [A] and [R] are true, and [R] explains [A]",
+   "Both [A] and [R] are true, but [R] does not explain [A]",
+   "[A] is true and [R] is false",
+   "[A] is false and [R] is true"
+  ],
+  "e": "The Union Ministry of Education (MHRD until 2020) formulates the country's education policies and implements programmes; it also decides the funding (budget) for education. As per the exam answer key, both are true and the Reason explains the Assertion.",
+  "h": "d12f42121779"
+ },
+ "PYQ-2024-GS-121": {
+  "q": "The initial total capital of the Swadeshi Steam Navigation Company was",
+  "o": [
+   "₹2 lakh",
+   "₹5 lakh",
+   "₹8 lakh",
+   "₹10 lakh"
+  ],
+  "e": "The Swadeshi Steam Navigation Company started by V.O. Chidambaranar at Thoothukudi in 1906 had a capital of ₹10 lakh (40,000 shares of ₹25 each) (textbook).",
+  "h": "423588f50839"
+ },
+ "PYQ-2024-GS-122": {
+  "q": "Ram Prasad Bismil and Ashfaqulla Khan were arrested and sentenced for revolutionary activities in the ________.",
+  "o": [
+   "Chittagong Armoury Raid",
+   "Kakori Conspiracy Case",
+   "Lahore Conspiracy Case",
+   "Throwing smoke bombs in the Central Legislative Assembly"
+  ],
+  "e": "In the 'Kakori Conspiracy Case' — the robbery of a train carrying government money near Kakori in August 1925 — Ram Prasad Bismil, Ashfaqulla Khan and others were hanged in 1927. Chittagong – Surya Sen; Lahore Conspiracy and the Assembly bomb – Bhagat Singh.",
+  "h": "34251c934336"
+ },
+ "PYQ-2024-GS-123": {
+  "q": "Who defended the revolutionary nationalists in the Alipore Bomb Case?",
+  "o": [
+   "Chittaranjan Das",
+   "Bal Gangadhar Tilak",
+   "V.O. Chidambaram",
+   "G. Subramaniam"
+  ],
+  "e": "In the Alipore Conspiracy Case (1908–09), Chittaranjan Das (Deshbandhu) defended the revolutionaries including Aurobindo Ghosh and secured Aurobindo's acquittal.",
+  "h": "55de073b8be0"
+ },
+ "PYQ-2024-GS-124": {
+  "q": "Who received the titles Rao Sahib (1926), Rao Bahadur (1930) and Dewan Bahadur (1936) for selfless service?",
+  "o": [
+   "Rettaimalai Srinivasan",
+   "Mylai Chinnathambi Raja",
+   "M. Singaravelar",
+   "Dr. C. Natesanar"
+  ],
+  "e": "Rettaimalai Srinivasan, who fought for the rights of the depressed classes, received the titles Rao Sahib (1926), Rao Bahadur (1930) and Dewan Bahadur (1936) from the British government. He also attended the Round Table Conferences.",
+  "h": "0ddf7c865bb8"
+ },
+ "PYQ-2024-GS-125": {
+  "q": "What does Valluvar call the lamp that removes inner darkness?",
+  "o": [
+   "Lamp of penance",
+   "Lamp of grace",
+   "Lamp of the family",
+   "Lamp of truthfulness (பொய்யா விளக்கு)"
+  ],
+  "e": "'எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப் பொய்யா விளக்கே விளக்கு' (Kural 299, Vaaimai). For the wise, the true lamp is not one that removes outer darkness but truthfulness, which removes inner darkness.",
+  "h": "8bc51444c678"
+ },
+ "PYQ-2024-AP-126": {
+  "q": "A person deposits ₹12,000 in a fixed deposit at 5% compound interest for 2 years. What maturity amount will he receive?",
+  "o": [
+   "₹13,200",
+   "₹13,430",
+   "₹13,230",
+   "₹12,600"
+  ],
+  "e": "Amount A = P(1 + r/100)ⁿ = 12000 × (1.05)² = 12000 × 1.1025 = ₹13,230. ₹13,200 is the amount under simple interest (12000 + 1200); ₹12,600 is the amount for one year only.",
+  "h": "492df90fc3d8"
+ },
+ "PYQ-2024-GS-127": {
+  "q": "Pliny the Elder of Rome, in his Natural History, referred to ________ as 'the first emporium of India'.",
+  "o": [
+   "Kaveripoompattinam",
+   "Nagapattinam",
+   "Muziris (Musiri)",
+   "Korkai"
+  ],
+  "e": "In his 'Natural History', Pliny the Elder called the Chera port of Muziris (Musiri) 'the first emporium of India' (primum emporium Indiae).",
+  "h": "6c3a939fc4de"
+ },
+ "PYQ-2024-GS-128": {
+  "q": "The first conference of the Dravida Mahajana Sabha, founded by Iyothee Thass in 1891, was held at",
+  "o": [
+   "Salem",
+   "Tiruchi",
+   "Nilgiris",
+   "Madurai"
+  ],
+  "e": "Iyothee Thass Pandithar founded the Dravida Mahajana Sabha in 1891 and held its first conference in the Nilgiris (Udhagamandalam) (textbook).",
+  "h": "a57dfba8daa2"
+ },
+ "PYQ-2024-GS-129": {
+  "q": "Who praised the Thirukkural saying that those who have learnt it well would not think of the Manu and other codes ('வள்ளுவன் செய்த திருக்குறளை நன்கு கற்றுணர்ந்தோர் உள்ளுவரோ மனுவாதி')?",
+  "o": [
+   "Avvaiyar",
+   "Prof. Sundaram Pillai",
+   "Bharathiyar",
+   "Suddhananda Bharathiyar"
+  ],
+  "e": "Manonmaniyam P. Sundaram Pillai praised the Thirukkural: 'வள்ளுவர் செய்திருக்குறளை மறுவற நன்குணர்ந்தோர் உள்ளுவரோ மனுவாதி ஒருகுலத்துக் கொருநீதி'. It means those who know the Thirukkural well will not seek other codes like the Manu Neethi (which prescribe a different justice for each caste).",
+  "h": "31332113d4fa"
+ },
+ "PYQ-2024-GS-130": {
+  "q": "'ஞாலம் கருதினும் கைகூடும்' — according to this Kural, even if a person aims to conquer the whole world, which two must he know and act upon?",
+  "o": [
+   "Wealth and valour",
+   "Time and place",
+   "Help of brothers and sisters",
+   "Help of mother and father"
+  ],
+  "e": "'ஞாலம் கருதினுங் கைகூடுங் காலங் கருதி இடத்தாற் செயின்' (Kural 484). If one acts knowing the right time and the right place, even the aim of conquering the world will succeed.",
+  "h": "6c21c35a85ce"
+ },
+ "PYQ-2024-GS-131": {
+  "q": "In which year was the Anemia Mukt Bharat programme launched?",
+  "o": [
+   "2010",
+   "2015",
+   "2018",
+   "2020"
+  ],
+  "e": "The 'Anemia Mukt Bharat' programme to reduce anaemia was launched in 2018 under the National Nutrition Mission (POSHAN Abhiyaan) and implemented in Tamil Nadu too. It follows a '6×6×6' strategy.",
+  "h": "cbd32fde1be6"
+ },
+ "PYQ-2024-GS-132": {
+  "q": "The implementation period of the Tamil Nadu Urban Health Care Project, funded by the Japan International Cooperation Agency (JICA), is ________ years.",
+  "o": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "e": "The Tamil Nadu Urban Health Care Project was implemented with a JICA loan from April 2016 to March 2023 — seven years (JICA project details). It improved the infrastructure and services of urban government hospitals.",
+  "h": "b898031fe9ad"
+ },
+ "PYQ-2024-GS-133": {
+  "q": "India observed 2018 as the National Year of which crop?",
+  "o": [
+   "Millets",
+   "Oilseeds",
+   "Sugarcane",
+   "Cotton"
+  ],
+  "e": "India observed 2018 as the 'National Year of Millets'. On India's proposal, the UN declared 2023 the 'International Year of Millets'.",
+  "h": "dfbe78bcebbf"
+ },
+ "PYQ-2024-GS-134": {
+  "q": "Assertion [A]: The Talent Search Examination scheme was launched in 2023.\nReason [R]: It was created to encourage government school students to pursue higher education in premier institutions.",
+  "o": [
+   "[A] is true, but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "The Tamil Nadu Government launched the Chief Minister's Talent Search Examination for government school students in 2023; its aim is to give scholarships to those selected and encourage them to study in premier higher-education institutions. So both are true and the Reason explains the Assertion.",
+  "h": "4ab8035cfbc0"
+ },
+ "PYQ-2024-GS-135": {
+  "q": "In the 2023–24 budget estimates, ________ crore was allocated for various welfare schemes for the overall development of Adi Dravidar and tribal people.",
+  "o": [
+   "₹3012.85",
+   "₹3212.85",
+   "₹3512.85",
+   "₹3552.85"
+  ],
+  "e": "In the 2023–24 Tamil Nadu budget, about ₹3,512.85 crore (≈ ₹3,513 crore) was allocated to the Adi Dravidar and Tribal Welfare Department. The same budget announced the ₹1,000 crore 'Ayothidasa Pandithar Habitation Development Scheme' for Adi Dravidar habitations.",
+  "h": "482b87f09a02"
+ },
+ "PYQ-2024-AP-136": {
+  "q": "A conical tent of radius 700 cm and height 24 m is made of canvas. If the rectangular canvas is 4 m wide, find its length.",
+  "o": [
+   "137.5 m",
+   "13.75 m",
+   "1.375 m",
+   "1.037 m"
+  ],
+  "e": "r = 700 cm = 7 m, h = 24 m. Slant height l = √(7² + 24²) = √625 = 25 m. Curved surface area = πrl = (22/7) × 7 × 25 = 550 m². Canvas area = length × width ⇒ length = 550 ÷ 4 = 137.5 m.",
+  "h": "10f192ebcb4f"
+ },
+ "PYQ-2024-AP-137": {
+  "q": "Find the next number: 1, 2, 6, 24, 120, ?",
+  "o": [
+   "135",
+   "146",
+   "720",
+   "438"
+  ],
+  "e": "Each number is the previous one multiplied by 2, 3, 4, 5… (1×2 = 2, 2×3 = 6, 6×4 = 24, 24×5 = 120). Next is 120 × 6 = 720 (these are the factorials 1!, 2!, 3!, 4!, 5!, 6!).",
+  "h": "904b0b034bf5"
+ },
+ "PYQ-2024-AP-138": {
+  "q": "If x : y = 2 : 1, then (x² − y²) : (x² + y²) is",
+  "o": [
+   "5 : 3",
+   "1 : 3",
+   "3 : 1",
+   "3 : 5"
+  ],
+  "e": "Let x = 2k, y = k. x² − y² = 4k² − k² = 3k²; x² + y² = 4k² + k² = 5k². So the ratio is 3 : 5.",
+  "h": "34e6ae4a0812"
+ },
+ "PYQ-2024-AP-139": {
+  "q": "Kumaran bought a raincoat at a 20% discount and saved ₹25. What was the original price of the raincoat?",
+  "o": [
+   "₹125",
+   "₹250",
+   "₹175",
+   "₹150"
+  ],
+  "e": "20% of the original price = ₹25 ⇒ original price = 25 × 100 ÷ 20 = ₹125. Check: 20% of 125 = 25.",
+  "h": "d1e336887801"
+ },
+ "PYQ-2024-AP-140": {
+  "q": "If A = 1, B = 2, C = 3, …, Z = 26, the LCM of H, C, F is NOT equal to",
+  "o": [
+   "X",
+   "E + S",
+   "A + C + H",
+   "A × C × H"
+  ],
+  "e": "H = 8, C = 3, F = 6; LCM (8, 3, 6) = 24. X = 24 ✓; E + S = 5 + 19 = 24 ✓; A × C × H = 1 × 3 × 8 = 24 ✓; A + C + H = 1 + 3 + 8 = 12 ✗. So only A + C + H is not equal to 24.",
+  "h": "04d5c6514c40"
+ },
+ "PYQ-2024-AP-141": {
+  "q": "Find the value of √(5√(5√(5…)))",
+  "o": [
+   "5³",
+   "5⁰",
+   "5²",
+   "5¹"
+  ],
+  "e": "Let x = √(5√(5√5…)). Then x = √(5x) ⇒ x² = 5x ⇒ x = 5 (x ≠ 0). So the value is 5 = 5¹.",
+  "h": "009a13079f43"
+ },
+ "PYQ-2024-AP-142": {
+  "q": "How many great circles does a hemisphere have?",
+  "o": [
+   "1",
+   "0",
+   "Infinitely many",
+   "2"
+  ],
+  "e": "A great circle is the circle cut by a plane through the centre of a sphere; a sphere has infinitely many. But a hemisphere has only one great circle — its base circle (rim).",
+  "h": "6a51aacb72b4"
+ },
+ "PYQ-2024-AP-143": {
+  "q": "Find the volume of a cylinder of height 4 m and base area 500 sq. m.",
+  "o": [
+   "2000 m³",
+   "2500 m³",
+   "2100 m³",
+   "2700 m³"
+  ],
+  "e": "Volume of a cylinder = base area × height = 500 × 4 = 2000 m³.",
+  "h": "41ed4f612415"
+ },
+ "PYQ-2024-AP-144": {
+  "q": "If (3x + 4y) : (4x + 6y) = 22 : 32, then x : y is",
+  "o": [
+   "1 : 2",
+   "1 : 4",
+   "2 : 1",
+   "3 : 1"
+  ],
+  "e": "(3x + 4y) / (4x + 6y) = 22/32 = 11/16 ⇒ 16(3x + 4y) = 11(4x + 6y) ⇒ 48x + 64y = 44x + 66y ⇒ 4x = 2y ⇒ x : y = 1 : 2. Check: x = 1, y = 2 ⇒ 11 : 16 = 22 : 32.",
+  "h": "d1e48d7e44b2"
+ },
+ "PYQ-2024-AP-145": {
+  "q": "Two numbers a and b are in the ratio m : n. What is the LCM of a and b? (m and n are co-prime)",
+  "o": [
+   "ma",
+   "nb",
+   "mb",
+   "ab"
+  ],
+  "e": "Let a = mk, b = nk (m, n have no common factor). Then HCF = k and LCM = mnk. Since mb = m × nk = mnk, LCM = mb (= na). ma = m²k, nb = n²k and ab = mnk² are not equal to it in general.",
+  "h": "ee140441fa47"
+ },
+ "PYQ-2024-AP-146": {
+  "q": "A clever man carries 3 sacks of 30 mangoes each. At every toll gate he must give 1 mango per sack. How many mangoes will he have left after crossing 30 toll gates?",
+  "o": [
+   "0",
+   "10",
+   "20",
+   "25"
+  ],
+  "e": "He cleverly combines sacks as they empty. With 3 sacks through 10 gates → 3 mangoes each = 30 given; 60 left → he repacks into 2 sacks (30 each). Next 15 gates × 2 = 30 given; 30 left → 1 sack. Remaining 5 gates × 1 = 5. Finally 30 − 5 = 25 mangoes remain.",
+  "h": "b0f0f721e54f"
+ },
+ "PYQ-2024-AP-147": {
+  "q": "What is the length of the longest rod that can be placed in a room 24 m long, 18 m wide and 16 m high?",
+  "o": [
+   "14 m",
+   "24 m",
+   "34 m",
+   "44 m"
+  ],
+  "e": "The longest rod is the room's diagonal: √(l² + b² + h²) = √(24² + 18² + 16²) = √(576 + 324 + 256) = √1156 = 34 m.",
+  "h": "36bd2a785fc1"
+ },
+ "PYQ-2024-GS-148": {
+  "q": "Which is absent in the milk-teeth set of mammals (humans)?",
+  "o": [
+   "Premolars",
+   "Molars",
+   "Canines",
+   "Incisors"
+  ],
+  "e": "Humans have 20 milk teeth: in each half-jaw 2 incisors, 1 canine and 2 molars (dental formula 2102). Premolars are absent in milk teeth; they appear only in permanent teeth (permanent formula 2123). Note: the original paper and TNPSC's final answer key mark 'molars' (B). But textbook science is that milk teeth have molars and lack premolars, so the scientifically correct answer is given here.",
+  "h": "ce8f5f723a2b"
+ },
+ "PYQ-2024-GS-149": {
+  "q": "Which form of food is transported through phloem loading?",
+  "o": [
+   "Glucose",
+   "Starch",
+   "Fructose",
+   "Sucrose"
+  ],
+  "e": "Food made in leaves is transported through the phloem as sucrose (cane sugar); this is phloem loading. Starch is insoluble, so it is not transported; glucose and fructose are reactive.",
+  "h": "056c23d91d35"
+ },
+ "PYQ-2024-GS-150": {
+  "q": "Which statement is wrong? 'Conditions under which the Doppler effect does not occur':\n1. The listener is at rest and the source moves towards the listener.\n2. The source (S) and listener (L) move such that the distance between them stays the same.\n3. The source (S) and listener (L) move perpendicular to each other.\n4. The source is at the centre of a circular path and the listener moves along the circle.",
+  "o": [
+   "1 only",
+   "1 and 2 only",
+   "1 and 4 only",
+   "3 and 4 only"
+  ],
+  "e": "There is no Doppler effect when the distance between them does not change: both moving with constant separation (2), moving at right angles (3), and the listener moving in a circle around a source at the centre (4) — these are correct conditions. But if the source moves towards the listener (1), the frequency rises and the Doppler effect occurs — so only 1 is wrong.",
+  "h": "adb6f5e1b30a"
+ }
+}

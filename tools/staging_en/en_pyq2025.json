@@ -1,0 +1,497 @@
+{
+ "PYQ-2025-GS-101": {
+  "q": "Match correctly (Tamil Nadu child welfare schemes):\n(a) Financial assistance to dependent children – 1. Those between 18 and 21 years\n(b) Care of destitute and orphan girls – 2. Provided to destitute, abandoned and lone children\n(c) Foster care services scheme – 3. Children below 16 years\n(d) After-Care Home – 4. Children between 6 and 16 years",
+  "o": [
+   "(a)-2, (b)-3, (c)-1, (d)-4",
+   "(a)-4, (b)-2, (c)-3, (d)-1",
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-2, (b)-4, (c)-1, (d)-3"
+  ],
+  "e": "Financial assistance to dependent children – below 16 years (3); care of destitute/orphan girls – 6 to 16 years (4); foster care – gives a family setting to destitute and abandoned children (2); After-Care Home – for 18–21-year-olds leaving homes (1). Hence 3, 4, 2, 1.",
+  "h": "470b6d543f89"
+ },
+ "PYQ-2025-GS-103": {
+  "q": "Identify the incorrect statement(s) about the Tamil Nadu Health System Reform Programme (TNHSRP).\n(i) The programme is supported by the World Bank.\n(ii) The programme is funded by the Centre and State in the ratio 60 : 40.\n(iii) This results-based programme is implemented by the Tamil Nadu Health and Family Welfare Department.\n(iv) The programme aims to achieve SDG 9.",
+  "o": [
+   "(i) and (iii) only",
+   "(ii) and (iii) only",
+   "(ii) and (iv) only",
+   "(iii) only"
+  ],
+  "e": "TNHSRP is implemented with a World Bank loan (i correct) by the Tamil Nadu Health and Family Welfare Department as a 'Program for Results' (iii correct). It is not a Centre–State 60:40 funded scheme (ii wrong); it targets SDG 3 on health and well-being — not SDG 9 (industry, innovation, infrastructure) (iv wrong).",
+  "h": "80bf94d8d262"
+ },
+ "PYQ-2025-GS-105": {
+  "q": "Identify the wrongly matched pairs.\n(1) Lokpal and Lokayuktas Act came into force – January 16, 2014\n(2) Tamil declared a classical language – October 10, 2004\n(3) Election Commission of India – Article 324\n(4) National Integration Council of India – 1960",
+  "o": [
+   "(1) and (3)",
+   "(2) and (4)",
+   "(3) and (4)",
+   "(4) and (1)"
+  ],
+  "e": "The Lokpal and Lokayuktas Act, 2013 came into force on 16 January 2014 (1 correct); Election Commission – Article 324 (3 correct). The notification declaring Tamil a classical language was issued on 12 October 2004 — not 10 October (2 wrong); the National Integration Council was set up in 1961 — not 1960 (4 wrong).",
+  "h": "36192e746062"
+ },
+ "PYQ-2025-GS-106": {
+  "q": "The aim of the 'Surya Ghar Muft Bijli Yojana' is",
+  "o": [
+   "Installing rooftop solar power on houses",
+   "Providing houses to the poor",
+   "Providing insurance to adults",
+   "Funding small industries"
+  ],
+  "e": "The PM 'Surya Ghar Muft Bijli Yojana', launched in February 2024, aims to install rooftop solar panels on one crore houses and provide up to 300 units of free electricity a month.",
+  "h": "8ac060103033"
+ },
+ "PYQ-2025-GS-108": {
+  "q": "Assertion [A]: In India, the Goods and Services Tax is a comprehensive, multi-stage, destination-based tax levied at every stage of value addition.\nReason [R]: Its aim is 'One Tax, One Market, One Nation'.",
+  "o": [
+   "[A] is true, but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "GST (1 July 2017) is a comprehensive multi-stage tax levied at every stage of value addition and based on where consumption takes place (destination-based). It merged many indirect taxes precisely to achieve 'One Nation, One Tax, One Market'. Both are true; the Reason explains the Assertion (answer key).",
+  "h": "2a979655fb3b"
+ },
+ "PYQ-2025-GS-109": {
+  "q": "Arrange the following Tamil Nadu Finance Ministers in chronological order of their budget years.\n1. Thiru. Panneerselvam\n2. Dr. Nedunchezhiyan\n3. Thiru. Palanivel Thiagarajan\n4. Thiru. Thangam Thennarasu",
+  "o": [
+   "1 2 3 4",
+   "4 3 2 1",
+   "2 1 3 4",
+   "1 4 2 3"
+  ],
+  "e": "R. Nedunchezhiyan presented budgets as Finance Minister in the 1970s–80s; O. Panneerselvam in the 2010s; Palanivel Thiagarajan in 2021–2023; Thangam Thennarasu from 2023. Hence 2, 1, 3, 4.",
+  "h": "47c4cf648761"
+ },
+ "PYQ-2025-GS-110": {
+  "q": "Assertion [A]: The 1966–69 period is called the period of 'Annual Plans' or the 'Plan Holiday'.\nReason [R]: Because of two major conflicts with China and Pakistan.",
+  "o": [
+   "[A] is true, [R] is false",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true"
+  ],
+  "e": "The Third Five-Year Plan (1961–66) failed because of the war with China (1962), the war with Pakistan (1965) and severe drought, so three annual plans replaced a five-year plan in 1966–69 — the 'Plan Holiday'. Both are true; the Reason explains the Assertion (answer key).",
+  "h": "cfe47051ffb9"
+ },
+ "PYQ-2025-GS-111": {
+  "q": "Assertion: Thiruvalluvar has given only a few ideas in his couplets about the greatness and governance of the three crowned kings (Moovendhar) of Tamil Nadu.\nReason: He felt he should express ideas on the governing ability of kings.",
+  "o": [
+   "Both Assertion and Reason are true",
+   "Reason is false but Assertion is true",
+   "Both Assertion and Reason are false",
+   "Assertion is false but Reason is true"
+  ],
+  "e": "The Thirukkural does not name or praise any king, the Moovendhar dynasties or any country; it is a universal scripture applicable to all lands and times — so the Assertion is false. But in chapters such as Iraimatchi and Sengonmai, Valluvar gives general ideas on a king's governance — the Reason is true.",
+  "h": "97468dbafed2"
+ },
+ "PYQ-2025-GS-112": {
+  "q": "How many chapters (adhikarams) are there in the Thuravaraviyal section of the Thirukkural?",
+  "o": [
+   "18",
+   "13",
+   "12",
+   "16"
+  ],
+  "e": "Arathuppal has four sections: Payiraviyal (4), Illaraviyal (20), Thuravaraviyal (13) and Oozhiyal (1) — 38 chapters in all. Thuravaraviyal has 13 chapters, from Aruludaimai (25) to Avaavaruththal (37).",
+  "h": "d2b032f72564"
+ },
+ "PYQ-2025-GS-113": {
+  "q": "The author of the book 'Valluvarum Kuralum' is",
+  "o": [
+   "Tamilannal",
+   "Ki.Aa.Pe. Viswanatham",
+   "Ra.Pi. Sethu Pillai",
+   "Thiru.Vi. Kalyanasundaranar"
+  ],
+  "e": "'Muthamizh Kaavalar' Ki.Aa.Pe. Viswanatham wrote the book 'Valluvarum Kuralum' (textbook).",
+  "h": "432cec0c05c5"
+ },
+ "PYQ-2025-GS-114": {
+  "q": "Who first painted the portrait of Thiruvalluvar?",
+  "o": [
+   "Venkata Krishna Pandithar",
+   "Venugopal Sharma",
+   "Saminatha Sharma",
+   "Vannacharaba Dheekshithar"
+  ],
+  "e": "The portrait of Thiruvalluvar painted by artist K.R. Venugopal Sharma was adopted as the official image by the Tamil Nadu Government in 1960 and by the Government of India in 1964; it was also unveiled in Parliament.",
+  "h": "17bf9b784ded"
+ },
+ "PYQ-2025-GS-116": {
+  "q": "Choose the correct statements about the Theosophical Society.\n(i) The Theosophical Society was founded in New York by Madame Blavatsky and Colonel H.S. Olcott.\n(ii) Annie Besant joined it in India in 1888.\n(iii) Its headquarters is at Adyar, Chennai.",
+  "o": [
+   "(i) and (ii)",
+   "(ii) and (iii)",
+   "(i) and (iii)",
+   "(iii) only"
+  ],
+  "e": "The Theosophical Society was founded in New York in 1875 by Blavatsky and Olcott (i correct); since 1886 its headquarters has been at Adyar, Chennai (iii correct). Annie Besant joined the Society in England in 1889 and came to India in 1893 — so (ii) is wrong.",
+  "h": "3fe196612f47"
+ },
+ "PYQ-2025-GS-117": {
+  "q": "Assertion [A]: In 1925 E.V.R. Periyar started the Self-Respect Movement.\nReason [R]: The official newspaper of the Self-Respect Movement was New India.",
+  "o": [
+   "[A] is true but [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Periyar started the Self-Respect Movement in 1925 (Assertion true). Its journals included 'Kudi Arasu', 'Puratchi' and 'Viduthalai'; 'New India' was Annie Besant's Home Rule movement paper — so the Reason is false.",
+  "h": "2e8f6856fb64"
+ },
+ "PYQ-2025-GS-119": {
+  "q": "Choose the correct statements.\n(1) The Congress party boycotted the 1923 elections in Madras.\n(2) The Swaraj Party won 11 seats.\n(3) The Justice Party formed the ministry in Madras.\n(4) Kamaraj led the Non-Cooperation Movement in Madras.",
+  "o": [
+   "(1), (4) are correct",
+   "(1), (2) are correct",
+   "(1), (3) are correct",
+   "(1), (2), (3) are correct"
+  ],
+  "e": "The Congress boycotted the 1923 Madras Legislative Council elections; the Swaraj Party, which broke away from the Congress, contested and won 11 seats; the Justice Party, with 44 seats, again formed the ministry under the Raja of Panagal — (1), (2), (3) correct. Kamaraj did not lead the Non-Cooperation Movement in Madras — (4) wrong.",
+  "h": "f2525ad8ebd5"
+ },
+ "PYQ-2025-GS-120": {
+  "q": "Match the following:\n(a) Karaikkal Ammaiyar – 1. Thiruvanthathi\n(b) Andal – 2. Kachikalambagam\n(c) Aranganatha Mudaliyar – 3. Paavai songs\n(d) Cheraman Perumal Nayanar – 4. Mootha Thiruppathigangal",
+  "o": [
+   "(a)-2, (b)-3, (c)-1, (d)-4",
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-1, (b)-2, (c)-3, (d)-4"
+  ],
+  "e": "Karaikkal Ammaiyar – Thiruvalangattu Mootha Thiruppathigangal (4); Andal – Thiruppavai (Paavai songs) (3); Aranganatha Mudaliyar – Kachikalambagam (2); Cheraman Perumal Nayanar – Andhathis such as Ponvannathu Andhathi (1). Hence 4, 3, 2, 1.",
+  "h": "d3d69955cc24"
+ },
+ "PYQ-2025-GS-122": {
+  "q": "What important role does non-coding RNA (ncRNA) play?",
+  "o": [
+   "Coding for proteins",
+   "Replication",
+   "Gene regulation",
+   "Carbohydrate synthesis"
+  ],
+  "e": "RNAs that do not code for proteins (such as microRNA, siRNA and lncRNA) play an important role in regulating gene expression (gene regulation). Coding for protein is the job of mRNA; that is why these are called 'non-coding' RNA.",
+  "h": "5ebbdaccdf92"
+ },
+ "PYQ-2025-GS-123": {
+  "q": "Identify the correct pairs:\n(1) Five-kingdom classification – R.H. Whittaker\n(2) Six-kingdom classification – Carl Woese et al.\n(3) Four-kingdom classification – Carl Linnaeus\n(4) Three-kingdom classification – Ernst Haeckel",
+  "o": [
+   "(1) only is correct",
+   "(1), (2) and (4) are correct",
+   "(1) and (2) are correct",
+   "(1), (2) and (3) are correct"
+  ],
+  "e": "Five kingdoms – Whittaker (1969); six kingdoms – Carl Woese and others; three kingdoms – Ernst Haeckel (1866) — these are correct. The four-kingdom classification is Copeland's (1956); Linnaeus proposed the two-kingdom classification (plants, animals) — so (3) is wrong.",
+  "h": "36b04c8d913b"
+ },
+ "PYQ-2025-GS-124": {
+  "q": "A 0.10 M solution of a weak acid is 1.20% dissociated at 25°C. The value of the dissociation constant is",
+  "o": [
+   "1.44 × 10⁵",
+   "1.44 × 10⁻⁴",
+   "1.44 × 10⁻⁵",
+   "1.44 × 10⁴"
+  ],
+  "e": "Degree of dissociation α = 1.20% = 0.012. By Ostwald's dilution law, Ka = α²C = (0.012)² × 0.10 = 0.000144 × 0.10 = 1.44 × 10⁻⁵.",
+  "h": "ac65a9699134"
+ },
+ "PYQ-2025-GS-125": {
+  "q": "The GSLV-F15 rocket was launched by ISRO on ________.",
+  "o": [
+   "January 29, 2025",
+   "March 08, 2025",
+   "January 29, 2024",
+   "March 08, 2024"
+  ],
+  "e": "GSLV-F15 was launched from Sriharikota on 29 January 2025 carrying the NVS-02 navigation satellite; it was the 100th launch from Sriharikota.",
+  "h": "9a4736c25dd6"
+ },
+ "PYQ-2025-GS-127": {
+  "q": "Who was the Prime Minister of India when the 42nd Constitutional Amendment Act was passed?",
+  "o": [
+   "Jawaharlal Nehru",
+   "V.P. Singh",
+   "Indira Gandhi",
+   "Morarji Desai"
+  ],
+  "e": "The 42nd Amendment (1976) was passed during the Emergency when Indira Gandhi was Prime Minister; it is called the 'mini-Constitution' because, among other changes, it added 'socialist', 'secular' and 'integrity' to the Preamble. Many of its changes were undone by the Morarji Desai government's 44th Amendment (1978).",
+  "h": "d9749f7e90b4"
+ },
+ "PYQ-2025-GS-128": {
+  "q": "Assertion [A]: The Pallavas created rock-cut cave temples without building materials such as wood, mortar, metal and brick.\nReason [R]: Buildings made by placing granite stones one over another without lime are called 'Karrali' (structural stone temples).",
+  "o": [
+   "[A] is true but [R] is false",
+   "[A] is false but [R] is true",
+   "Both [A] and [R] are true",
+   "Both [A] and [R] are false"
+  ],
+  "e": "Mahendravarman's Mandagapattu inscription says the temple was cut out of rock without brick, timber, metal or mortar (Assertion true). Structural temples built by stacking stones without lime are called 'Karrali' (e.g. Kailasanatha temple, Kanchi) — the Reason is also true.",
+  "h": "f84d104f8a7e"
+ },
+ "PYQ-2025-GS-129": {
+  "q": "Find the incorrect pair.\n(1) South Dravidian language – Malayalam\n(2) East Dravidian language – Munda\n(3) Central Dravidian language – Telugu\n(4) North Dravidian language – Kurukh",
+  "o": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)"
+  ],
+  "e": "Dravidian languages fall into only three groups: South (Tamil, Malayalam, Kannada), Central (Telugu, Gondi) and North (Kurukh, Malto, Brahui); there is no 'East Dravidian' group. Also, Munda belongs to the Austro-Asiatic family, not Dravidian. So (2) is the incorrect pair.",
+  "h": "5d6f82543d53"
+ },
+ "PYQ-2025-GS-130": {
+  "q": "Assertion [A]: Rabindranath Tagore renounced his title of 'Sir'.\nReason [R]: The Jallianwala Bagh massacre took place in Amritsar on 13 April 1919.",
+  "o": [
+   "[A] is true, [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Tagore renounced the knighthood ('Sir') given by the British government in protest against the Jallianwala Bagh massacre of 13 April 1919. So both are true and the Reason explains the Assertion.",
+  "h": "419d1e6875bc"
+ },
+ "PYQ-2025-GS-131": {
+  "q": "Assertion [A]: The first session of the Indian National Congress met in Bombay on 28 December 1885.\nReason [R]: 21 persons from the Tamil region attended it.",
+  "o": [
+   "Assertion [A] is true but Reason [R] is false",
+   "Both Assertion [A] and Reason [R] are true, and [R] is the correct explanation of [A]",
+   "Assertion [A] is false, Reason [R] is true",
+   "Both Assertion [A] and Reason [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "The first session of the Indian National Congress met in Bombay on 28 December 1885 under W.C. Bonnerjee with 72 delegates; 21 of them were from the Madras Presidency. Both are true; but the attendance of 21 people is not the reason the session was held.",
+  "h": "d47eacd38021"
+ },
+ "PYQ-2025-GS-132": {
+  "q": "Which of the following statements about the Indus civilisation are true?\n(i) In the 1920s Mortimer Wheeler conducted excavations at Harappan sites.\n(ii) The longest known inscription has 26 signs.\n(iii) In Prakrit inscriptions, the word 'Meluhha' refers to the Indus region.\n(iv) The steatite 'Priest-King' was found at Mohenjo-daro.",
+  "o": [
+   "(i) and (ii) only",
+   "(i) and (iii) only",
+   "(ii) and (iii) only",
+   "(ii) and (iv) only"
+  ],
+  "e": "(ii) Correct — the longest Indus inscription has about 26 signs. (iv) Correct — the steatite 'Priest-King' statue was found at Mohenjo-daro. (i) Wrong — the 1920s excavations were by Daya Ram Sahni, John Marshall and others; Wheeler excavated in the 1940s. (iii) Wrong — the word 'Meluhha' occurs in Mesopotamian cuneiform (Akkadian) records, not Prakrit inscriptions.",
+  "h": "e0d21aa2f3dc"
+ },
+ "PYQ-2025-GS-133": {
+  "q": "Which statements about the newly appointed Chief Election Commissioner of India are correct?\n(i) Gyanesh Kumar took charge as India's 26th Chief Election Commissioner on February 19, 2025.\n(ii) He became an IAS officer of the Kerala cadre in 1989.\n(iii) He has served as Secretary to the Kerala Government handling various departments.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "Gyanesh Kumar took charge as the 26th Chief Election Commissioner on 19 February 2025 (i correct); he served as Secretary of several departments in the Kerala Government (iii correct). He is a 1988-batch Kerala-cadre IAS officer — not 1989 (ii wrong).",
+  "h": "4a557a0ecd61"
+ },
+ "PYQ-2025-GS-134": {
+  "q": "Match the following (Law – year enacted):\n(a) Consumer Protection Rules – 1. 1930\n(b) Drugs Control Act – 2. 1987\n(c) Monopolies and Restrictive Trade Practices Act – 3. 1950\n(d) Sale of Goods Act – 4. 1969",
+  "o": [
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-1, (b)-3, (c)-4, (d)-2",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "Consumer Protection Rules – 1987 (under the Consumer Protection Act, 1986) (2); Drugs Control Act – 1950 (3); MRTP Act – 1969 (4); Sale of Goods Act – 1930 (1). Hence 2, 3, 4, 1.",
+  "h": "1b4d152d4925"
+ },
+ "PYQ-2025-GS-135": {
+  "q": "Assertion [A]: The President appoints the judges of the Supreme Court.\nReason [R]: The Law Minister must also be consulted while appointing judges.",
+  "o": [
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]",
+   "[A] is true but [R] is false",
+   "[A] is false but [R] is true"
+  ],
+  "e": "Under Article 124 the President appoints Supreme Court judges (Assertion true). The Constitution requires consultation with the Chief Justice (collegium system) and judges of the Supreme Court and High Courts; there is no rule that the Law Minister must be consulted — the Reason is false.",
+  "h": "f21b8cdc7728"
+ },
+ "PYQ-2025-GS-136": {
+  "q": "Arrange the committees on Centre–State relations in chronological order.\n(1) Punchhi Committee\n(2) Rajamannar Committee\n(3) Sarkaria Committee\n(4) Venkatachaliah Committee",
+  "o": [
+   "(3), (4), (2), (1)",
+   "(2), (1), (4), (3)",
+   "(2), (4), (3), (1)",
+   "(2), (3), (4), (1)"
+  ],
+  "e": "Rajamannar Committee (1969, Tamil Nadu Government) → Sarkaria Commission (1983) → Venkatachaliah Commission (review of the working of the Constitution, 2000) → Punchhi Commission (2007). Hence 2, 3, 4, 1.",
+  "h": "929404627c9c"
+ },
+ "PYQ-2025-GS-137": {
+  "q": "Choose the correct pairs:\n(1) Retirement age of a Supreme Court judge – 60\n(2) Minimum age to contest the election of the President of India – 35\n(3) Minimum age to be a member of the Upper House – 30\n(4) Minimum age to be a member of the Lower House – 21",
+  "o": [
+   "(1) and (3) are correct",
+   "(1) and (2) are correct",
+   "(2) and (3) are correct",
+   "(3) and (4) are correct"
+  ],
+  "e": "President – at least 35 years (2 correct); Rajya Sabha member – 30 years (3 correct). Supreme Court judges retire at 65 (1 wrong; High Court 62); Lok Sabha member – 25 years (4 wrong).",
+  "h": "dbfde32e4d4a"
+ },
+ "PYQ-2025-GS-139": {
+  "q": "Match (Part under which states were placed by the 1950 Constitution):\n(a) Himachal Pradesh – 1. A\n(b) Rajasthan – 2. D\n(c) West Bengal – 3. B\n(d) Andaman and Nicobar Islands – 4. C",
+  "o": [
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-1, (b)-2, (c)-4, (d)-3"
+  ],
+  "e": "In 1950 the states were in four parts: Part A – former Governor's provinces (West Bengal); Part B – former princely states/unions (Rajasthan); Part C – Chief Commissioner's provinces (Himachal Pradesh); Part D – Andaman and Nicobar Islands. The States Reorganisation Act, 1956 ended this distinction. Hence 4, 3, 1, 2.",
+  "h": "bf1df4630838"
+ },
+ "PYQ-2025-AP-140": {
+  "q": "P and Q can complete a work in 20 and 40 days respectively. They started the work together. After some days Q left. P finished the remaining work in 8 days. After how many days from the start did Q leave?",
+  "o": [
+   "9 days",
+   "10 days",
+   "8 days",
+   "11 days"
+  ],
+  "e": "P does 1/20 and Q 1/40 of the work per day; together 3/40. P alone in 8 days did 8/20 = 2/5. So together they did 1 − 2/5 = 3/5. Days = (3/5) ÷ (3/40) = 8. So Q left after 8 days.",
+  "h": "58d7de7c6e7c"
+ },
+ "PYQ-2025-AP-141": {
+  "q": "At 4% compound interest per annum, the amount A gets in 6 years equals the amount B gets in 8 years. Find the shares of A and B in ₹2,602.",
+  "o": [
+   "₹1,300, ₹1,252",
+   "₹1,452, ₹1,150",
+   "₹1,302, ₹1,300",
+   "₹1,352, ₹1,250"
+  ],
+  "e": "A(1.04)⁶ = B(1.04)⁸ ⇒ A/B = (1.04)² = 1.0816 = 676/625. A : B = 676 : 625; 1301 parts = ₹2602 ⇒ one part = ₹2. A = 676 × 2 = ₹1352, B = 625 × 2 = ₹1250.",
+  "h": "70f537bfee98"
+ },
+ "PYQ-2025-AP-142": {
+  "q": "Find the simple interest on ₹68,000 for 9 months at 16⅔% per annum.",
+  "o": [
+   "₹8,500",
+   "₹8,000",
+   "₹9,400",
+   "₹9,100"
+  ],
+  "e": "Simple interest = P × r × n / 100 = 68000 × (50/3) × (9/12) ÷ 100 = 68000 × (1/6) × (3/4) = ₹8,500. (16⅔% = 1/6.)",
+  "h": "d59975a74870"
+ },
+ "PYQ-2025-AP-143": {
+  "q": "If a : b = 3 : 7 and b : c = 7 : 6, find the ratio of c to a.",
+  "o": [
+   "1 : 2",
+   "3 : 6",
+   "6 : 7",
+   "2 : 1"
+  ],
+  "e": "Since b is 7 in both, a : b : c = 3 : 7 : 6. So c : a = 6 : 3 = 2 : 1. (Note: the question asks c : a, not a : c = 1 : 2.)",
+  "h": "4ee9f67678f7"
+ },
+ "PYQ-2025-AP-144": {
+  "q": "Two numbers are in the ratio 3 : 4 and their HCF is 4. Their LCM is ________.",
+  "o": [
+   "48",
+   "38",
+   "58",
+   "68"
+  ],
+  "e": "The numbers are 3 × 4 = 12 and 4 × 4 = 16. LCM (12, 16) = 3 × 4 × 4 = 48.",
+  "h": "df3277edda73"
+ },
+ "PYQ-2025-AP-145": {
+  "q": "A number x is divisible by 13. When it is divided by 16, 24 and 32, it leaves a remainder of 6 each time. The least value of x is ________.",
+  "o": [
+   "390",
+   "391",
+   "389",
+   "392"
+  ],
+  "e": "LCM (16, 24, 32) = 96. So x = 96k + 6. k = 1: 102; k = 2: 198; k = 3: 294; k = 4: 390 = 13 × 30 ✓. So the least value is 390.",
+  "h": "300a3b997bab"
+ },
+ "PYQ-2025-AP-146": {
+  "q": "A class has 80 students. On a certain day 25% were absent. Find the number of students present.",
+  "o": [
+   "10",
+   "60",
+   "30",
+   "25"
+  ],
+  "e": "Absent = 25% of 80 = 20. Present = 80 − 20 = 60 (i.e. 75%).",
+  "h": "07550b3553f8"
+ },
+ "PYQ-2025-AP-147": {
+  "q": "The ratio of boys to girls in a class is 5 : 3. In an exam, 16% of the boys and 8% of the girls failed. Find the percentage of students who passed.",
+  "o": [
+   "87%",
+   "13%",
+   "84%",
+   "92%"
+  ],
+  "e": "Take 50 boys and 30 girls (80 in all). Failed = 16% of 50 + 8% of 30 = 8 + 2.4 = 10.4 ⇒ 13%. Passed = 100 − 13 = 87%.",
+  "h": "0818b6e87803"
+ },
+ "PYQ-2025-AP-148": {
+  "q": "Find the sum of the series: 1 + 3 + 5 + … + 55",
+  "o": [
+   "700",
+   "784",
+   "555",
+   "550"
+  ],
+  "e": "Number of odd numbers from 1 to 55: n = (55 + 1)/2 = 28. Sum of the first n odd numbers = n² = 28² = 784.",
+  "h": "fea527716fe7"
+ },
+ "PYQ-2025-AP-149": {
+  "q": "Find the next term in the series: 0, 2, 24, 252, 3120, ________",
+  "o": [
+   "42450",
+   "46650",
+   "38450",
+   "44650"
+  ],
+  "e": "nth term = nⁿ − n: 1¹−1 = 0, 2²−2 = 2, 3³−3 = 24, 4⁴−4 = 252, 5⁵−5 = 3120. Next is 6⁶ − 6 = 46656 − 6 = 46650.",
+  "h": "9494a1e75ddb"
+ },
+ "PYQ-2025-AP-150": {
+  "q": "In the sequence 6 4 1 2 2 8 7 4 2 1 5 3 8, how many pairs of adjacent numbers have a difference of two?",
+  "o": [
+   "One",
+   "Two",
+   "Three",
+   "Four"
+  ],
+  "e": "Check the difference of each adjacent pair: 6-4 (2) ✓, 4-1, 1-2, 2-2, 2-8, 8-7, 7-4, 4-2 (2) ✓, 2-1, 1-5, 5-3 (2) ✓, 3-8. Total 3 pairs.",
+  "h": "b5fbc449787e"
+ },
+ "PYQ-2025-AP-151": {
+  "q": "Four different positions of a die rolled 4 times are given (top face; two visible side faces):\nPosition 1: top 2; sides 3, 5\nPosition 2: top 1; sides 2, 3\nPosition 3: top 3; sides 4, 5\nPosition 4: top 6; sides 2, 5\nFind the number opposite 2.",
+  "o": [
+   "4",
+   "5",
+   "6",
+   "3"
+  ],
+  "e": "Faces seen together in one position are adjacent (not opposite). Faces seen with 2: 3, 5 (position 1); 1, 3 (position 2); 6, 5 (position 4). So 1, 3, 5, 6 are adjacent to 2; only 4 remains, so 4 is opposite 2.",
+  "h": "4e0b26629c00"
+ },
+ "PYQ-2025-AP-152": {
+  "q": "Find the missing number in the series: 7, 12, 19, 24, 43, ________, 91",
+  "o": [
+   "50",
+   "45",
+   "48",
+   "63"
+  ],
+  "e": "Two interleaved series: 12, 24, 48 (doubling); 7, 19, 43, 91 — each the sum of the two preceding terms: 7 + 12 = 19, 19 + 24 = 43, 43 + 48 = 91. So the missing number is 48.",
+  "h": "c0b25fb9f9bd"
+ },
+ "PYQ-2025-GS-153": {
+  "q": "Choose the correct answer.\nAssertion [A]: Space MAITRI is a joint space mission between India and Australia.\nReason [R]: Through this mission India intends to reduce the cost of access to space.",
+  "o": [
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]",
+   "[A] is true, but [R] is false",
+   "[A] is false but [R] is true"
+  ],
+  "e": "Space MAITRI (Mission for Australia-India's Technology, Research and Innovation) is a joint mission involving Australia's Space Machines Company and India's NSIL (SSLV launcher), among others — Assertion true. Its aim is to test space-debris management and space-sustainability technologies; 'India reducing the cost of access to space' is not its aim — so the Reason is false (answer key).",
+  "h": "988601b71c64"
+ }
+}

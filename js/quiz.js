@@ -14,12 +14,12 @@ const Bank = (() => {
     if (loaded) return loaded;
     const out = { tamil:[], general_studies:[], aptitude:[] };
     const seen = new Set();
-    // A manifest lists every data file to load (core + generated). Falls back to the core three.
-    let fileList = ['tamil.json','general_studies.json','aptitude.json'];
+    // A manifest lists every data file to load. Falls back to the built-in list.
+    let fileList = ['gen_pyq_2024.json','gen_pyq_2025.json','gen_pyq_2022.json','gen_new.json'];
     try {
       const mres = await fetch('data/manifest.json', {cache:'no-store'});
       if (mres.ok){ const mj = await mres.json(); if (Array.isArray(mj.files) && mj.files.length) fileList = mj.files; }
-    } catch(e){ /* use core three */ }
+    } catch(e){ /* use built-in list */ }
     for (const fname of fileList){
       try {
         const res = await fetch(`data/${fname}`, {cache:'no-store'});
@@ -50,7 +50,9 @@ const Bank = (() => {
     const order = shuffle(idx);
     const newOpts = order.map(i=>q.options_ta[i]);
     const newAns = order.indexOf(q.answer_index);
-    return {...q, options_ta:newOpts, answer_index:newAns};
+    const out = {...q, options_ta:newOpts, answer_index:newAns};
+    if (q.options_en) out.options_en = order.map(i=>q.options_en[i]);   // English options follow the same order
+    return out;
   }
 
   function byUnit(subjectArr, unit){ return subjectArr.filter(q=>String(q.unit)===String(unit)); }
@@ -73,7 +75,7 @@ const Bank = (() => {
       const byTopic = {};
       arr.forEach(q=>{
         const key = q.topic;
-        if(!byTopic[key]) byTopic[key] = {topic:key, name:q.topic_name_ta||key, unit:q.unit, subject:subj, qs:[]};
+        if(!byTopic[key]) byTopic[key] = {topic:key, name:q.topic_name_ta||key, name_en:q.topic_name_en||null, unit:q.unit, subject:subj, qs:[]};
         byTopic[key].qs.push(q);
       });
       groups.push({subject:subj, label:labels[subj], topics:Object.values(byTopic)});
@@ -119,7 +121,8 @@ const Bank = (() => {
 
   // Build a review quiz from a saved list (wrong answers / bookmarks).
   function reviewQuestions(savedList){
-    return shuffle(savedList.map(s=>({...s, _subject:s.subject}))).map(shuffleOptions);
+    // Prefer the current bank copy (picks up later corrections and English versions)
+    return shuffle(savedList.map(s=>{ const fresh = byId(s.id); return fresh ? {...fresh} : {...s, _subject:s.subject}; })).map(shuffleOptions);
   }
 
   function countAll(){

@@ -260,7 +260,7 @@
       "unit": "2",
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
-      "topic_name_ta": "சொல்லின் பொருள்",
+      "topic_name_ta": "சொல்லும் பொருளும்",
       "difficulty": "easy",
       "question_ta": "'பரவை' – இச்சொல்லிற்குரிய பொருளைக் கண்டறிந்து எழுதுக.",
       "options_ta": [
@@ -386,7 +386,7 @@
       "unit": "1",
       "unit_name_ta": "இலக்கணம்",
       "topic": "letter_diff",
-      "topic_name_ta": "எழுத்து வேறுபாடு (ல-ள-ழ, ன-ண-ந, ர-ற)",
+      "topic_name_ta": "மயங்கொலிச் சொற்கள் (ல-ள-ழ, ன-ண-ந, ர-ற)",
       "difficulty": "medium",
       "question_ta": "பொருத்துக (தமிழ் எண்கள்):\n(a) 876 – 1. ௩௬௯\n(b) 543 – 2. ௩௨௧\n(c) 321 – 3. ௫௪௩\n(d) 369 – 4. ௮௭௬",
       "options_ta": [
@@ -1604,7 +1604,7 @@
       "unit": "2",
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
-      "topic_name_ta": "சொல்லின் பொருள்",
+      "topic_name_ta": "சொல்லும் பொருளும்",
       "difficulty": "medium",
       "question_ta": "'குமரி கண்ட நோய்க்கு குமரி கொடு' – இதில் குமரி என்று அழைக்கப்படும் மூலிகை எது?",
       "options_ta": [
@@ -1667,7 +1667,7 @@
       "unit": "2",
       "unit_name_ta": "சொல்லகராதி",
       "topic": "word_meaning",
-      "topic_name_ta": "சொல்லின் பொருள்",
+      "topic_name_ta": "சொல்லும் பொருளும்",
       "difficulty": "medium",
       "question_ta": "சரியான இணையைத் தேர்வு செய்க.\n(a) துவரை – தாமரை மலர்\n(b) மரை – பவளம்\n(c) விசும்பு – வானம்\n(d) மதியம் – நிலவு",
       "options_ta": [
@@ -1834,8 +1834,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tamil_lit_history",
       "topic_name_ta": "தமிழ் இலக்கிய வரலாறு",
+      "topic_name_en": "History of Tamil Literature",
       "difficulty": "medium",
       "question_ta": "தமிழ் ஆட்சி மொழியாகத் திகழும் (அல்லது அரசு அங்கீகாரம் பெற்ற) பிற நாடுகள் (பாடநூலின்படி)",
       "options_ta": [
@@ -1847,7 +1849,15 @@
       "answer_index": 0,
       "explanation_ta": "இலங்கையிலும் சிங்கப்பூரிலும் தமிழ் ஆட்சிமொழிகளுள் ஒன்று; மலேசியாவில் தமிழ்வழிப் பள்ளிகள் அரசு அங்கீகாரத்துடன் இயங்குகின்றன — பாடநூல் இம்மூன்று நாடுகளையும் குறிப்பிடுகிறது. அந்தமான் இந்தியாவின் பகுதி; கனடா, பிரிட்டனில் தமிழ் ஆட்சிமொழி அல்ல.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 91",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Other countries where Tamil is an official language (or has government recognition), as per the textbook",
+      "options_en": [
+        "Sri Lanka, Singapore, Malaysia",
+        "Mauritius, Sri Lanka, Canada",
+        "Britain, Fiji Islands, Penang Island",
+        "Canada, Andaman, Malaysia"
+      ],
+      "explanation_en": "Tamil is one of the official languages of Sri Lanka and Singapore; in Malaysia, Tamil-medium schools run with government recognition — the textbook names these three countries. Andaman is part of India; Tamil is not an official language in Canada or Britain."
     },
     {
       "id": "PYQ-2022-TA-092",
@@ -2044,8 +2054,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "social_reform",
       "topic_name_ta": "சமூக சீர்திருத்த இயக்கங்கள்",
+      "topic_name_en": "Social Reform Movements",
       "difficulty": "hard",
       "question_ta": "காலவரிசைப்படி மதராஸ் மாகாணத்தின் முதலமைச்சர்களை வரிசைப்படுத்துக.\n1. பி.டி. ராஜன்\n2. ஏ. சுப்புராயலு ரெட்டியார்\n3. பி. முனுசாமி நாயுடு\n4. சி. ராஜாஜி\n5. பி. சுப்பராயன்",
       "options_ta": [
@@ -2057,7 +2069,15 @@
       "answer_index": 1,
       "explanation_ta": "சென்னை மாகாண முதலமைச்சர்கள் (முதன்மை அமைச்சர்கள்): ஏ. சுப்புராயலு ரெட்டியார் (1920, நீதிக்கட்சி) → பி. சுப்பராயன் (1926) → பி. முனுசாமி நாயுடு (1930) → பி.டி. ராஜன் (1936) → சி. ராஜாஜி (1937, காங்கிரஸ்). எனவே 2, 5, 3, 1, 4.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 101",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Arrange the Chief Ministers (Premiers) of the Madras Presidency in chronological order.\n1. P.T. Rajan\n2. A. Subbarayalu Reddiar\n3. B. Munuswamy Naidu\n4. C. Rajagopalachari\n5. P. Subbarayan",
+      "options_en": [
+        "2, 4, 3, 5, 1",
+        "2, 5, 3, 1, 4",
+        "5, 3, 1, 2, 4",
+        "3, 1, 5, 2, 4"
+      ],
+      "explanation_en": "Chief Ministers (Premiers) of the Madras Presidency: A. Subbarayalu Reddiar (1920, Justice Party) → P. Subbarayan (1926) → B. Munuswamy Naidu (1930) → P.T. Rajan (1936) → C. Rajagopalachari (1937, Congress). Hence 2, 5, 3, 1, 4."
     },
     {
       "id": "PYQ-2022-GS-102",
@@ -2065,8 +2085,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "state_govt",
       "topic_name_ta": "மாநில அரசு",
+      "topic_name_en": "State Government",
       "difficulty": "medium",
       "question_ta": "தவறான இணையைக் கண்டறிக.\n(i) மகாராஷ்டிரா – ஈரவை சட்டமன்றம்\n(ii) தெலுங்கானா – ஓரவை சட்டமன்றம்\n(iii) பீகார் – ஓரவை சட்டமன்றம்\n(iv) ஆந்திரபிரதேசம் – ஈரவை சட்டமன்றம்",
       "options_ta": [
@@ -2078,7 +2100,15 @@
       "answer_index": 2,
       "explanation_ta": "சட்டமன்ற மேலவை (ஈரவை) உள்ள மாநிலங்கள்: ஆந்திரப் பிரதேசம், பீகார், கர்நாடகா, மகாராஷ்டிரா, தெலுங்கானா, உத்தரப் பிரதேசம். எனவே தெலுங்கானாவையும் பீகாரையும் 'ஓரவை' எனக் குறித்த (ii), (iii) தவறான இணைகள்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 102",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Identify the incorrect pair(s).\n(i) Maharashtra – Bicameral legislature\n(ii) Telangana – Unicameral legislature\n(iii) Bihar – Unicameral legislature\n(iv) Andhra Pradesh – Bicameral legislature",
+      "options_en": [
+        "(i), (ii) and (iii) are incorrect",
+        "(i) and (ii) are incorrect",
+        "(ii) and (iii) are incorrect",
+        "All are incorrect"
+      ],
+      "explanation_en": "States with a Legislative Council (bicameral): Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana and Uttar Pradesh. So (ii) and (iii), which call Telangana and Bihar 'unicameral', are the incorrect pairs."
     },
     {
       "id": "PYQ-2022-GS-103",
@@ -2086,8 +2116,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "banking_finance",
       "topic_name_ta": "வங்கி, வரி & நிதி",
+      "topic_name_en": "Banking, Taxation & Finance",
       "difficulty": "hard",
       "question_ta": "சரியான இணையைத் தேர்ந்தெடு:\n1. மத்திய அரசால் விதிக்கப்பட்டு, வசூலிக்கப்பட்டு மாநிலங்களுக்கு ஒதுக்கக் கூடிய வளங்கள் – ஷரத்து 269\n2. மத்திய அரசால் விதிக்கப்பட்டு, ஆனால் மாநில அரசு வசூலிப்பது மற்றும் பயன்படுத்துவது – ஷரத்து 268\n3. மத்திய அரசால் விதிக்கப்பட்டு, வசூலிக்கப்பட்டு மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்களுக்கு பகிர்ந்தளிக்கக்கூடிய வரிகள் – ஷரத்து 267",
       "options_ta": [
@@ -2099,7 +2131,15 @@
       "answer_index": 2,
       "explanation_ta": "உறுப்பு 268 – ஒன்றியம் விதித்து மாநிலங்கள் வசூலித்துப் பயன்படுத்தும் வரிகள் (சரி); உறுப்பு 269 – ஒன்றியம் விதித்து வசூலித்து மாநிலங்களுக்கு ஒதுக்கும் வரிகள் (சரி). உறுப்பு 267 எதிர்பாரா செலவு நிதியம் (Contingency Fund) பற்றியது; பகிர்ந்தளிக்கப்படும் வரிகள் உறுப்பு 270-இன் கீழ் வரும் — எனவே 3 தவறு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 103",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Choose the correct pair(s):\n1. Taxes levied and collected by the Union but assigned to the States – Article 269\n2. Duties levied by the Union but collected and appropriated by the States – Article 268\n3. Taxes levied and collected by the Union and distributed between the Union and the States – Article 267",
+      "options_en": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1 and 3 only"
+      ],
+      "explanation_en": "Article 268 – duties levied by the Union but collected and used by the States (correct); Article 269 – taxes levied and collected by the Union but assigned to the States (correct). Article 267 deals with the Contingency Fund; taxes shared between the Union and States come under Article 270 — so 3 is wrong."
     },
     {
       "id": "PYQ-2022-GS-104",
@@ -2107,8 +2147,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "biology",
       "topic_name_ta": "உயிரியல்",
+      "topic_name_en": "Biology",
       "difficulty": "easy",
       "question_ta": "எபிதீலியல் செல்லில் புற்றுநோய் உருவாவதற்கு ________ என்று பெயர்.",
       "options_ta": [
@@ -2120,7 +2162,15 @@
       "answer_index": 2,
       "explanation_ta": "எபிதீலியத் (புறத்தோல்) திசுக்களில் தோன்றும் புற்றுநோய் கார்சினோமா. இணைப்புத் திசு/எலும்பு/தசையில் – சார்க்கோமா; இரத்த வெள்ளையணுக்களில் – லூக்கேமியா; லிப்போமா கொழுப்புத் திசுவின் புற்றுநோயற்ற கட்டி.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 104",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Cancer arising in epithelial cells is called ________.",
+      "options_en": [
+        "Leukaemia",
+        "Sarcoma",
+        "Carcinoma",
+        "Lipoma"
+      ],
+      "explanation_en": "Cancer that arises in epithelial tissue is carcinoma. Cancer of connective tissue/bone/muscle – sarcoma; of white blood cells – leukaemia; a lipoma is a non-cancerous tumour of fat tissue."
     },
     {
       "id": "PYQ-2022-GS-105",
@@ -2128,8 +2178,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "medium",
       "question_ta": "பொருத்துக (தேசியப் பூங்கா – மாநிலம்):\n(a) கிர் தேசியப் பூங்கா – 1. இராஜஸ்தான்\n(b) கார்பெட் தேசியப் பூங்கா – 2. ஜார்கண்ட்\n(c) பேட்லா தேசியப் பூங்கா – 3. குஜராத்\n(d) இரந்தம்பூர் தேசியப் பூங்கா – 4. உத்தரகாண்ட்",
       "options_ta": [
@@ -2141,7 +2193,15 @@
       "answer_index": 2,
       "explanation_ta": "கிர் – குஜராத் (ஆசியச் சிங்கங்களின் ஒரே இயற்கை வாழிடம்) (3); ஜிம் கார்பெட் – உத்தரகாண்ட் (இந்தியாவின் முதல் தேசியப் பூங்கா, 1936) (4); பேட்லா – ஜார்கண்ட் (2); இரந்தம்பூர் – இராஜஸ்தான் (1). எனவே 3, 4, 2, 1. (குறிப்பு: மூல வினாவில் இருந்த 'இராஜ்கிர்' (பீகாரில் உள்ளது) என்பதற்குப் பதிலாக ஜார்கண்ட் மாநிலப் பூங்கா பேட்லா எனத் திருத்தப்பட்டுள்ளது; விடை மாறவில்லை.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 105",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match (National Park – State):\n(a) Gir National Park – 1. Rajasthan\n(b) Corbett National Park – 2. Jharkhand\n(c) Betla National Park – 3. Gujarat\n(d) Ranthambore National Park – 4. Uttarakhand",
+      "options_en": [
+        "(a)-3, (b)-4, (c)-1, (d)-2",
+        "(a)-4, (b)-3, (c)-2, (d)-1",
+        "(a)-3, (b)-4, (c)-2, (d)-1",
+        "(a)-3, (b)-2, (c)-1, (d)-4"
+      ],
+      "explanation_en": "Gir – Gujarat (the only natural home of the Asiatic lion) (3); Jim Corbett – Uttarakhand (India's first national park, 1936) (4); Betla – Jharkhand (2); Ranthambore – Rajasthan (1). Hence 3, 4, 2, 1. (Note: the original question had 'Rajgir' (which is in Bihar); it has been corrected to Betla, a Jharkhand park; the answer is unchanged.)"
     },
     {
       "id": "PYQ-2022-GS-106",
@@ -2149,8 +2209,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "chemistry",
       "topic_name_ta": "வேதியியல்",
+      "topic_name_en": "Chemistry",
       "difficulty": "hard",
       "question_ta": "கீழ்க்கண்டவற்றுள் சரியான கூற்றுகள் எவை?\n(i) சிங்க் ப்ளன்ட் காந்தப் பிரிப்பு முறையில் அடர்ப்பிக்கப்படுகிறது.\n(ii) ஹேமடைட் புவியீர்ப்பு முறையில் அடர்ப்பிக்கப்படுகிறது.\n(iii) உருகிய அலுமினாவை மின்னாற் பகுப்பு முறையில் ஒடுக்கி அலுமினியம் பெறப்படுகிறது.\n(iv) மேட் என்பது குப்ரிக் சல்பைடு மற்றும் பெர்ரஸ் சல்பைடு ஆகியவற்றின் கலவையாகும்.",
       "options_ta": [
@@ -2162,7 +2224,15 @@
       "answer_index": 2,
       "explanation_ta": "(ii) சரி — ஹேமடைட் போன்ற கனமான ஆக்சைடு தாதுக்கள் புவியீர்ப்புப் பிரிப்பு (நீரில் கழுவுதல்) முறையில் அடர்ப்பிக்கப்படுகின்றன. (iii) சரி — உருகிய அலுமினாவை (கிரையோலைட்டுடன்) மின்னாற்பகுத்து அலுமினியம் பெறப்படுகிறது (ஹால்-ஹெரால்ட் முறை). (i) தவறு — சிங்க் பிளெண்ட் (ZnS) நுரை மிதப்பு முறையில் அடர்ப்பிக்கப்படுகிறது. (iv) தவறு — மேட் என்பது குப்ரஸ் சல்பைடு (Cu₂S) மற்றும் பெர்ரஸ் சல்பைடு (FeS) கலவை; குப்ரிக் அல்ல.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 106",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following statements are correct?\n(i) Zinc blende is concentrated by magnetic separation.\n(ii) Haematite is concentrated by gravity separation.\n(iii) Aluminium is obtained by electrolytic reduction of fused alumina.\n(iv) Matte is a mixture of cupric sulphide and ferrous sulphide.",
+      "options_en": [
+        "(i) and (ii)",
+        "(i) and (iv)",
+        "(ii) and (iii)",
+        "(ii) and (iv)"
+      ],
+      "explanation_en": "(ii) Correct — heavy oxide ores such as haematite are concentrated by gravity separation (hydraulic washing). (iii) Correct — aluminium is obtained by electrolysis of fused alumina (with cryolite) (Hall–Héroult process). (i) Wrong — zinc blende (ZnS) is concentrated by froth flotation. (iv) Wrong — matte is a mixture of cuprous sulphide (Cu₂S) and ferrous sulphide (FeS), not cupric."
     },
     {
       "id": "PYQ-2022-GS-107",
@@ -2170,8 +2240,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "science_tech",
       "topic_name_ta": "அறிவியல் & தொழில்நுட்பம்",
+      "topic_name_en": "Science & Technology",
       "difficulty": "hard",
       "question_ta": "கீழ்க்கண்ட நாடுகளை அவற்றின் விண்வெளித் திட்டங்களுடன் பொருத்துக.\n(a) யு.எஸ்.ஏ – 1. மங்கள்யான்\n(b) இந்தியா – 2. சைக்கி (Psyche)\n(c) ஜப்பான் – 3. ஜெங் ஹே (Zheng He)\n(d) சீனா – 4. டெரக்ஸ் (TEREX)",
       "options_ta": [
@@ -2183,7 +2255,15 @@
       "answer_index": 1,
       "explanation_ta": "சைக்கி (Psyche) – அமெரிக்காவின் NASA சிறுகோள் ஆய்வுத் திட்டம் (2); மங்கள்யான் – இந்தியாவின் செவ்வாய் சுற்றுக்கலம் (2013) (1); TEREX – ஜப்பானின் செவ்வாய் ஆய்வுத் திட்டம் (4); ஜெங் ஹே – சீனாவின் சிறுகோள் மாதிரி சேகரிப்புத் திட்டம் (3). எனவே 2, 1, 4, 3. (குறிப்பு: மூல வினா இவை அனைத்தையும் 'செவ்வாய்த் திட்டங்கள்' என்றது; சைக்கி, ஜெங் ஹே சிறுகோள் திட்டங்கள் என்பதால் 'விண்வெளித் திட்டங்கள்' எனத் திருத்தப்பட்டுள்ளது.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 107",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the countries with their space missions.\n(a) USA – 1. Mangalyaan\n(b) India – 2. Psyche\n(c) Japan – 3. Zheng He\n(d) China – 4. TEREX",
+      "options_en": [
+        "(a)-1, (b)-4, (c)-3, (d)-2",
+        "(a)-2, (b)-1, (c)-4, (d)-3",
+        "(a)-2, (b)-4, (c)-3, (d)-1",
+        "(a)-4, (b)-1, (c)-2, (d)-3"
+      ],
+      "explanation_en": "Psyche – NASA's (USA) asteroid mission (2); Mangalyaan – India's Mars Orbiter (2013) (1); TEREX – Japan's Mars exploration mission (4); Zheng He – China's asteroid sample-return mission (3). Hence 2, 1, 4, 3. (Note: the original question called all of these 'Mars missions'; since Psyche and Zheng He are asteroid missions, it has been reworded as 'space missions'.)"
     },
     {
       "id": "PYQ-2022-GS-108",
@@ -2191,8 +2271,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_ancient",
       "topic_name_ta": "தமிழ்ச் சமூக வரலாறு & தொல்லியல்",
+      "topic_name_en": "Tamil Society History & Archaeology",
       "difficulty": "medium",
       "question_ta": "பொருந்தாததை கண்டுபிடி.",
       "options_ta": [
@@ -2204,7 +2286,15 @@
       "answer_index": 2,
       "explanation_ta": "இளஞ்சேட்சென்னி, கோச்செங்கணான், பெருநற்கிள்ளி — மூவரும் சங்ககாலச் சோழ மன்னர்கள். பெருஞ்சேரல் இரும்பொறை சேர மன்னன் (பதிற்றுப்பத்து); எனவே பொருந்தாதவர்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 108",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Find the odd one out.",
+      "options_en": [
+        "Ilanchetchenni",
+        "Kochenganan",
+        "Perumcheral Irumporai",
+        "Perunarkilli"
+      ],
+      "explanation_en": "Ilanchetchenni, Kochenganan and Perunarkilli were all Sangam-age Chola kings. Perumcheral Irumporai was a Chera king (Pathitruppathu); so he is the odd one out."
     },
     {
       "id": "PYQ-2022-GS-110",
@@ -2212,8 +2302,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "medium",
       "question_ta": "கீழே கொடுக்கப்பட்டுள்ள நிகழ்வுகளை காலவரிசைப்படுத்துக.\n1. புலித்தேவரின் இறப்பு\n2. குயிலியின் இறப்பு\n3. கட்டபொம்மனின் இறப்பு\n4. மருதுசகோதரர்களின் இறப்பு",
       "options_ta": [
@@ -2225,7 +2317,15 @@
       "answer_index": 1,
       "explanation_ta": "புலித்தேவர் (1760களில்) → குயிலி (1780, சிவகங்கை மீட்புப் போரில் ஆங்கிலேய ஆயுதக் கிடங்கைத் தகர்க்கத் தன்னுயிர் ஈந்தவர்) → கட்டபொம்மன் (1799, கயத்தாறு) → மருது சகோதரர்கள் (1801, திருப்பத்தூர்). எனவே 1, 2, 3, 4.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 110",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Arrange the following events in chronological order.\n1. Death of Puli Thevar\n2. Death of Kuyili\n3. Death of Kattabomman\n4. Death of the Marudhu Brothers",
+      "options_en": [
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "1, 3, 2, 4",
+        "3, 1, 4, 2"
+      ],
+      "explanation_en": "Puli Thevar (1760s) → Kuyili (1780; she sacrificed her life to destroy the British arsenal in the war to recover Sivagangai) → Kattabomman (1799, Kayathar) → Marudhu Brothers (1801, Tiruppattur). Hence 1, 2, 3, 4."
     },
     {
       "id": "PYQ-2022-GS-111",
@@ -2233,8 +2333,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "social_reform",
       "topic_name_ta": "சமூக சீர்திருத்த இயக்கங்கள்",
+      "topic_name_en": "Social Reform Movements",
       "difficulty": "easy",
       "question_ta": "தமிழ்நாட்டின் முதல் பெண் மருத்துவர் யார்?",
       "options_ta": [
@@ -2246,7 +2348,15 @@
       "answer_index": 1,
       "explanation_ta": "டாக்டர் முத்துலட்சுமி ரெட்டி (1886–1968) தமிழ்நாட்டின் முதல் பெண் மருத்துவர்; இந்தியாவின் முதல் பெண் சட்டமன்ற உறுப்பினர் (1927); அடையாறு புற்றுநோய் மருத்துவமனையை நிறுவியவர்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 111",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Who was the first woman doctor of Tamil Nadu?",
+      "options_en": [
+        "Moovalur Ramamirtham",
+        "Muthulakshmi Reddy",
+        "Dharmambal",
+        "Pandita Ramabai"
+      ],
+      "explanation_en": "Dr. Muthulakshmi Reddy (1886–1968) was Tamil Nadu's first woman doctor and India's first woman legislator (1927); she founded the Adyar Cancer Institute."
     },
     {
       "id": "PYQ-2022-GS-112",
@@ -2254,8 +2364,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "social_reform",
       "topic_name_ta": "சமூக சீர்திருத்த இயக்கங்கள்",
+      "topic_name_en": "Social Reform Movements",
       "difficulty": "medium",
       "question_ta": "பின்வருவனவற்றுள் எந்த சபை இரட்டைமலை சீனிவாசனால் துவக்கப்பட்டது?",
       "options_ta": [
@@ -2267,7 +2379,15 @@
       "answer_index": 3,
       "explanation_ta": "இரட்டைமலை சீனிவாசன் 1892-இல் 'பறையர் மகாஜன சபை'யைத் தொடங்கினார்; அது பின்னர் 'ஆதி திராவிட மகாஜன சபை' எனப் பெயர் மாற்றம் பெற்றது. சாக்கிய பௌத்த சங்கம் அயோத்திதாசருடையது; அகில இந்திய ஒடுக்கப்பட்டோர் சங்கம் எம்.சி. ராஜாவுடன் தொடர்புடையது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 112",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following organisations was started by Rettaimalai Srinivasan?",
+      "options_en": [
+        "Sakya Buddhist Society",
+        "Advaitananda Sabha",
+        "All India Depressed Classes Association",
+        "Adi Dravida Mahajana Sabha"
+      ],
+      "explanation_en": "Rettaimalai Srinivasan started the 'Paraiyar Mahajana Sabha' in 1892, later renamed the 'Adi Dravida Mahajana Sabha'. The Sakya Buddhist Society was Iyothee Thass's; the All India Depressed Classes Association is associated with M.C. Rajah."
     },
     {
       "id": "PYQ-2022-GS-113",
@@ -2275,8 +2395,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "ancient_india",
       "topic_name_ta": "பண்டைய இந்தியா",
+      "topic_name_en": "Ancient India",
       "difficulty": "hard",
       "question_ta": "பொருத்துக (சிந்து சமவெளி நகரங்கள் – அகழ்வாராய்ச்சியாளர்):\n(a) சன்ஹூ-தாரோ – 1. சூரஜ் பான்\n(b) லோத்தல் – 2. என்.ஜி. மஜும்தார்\n(c) பனாவளி – 3. எஸ்.ஆர். ராவ்\n(d) மிட்டாதல் – 4. பிஷ்ட்",
       "options_ta": [
@@ -2288,7 +2410,15 @@
       "answer_index": 1,
       "explanation_ta": "சன்ஹுதாரோ – என்.ஜி. மஜும்தார் (1931) (2); லோத்தல் – எஸ்.ஆர். ராவ் (3); பனாவளி – ஆர்.எஸ். பிஷ்ட் (4); மிட்டாதல் – சூரஜ் பான் (1). எனவே 2, 3, 4, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 113",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match (Indus Valley site – Excavator):\n(a) Chanhudaro – 1. Suraj Bhan\n(b) Lothal – 2. N.G. Majumdar\n(c) Banawali – 3. S.R. Rao\n(d) Mitathal – 4. Bisht",
+      "options_en": [
+        "(a)-2, (b)-1, (c)-4, (d)-3",
+        "(a)-2, (b)-3, (c)-4, (d)-1",
+        "(a)-1, (b)-3, (c)-2, (d)-4",
+        "(a)-1, (b)-4, (c)-3, (d)-2"
+      ],
+      "explanation_en": "Chanhudaro – N.G. Majumdar (1931) (2); Lothal – S.R. Rao (3); Banawali – R.S. Bisht (4); Mitathal – Suraj Bhan (1). Hence 2, 3, 4, 1."
     },
     {
       "id": "PYQ-2022-GS-114",
@@ -2296,8 +2426,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "national_leaders",
       "topic_name_ta": "தேசியத் தலைவர்கள்",
+      "topic_name_en": "National Leaders",
       "difficulty": "medium",
       "question_ta": "கீழ்க்காணும் கூற்றுகளில் பகத்சிங் தொடர்பான சரியான கூற்றைக் கண்டறிக:\n(i) 1930-இல் பகத்சிங் சிட்டகாங் ஆயுதப் படைத்தளத்தை தாக்கினார்\n(ii) 1929-இல் பகத்சிங் பி.கே. தத்துடன் இணைந்து மத்திய சட்டப்பேரவை மீது குண்டு வீசினார்\n(iii) 1925-ஆம் ஆண்டு பகத்சிங் இந்துஸ்தான் குடியரசுப் படையை நிறுவினார்",
       "options_ta": [
@@ -2309,7 +2441,15 @@
       "answer_index": 0,
       "explanation_ta": "(ii) சரி — 1929 ஏப்ரல் 8 அன்று பகத்சிங்கும் படுகேஸ்வர் தத்தும் மத்திய சட்டப்பேரவையில் புகைக்குண்டு வீசினர். (i) தவறு — சிட்டகாங் ஆயுதக் கிடங்குத் தாக்குதல் (1930) சூர்யா சென் தலைமையில் நடந்தது. (iii) தவறு — இந்துஸ்தான் குடியரசுக் கழகம் (HRA) 1924-இல் சச்சிந்திரநாத் சன்யால் முதலியோரால் நிறுவப்பட்டது; பகத்சிங் 1928-இல் அதனை HSRA ஆக மாற்றியவர்களுள் ஒருவர்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 114",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Identify the correct statement(s) about Bhagat Singh:\n(i) In 1930 Bhagat Singh attacked the Chittagong armoury\n(ii) In 1929 Bhagat Singh, along with B.K. Dutt, threw a bomb in the Central Legislative Assembly\n(iii) In 1925 Bhagat Singh founded the Hindustan Republican Army",
+      "options_en": [
+        "(ii) only is correct",
+        "(i) and (iii) only are correct",
+        "(i) and (ii) only are correct",
+        "(ii) and (iii) only are correct"
+      ],
+      "explanation_en": "(ii) Correct — on 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw smoke bombs in the Central Legislative Assembly. (i) Wrong — the Chittagong armoury raid (1930) was led by Surya Sen. (iii) Wrong — the Hindustan Republican Association (HRA) was founded in 1924 by Sachindra Nath Sanyal and others; Bhagat Singh was among those who turned it into the HSRA in 1928."
     },
     {
       "id": "PYQ-2022-GS-115",
@@ -2317,8 +2457,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "social_reform",
       "topic_name_ta": "சமூக சீர்திருத்த இயக்கங்கள்",
+      "topic_name_en": "Social Reform Movements",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவற்றுள் தந்தை பெரியாரின் செய்தித்தாள்களையும், இதழ்களையும் கால முறைப்படி வரிசைப்படுத்துக.\n1. பகுத்தறிவு\n2. விடுதலை\n3. குடியரசு\n4. புரட்சி",
       "options_ta": [
@@ -2330,7 +2472,15 @@
       "answer_index": 1,
       "explanation_ta": "பெரியார் நடத்திய இதழ்கள்: குடியரசு (1925) → புரட்சி (1933) → பகுத்தறிவு (1934) → விடுதலை (1935). எனவே 3, 4, 1, 2.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 115",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Arrange the newspapers and journals of Thanthai Periyar in chronological order.\n1. Pagutharivu\n2. Viduthalai\n3. Kudi Arasu\n4. Puratchi",
+      "options_en": [
+        "4, 2, 3, 1",
+        "3, 4, 1, 2",
+        "3, 2, 4, 1",
+        "2, 3, 1, 4"
+      ],
+      "explanation_en": "Journals run by Periyar: Kudi Arasu (1925) → Puratchi (1933) → Pagutharivu (1934) → Viduthalai (1935). Hence 3, 4, 1, 2."
     },
     {
       "id": "PYQ-2022-GS-116",
@@ -2338,8 +2488,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "indian_culture",
       "topic_name_ta": "இந்தியப் பண்பாடு",
+      "topic_name_en": "Indian Culture",
       "difficulty": "easy",
       "question_ta": "கூற்று: இந்திய பாரம்பரியம் என்பது விருந்தோம்பல், ஈகை, நட்பு, அன்பு, பெற்றோரையும் மற்றும் பெரியவர்களையும் மதித்தல் மற்றும் சகிப்புத் தன்மையை வலியுறுத்துவதாகும்.\nகாரணம்: மேற்கூறிய பண்புகள் வேற்றுமைகளை மறந்து மக்கள் ஒற்றுமையுடன் வாழ உதவுகின்றன.",
       "options_ta": [
@@ -2351,7 +2503,15 @@
       "answer_index": 0,
       "explanation_ta": "விருந்தோம்பல், ஈகை, சகிப்புத்தன்மை போன்ற பண்புகளை இந்தியப் பண்பாடு வலியுறுத்துவது, பன்முகத்தன்மை கொண்ட மக்கள் வேற்றுமைகளை மறந்து ஒற்றுமையுடன் வாழ்வதற்காகவே — 'வேற்றுமையில் ஒற்றுமை'. இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 116",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Assertion: Indian tradition emphasises hospitality, charity, friendship, love, respect for parents and elders, and tolerance.\nReason: These qualities help people live in unity, forgetting their differences.",
+      "options_en": [
+        "Both Assertion and Reason are true, and the Reason is the correct explanation of the Assertion",
+        "Both Assertion and Reason are true, but the Reason is not the correct explanation of the Assertion",
+        "Assertion is true, Reason is false",
+        "Assertion is false, Reason is true"
+      ],
+      "explanation_en": "Indian culture stresses hospitality, charity and tolerance precisely so that a diverse people can live together in unity, forgetting their differences — 'unity in diversity'. Both are true, and the Reason explains the Assertion."
     },
     {
       "id": "PYQ-2022-GS-118",
@@ -2359,8 +2519,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "planning",
       "topic_name_ta": "திட்டமிடல் & நிதி ஆயோக்",
+      "topic_name_en": "Planning & NITI Aayog",
       "difficulty": "hard",
       "question_ta": "கீழ்க்கண்ட திட்டங்களை காலமுறைப்படி வரிசைப்படுத்துக.\n(i) காந்தியத் திட்டம்\n(ii) பாம்பே திட்டம்\n(iii) ஜவஹர்லால் நேரு திட்டம்\n(iv) விஸ்வேசுவரய்யா திட்டம்",
       "options_ta": [
@@ -2372,7 +2534,15 @@
       "answer_index": 1,
       "explanation_ta": "விஸ்வேஸ்வரய்யா திட்டம் ('Planned Economy for India', 1934) → நேரு தலைமையிலான தேசியத் திட்டக்குழு (1938) → பம்பாய்த் திட்டம் (ஜனவரி 1944) → காந்தியத் திட்டம் (ஸ்ரீமன் நாராயண் அகர்வால், 1944). எனவே (iv), (iii), (ii), (i).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 118",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Arrange the following plans in chronological order.\n(i) Gandhian Plan\n(ii) Bombay Plan\n(iii) Jawaharlal Nehru Plan\n(iv) Visvesvaraya Plan",
+      "options_en": [
+        "(i), (ii), (iii), (iv)",
+        "(iv), (iii), (ii), (i)",
+        "(i), (ii), (iv), (iii)",
+        "(ii), (i), (iv), (iii)"
+      ],
+      "explanation_en": "Visvesvaraya Plan ('Planned Economy for India', 1934) → National Planning Committee under Nehru (1938) → Bombay Plan (January 1944) → Gandhian Plan (Shriman Narayan Agarwal, 1944). Hence (iv), (iii), (ii), (i)."
     },
     {
       "id": "PYQ-2022-GS-120",
@@ -2380,8 +2550,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "indian_economy",
       "topic_name_ta": "இந்தியப் பொருளாதாரம்",
+      "topic_name_en": "Indian Economy",
       "difficulty": "easy",
       "question_ta": "பிறப்பு விகிதம் இதன் அடிப்படையில் மதிப்பிடப்படுகிறது.\n(i) ஒரு குறிப்பிட்ட ஆண்டில் நூறு மக்கள் தொகையில் பிறந்தவர்களின் எண்ணிக்கை\n(ii) ஒரு குறிப்பிட்ட ஆண்டில் ஒரு இலட்ச மக்கள் தொகையில் பிறந்தவர்களின் எண்ணிக்கை\n(iii) பத்து ஆண்டுகளில் ஆயிரம் மக்கள் தொகையில் பிறந்தவர்களின் எண்ணிக்கை\n(iv) ஒரு குறிப்பிட்ட ஆண்டில் ஆயிரம் மக்கள் தொகையில் பிறந்தவர்களின் எண்ணிக்கை",
       "options_ta": [
@@ -2393,7 +2565,15 @@
       "answer_index": 3,
       "explanation_ta": "பிறப்பு விகிதம் (Crude Birth Rate) = ஓர் ஆண்டில் 1000 மக்கள் தொகைக்கு உயிருடன் பிறக்கும் குழந்தைகளின் எண்ணிக்கை. இறப்பு விகிதமும் இவ்வாறே 1000-க்குக் கணக்கிடப்படுகிறது; தாய் இறப்பு விகிதம் 1 இலட்சம் பிறப்புகளுக்குக் கணக்கிடப்படும்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 120",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Birth rate is estimated on the basis of:\n(i) number of births per hundred population in a given year\n(ii) number of births per one lakh population in a given year\n(iii) number of births per thousand population over ten years\n(iv) number of births per thousand population in a given year",
+      "options_en": [
+        "(i) only",
+        "(ii) only",
+        "(iii) only",
+        "(iv) only"
+      ],
+      "explanation_en": "Birth rate (Crude Birth Rate) = number of live births per 1000 population in a year. Death rate is also calculated per 1000; the maternal mortality ratio is calculated per 1 lakh live births."
     },
     {
       "id": "PYQ-2022-AP-121",
@@ -2401,8 +2581,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "compound_interest",
       "topic_name_ta": "கூட்டு வட்டி",
+      "topic_name_en": "Compound Interest",
       "difficulty": "medium",
       "question_ta": "15% ஆண்டு வட்டியில் 3 ஆண்டுகளுக்குக் கிடைக்கும் கூட்டு வட்டிக்கும், தனி வட்டிக்கும் இடையேயுள்ள வித்தியாசம் ₹ 1,134 எனில் அதன் அசல்",
       "options_ta": [
@@ -2414,7 +2596,15 @@
       "answer_index": 0,
       "explanation_ta": "3 ஆண்டுகளுக்கு CI − SI = P × r² × (300 + r) / 100³ = P × 225 × 315 / 10,00,000 = 0.070875 P. 0.070875 P = 1134 ⇒ P = ₹16,000. சரிபார்ப்பு: CI = 16000 × (1.15³ − 1) = 8334; SI = 7200; வேறுபாடு 1134.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 121",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The difference between the compound interest and the simple interest on a sum for 3 years at 15% per annum is ₹1,134. Find the principal.",
+      "options_en": [
+        "₹16,000",
+        "₹15,000",
+        "₹14,000",
+        "₹20,000"
+      ],
+      "explanation_en": "For 3 years, CI − SI = P × r² × (300 + r) / 100³ = P × 225 × 315 / 10,00,000 = 0.070875 P. 0.070875 P = 1134 ⇒ P = ₹16,000. Check: CI = 16000 × (1.15³ − 1) = 8334; SI = 7200; difference = 1134."
     },
     {
       "id": "PYQ-2022-AP-122",
@@ -2422,8 +2612,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "hcf_lcm",
       "topic_name_ta": "மீ.பொ.வ & மீ.சி.ம",
+      "topic_name_en": "HCF & LCM",
       "difficulty": "medium",
       "question_ta": "p மற்றும் q-ன் மீப்பெரு பொது வகுத்தி x மற்றும் q = xy எனில், p மற்றும் q-ன் மீச்சிறு பொது மடங்கை கீழேயுள்ளவற்றிலிருந்து காண்க.",
       "options_ta": [
@@ -2435,7 +2627,15 @@
       "answer_index": 3,
       "explanation_ta": "மீ.சி.ம = (p × q) ÷ மீ.பொ.வ = (p × xy) ÷ x = py.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 122",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "If the HCF of p and q is x and q = xy, then the LCM of p and q is",
+      "options_en": [
+        "pq",
+        "qy",
+        "xy",
+        "py"
+      ],
+      "explanation_en": "LCM = (p × q) ÷ HCF = (p × xy) ÷ x = py."
     },
     {
       "id": "PYQ-2022-AP-123",
@@ -2443,8 +2643,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "area_volume",
       "topic_name_ta": "பரப்பளவு & கனஅளவு",
+      "topic_name_en": "Area & Volume",
       "difficulty": "easy",
       "question_ta": "ஒரு செவ்வகத்தின் நீளம் (3x + 2) அலகுகள் மற்றும் அதன் அகலம் (3x − 2) அலகுகள் எனில் அதன் பரப்பளவைக் காண்க. (x = 20 அலகுகள்)",
       "options_ta": [
@@ -2456,7 +2658,15 @@
       "answer_index": 0,
       "explanation_ta": "பரப்பளவு = (3x + 2)(3x − 2) = 9x² − 4 = 9 × 400 − 4 = 3596 ச.அலகுகள் (அல்லது 62 × 58 = 3596).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 123",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The length of a rectangle is (3x + 2) units and its breadth is (3x − 2) units. Find its area when x = 20 units.",
+      "options_en": [
+        "3596 sq. units",
+        "3956 sq. units",
+        "4256 sq. units",
+        "5356 sq. units"
+      ],
+      "explanation_en": "Area = (3x + 2)(3x − 2) = 9x² − 4 = 9 × 400 − 4 = 3596 sq. units (or 62 × 58 = 3596)."
     },
     {
       "id": "PYQ-2022-AP-124",
@@ -2464,8 +2674,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "percentage",
       "topic_name_ta": "சதவீதம்",
+      "topic_name_en": "Percentage",
       "difficulty": "medium",
       "question_ta": "இரண்டு பகடைகள் ஒரே நேரத்தில் உருட்டப்படும்பொழுது இரண்டிலும் ஒரே முகம் அல்லது கூடுதல் 4 கிடைக்க நிகழ்தகவு காண்க.",
       "options_ta": [
@@ -2477,7 +2689,15 @@
       "answer_index": 3,
       "explanation_ta": "மொத்த விளைவுகள் 36. இரண்டிலும் ஒரே முகம்: (1,1)…(6,6) = 6. கூடுதல் 4: (1,3), (3,1), (2,2) = 3. (2,2) இரண்டிலும் உள்ளதால் ஒருமுறையே கணக்கிட: 6 + 3 − 1 = 8. நிகழ்தகவு = 8/36 = 2/9.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 124",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Two dice are rolled together. Find the probability of getting the same face on both (a doublet) or a sum of 4.",
+      "options_en": [
+        "1/9",
+        "3/9",
+        "4/9",
+        "2/9"
+      ],
+      "explanation_en": "Total outcomes = 36. Doublets: (1,1)…(6,6) = 6. Sum 4: (1,3), (3,1), (2,2) = 3. (2,2) is counted in both, so 6 + 3 − 1 = 8. Probability = 8/36 = 2/9."
     },
     {
       "id": "PYQ-2022-AP-125",
@@ -2485,8 +2705,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "puzzles",
       "topic_name_ta": "புதிர்கள்",
+      "topic_name_en": "Puzzles",
       "difficulty": "medium",
       "question_ta": "கலா மற்றும் வாணி இருவரும் நண்பர்கள். 'இன்று எனது பிறந்த நாள்' என கலா கூறினாள். வாணியிடம் 'உனது பிறந்த நாளை எப்போது நீ கொண்டாடுவாய்?' எனக் கேட்டாள். அதற்கு வாணி 'இன்று திங்கட்கிழமை, நான் என்னுடைய பிறந்த நாளை 75 நாட்களுக்கு முன் கொண்டாடினேன்' என பதிலளித்தாள். வாணியின் பிறந்தநாள் எந்தக் கிழமையில் வந்திருக்கும் எனக் காண்க.",
       "options_ta": [
@@ -2498,7 +2720,15 @@
       "answer_index": 1,
       "explanation_ta": "75 நாட்கள் = 10 வாரங்கள் + 5 நாட்கள். திங்கட்கிழமையிலிருந்து 5 நாட்கள் பின்னோக்கி: ஞாயிறு, சனி, வெள்ளி, வியாழன், புதன். எனவே புதன்கிழமை.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 125",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Kala and Vani are friends. Kala said, 'Today is my birthday,' and asked Vani, 'When will you celebrate your birthday?' Vani replied, 'Today is Monday; I celebrated my birthday 75 days ago.' On which day of the week was Vani's birthday?",
+      "options_en": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation_en": "75 days = 10 weeks + 5 days. Counting 5 days back from Monday: Sunday, Saturday, Friday, Thursday, Wednesday. Hence Wednesday."
     },
     {
       "id": "PYQ-2022-AP-126",
@@ -2506,8 +2736,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "hcf_lcm",
       "topic_name_ta": "மீ.பொ.வ & மீ.சி.ம",
+      "topic_name_en": "HCF & LCM",
       "difficulty": "medium",
       "question_ta": "ஒரு மிகப் பெரிய ஐந்து இலக்க எண்ணை 3, 5, 8 மற்றும் 12-ல் வகுக்கும் போது, கிடைக்கும் மீதி 2 எனில், மிகப் பெரிய ஐந்து இலக்க எண்ணானது ________ ஆகும்.",
       "options_ta": [
@@ -2519,7 +2751,15 @@
       "answer_index": 3,
       "explanation_ta": "மீ.சி.ம (3, 5, 8, 12) = 120. 99999 ÷ 120 = 833, மீதி 39 ⇒ 120-இன் மிகப்பெரிய 5 இலக்க மடங்கு = 99960. அதனுடன் மீதி 2 சேர்க்க: 99962.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 126",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The greatest five-digit number which, when divided by 3, 5, 8 and 12, leaves a remainder of 2 in each case is ________.",
+      "options_en": [
+        "99972",
+        "99958",
+        "99960",
+        "99962"
+      ],
+      "explanation_en": "LCM (3, 5, 8, 12) = 120. 99999 ÷ 120 = 833, remainder 39 ⇒ the greatest 5-digit multiple of 120 = 99960. Add the remainder 2: 99962."
     },
     {
       "id": "PYQ-2022-AP-127",
@@ -2527,8 +2767,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "ratio_proportion",
       "topic_name_ta": "விகிதம் & விகிதசமம்",
+      "topic_name_en": "Ratio & Proportion",
       "difficulty": "easy",
       "question_ta": "4^3.5 : 2⁵ என்பதற்கு சமமான விகிதம்.",
       "options_ta": [
@@ -2540,7 +2782,15 @@
       "answer_index": 1,
       "explanation_ta": "4^3.5 = (2²)^3.5 = 2⁷ = 128; 2⁵ = 32. விகிதம் = 128 : 32 = 4 : 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 127",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The ratio 4^3.5 : 2⁵ is equal to",
+      "options_en": [
+        "2 : 1",
+        "4 : 1",
+        "7 : 5",
+        "7 : 10"
+      ],
+      "explanation_en": "4^3.5 = (2²)^3.5 = 2⁷ = 128; 2⁵ = 32. Ratio = 128 : 32 = 4 : 1."
     },
     {
       "id": "PYQ-2022-AP-128",
@@ -2548,8 +2798,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "alpha_numeric",
       "topic_name_ta": "எழுத்து-எண் காரணவியல்",
+      "topic_name_en": "Alpha-Numeric Reasoning",
       "difficulty": "hard",
       "question_ta": "4 P + S r 9 B # A 3 ? 7 c > Z % 6 d * Q @ 1\nகொடுக்கப்பட்ட தொடரின் முதல் பாதியை பின்னோக்கு வரிசையில் எழுதினால் வரும் தொடரின் வலதுபக்கத்திலிருந்து 14-வதாக அமையும் உறுப்பினைக் காண்க.",
       "options_ta": [
@@ -2561,7 +2813,15 @@
       "answer_index": 3,
       "explanation_ta": "தொடரில் 22 உறுப்புகள்; முதல் பாதி (11): 4 P + S r 9 B # A 3 ? → பின்னோக்கி: ? 3 A # B 9 r S + P 4. புதிய தொடர்: ? 3 A # B 9 r S + P 4 7 c > Z % 6 d * Q @ 1. வலமிருந்து 14-ஆவது = இடமிருந்து (22 − 14 + 1) = 9-ஆவது = '+'.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 128",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "4 P + S r 9 B # A 3 ? 7 c > Z % 6 d * Q @ 1\nIf the first half of the given series is written in reverse order, which element will be 14th from the right in the new series?",
+      "options_en": [
+        ">",
+        "A",
+        "Z",
+        "+"
+      ],
+      "explanation_en": "The series has 22 elements; the first half (11): 4 P + S r 9 B # A 3 ? → reversed: ? 3 A # B 9 r S + P 4. New series: ? 3 A # B 9 r S + P 4 7 c > Z % 6 d * Q @ 1. 14th from the right = (22 − 14 + 1) = 9th from the left = '+'."
     },
     {
       "id": "PYQ-2022-AP-129",
@@ -2569,8 +2829,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "time_work",
       "topic_name_ta": "நேரமும் வேலையும்",
+      "topic_name_en": "Time & Work",
       "difficulty": "easy",
       "question_ta": "10 விவசாயிகள் 21 நாட்களில் ஒரு நிலத்தை உழுது முடிக்கின்றனர் எனில் அதே நிலத்தை 14 விவசாயிகள் எத்தனை நாட்களில் உழுது முடிப்பர்?",
       "options_ta": [
@@ -2582,7 +2844,15 @@
       "answer_index": 1,
       "explanation_ta": "எதிர் விகிதம்: ஆட்கள் × நாட்கள் = மாறிலி. 10 × 21 = 210 ஆள்-நாட்கள். 14 பேர் = 210 ÷ 14 = 15 நாட்கள்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 129",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "10 farmers plough a field in 21 days. In how many days will 14 farmers plough the same field?",
+      "options_en": [
+        "14 days",
+        "15 days",
+        "16 days",
+        "17 days"
+      ],
+      "explanation_en": "Inverse proportion: men × days = constant. 10 × 21 = 210 man-days. 14 farmers: 210 ÷ 14 = 15 days."
     },
     {
       "id": "PYQ-2022-AP-130",
@@ -2590,8 +2860,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "number_series",
       "topic_name_ta": "எண் தொடர்",
+      "topic_name_en": "Number Series",
       "difficulty": "easy",
       "question_ta": "18, a, b, −3 இவை கூட்டுத்தொடர் வரிசையில் உள்ளது எனில் (a + b)-யின் மதிப்புக் காண்க.",
       "options_ta": [
@@ -2603,7 +2875,15 @@
       "answer_index": 2,
       "explanation_ta": "கூட்டுத்தொடரில் முதல், கடைசி உறுப்புகளின் கூடுதல் = நடு இரு உறுப்புகளின் கூடுதல். a + b = 18 + (−3) = 15. (பொது வேறுபாடு −7: 18, 11, 4, −3.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 130",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "If 18, a, b, −3 are in arithmetic progression, find the value of (a + b).",
+      "options_en": [
+        "7",
+        "11",
+        "15",
+        "21"
+      ],
+      "explanation_en": "In an AP, the sum of the first and last terms equals the sum of the two middle terms. a + b = 18 + (−3) = 15. (Common difference −7: 18, 11, 4, −3.)"
     },
     {
       "id": "PYQ-2022-AP-131",
@@ -2611,8 +2891,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "simplification",
       "topic_name_ta": "சுருக்குதல்",
+      "topic_name_en": "Simplification",
       "difficulty": "medium",
       "question_ta": "ஒரு நபர் ஒவ்வொரு ஆண்டும் அதற்கு முந்தைய ஆண்டு சேமித்த தொகையில் பாதியை சேமிக்கிறார். 6 ஆண்டுகளில் அவர் ₹ 7,875-ஐச் சேமிக்கிறார் எனில் முதல் ஆண்டு சேமிப்பு",
       "options_ta": [
@@ -2624,7 +2906,15 @@
       "answer_index": 1,
       "explanation_ta": "முதல் ஆண்டு x எனில் சேமிப்புகள் x, x/2, x/4, x/8, x/16, x/32. கூடுதல் = x × 63/32 = 7875 ⇒ x = 7875 × 32 / 63 = ₹4,000. (4000 + 2000 + 1000 + 500 + 250 + 125 = 7875.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 131",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Each year a person saves half of what he saved in the previous year. If he saves ₹7,875 in 6 years, how much did he save in the first year?",
+      "options_en": [
+        "₹3,000",
+        "₹4,000",
+        "₹4,500",
+        "₹5,000"
+      ],
+      "explanation_en": "If the first-year saving is x, the savings are x, x/2, x/4, x/8, x/16, x/32. Sum = x × 63/32 = 7875 ⇒ x = 7875 × 32 / 63 = ₹4,000. (4000 + 2000 + 1000 + 500 + 250 + 125 = 7875.)"
     },
     {
       "id": "PYQ-2022-AP-132",
@@ -2632,8 +2922,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "compound_interest",
       "topic_name_ta": "கூட்டு வட்டி",
+      "topic_name_en": "Compound Interest",
       "difficulty": "medium",
       "question_ta": "ஒரு குறிப்பிட்ட அசல் தனிவட்டி வீதத்தில் 6 ஆண்டுகளில் 60% அதிகரிக்கிறது. அதே வட்டி வீதத்தில் ₹ 12,000-க்கு 3 ஆண்டுகளில் கிடைக்கும் கூட்டு வட்டி",
       "options_ta": [
@@ -2645,7 +2937,15 @@
       "answer_index": 2,
       "explanation_ta": "6 ஆண்டுகளில் 60% ⇒ வட்டி வீதம் = 10% ஆண்டுக்கு. கூட்டுவட்டி = 12000 × (1.1³ − 1) = 12000 × 0.331 = ₹3,972.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 132",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "A sum increases by 60% in 6 years at a certain rate of simple interest. Find the compound interest on ₹12,000 for 3 years at the same rate.",
+      "options_en": [
+        "₹2,160",
+        "₹3,120",
+        "₹3,972",
+        "₹6,240"
+      ],
+      "explanation_en": "60% in 6 years ⇒ rate = 10% per annum. CI = 12000 × (1.1³ − 1) = 12000 × 0.331 = ₹3,972."
     },
     {
       "id": "PYQ-2022-AP-133",
@@ -2653,8 +2953,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "percentage",
       "topic_name_ta": "சதவீதம்",
+      "topic_name_en": "Percentage",
       "difficulty": "easy",
       "question_ta": "ஒரு கிராமத்தின் மக்கட்தொகை ஆண்டொன்றுக்கு 7% வீதம் அதிகரிக்கிறது. இப்பொழுது மக்கள் தொகை 90,000 எனில் 2 ஆண்டுகளுக்குப் பிறகு அக்கிராமத்தின் மக்கள் தொகை",
       "options_ta": [
@@ -2666,7 +2968,15 @@
       "answer_index": 3,
       "explanation_ta": "கூட்டு வளர்ச்சி: 90000 × (1.07)² = 90000 × 1.1449 = 1,03,041. (96,300 ஓராண்டுக்குப் பிந்தையது மட்டுமே.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 133",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The population of a village increases by 7% every year. If the present population is 90,000, what will the population be after 2 years?",
+      "options_en": [
+        "96,300",
+        "1,03,000",
+        "1,00,000",
+        "1,03,041"
+      ],
+      "explanation_en": "Compound growth: 90000 × (1.07)² = 90000 × 1.1449 = 1,03,041. (96,300 is the population after one year only.)"
     },
     {
       "id": "PYQ-2022-GS-134",
@@ -2674,8 +2984,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "rights_duties",
       "topic_name_ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்",
+      "topic_name_en": "Rights, Duties & Directive Principles",
       "difficulty": "medium",
       "question_ta": "86-வது அரசியலமைப்பு திருத்தச்சட்டம் 2002-இன்படி 51 A(K)-இல் எந்த அடிப்படை கடமை அறிமுகப்படுத்தப்பட்டுள்ளது?",
       "options_ta": [
@@ -2687,7 +2999,15 @@
       "answer_index": 0,
       "explanation_ta": "86-வது திருத்தம் (2002) 11-ஆவது அடிப்படைக் கடமையாக 51A(k)-ஐச் சேர்த்தது: பெற்றோர்/காப்பாளர் தம் 6–14 வயதுக் குழந்தைகளுக்குக் கல்வி வாய்ப்பை வழங்க வேண்டும். இதே திருத்தம் உறுப்பு 21A (கல்வி உரிமை) யையும் சேர்த்தது. மற்ற கடமைகள் 1976 (42-வது திருத்தம்) முதலே உள்ளவை. (குறிப்பு: மூல வினாவின் விருப்பம் '14 வயதிற்கு உட்பட்ட குழந்தைகளுக்கு இலவச, கட்டாயக் கல்வி அளித்தல்' என அரசின் கடமை (உறுப்பு 21A) போல அமைந்திருந்ததால் TNPSC இறுதி விடைக்குறிப்பு அனைத்து விடைகளையும் ஏற்றது; இங்கு 51A(k)-இன் சரியான சொல்லமைப்பில் திருத்தப்பட்டுள்ளது.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 134",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which Fundamental Duty was introduced as Article 51A(k) by the 86th Constitutional Amendment Act, 2002?",
+      "options_en": [
+        "Parents or guardians to provide opportunities for education to their children between 6 and 14 years of age",
+        "To value and preserve the rich heritage of our composite culture",
+        "To defend the country and render national service when called upon",
+        "To protect the natural environment"
+      ],
+      "explanation_en": "The 86th Amendment (2002) added Article 51A(k) as the 11th Fundamental Duty: parents/guardians must provide opportunities for education to their children aged 6–14. The same amendment also added Article 21A (Right to Education). The other duties have existed since 1976 (42nd Amendment). (Note: the original option read 'providing free and compulsory education to all children below 14', which sounds like the State's duty (Article 21A), so TNPSC's final key accepted all answers; it has been reworded here to match Article 51A(k).)"
     },
     {
       "id": "PYQ-2022-GS-135",
@@ -2695,8 +3015,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "polity_misc",
       "topic_name_ta": "தேர்தல், ஊழல் தடுப்பு & மனித உரிமைகள்",
+      "topic_name_en": "Elections, Anti-corruption & Human Rights",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவற்றுள் எத்தனை இணைகள் சரியாகப் பொருத்தப்பட்டுள்ளன? (கட்சி – சின்னம், 2022 நிலவரம்)\n1. அகில இந்திய திரிணாமூல் காங்கிரஸ் – இரு பூக்கள் மற்றும் புற்கள்\n2. தேசியவாத காங்கிரஸ் கட்சி – கடிகாரம்\n3. தெலுங்கானா ராஷ்ட்ரிய சமிதி – கார்\n4. அசாம் கண பரிஷத் – பூட்டு மற்றும் சாவி",
       "options_ta": [
@@ -2708,7 +3030,15 @@
       "answer_index": 2,
       "explanation_ta": "திரிணாமூல் காங்கிரஸ் – இரு மலர்களும் புல்லும் (ஜோரா காஸ் ஃபூல்) ✓; தேசியவாத காங்கிரஸ் – கடிகாரம் ✓; தெலுங்கானா ராஷ்ட்ர சமிதி (தற்போது BRS) – கார் ✓. அசாம் கண பரிஷத்தின் சின்னம் யானை; பூட்டு-சாவி அல்ல ✗. எனவே 3 இணைகள் சரி.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 135",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "How many of the following pairs are correctly matched? (Party – Symbol, as of 2022)\n1. All India Trinamool Congress – Two flowers and grass\n2. Nationalist Congress Party – Clock\n3. Telangana Rashtra Samithi – Car\n4. Asom Gana Parishad – Lock and key",
+      "options_en": [
+        "1 pair",
+        "2 pairs",
+        "3 pairs",
+        "4 pairs"
+      ],
+      "explanation_en": "Trinamool Congress – two flowers and grass (Jora Ghas Phool) ✓; Nationalist Congress Party – clock ✓; Telangana Rashtra Samithi (now BRS) – car ✓. Asom Gana Parishad's symbol is the elephant, not lock and key ✗. So 3 pairs are correct."
     },
     {
       "id": "PYQ-2022-GS-136",
@@ -2716,8 +3046,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "judiciary",
       "topic_name_ta": "நீதித்துறை",
+      "topic_name_en": "Judiciary",
       "difficulty": "medium",
       "question_ta": "இந்தியாவில் நீதிப்புனராய்வு பற்றி கீழ்காண்பவற்றுள் எது/எவை சரியானவை?\n(i) இந்தியா நீதிப்புனராய்வு என்ற கருத்துருவை அமெரிக்காவிலிருந்து பெற்றது\n(ii) ஒன்றிய மற்றும் மாநில சட்டங்கள் இரண்டும் உச்ச நீதிமன்றத்தின் நீதிப்புனராய்வுக்குட்படும்\n(iii) அரசியலமைப்பு சட்டப்பிரிவு 13B நீதித்துறை மறு ஆய்வு செய்வதை தடுக்கிறது",
       "options_ta": [
@@ -2729,7 +3061,15 @@
       "answer_index": 0,
       "explanation_ta": "நீதிப்புனராய்வு அமெரிக்க அரசியலமைப்பிலிருந்து பெறப்பட்டது (i சரி); ஒன்றிய, மாநிலச் சட்டங்கள் இரண்டையும் உச்சநீதிமன்றம் ஆய்வு செய்யலாம் (ii சரி). 'உறுப்பு 13B' என்று ஒன்று இல்லை; ஒன்பதாம் அட்டவணைச் சட்டங்களைப் பாதுகாப்பது உறுப்பு 31B — அதுவும் 1973-க்குப் பின் அடிப்படைக் கட்டமைப்பு ஆய்வுக்கு உட்பட்டது (iii தவறு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 136",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following is/are correct about judicial review in India?\n(i) India borrowed the concept of judicial review from the USA\n(ii) Both Union and State laws are subject to judicial review by the Supreme Court\n(iii) Article 13B of the Constitution prevents judicial review",
+      "options_en": [
+        "(i) and (ii) only",
+        "(i) and (iii) only",
+        "(ii) and (iii) only",
+        "(i), (ii) and (iii)"
+      ],
+      "explanation_en": "Judicial review was borrowed from the US Constitution (i correct); the Supreme Court can review both Union and State laws (ii correct). There is no 'Article 13B'; Article 31B protects Ninth Schedule laws — and even those placed after 1973 are open to basic-structure review (iii wrong)."
     },
     {
       "id": "PYQ-2022-GS-137",
@@ -2737,8 +3077,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "judiciary",
       "topic_name_ta": "நீதித்துறை",
+      "topic_name_en": "Judiciary",
       "difficulty": "easy",
       "question_ta": "பின்வரும் சட்டப் பிரிவுகளில் எந்தச் சட்டப்பிரிவு உச்சநீதிமன்றம் மற்றும் உயர்நீதிமன்றத்திற்குப் பேராணைகளைப் பிறப்பிக்க அதிகாரம் அளிக்கின்றது?",
       "options_ta": [
@@ -2750,7 +3092,15 @@
       "answer_index": 3,
       "explanation_ta": "உறுப்பு 32 – அடிப்படை உரிமைகளைச் செயல்படுத்த உச்சநீதிமன்றம் பேராணைகள் (ஆட்கொணர்வு, கட்டளை, தடை, ஆவணக் கேட்பு, தகுதி வினவல்) பிறப்பிக்கலாம்; உறுப்பு 226 – உயர்நீதிமன்றங்கள் அடிப்படை உரிமைகளுக்கும் பிற சட்ட உரிமைகளுக்கும் பேராணை பிறப்பிக்கலாம்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 137",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which Articles empower the Supreme Court and the High Courts to issue writs?",
+      "options_en": [
+        "Articles 23 and 226",
+        "Articles 32 and 228",
+        "Articles 226 and 36",
+        "Articles 32 and 226"
+      ],
+      "explanation_en": "Article 32 – the Supreme Court can issue writs (habeas corpus, mandamus, prohibition, certiorari, quo warranto) to enforce Fundamental Rights; Article 226 – High Courts can issue writs for Fundamental Rights and other legal rights."
     },
     {
       "id": "PYQ-2022-GS-138",
@@ -2758,8 +3108,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "thirukkural_gs",
       "topic_name_ta": "திருக்குறள் – சிறப்பு",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "'தந்தை மகற்காற்றும் நன்றி' என்னும் திருக்குறளின் படி தந்தை மகனுக்குச் செய்யும் நன்றி எது?",
       "options_ta": [
@@ -2771,7 +3123,15 @@
       "answer_index": 0,
       "explanation_ta": "'தந்தை மகற்காற்று நன்றி அவையத்து முந்தி இருப்பச் செயல்' (குறள் 67, மக்கட்பேறு). கற்றோர் அவையில் முதன்மையாக விளங்கும்படி மகனைக் கல்வியில் சிறந்தவனாக்குவதே தந்தையின் கடமை.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 138",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "According to the Thirukkural couplet 'தந்தை மகற்காற்றும் நன்றி' (the good a father does for his son), what is that good?",
+      "options_en": [
+        "Making him stand first in the assembly of the learned",
+        "Making him first in wealth",
+        "Making him first in family pride",
+        "Making him first in honesty"
+      ],
+      "explanation_en": "'தந்தை மகற்காற்று நன்றி அவையத்து முந்தி இருப்பச் செயல்' (Kural 67, Makkatperu – 'The good a father can do for his son is to make him stand first in the assembly of the learned'). A father's duty is to educate his son so that he excels among learned people."
     },
     {
       "id": "PYQ-2022-GS-139",
@@ -2779,8 +3139,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "ancient_india",
       "topic_name_ta": "பண்டைய இந்தியா",
+      "topic_name_en": "Ancient India",
       "difficulty": "easy",
       "question_ta": "இந்தியத் தொல்லியல் ஆய்வுத் துறையின் முதல் ஆய்வாளர்",
       "options_ta": [
@@ -2792,7 +3154,15 @@
       "answer_index": 2,
       "explanation_ta": "1861-இல் இந்தியத் தொல்லியல் ஆய்வுத் துறை (ASI) நிறுவப்பட்டபோது அலெக்சாண்டர் கன்னிங்ஹாம் அதன் முதல் தலைமை ஆய்வாளரானார்; அவர் 'இந்தியத் தொல்லியலின் தந்தை' எனப்படுகிறார். ஜான் மார்ஷல் 1902–28 காலத்தில் தலைமை இயக்குநராக இருந்து சிந்துவெளி அகழாய்வுகளை மேற்பார்வையிட்டார்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 139",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The first Surveyor of the Archaeological Survey of India was",
+      "options_en": [
+        "Charles Masson",
+        "Alexander Burnes",
+        "Alexander Cunningham",
+        "Sir John Marshall"
+      ],
+      "explanation_en": "When the Archaeological Survey of India (ASI) was set up in 1861, Alexander Cunningham became its first Archaeological Surveyor; he is called the 'Father of Indian Archaeology'. John Marshall was Director-General from 1902 to 1928 and oversaw the Indus Valley excavations."
     },
     {
       "id": "PYQ-2022-GS-140",
@@ -2800,8 +3170,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "biology",
       "topic_name_ta": "உயிரியல்",
+      "topic_name_en": "Biology",
       "difficulty": "easy",
       "question_ta": "குரோமோசோம் 21-இல் ஒரு நகல் கூடுதலாக இருப்பின் அதனால் ஏற்படுவது",
       "options_ta": [
@@ -2813,7 +3185,15 @@
       "answer_index": 1,
       "explanation_ta": "21-ஆம் குரோமோசோம் மூன்று நகல்களாக இருப்பது (டிரைசோமி 21) டவுன் சின்ட்ரோம். க்லைன்ஃபெல்டர் – XXY பால் குரோமோசோம் குறைபாடு; அரிவாள் செல் சோகை, தலசீமியா – ஹீமோகுளோபின் மரபணு மாற்றக் குறைபாடுகள்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 140",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "An extra copy of chromosome 21 causes",
+      "options_en": [
+        "Sickle-cell anaemia",
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Thalassaemia"
+      ],
+      "explanation_en": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome. Klinefelter syndrome – an XXY sex-chromosome disorder; sickle-cell anaemia and thalassaemia – disorders caused by haemoglobin gene mutations."
     },
     {
       "id": "PYQ-2022-GS-141",
@@ -2821,8 +3201,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "south_india_history",
       "topic_name_ta": "தென்னிந்திய வரலாறு",
+      "topic_name_en": "South Indian History",
       "difficulty": "medium",
       "question_ta": "சரியான இணையைத் தேர்வு செய்க.\n(1) பட்டடக்கல் – வாதாபி சாளுக்கியர்\n(2) எலிபெண்டா குகைகள் – அசோகர்\n(3) எல்லோரா குகைகள் – ராஷ்டிரகூடர்கள்\n(4) மாமல்லபுரம் – முதலாம் நரசிம்மவர்மன்",
       "options_ta": [
@@ -2834,7 +3216,15 @@
       "answer_index": 0,
       "explanation_ta": "பட்டடக்கல் கோயில்கள் – வாதாபி (பாதாமி) சாளுக்கியர் (1 சரி); எல்லோரா கைலாசநாதர் கோயில் – ராஷ்டிரகூட முதலாம் கிருஷ்ணன் (3 சரி); மாமல்லபுரம் – 'மாமல்லன்' முதலாம் நரசிம்மவர்மன் (4 சரி). எலிபெண்டா குகைகள் அசோகர் காலத்தவை அல்ல (கி.பி. 5–6 ஆம் நூற்றாண்டு) — 2 தவறு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 141",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Choose the correct pairs.\n(1) Pattadakal – Chalukyas of Vatapi\n(2) Elephanta Caves – Ashoka\n(3) Ellora Caves – Rashtrakutas\n(4) Mamallapuram – Narasimhavarman I",
+      "options_en": [
+        "1, 3, 4 are correct",
+        "2, 3, 4 are correct",
+        "4, 3, 2 are correct",
+        "4, 1, 2 are correct"
+      ],
+      "explanation_en": "Pattadakal temples – Chalukyas of Vatapi (Badami) (1 correct); Kailasanatha temple at Ellora – Rashtrakuta Krishna I (3 correct); Mamallapuram – Narasimhavarman I, 'Mamallan' (4 correct). The Elephanta caves are not from Ashoka's time (5th–6th century CE) — 2 is wrong."
     },
     {
       "id": "PYQ-2022-GS-142",
@@ -2842,8 +3232,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "national_leaders",
       "topic_name_ta": "தேசியத் தலைவர்கள்",
+      "topic_name_en": "National Leaders",
       "difficulty": "medium",
       "question_ta": "'இந்தியா பல்வேறு நம்பிக்கைகளைச் சமமாக போற்றி மதிக்கப்படும் இடமாக இருப்பதோடு ஒரே தேசியக் கண்ணோட்டத்தைக் கொண்டிருக்கும்' எனக் கூறியவர்",
       "options_ta": [
@@ -2855,7 +3247,15 @@
       "answer_index": 1,
       "explanation_ta": "சமயச்சார்பற்ற இந்தியா பற்றிய இக்கருத்தை ஜவஹர்லால் நேரு கூறினார் (பாடநூல் – 'இந்தியா ஒரு சமயச்சார்பற்ற நாடு').",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 142",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Who said, 'India will be a land of many faiths, equally honoured and respected, but of one national outlook'?",
+      "options_en": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sir Syed Ahmed Khan"
+      ],
+      "explanation_en": "This idea of a secular India was expressed by Jawaharlal Nehru (textbook – 'India is a secular country')."
     },
     {
       "id": "PYQ-2022-GS-143",
@@ -2863,8 +3263,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவற்றுள் எவை சரியான வாக்கியங்கள்?\n(i) இராஜஸ்தான் சமவெளி ஆரவல்லி மலைத்தொடருக்கு மேற்கில் அமைந்துள்ளது.\n(ii) பஞ்சாப்-ஹரியானா சமவெளிகள் இந்திய பாலைவனத்தின் வடகிழக்கே அமைந்துள்ளன.\n(iii) கங்கைச் சமவெளி மேற்கில் யமுனை ஆற்றிலிருந்து கிழக்கில் மிசோரம் வரை பரவியுள்ளது.\n(iv) பிரம்மபுத்திரா சமவெளியின் பெரும்பகுதி மேகாலயாவில் அமைந்துள்ளது.",
       "options_ta": [
@@ -2876,7 +3278,15 @@
       "answer_index": 1,
       "explanation_ta": "(i) சரி — இராஜஸ்தான் சமவெளி ஆரவல்லிக்கு மேற்கே. (ii) சரி — பஞ்சாப்-ஹரியானா சமவெளி தார் பாலைவனத்துக்கு வடகிழக்கே. (iii) தவறு — கங்கைச் சமவெளி யமுனையிலிருந்து கிழக்கே வங்கதேச எல்லை வரை பரவியுள்ளது, மிசோரம் வரை அல்ல. (iv) தவறு — பிரம்மபுத்திரா சமவெளியின் பெரும்பகுதி அசாமில் உள்ளது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 143",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following statements are correct?\n(i) The Rajasthan plain lies to the west of the Aravalli range.\n(ii) The Punjab–Haryana plains lie to the north-east of the Indian desert.\n(iii) The Ganga plain extends from the Yamuna river in the west to Mizoram in the east.\n(iv) Most of the Brahmaputra plain lies in Meghalaya.",
+      "options_en": [
+        "(i), (iii) and (iv) only",
+        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(ii) and (iv) only"
+      ],
+      "explanation_en": "(i) Correct — the Rajasthan plain lies west of the Aravallis. (ii) Correct — the Punjab–Haryana plain lies north-east of the Thar desert. (iii) Wrong — the Ganga plain extends from the Yamuna eastwards to the Bangladesh border, not to Mizoram. (iv) Wrong — most of the Brahmaputra plain lies in Assam."
     },
     {
       "id": "PYQ-2022-GS-144",
@@ -2884,8 +3294,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "easy",
       "question_ta": "சரியான வாக்கியத்தைத் தேர்ந்தெடுக்கவும்:\nவாக்கியம் 1: கங்கை-பிரம்மபுத்திரா டெல்டா பகுதிகளில் மிகப்பெரிய சதுப்பு நிலக்காடுகள் உள்ளன.\nவாக்கியம் 2: அலையாத்திக் காடுகள் 'மாங்குரோவ்' காடுகள் என்று அழைக்கப்படுகின்றன.",
       "options_ta": [
@@ -2897,7 +3309,15 @@
       "answer_index": 0,
       "explanation_ta": "கங்கை-பிரம்மபுத்திரா டெல்டாவில் உள்ள சுந்தரவனக் காடுகள் உலகின் மிகப்பெரிய அலையாத்தி (கடற்கரைச் சதுப்பு) காடுகள். அலையாத்திக் காடுகள் 'மாங்குரோவ்' காடுகள் எனப்படுகின்றன (தமிழ்நாட்டில் பிச்சாவரம்). இரண்டும் சரி.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 144",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Choose the correct option:\nStatement 1: The Ganga–Brahmaputra delta has the largest mangrove (tidal swamp) forests.\nStatement 2: Tidal forests are called 'mangrove' forests.",
+      "options_en": [
+        "Both statements are correct",
+        "Both statements are wrong",
+        "Statement 1 is correct; 2 is wrong",
+        "Statement 1 is wrong; 2 is correct"
+      ],
+      "explanation_en": "The Sundarbans in the Ganga–Brahmaputra delta are the world's largest tidal (coastal swamp) forests. Tidal forests are called 'mangrove' forests (Pichavaram in Tamil Nadu). Both are correct."
     },
     {
       "id": "PYQ-2022-GS-146",
@@ -2905,8 +3325,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_tn",
       "topic_name_ta": "தமிழ்நாட்டுப் புவியியல்",
+      "topic_name_en": "Tamil Nadu Geography",
       "difficulty": "medium",
       "question_ta": "புவிசார் குறியீடு (GI tag) பொருட்களை அதன் இடத்துடன் பொருத்துக.\n(a) மஞ்சள் – 1. மதுரை\n(b) பாய் – 2. ஈரோடு\n(c) வண்ணப்பூச்சு (ஓவியம்) – 3. பத்தமடை\n(d) சுங்குடி – 4. தஞ்சாவூர்",
       "options_ta": [
@@ -2918,7 +3340,15 @@
       "answer_index": 1,
       "explanation_ta": "ஈரோடு மஞ்சள் (2); பத்தமடை பாய் (3); தஞ்சாவூர் ஓவியம் (4); மதுரை சுங்குடிச் சேலை (1) — அனைத்தும் புவிசார் குறியீடு பெற்றவை. எனவே 2, 3, 4, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 146",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the Geographical Indication (GI) tagged products with their places.\n(a) Turmeric – 1. Madurai\n(b) Mat – 2. Erode\n(c) Painting – 3. Pattamadai\n(d) Sungudi – 4. Thanjavur",
+      "options_en": [
+        "(a)-1, (b)-2, (c)-3, (d)-4",
+        "(a)-2, (b)-3, (c)-4, (d)-1",
+        "(a)-1, (b)-3, (c)-2, (d)-4",
+        "(a)-2, (b)-1, (c)-4, (d)-3"
+      ],
+      "explanation_en": "Erode turmeric (2); Pattamadai mat (3); Thanjavur painting (4); Madurai Sungudi saree (1) — all have GI tags. Hence 2, 3, 4, 1."
     },
     {
       "id": "PYQ-2022-GS-147",
@@ -2926,8 +3356,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "indian_culture",
       "topic_name_ta": "இந்தியப் பண்பாடு",
+      "topic_name_en": "Indian Culture",
       "difficulty": "medium",
       "question_ta": "பல்வேறு சமுதாயங்களுக்கிடையேயான, சமூக, கல்வி மற்றும் உளவியல் நல வாழ்வு தொடர்பான சிந்தனை ________ எனப்படும்.",
       "options_ta": [
@@ -2939,7 +3371,15 @@
       "answer_index": 1,
       "explanation_ta": "பாடநூல் வரையறைப்படி, பல்வேறு சமுதாயங்கள் இடையே சமூக, கல்வி, உளவியல் ரீதியான ஒருமைப்பாட்டு உணர்வை வளர்க்கும் சிந்தனை 'தேசிய ஒருங்கிணைப்பு' (National Integration) எனப்படும் (தேர்வு விடைக்குறிப்பு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 147",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The idea concerned with the social, educational and psychological well-being among different communities is called ________.",
+      "options_en": [
+        "Communal harmony",
+        "National integration",
+        "Women's empowerment",
+        "Social welfare"
+      ],
+      "explanation_en": "As defined in the textbook, the idea that builds a feeling of social, educational and psychological unity among different communities is called 'National Integration' (answer key)."
     },
     {
       "id": "PYQ-2022-GS-148",
@@ -2947,8 +3387,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "local_govt",
       "topic_name_ta": "உள்ளாட்சி அமைப்புகள்",
+      "topic_name_en": "Local Government",
       "difficulty": "easy",
       "question_ta": "தேசிய ஊராட்சி (பஞ்சாயத்து ராஜ்) நாள் ________ ஆகும்.",
       "options_ta": [
@@ -2960,7 +3402,15 @@
       "answer_index": 2,
       "explanation_ta": "73-வது அரசியலமைப்புத் திருத்தம் 24 ஏப்ரல் 1993 அன்று நடைமுறைக்கு வந்ததன் நினைவாக ஒவ்வோர் ஆண்டும் ஏப்ரல் 24 தேசிய பஞ்சாயத்து ராஜ் தினமாகக் கடைப்பிடிக்கப்படுகிறது. (டிசம்பர் 24 – தேசிய நுகர்வோர் தினம்.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 148",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "National Panchayati Raj Day is observed on ________.",
+      "options_en": [
+        "24 December",
+        "24 August",
+        "24 April",
+        "24 September"
+      ],
+      "explanation_en": "24 April is observed every year as National Panchayati Raj Day, marking the 73rd Constitutional Amendment coming into force on 24 April 1993. (24 December – National Consumer Day.)"
     },
     {
       "id": "PYQ-2022-GS-149",
@@ -2968,8 +3418,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "thirukkural_gs",
       "topic_name_ta": "திருக்குறள் – சிறப்பு",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "'இழுக்கா இயன்றது அறம்' – எவை?",
       "options_ta": [
@@ -2981,7 +3433,15 @@
       "answer_index": 0,
       "explanation_ta": "'அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் இழுக்கா இயன்றது அறம்' (குறள் 35). பொறாமை, பேராசை, சினம், கடுஞ்சொல் — இந்நான்கையும் விலக்கி வாழ்வதே அறம்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 149",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "'இழுக்கா இயன்றது அறம்' (Virtue is living free of these) — which are 'these'?",
+      "options_en": [
+        "Envy, greed, anger and harsh words",
+        "Virtue, wealth, pleasure and salvation",
+        "Joy, shouting, laughter and calm",
+        "Lust, anger, delusion and deeds"
+      ],
+      "explanation_en": "'அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் இழுக்கா இயன்றது அறம்' (Kural 35) — Virtue is living free of these four: envy, greed, anger and harsh words."
     },
     {
       "id": "PYQ-2022-GS-150",
@@ -2989,8 +3449,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "medium",
       "question_ta": "சரியான இணைகளைத் தேர்வு செய்க.\n1. ஒண்டிவீரன் – மருது சகோதரர்கள்\n2. கோபால நாயக்கர் – திண்டுக்கல் கூட்டமைப்பு\n3. குயிலி – புலித்தேவர்\n4. முத்துவடுகநாதர் – காளையார் கோவில் போர்",
       "options_ta": [
@@ -3002,7 +3464,15 @@
       "answer_index": 3,
       "explanation_ta": "கோபால நாயக்கர் – திண்டுக்கல் கூட்டமைப்பின் தலைவர் (2 சரி); சிவகங்கை மன்னர் முத்துவடுகநாதர் 1772 காளையார்கோவில் போரில் கொல்லப்பட்டார் (4 சரி). ஒண்டிவீரன் புலித்தேவரின் படைத்தளபதி (1 தவறு); குயிலி வேலுநாச்சியாரின் படைத்தலைவி (3 தவறு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 150",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Choose the correct pairs.\n1. Ondiveeran – Marudhu Brothers\n2. Gopala Nayakar – Dindigul League\n3. Kuyili – Puli Thevar\n4. Muthu Vadugananthar – Battle of Kalaiyarkoil",
+      "options_en": [
+        "1 and 3 are correct",
+        "1 and 2 are correct",
+        "2 and 3 are correct",
+        "2 and 4 are correct"
+      ],
+      "explanation_en": "Gopala Nayakar – leader of the Dindigul League (2 correct); Muthu Vadugananthar, king of Sivagangai, was killed in the 1772 battle of Kalaiyarkoil (4 correct). Ondiveeran was Puli Thevar's commander (1 wrong); Kuyili was Velu Nachiyar's commander (3 wrong)."
     },
     {
       "id": "PYQ-2022-GS-151",
@@ -3010,8 +3480,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "thirukkural_gs",
       "topic_name_ta": "திருக்குறள் – சிறப்பு",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "ஒருவனுடைய செல்வம் சமுதாயத்திற்குப் பயன்படுவதை (பேரறிவாளனின் செல்வத்தை) வள்ளுவர் எதனோடு ஒப்பிடுகிறார்?",
       "options_ta": [
@@ -3023,7 +3495,15 @@
       "answer_index": 0,
       "explanation_ta": "'ஊருணி நீர்நிறைந் தற்றே உலகவாம் பேரறி வாளன் திரு' (குறள் 215, ஒப்புரவறிதல்). ஊர் மக்கள் அனைவரும் நீர் எடுக்கும் ஊருணி நிறைந்திருப்பது போல, உலகை விரும்பும் அறிவாளனின் செல்வம் அனைவருக்கும் பயன்படும்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 151",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "To what does Valluvar compare the wealth of a wise and generous man (பேரறிவாளன்) that benefits society?",
+      "options_en": [
+        "A village tank (ஊருணி)",
+        "The sea",
+        "A river",
+        "A lake"
+      ],
+      "explanation_en": "'ஊருணி நீர்நிறைந் தற்றே உலகவாம் பேரறி வாளன் திரு' (Kural 215, Oppuravarithal). Just as a full village tank from which everyone draws water, the wealth of a wise man who loves the world benefits all."
     },
     {
       "id": "PYQ-2022-GS-152",
@@ -3031,8 +3511,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "tn_development",
       "topic_name_ta": "தமிழ்நாடு வளர்ச்சி & நலத்திட்டங்கள்",
+      "topic_name_en": "Tamil Nadu Development & Welfare Schemes",
       "difficulty": "hard",
       "question_ta": "தமிழ்நாட்டின் முதலாவது பல்முனையம் சரக்குப் போக்குவரத்துப் பூங்காவில் (Multi-Modal Logistics Park) ________ அமைப்பிற்குத் தொடர்பு இல்லை.",
       "options_ta": [
@@ -3044,7 +3526,15 @@
       "answer_index": 3,
       "explanation_ta": "திருவள்ளூர் மாவட்டம் மப்பேட்டில் அமையும் தமிழ்நாட்டின் முதல் பல்முனையச் சரக்குப் போக்குவரத்துப் பூங்கா, NHLML, சென்னைத் துறைமுகக் கழகம், தமிழ்நாடு தொழில் வளர்ச்சி நிறுவனம் (TIDCO) உள்ளிட்ட அமைப்புகளின் கூட்டுத் திட்டம்; சென்னை பெருநகர வளர்ச்சிக் குழுமம் (CMDA) இதில் பங்குதாரர் அல்ல (விடைக்குறிப்பு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 152",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which organisation is NOT associated with Tamil Nadu's first Multi-Modal Logistics Park?",
+      "options_en": [
+        "Chennai Port Authority",
+        "Tamil Nadu Industrial Development Corporation",
+        "National Highways Logistics Management Limited",
+        "Chennai Metropolitan Development Authority"
+      ],
+      "explanation_en": "Tamil Nadu's first Multi-Modal Logistics Park at Mappedu, Tiruvallur district, is a joint project of NHLML, the Chennai Port Authority and TIDCO among others; the Chennai Metropolitan Development Authority (CMDA) is not a partner (answer key)."
     },
     {
       "id": "PYQ-2022-GS-153",
@@ -3052,8 +3542,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "current_affairs",
       "topic_name_ta": "நடப்பு நிகழ்வுகள்",
+      "topic_name_en": "Current Affairs",
       "difficulty": "medium",
       "question_ta": "2021ஆம் ஆண்டிற்கான 'ஞானபீட விருதை' வென்றவர் யார்?",
       "options_ta": [
@@ -3065,7 +3557,15 @@
       "answer_index": 3,
       "explanation_ta": "2021-ஆம் ஆண்டுக்கான 56-வது ஞானபீட விருது அசாமியக் கவிஞர் நீல்மணி பூக்கனுக்கு வழங்கப்பட்டது. அதே நாளில் (7 டிசம்பர் 2021) அறிவிக்கப்பட்ட 2022-ஆம் ஆண்டுக்கான 57-வது விருது கொங்கணி எழுத்தாளர் தாமோதர் மௌசோவுக்கு. அமிதவ் கோஷ் – 54-வது (2018). TNPSC இறுதி விடைக்குறிப்பும் 'D – நீல்மணி பூக்கன்' என்பதையே விடையாகக் கொண்டுள்ளது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 153",
-      "is_current_affairs": true
+      "is_current_affairs": true,
+      "question_en": "Who won the Jnanpith Award for the year 2021?",
+      "options_en": [
+        "Damodar Mauzo",
+        "Krishna Sobti",
+        "Amitav Ghosh",
+        "Nilmani Phookan"
+      ],
+      "explanation_en": "The 56th Jnanpith Award, for 2021, went to Assamese poet Nilmani Phookan. The 57th award, for 2022, announced the same day (7 December 2021), went to Konkani writer Damodar Mauzo. Amitav Ghosh – 54th (2018). TNPSC's final answer key also gives 'D – Nilmani Phookan'."
     },
     {
       "id": "PYQ-2022-GS-154",
@@ -3073,8 +3573,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "polity_misc",
       "topic_name_ta": "தேர்தல், ஊழல் தடுப்பு & மனித உரிமைகள்",
+      "topic_name_en": "Elections, Anti-corruption & Human Rights",
       "difficulty": "hard",
       "question_ta": "இதர பிற்பட்ட வகுப்பினர் பட்டியலை மாநிலங்களே தயாரிக்கும் அதிகாரத்தை மீட்பதற்காக இந்திய நாடாளுமன்றத்தில் கொண்டு வரப்பட்ட சட்ட திருத்தம், கீழ்கண்ட மூன்று அரசமைப்புக் கூறுகளைத் திருத்தியது.",
       "options_ta": [
@@ -3086,7 +3588,15 @@
       "answer_index": 2,
       "explanation_ta": "105-வது அரசியலமைப்புத் திருத்தம் (2021) உறுப்புகள் 338B, 342A, 366 ஆகியவற்றைத் திருத்தி, சமூக-கல்வி அடிப்படையில் பிற்படுத்தப்பட்டோர் பட்டியலைத் தயாரிக்கும் அதிகாரத்தை மாநிலங்களுக்கு மீண்டும் வழங்கியது (மராத்தா இட ஒதுக்கீட்டு வழக்குத் தீர்ப்புக்குப் பின்).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 154",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The constitutional amendment passed by Parliament to restore the power of States to prepare their own lists of Other Backward Classes amended which three Articles?",
+      "options_en": [
+        "334, 342A and 366",
+        "338B, 341 and 363",
+        "338B, 342A and 366",
+        "333, 341A and 362"
+      ],
+      "explanation_en": "The 105th Constitutional Amendment (2021) amended Articles 338B, 342A and 366 and restored to the States the power to prepare lists of socially and educationally backward classes (after the Maratha reservation judgment)."
     },
     {
       "id": "PYQ-2022-GS-155",
@@ -3094,8 +3604,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "science_tech",
       "topic_name_ta": "அறிவியல் & தொழில்நுட்பம்",
+      "topic_name_en": "Science & Technology",
       "difficulty": "hard",
       "question_ta": "கீழ்க்காணும் வாக்கியங்களில் எவையெல்லாம் சரி?\n(i) மத்திய மருந்து ஆராய்ச்சி நிறுவனம் CDRI கொரோனா வைரஸின் ஒமிக்ரான் மாறுபாட்டை சோதிக்க உள்நாட்டிலேயே 'Om' எனும் ஆர்டி-பிசிஆர் கண்டறியும் கருவி உருவாக்கியுள்ளது.\n(ii) ஒமிக்ரானின் குறிப்பிட்ட சோதனைக்கு எந்த ஒரு அரசு நிறுவனத்தால் உருவாக்கப்பட்ட முதல் கருவி 'Om'.\n(iii) உள்நாட்டிலேயே தயாரிக்கப்பட்ட மூன்றாவது கொரோனா வைரஸ் (ஒமிக்ரான்) சோதனை கருவி 'Om'.",
       "options_ta": [
@@ -3107,7 +3619,15 @@
       "answer_index": 3,
       "explanation_ta": "லக்னோவில் உள்ள CSIR-மத்திய மருந்து ஆராய்ச்சி நிறுவனம் (CDRI) 2022 ஜனவரியில் ஒமிக்ரானைக் குறிப்பாகக் கண்டறியும் 'Om' RT-PCR கருவியை உருவாக்கியது; இது அரசு நிறுவனம் உருவாக்கிய முதல் ஒமிக்ரான் சோதனைக் கருவி; உள்நாட்டில் தயாரான மூன்றாவது ஒமிக்ரான் கருவி. மூன்றும் சரி (விடைக்குறிப்பு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 155",
-      "is_current_affairs": true
+      "is_current_affairs": true,
+      "question_en": "Which of the following statements are correct?\n(i) The Central Drug Research Institute (CDRI) has indigenously developed an RT-PCR kit called 'Om' to detect the Omicron variant of coronavirus.\n(ii) 'Om' is the first kit developed by a government institution specifically for testing Omicron.\n(iii) 'Om' is the third indigenously made coronavirus (Omicron) test kit.",
+      "options_en": [
+        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(i) and (iii) only",
+        "All of (i), (ii) and (iii)"
+      ],
+      "explanation_en": "CSIR-Central Drug Research Institute (CDRI), Lucknow, developed the 'Om' RT-PCR kit to specifically detect Omicron in January 2022; it is the first Omicron test kit developed by a government institution and the third indigenous Omicron kit. All three are correct (answer key)."
     },
     {
       "id": "PYQ-2022-GS-156",
@@ -3115,8 +3635,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "easy",
       "question_ta": "தீபகற்ப இந்திய ஆறுகளில் கிழக்கில் இருந்து மேற்கு நோக்கிப் பாயும் மூன்று ஆறுகள்",
       "options_ta": [
@@ -3128,7 +3650,15 @@
       "answer_index": 2,
       "explanation_ta": "நர்மதை, தபதி, மாஹி (சபர்மதி) ஆகியவை மேற்கு நோக்கிப் பாய்ந்து அரபிக் கடலில் கலக்கின்றன; நர்மதையும் தபதியும் பிளவுப் பள்ளத்தாக்கில் ஓடி கழிமுகங்களை (estuary) உருவாக்குகின்றன. மகாநதி, கோதாவரி, கிருஷ்ணா கிழக்கு நோக்கிப் பாய்ந்து வங்கக் கடலில் கலந்து டெல்டாக்களை உருவாக்குகின்றன.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 156",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The three rivers of Peninsular India that flow from east to west are",
+      "options_en": [
+        "Mahanadi, Godavari and Krishna",
+        "Krishna, Narmada and Tapti",
+        "Narmada, Tapti and Mahi",
+        "Mahi, Mahanadi and Godavari"
+      ],
+      "explanation_en": "The Narmada, Tapti and Mahi (and Sabarmati) flow west into the Arabian Sea; the Narmada and Tapti flow through rift valleys and form estuaries. The Mahanadi, Godavari and Krishna flow east into the Bay of Bengal and form deltas."
     },
     {
       "id": "PYQ-2022-GS-157",
@@ -3136,8 +3666,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "biology",
       "topic_name_ta": "உயிரியல்",
+      "topic_name_en": "Biology",
       "difficulty": "medium",
       "question_ta": "சரியான இணையைக் கண்டுபிடி.",
       "options_ta": [
@@ -3149,7 +3681,15 @@
       "answer_index": 2,
       "explanation_ta": "பியூரின்கள் = அடினைன், குவானைன் (இரட்டை வளையம்) — சரி. பிரிமிடின்கள் = சைட்டோசின், தைமின், யுராசில். நியூக்ளியோசைடு = நைட்ரஜன் காரம் + சர்க்கரை; நியூக்ளியோடைடு = நியூக்ளியோசைடு + பாஸ்பேட். எனவே மற்ற இணைகள் தவறு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 157",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Find the correct pair.",
+      "options_en": [
+        "Nucleoside – nitrogenous base + phosphate",
+        "Pyrimidines – cytosine and sugar",
+        "Purines – adenine and guanine",
+        "Nucleotide – nucleoside + sugar"
+      ],
+      "explanation_en": "Purines = adenine and guanine (double ring) — correct. Pyrimidines = cytosine, thymine and uracil. Nucleoside = nitrogenous base + sugar; nucleotide = nucleoside + phosphate. So the other pairs are wrong."
     },
     {
       "id": "PYQ-2022-GS-158",
@@ -3157,8 +3697,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_general",
       "topic_name_ta": "பொதுப் புவியியல்",
+      "topic_name_en": "General Geography",
       "difficulty": "easy",
       "question_ta": "மென்மையான வண்டல் பாறை அடுக்குகளின் துளைகளில் உள்ள வாயுவின் பெயர் என்ன?",
       "options_ta": [
@@ -3170,7 +3712,15 @@
       "answer_index": 0,
       "explanation_ta": "மென்மையான, மெல்லிய அடுக்குகளாலான ஷேல் (Shale) என்ற வண்டல் பாறைகளின் நுண்துளைகளில் சிக்கியுள்ள இயற்கை வாயு 'ஷேல் வாயு'. கோபர் வாயு சாணத்திலிருந்து பெறப்படும் உயிர்வாயு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 158",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "What is the gas trapped in the pores of soft sedimentary rock layers called?",
+      "options_en": [
+        "Shale gas",
+        "Gobar gas",
+        "Water gas",
+        "Oxygen gas"
+      ],
+      "explanation_en": "Natural gas trapped in the tiny pores of shale — a soft, finely layered sedimentary rock — is called 'shale gas'. Gobar gas is biogas obtained from cow dung."
     },
     {
       "id": "PYQ-2022-GS-159",
@@ -3178,8 +3728,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "chemistry",
       "topic_name_ta": "வேதியியல்",
+      "topic_name_en": "Chemistry",
       "difficulty": "medium",
       "question_ta": "கூட்டுப் பொருளை அதன் வினைபடு தொகுதியுடன் இணை:\n(a) ஆல்கஹால் – 1. –COOH\n(b) ஆல்டிஹைடு – 2. –OH\n(c) கீட்டோன் – 3. –CHO\n(d) கார்பாக்ஸிலிக் அமிலம் – 4. –CO– (C=O)",
       "options_ta": [
@@ -3191,7 +3743,15 @@
       "answer_index": 3,
       "explanation_ta": "ஆல்கஹால் – ஹைட்ராக்ஸில் –OH (2); ஆல்டிஹைடு – –CHO (3); கீட்டோன் – கார்பனைல் >C=O (4); கார்பாக்ஸிலிக் அமிலம் – –COOH (1). எனவே 2, 3, 4, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 159",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the compound with its functional group:\n(a) Alcohol – 1. –COOH\n(b) Aldehyde – 2. –OH\n(c) Ketone – 3. –CHO\n(d) Carboxylic acid – 4. –CO– (C=O)",
+      "options_en": [
+        "(a)-2, (b)-1, (c)-3, (d)-4",
+        "(a)-2, (b)-3, (c)-1, (d)-4",
+        "(a)-3, (b)-2, (c)-4, (d)-1",
+        "(a)-2, (b)-3, (c)-4, (d)-1"
+      ],
+      "explanation_en": "Alcohol – hydroxyl –OH (2); aldehyde – –CHO (3); ketone – carbonyl >C=O (4); carboxylic acid – –COOH (1). Hence 2, 3, 4, 1."
     },
     {
       "id": "PYQ-2022-GS-160",
@@ -3199,8 +3759,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "physics",
       "topic_name_ta": "இயற்பியல்",
+      "topic_name_en": "Physics",
       "difficulty": "easy",
       "question_ta": "வாகனங்கள் பழுது பார்க்கும் பணிமனைகளில் வாகனங்களை உயர்த்த எந்த விதியின் அடிப்படையில் இயங்கும் நீரியல் உயர்த்திகள் பயன்படுத்தப்படுகின்றன?",
       "options_ta": [
@@ -3212,7 +3774,15 @@
       "answer_index": 2,
       "explanation_ta": "மூடிய திரவத்தின் ஒரு புள்ளியில் செலுத்தப்படும் அழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும் என்ற பாஸ்கல் விதிப்படி நீரியல் உயர்த்தி, நீரியல் தடை (hydraulic brake) போன்றவை இயங்குகின்றன.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 160",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Hydraulic lifts used in vehicle service stations to raise vehicles work on the basis of which law?",
+      "options_en": [
+        "Newton's first law",
+        "Newton's second law",
+        "Pascal's law",
+        "All of the above"
+      ],
+      "explanation_en": "Pascal's law: pressure applied at one point of an enclosed fluid is transmitted equally in all directions. Hydraulic lifts and hydraulic brakes work on this principle."
     },
     {
       "id": "PYQ-2022-GS-161",
@@ -3220,8 +3790,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "physics",
       "topic_name_ta": "இயற்பியல்",
+      "topic_name_en": "Physics",
       "difficulty": "medium",
       "question_ta": "கீழ்காணும் சமன்பாடுகளுள் எது விசைக்கான சமன்பாடில்லை?",
       "options_ta": [
@@ -3233,7 +3805,15 @@
       "answer_index": 1,
       "explanation_ta": "நியூட்டனின் இரண்டாம் விதி: விசை = உந்த மாற்ற வீதம் = ΔP/t = m(v − u)/t = ma. 'ΔP × t' என்பது விசையின் சமன்பாடு அல்ல (கணத்தாக்கு = F × t = ΔP).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 161",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following is NOT an equation for force?",
+      "options_en": [
+        "F = m × a",
+        "F = ΔP × t",
+        "F = m(v − u)/t",
+        "F = ΔP/t"
+      ],
+      "explanation_en": "Newton's second law: force = rate of change of momentum = ΔP/t = m(v − u)/t = ma. 'ΔP × t' is not an equation for force (impulse = F × t = ΔP)."
     },
     {
       "id": "PYQ-2022-GS-162",
@@ -3241,8 +3821,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "chemistry",
       "topic_name_ta": "வேதியியல்",
+      "topic_name_en": "Chemistry",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்ட கலப்படத்தை உணவோடு இணை செய்க.\n(a) ஹைட்ரஜன் பெராக்ஸைடு – 1. பளபளப்பான தோற்றம்\n(b) உணவு நிறமூட்டிகள் – 2. பால்\n(c) கால்சியம் கார்பைடு – 3. பசுமைத் தோற்றம்\n(d) கார்னோபா மெழுகு – 4. வாழைப்பழத்தைப் பழுக்க வைப்பதற்கு",
       "options_ta": [
@@ -3254,7 +3836,15 @@
       "answer_index": 1,
       "explanation_ta": "ஹைட்ரஜன் பெராக்சைடு – பால் கெடாமல் இருக்கக் கலப்படம் (2); உணவு நிறமூட்டிகள் – காய்கறிகளுக்குப் பசுமைத் தோற்றம் (3); கால்சியம் கார்பைடு – வாழைப்பழத்தைச் செயற்கையாகப் பழுக்க வைக்க (4); கார்னோபா மெழுகு – பழங்களுக்குப் பளபளப்பு (1). எனவே 2, 3, 4, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 162",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the adulterant with its use in food.\n(a) Hydrogen peroxide – 1. Glossy appearance\n(b) Food colouring – 2. Milk\n(c) Calcium carbide – 3. Green appearance\n(d) Carnauba wax – 4. Ripening bananas",
+      "options_en": [
+        "(a)-1, (b)-3, (c)-4, (d)-2",
+        "(a)-2, (b)-3, (c)-4, (d)-1",
+        "(a)-3, (b)-4, (c)-1, (d)-2",
+        "(a)-4, (b)-1, (c)-2, (d)-3"
+      ],
+      "explanation_en": "Hydrogen peroxide – added to milk to stop it spoiling (2); food colours – give vegetables a green look (3); calcium carbide – artificial ripening of bananas (4); carnauba wax – gives fruits a glossy look (1). Hence 2, 3, 4, 1."
     },
     {
       "id": "PYQ-2022-GS-163",
@@ -3262,8 +3852,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "medium",
       "question_ta": "பொருத்துக:\n(a) சிவசுப்ரமணியனார் – 1. கயத்தாறு கோட்டை\n(b) கட்டபொம்மன் – 2. சங்ககிரி கோட்டை\n(c) மருது சகோதரர்கள் – 3. நாகலாபுரம்\n(d) தீரன் சின்னமலை – 4. திருப்பத்தூர் கோட்டை",
       "options_ta": [
@@ -3275,7 +3867,15 @@
       "answer_index": 0,
       "explanation_ta": "தூக்கிலிடப்பட்ட இடங்கள்: கட்டபொம்மனின் அமைச்சர் சிவசுப்பிரமணியனார் – நாகலாபுரம் (3); கட்டபொம்மன் – கயத்தாறு (1799) (1); மருது சகோதரர்கள் – திருப்பத்தூர் கோட்டை (1801) (4); தீரன் சின்னமலை – சங்ககிரி கோட்டை (1805) (2). எனவே 3, 1, 4, 2.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 163",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match:\n(a) Sivasubramanianar – 1. Kayathar fort\n(b) Kattabomman – 2. Sankagiri fort\n(c) Marudhu Brothers – 3. Nagalapuram\n(d) Dheeran Chinnamalai – 4. Tiruppattur fort",
+      "options_en": [
+        "(a)-3, (b)-1, (c)-4, (d)-2",
+        "(a)-3, (b)-4, (c)-1, (d)-2",
+        "(a)-3, (b)-1, (c)-2, (d)-4",
+        "(a)-4, (b)-1, (c)-3, (d)-2"
+      ],
+      "explanation_en": "Places where they were executed: Kattabomman's minister Sivasubramanianar – Nagalapuram (3); Kattabomman – Kayathar (1799) (1); Marudhu Brothers – Tiruppattur fort (1801) (4); Dheeran Chinnamalai – Sankagiri fort (1805) (2). Hence 3, 1, 4, 2."
     },
     {
       "id": "PYQ-2022-GS-164",
@@ -3283,8 +3883,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "medieval_india",
       "topic_name_ta": "இடைக்கால இந்தியா",
+      "topic_name_en": "Medieval India",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவற்றுள் தவறான கூற்றைக் கண்டறிக.",
       "options_ta": [
@@ -3296,7 +3898,15 @@
       "answer_index": 2,
       "explanation_ta": "சிவாஜி சூரத்தை 1664-இல் (பின்னர் 1670-இலும்) சூறையாடினார்; 1665 அல்ல — எனவே இதுவே தவறான கூற்று. தாதாஜி கொண்டதேவ் அவரது பாதுகாவலர்-ஆசிரியர்; 1674-இல் ராய்கட்டில் 'சத்ரபதி' எனப் பெரும் விழாவுடன் முடிசூட்டிக்கொண்டார். (குறிப்பு: மூல வினாவில் 'ராஜ்கோஷ்' என்ற தெளிவற்ற பெயர் இருந்ததால் TNPSC இறுதி விடைக்குறிப்பு B-யையும் ஏற்றது; இங்கு ராய்கட் எனத் தெளிவாக்கப்பட்டுள்ளது.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 164",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Identify the incorrect statement.",
+      "options_en": [
+        "Shivaji's guardian was Dadaji Kondadev",
+        "Shivaji was crowned at Raigad fort",
+        "Shivaji's soldiers plundered Surat in 1665",
+        "In 1674 he was crowned with the title Chhatrapati"
+      ],
+      "explanation_en": "Shivaji sacked Surat in 1664 (and again in 1670), not 1665 — so this is the incorrect statement. Dadaji Kondadev was his guardian-teacher; in 1674 he was crowned 'Chhatrapati' with great ceremony at Raigad. (Note: the original option used an unclear name 'Rajkosh', so TNPSC's final key also accepted B; it has been clarified here as Raigad.)"
     },
     {
       "id": "PYQ-2022-GS-165",
@@ -3304,8 +3914,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "medium",
       "question_ta": "சரியான கூற்றுக்களைக் கண்டறிக.\n1. பாரதியின் 'இந்தியா' வார இதழ் மிதவாத தேசியவாதிகளின் குரலாகத் திகழ்ந்தது.\n2. 1907-இல் சூரத் காங்கிரஸ் மாநாட்டில் பாரதி கலந்துகொண்டார்.\n3. சக்ரவர்த்தினி, சுதேசமித்திரன் போன்ற பத்திரிகைகளில் பாரதி பணியாற்றினார்.\n4. தி இந்து பத்திரிகையை வெளியிட்டவர் G. சுப்ரமணிய ஐயர்.",
       "options_ta": [
@@ -3317,7 +3929,15 @@
       "answer_index": 3,
       "explanation_ta": "பாரதியின் 'இந்தியா' இதழ் தீவிர தேசியவாதிகளின் குரல் — மிதவாதிகளின் குரல் அல்ல (1 தவறு). பாரதி 1907 சூரத் மாநாட்டில் கலந்துகொண்டார் (2); 'சக்ரவர்த்தினி', 'சுதேசமித்திரன்' இதழ்களில் பணியாற்றினார் (3); 'தி இந்து' (1878) இதழைத் தொடங்கியவர்களுள் ஜி. சுப்பிரமணிய ஐயர் முதன்மையானவர் (4).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 165",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Identify the correct statements.\n1. Bharathi's weekly 'India' was the voice of the Moderate nationalists.\n2. Bharathi attended the Surat Congress session in 1907.\n3. Bharathi worked in journals such as Chakravarthini and Swadesamitran.\n4. The Hindu was published by G. Subramania Iyer.",
+      "options_en": [
+        "1 and 2 only are correct",
+        "1, 2 and 3 only are correct",
+        "2 and 3 only are correct",
+        "2, 3 and 4 only are correct"
+      ],
+      "explanation_en": "Bharathi's 'India' was the voice of the Extremists, not the Moderates (1 wrong). Bharathi attended the 1907 Surat session (2); he worked in 'Chakravarthini' and 'Swadesamitran' (3); G. Subramania Iyer was the chief founder of 'The Hindu' (1878) (4)."
     },
     {
       "id": "PYQ-2022-GS-166",
@@ -3325,8 +3945,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "hard",
       "question_ta": "சரியான கூற்றைத் தேர்வு செய்யவும்.\n(i) பாளையக்காரர் முறை காக்கத்தியப் பேரரசில் நடைமுறையில் இருந்தது.\n(ii) கான் சாகிபின் இறப்பிற்குப் பின் பூலித்தேவர் நெற்கட்டும் சேவலை 1764-இல் மீண்டும் கைப்பற்றினார்.\n(iii) கம்பெனி நிர்வாகத்திற்குத் தகவல் அளிக்காமல் பாளையக்காரர்களோடு பேச்சுவார்த்தையில் ஈடுபட்டதால் யூசுப்கான் துரோகி என்று குற்றம் சுமத்தப்பட்டு 1764இல் தூக்கிலிடப்பட்டார்.\n(iv) ஒண்டிவீரன் கட்டபொம்மனின் படைப்பிரிவுகளில் ஒன்றைத் தலைமையேற்று வழிநடத்தினார்.",
       "options_ta": [
@@ -3338,7 +3960,15 @@
       "answer_index": 1,
       "explanation_ta": "பாளையக்காரர் முறை காக்கத்திய அரசில் (பிரதாபருத்ரன்) தோன்றியது (i சரி). யூசுப்கான் (கான் சாகிப்) 1764-இல் தூக்கிலிடப்பட்ட பின் பூலித்தேவர் நெற்கட்டும்செவலை மீட்டார் (ii சரி, iii சரி). ஒண்டிவீரன் பூலித்தேவரின் படைத்தளபதி; கட்டபொம்மனுடையவர் அல்ல (iv தவறு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 166",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Choose the correct statements.\n(i) The Palayakkarar system was in practice in the Kakatiya kingdom.\n(ii) After the death of Khan Sahib, Puli Thevar recaptured Nerkattumseval in 1764.\n(iii) Yusuf Khan was charged as a traitor for negotiating with the Palayakkarars without informing the Company administration and was hanged in 1764.\n(iv) Ondiveeran led one of the army divisions of Kattabomman.",
+      "options_en": [
+        "(i), (ii) and (iv) are correct",
+        "(i), (ii) and (iii) are correct",
+        "(iii) and (iv) are correct",
+        "(i) and (iv) are correct"
+      ],
+      "explanation_en": "The Palayakkarar system originated in the Kakatiya kingdom (Prataparudra) (i correct). After Yusuf Khan (Khan Sahib) was hanged in 1764, Puli Thevar recovered Nerkattumseval (ii and iii correct). Ondiveeran was Puli Thevar's commander, not Kattabomman's (iv wrong)."
     },
     {
       "id": "PYQ-2022-GS-167",
@@ -3346,8 +3976,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_freedom",
       "topic_name_ta": "விடுதலைப் போரில் தமிழ்நாடு",
+      "topic_name_en": "Tamil Nadu in the Freedom Struggle",
       "difficulty": "medium",
       "question_ta": "பின்வரும் பத்தியைப் படித்து விடையளி:\nசுதேசி ஸ்டீம் நேவிகேஷன் நிறுவனத்தின் உருவாக்கம் சுதந்திர இயக்கத்தின் வரலாற்றில் ஒரு அற்புதமான வளர்ச்சியைக் குறித்தது. தமிழர்களின் கப்பல் கட்டும் பாரம்பரியத்தை மீட்டெடுக்கும் ஆர்வத்தில் மக்களுக்குக் கப்பல் கட்டுவதில் நடைமுறைப் பயிற்சி அளிக்கவும், கடல் போக்குவரத்தில் பிரிட்டிஷ் ஏகபோகத்திற்கு சவால் விடுவதில் உறுதியாகவும் வ.உ. சிதம்பரம் 1906இல் ஷியாலியில் ஒரு நேவிகேஷன் நிறுவனத்தை உருவாக்குவதற்கான தனது முடிவை அறிவித்தார்.\n\nபின்வருவனவற்றில் எது பத்தியில் சிறப்பாகக் குறிப்பிடப்படுகிறது?",
       "options_ta": [
@@ -3359,7 +3991,15 @@
       "answer_index": 3,
       "explanation_ta": "பத்தியில் 'தமிழர்களின் கப்பல் கட்டும் பாரம்பரியத்தை மீட்டெடுக்கும் ஆர்வத்தில்' நிறுவனம் உருவாக்கப்பட்டதாகக் கூறப்பட்டுள்ளது. வருமானம், ஏகபோகத்தை நிறுத்தியது (பத்தி 'சவால் விட' என்கிறது, 'நிறுத்தியது' என அல்ல), பிறரைச் சார்ந்திருந்தது — இவை பத்தியில் இல்லை.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 167",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Read the passage and answer:\nThe formation of the Swadeshi Steam Navigation Company marked a remarkable development in the history of the freedom movement. Eager to revive the shipbuilding tradition of the Tamils, to give people practical training in shipbuilding, and determined to challenge the British monopoly in sea transport, V.O. Chidambaram announced in 1906 his decision to form a navigation company.\n\nWhich of the following is specifically stated in the passage?",
+      "options_en": [
+        "The Steam Navigation Company earned good revenue in those days.",
+        "The formation of the Swadeshi Steam Navigation Company ended the British monopoly in sea trade.",
+        "V.O. Chidambaram depended on others for any decision regarding the navigation company.",
+        "Reviving the Tamils' knowledge of the shipbuilding tradition was an aim of forming the navigation company."
+      ],
+      "explanation_en": "The passage says the company was formed 'eager to revive the shipbuilding tradition of the Tamils'. Revenue, ending the monopoly (the passage says 'challenge', not 'ended') and depending on others are not stated in the passage."
     },
     {
       "id": "PYQ-2022-GS-168",
@@ -3367,8 +4007,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "ancient_india",
       "topic_name_ta": "பண்டைய இந்தியா",
+      "topic_name_en": "Ancient India",
       "difficulty": "medium",
       "question_ta": "குப்தர் காலத்தின் நிலங்களை கீழ்க்கண்டவற்றுடன் சரியாக பொருத்திடுக.\n(a) க்ஷேத்ரா – 1. தரிசு நிலம்\n(b) கிலா – 2. வேளாண்மைக்கு உகந்த நிலம்\n(c) அப்ரகதா – 3. குடியிருப்பதற்கு உகந்த நிலம்\n(d) வஸ்தி – 4. வன நிலம்",
       "options_ta": [
@@ -3380,7 +4022,15 @@
       "answer_index": 2,
       "explanation_ta": "குப்தர் கால நில வகைகள்: க்ஷேத்ரா – பயிரிடக்கூடிய நிலம் (2); கிலா – தரிசு நிலம் (1); அப்ரகதா – காட்டு நிலம் (4); வஸ்தி – குடியிருப்பு நிலம் (3). (கபடசாரகா – மேய்ச்சல் நிலம்.) எனவே 2, 1, 4, 3.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 168",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the types of land in the Gupta period.\n(a) Kshetra – 1. Waste land\n(b) Khila – 2. Cultivable land\n(c) Aprahata – 3. Habitable land\n(d) Vasti – 4. Forest land",
+      "options_en": [
+        "(a)-1, (b)-2, (c)-3, (d)-4",
+        "(a)-4, (b)-2, (c)-1, (d)-3",
+        "(a)-2, (b)-1, (c)-4, (d)-3",
+        "(a)-3, (b)-4, (c)-1, (d)-2"
+      ],
+      "explanation_en": "Gupta-period land types: Kshetra – cultivable land (2); Khila – waste land (1); Aprahata – forest land (4); Vasti – habitable land (3). (Gopata Saraha – pasture land.) Hence 2, 1, 4, 3."
     },
     {
       "id": "PYQ-2022-GS-169",
@@ -3388,8 +4038,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "planning",
       "topic_name_ta": "திட்டமிடல் & நிதி ஆயோக்",
+      "topic_name_en": "Planning & NITI Aayog",
       "difficulty": "medium",
       "question_ta": "கீழ்வரும் கூற்றுகளில் 'நிதி அயோக்' பற்றிய எந்தக் கூற்று சரியானது?\nI. அனைத்து மாநில முதல்வர்களும், சட்டமன்றம் கொண்ட யூனியன் பிரதேசங்கள் தவிர ஆளும் குழுவில் அங்கம் வகிக்கின்றனர்.\nII. இந்தியப் பிரதமர் 'நிதி அயோக்கின்' தலைவர் ஆவார்.\nIII. இந்திய நிதியமைச்சர் துணை தலைவராக செயல்படுகிறார்.",
       "options_ta": [
@@ -3401,7 +4053,15 @@
       "answer_index": 1,
       "explanation_ta": "பிரதமரே நிதி ஆயோக்கின் தலைவர் (II சரி). அதன் ஆளும் குழுவில் அனைத்து மாநில முதல்வர்களும், சட்டமன்றம் உள்ள ஒன்றியப் பிரதேச முதல்வர்களும், பிற ஒன்றியப் பிரதேசத் துணைநிலை ஆளுநர்களும் உள்ளனர் — 'சட்டமன்றம் கொண்ட யூனியன் பிரதேசங்கள் தவிர' என்பது தவறு (I தவறு). துணைத் தலைவர் பிரதமரால் நியமிக்கப்படுபவர்; நிதியமைச்சர் அல்ல (III தவறு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 169",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following statements about NITI Aayog is correct?\nI. All State Chief Ministers, except those of Union Territories with legislatures, are members of the Governing Council.\nII. The Prime Minister of India is the Chairperson of NITI Aayog.\nIII. The Finance Minister of India serves as Vice-Chairperson.",
+      "options_en": [
+        "II and III only",
+        "II only",
+        "I only",
+        "I and II only"
+      ],
+      "explanation_en": "The Prime Minister is the Chairperson of NITI Aayog (II correct). Its Governing Council includes all State Chief Ministers, Chief Ministers of Union Territories with legislatures and Lieutenant Governors of other UTs — so 'except UTs with legislatures' is wrong (I wrong). The Vice-Chairperson is appointed by the PM; it is not the Finance Minister (III wrong)."
     },
     {
       "id": "PYQ-2022-GS-170",
@@ -3409,8 +4069,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "banking_finance",
       "topic_name_ta": "வங்கி, வரி & நிதி",
+      "topic_name_en": "Banking, Taxation & Finance",
       "difficulty": "medium",
       "question_ta": "கூற்று (A): இந்திய ரிசர்வ் வங்கி நாட்டின் பொருளாதார பண வழங்கலைக் கட்டுப்படுத்துகிறது.\nகாரணம் (R): அந்நிய செலாவணி பரிவர்த்தனை விகிதத்தை நிலைப்படுத்தவும், பணவீக்கத்தினைக் கட்டுப்படுத்தவும் விரும்புகிறது.",
       "options_ta": [
@@ -3422,7 +4084,15 @@
       "answer_index": 3,
       "explanation_ta": "நாணயக் கொள்கை மூலம் ரிசர்வ் வங்கி பண வழங்கலைக் கட்டுப்படுத்துகிறது; விலை நிலைத்தன்மை (பணவீக்கக் கட்டுப்பாடு), செலாவணி மதிப்பு நிலைப்படுத்தல் ஆகியவையே அதன் நோக்கங்கள். இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது (விடைக்குறிப்பு).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 170",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Assertion (A): The Reserve Bank of India controls the money supply in the economy.\nReason (R): It wants to stabilise the foreign exchange rate and control inflation.",
+      "options_en": [
+        "(A) is false; (R) is true",
+        "(A) is true; but (R) is false",
+        "(A) is true; but (R) is not the correct explanation of (A)",
+        "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      ],
+      "explanation_en": "Through monetary policy the RBI controls the money supply; price stability (controlling inflation) and stabilising the exchange rate are its aims. Both are true; the Reason explains the Assertion (answer key)."
     },
     {
       "id": "PYQ-2022-GS-171",
@@ -3430,8 +4100,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "agri_industry",
       "topic_name_ta": "வேளாண்மை & தொழில்",
+      "topic_name_en": "Agriculture & Industry",
       "difficulty": "easy",
       "question_ta": "கூற்று (A): நுண்ணீர் பாசன தொழில்நுட்பம், பாரம்பரிய நீர்பாசன முறைகளை விட பயிர்களில் அதிக மகசூல் கிடைக்க வழிவகை செய்கிறது.\nகாரணம் (R): நுண்ணீர் பாசன திட்டத்தில் அளவான நீர் சீரான கால இடைவெளியில் பாய்ச்சப்படுகிறது. பணியாட்களின் செலவைக் குறைத்து, உரப் பயன்பாட்டுத்திறன் அதிகரிப்பதோடு விளைச்சலையும் அதிகரிக்கிறது.",
       "options_ta": [
@@ -3443,7 +4115,15 @@
       "answer_index": 2,
       "explanation_ta": "சொட்டுநீர், தெளிப்புநீர் போன்ற நுண்ணீர்ப் பாசனம் பயிரின் வேர்ப் பகுதிக்கே அளவான நீரைச் சீரான இடைவெளியில் வழங்குவதால் நீர் விரயம், களை, கூலிச் செலவு குறைந்து, உரத்தை நீருடன் சேர்த்து அளிக்க முடிவதால் விளைச்சல் அதிகரிக்கிறது. எனவே இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது. (குறிப்பு: மூல வினாத்தாளில் இருந்த அச்சுப் பிழை/குறை திருத்தப்பட்டுள்ளது.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 171",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Assertion (A): Micro-irrigation technology gives higher crop yields than traditional irrigation methods.\nReason (R): In micro-irrigation, a measured quantity of water is supplied at regular intervals. It reduces labour cost, increases fertiliser-use efficiency and increases yield.",
+      "options_en": [
+        "(A) is true; but (R) is false",
+        "(A) is false; but (R) is true",
+        "(A) and (R) are true, and (R) is the correct explanation of (A)",
+        "(A) and (R) are true, but (R) is not the correct explanation of (A)"
+      ],
+      "explanation_en": "Micro-irrigation such as drip and sprinkler systems supplies a measured amount of water to the root zone at regular intervals, cutting water waste, weeds and labour cost; fertiliser can be applied with the water, so yields rise. Both are true and the Reason explains the Assertion. (Note: a printing error/omission in the original paper has been corrected.)"
     },
     {
       "id": "PYQ-2022-AP-173",
@@ -3451,8 +4131,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "dice",
       "topic_name_ta": "பகடை",
+      "topic_name_en": "Dice",
       "difficulty": "medium",
       "question_ta": "ஒரு பகடையின் இரண்டு நிலைகள் கொடுக்கப்பட்டுள்ளன:\nநிலை 1: மேல் முகம் 2; தெரியும் பக்கங்கள் 3, 5\nநிலை 2: மேல் முகம் 5; தெரியும் பக்கங்கள் 2, 4\n3-க்கு எதிரான தளத்தில் உள்ள எண் எது?",
       "options_ta": [
@@ -3464,7 +4146,15 @@
       "answer_index": 1,
       "explanation_ta": "நிலை 1: 2-க்கு அடுத்துள்ளவை 3, 5. நிலை 2: 5-க்கு அடுத்துள்ளவை 2, 4; 2-க்கு அடுத்தது 4. எனவே 2-க்கு 3, 4, 5 அடுத்தவை ⇒ 2-இன் எதிர்ப்பக்கம் 1 அல்லது 6; 5-க்கு 2, 3, 4 அடுத்தவை ⇒ 5-இன் எதிர்ப்பக்கமும் 1 அல்லது 6. 1, 6 இரண்டும் 2, 5-க்கு எதிர்ப்பக்கங்களாக, மீதமுள்ள 3, 4 ஒன்றுக்கொன்று எதிர்ப்பக்கம். விடை 4.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 173",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Two positions of a die are given:\nPosition 1: top face 2; visible side faces 3, 5\nPosition 2: top face 5; visible side faces 2, 4\nWhich number is on the face opposite 3?",
+      "options_en": [
+        "1",
+        "4",
+        "6",
+        "5"
+      ],
+      "explanation_en": "Position 1: 3 and 5 are adjacent to 2. Position 2: 2 and 4 are adjacent to 5; also 4 is adjacent to 2. So 3, 4, 5 are adjacent to 2 ⇒ the face opposite 2 is 1 or 6; and 2, 3, 4 are adjacent to 5 ⇒ the face opposite 5 is also 1 or 6. With 1 and 6 opposite 2 and 5, the remaining 3 and 4 are opposite each other. Answer: 4."
     },
     {
       "id": "PYQ-2022-AP-174",
@@ -3472,8 +4162,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "number_series",
       "topic_name_ta": "எண் தொடர்",
+      "topic_name_en": "Number Series",
       "difficulty": "easy",
       "question_ta": "விடுபட்ட எண்ணைக் கண்டுபிடி: 49, 121, 169, ?, 361",
       "options_ta": [
@@ -3485,7 +4177,15 @@
       "answer_index": 2,
       "explanation_ta": "இவை தொடர்ச்சியான பகா எண்களின் வர்க்கங்கள்: 7² = 49, 11² = 121, 13² = 169, 17² = 289, 19² = 361. (225 = 15², 15 பகா எண் அல்ல.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 174",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Find the missing number: 49, 121, 169, ?, 361",
+      "options_en": [
+        "225",
+        "256",
+        "289",
+        "324"
+      ],
+      "explanation_en": "These are squares of consecutive prime numbers: 7² = 49, 11² = 121, 13² = 169, 17² = 289, 19² = 361. (225 = 15², and 15 is not prime.)"
     },
     {
       "id": "PYQ-2022-AP-175",
@@ -3493,8 +4193,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "area_volume",
       "topic_name_ta": "பரப்பளவு & கனஅளவு",
+      "topic_name_en": "Area & Volume",
       "difficulty": "easy",
       "question_ta": "ஒரு செவ்வகத்தின் ஒரு பக்கம் 5 செ.மீ. மற்றும் அதன் மூலைவிட்டம் 13 செ.மீ. எனில், செவ்வகத்தின் பரப்பு காண்க.",
       "options_ta": [
@@ -3506,7 +4208,15 @@
       "answer_index": 2,
       "explanation_ta": "மற்றொரு பக்கம் = √(13² − 5²) = √(169 − 25) = √144 = 12 செ.மீ. பரப்பு = 5 × 12 = 60 செ.மீ².",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 175",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "One side of a rectangle is 5 cm and its diagonal is 13 cm. Find the area of the rectangle.",
+      "options_en": [
+        "74 cm²",
+        "96 cm²",
+        "60 cm²",
+        "56 cm²"
+      ],
+      "explanation_en": "Other side = √(13² − 5²) = √(169 − 25) = √144 = 12 cm. Area = 5 × 12 = 60 cm²."
     },
     {
       "id": "PYQ-2022-AP-176",
@@ -3514,8 +4224,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "time_work",
       "topic_name_ta": "நேரமும் வேலையும்",
+      "topic_name_en": "Time & Work",
       "difficulty": "medium",
       "question_ta": "ஒருவர் ஒரு குறிப்பிட்ட வேலைக்காக பணியமர்த்தப்பட்டார். ஆனால் அவர் சில நாட்கள் வேலைக்கு வராமல், வேலை செய்த நாட்களுக்கான ஊதியமாக ரூ. 1,387 பெற்றார். அவர் அனைத்து நாட்களிலும் வேலை செய்திருந்தால் ஊதியமாக ரூ. 1,752 பெற்றிருப்பார் எனில் அவர் வேலை செய்த நாட்களைக் காண்க.",
       "options_ta": [
@@ -3527,7 +4239,15 @@
       "answer_index": 0,
       "explanation_ta": "நாள் ஊதியம் இரு தொகைகளையும் மீதமின்றி வகுக்க வேண்டும்: மீ.பொ.வ (1387, 1752) = 73 (1387 = 73 × 19; 1752 = 73 × 24). எனவே நாள் ஊதியம் ₹73; வேலை செய்த நாட்கள் 19 (மொத்தம் 24 நாட்கள், 5 நாட்கள் வரவில்லை).",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 176",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "A man was engaged for a certain job. He was absent for a few days and received ₹1,387 as wages for the days he worked. Had he worked on all the days, he would have received ₹1,752. For how many days did he work?",
+      "options_en": [
+        "19",
+        "21",
+        "24",
+        "29"
+      ],
+      "explanation_en": "The daily wage must divide both amounts exactly: HCF (1387, 1752) = 73 (1387 = 73 × 19; 1752 = 73 × 24). So the daily wage is ₹73 and he worked 19 days (24 days in all, absent 5 days)."
     },
     {
       "id": "PYQ-2022-AP-177",
@@ -3535,8 +4255,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "hcf_lcm",
       "topic_name_ta": "மீ.பொ.வ & மீ.சி.ம",
+      "topic_name_en": "HCF & LCM",
       "difficulty": "hard",
       "question_ta": "கொடுக்கப்பட்ட மூன்று எண்களின் பெருக்கற்பலன் 1875 மற்றும் அவற்றின் மீ.பொ.வ-5 எனில் அவற்றின் மீ.பொ.ம (மீ.சி.ம)",
       "options_ta": [
@@ -3548,7 +4270,15 @@
       "answer_index": 0,
       "explanation_ta": "எண்கள் 5a, 5b, 5c (a, b, c-க்குப் பொது வகுத்தி இல்லை) எனில் 125abc = 1875 ⇒ abc = 15. இயலும் தொகுப்புகள் (1, 3, 5) அல்லது (1, 1, 15) — இரண்டிலும் மீ.சி.ம = 5 × 15 = 75. எ.கா. 5, 15, 25: பெருக்கம் 1875, மீ.பொ.வ 5, மீ.சி.ம 75.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 177",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The product of three numbers is 1875 and their HCF is 5. Find their LCM.",
+      "options_en": [
+        "75",
+        "125",
+        "375",
+        "450"
+      ],
+      "explanation_en": "Let the numbers be 5a, 5b, 5c (a, b, c with no common factor). Then 125abc = 1875 ⇒ abc = 15. Possible sets are (1, 3, 5) or (1, 1, 15) — in both cases LCM = 5 × 15 = 75. E.g. 5, 15, 25: product 1875, HCF 5, LCM 75."
     },
     {
       "id": "PYQ-2022-AP-178",
@@ -3556,8 +4286,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "ratio_proportion",
       "topic_name_ta": "விகிதம் & விகிதசமம்",
+      "topic_name_en": "Ratio & Proportion",
       "difficulty": "medium",
       "question_ta": "ஐந்தின் ஒரு பகுதி மற்றும் எட்டின் ஒரு பகுதி என இரு பகுதியாக பிரிக்கப்பட்ட எண் 94-இன் விகிதம் 3 : 4 எனில் அதன் முதல் பகுதி (94-ஐ இரு பகுதிகளாகப் பிரிக்க, முதல் பகுதியின் 1/5-உம் இரண்டாம் பகுதியின் 1/8-உம் 3 : 4 விகிதத்தில் உள்ளன)",
       "options_ta": [
@@ -3569,7 +4301,15 @@
       "answer_index": 1,
       "explanation_ta": "முதல் பகுதி x எனில் (x/5) : ((94 − x)/8) = 3 : 4 ⇒ 4x/5 = 3(94 − x)/8 ⇒ 32x = 15(94 − x) ⇒ 47x = 1410 ⇒ x = 30. சரிபார்ப்பு: 30/5 = 6, 64/8 = 8; 6 : 8 = 3 : 4.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 178",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "94 is divided into two parts such that one-fifth of the first part and one-eighth of the second part are in the ratio 3 : 4. Find the first part.",
+      "options_en": [
+        "28",
+        "30",
+        "36",
+        "40"
+      ],
+      "explanation_en": "Let the first part be x. (x/5) : ((94 − x)/8) = 3 : 4 ⇒ 4x/5 = 3(94 − x)/8 ⇒ 32x = 15(94 − x) ⇒ 47x = 1410 ⇒ x = 30. Check: 30/5 = 6, 64/8 = 8; 6 : 8 = 3 : 4."
     },
     {
       "id": "PYQ-2022-AP-179",
@@ -3577,8 +4317,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "coding_decoding",
       "topic_name_ta": "குறியீடு",
+      "topic_name_en": "Coding & Decoding",
       "difficulty": "easy",
       "question_ta": "எழுத்துக்களுக்கு எண் குறியீடு: R = 1, M = 2, E = 3, N = 4, B = 5, U = 6. இவ்வெழுத்துகளை இடம்பெயர்த்து அமைத்தால் பொருளுள்ள ஆங்கில வார்த்தை கிடைக்கும். அவ்வார்த்தைக்கான எண் குறியீட்டைக் காண்க.",
       "options_ta": [
@@ -3590,7 +4332,15 @@
       "answer_index": 1,
       "explanation_ta": "R M E N B U ஆகிய எழுத்துகளிலிருந்து உருவாகும் பொருளுள்ள சொல் NUMBER. N = 4, U = 6, M = 2, B = 5, E = 3, R = 1 ⇒ 462531.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 179",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Number codes for letters: R = 1, M = 2, E = 3, N = 4, B = 5, U = 6. If these letters are rearranged, a meaningful English word is formed. Find the number code for that word.",
+      "options_en": [
+        "625314",
+        "462531",
+        "462315",
+        "542531"
+      ],
+      "explanation_en": "The meaningful word formed from R, M, E, N, B, U is NUMBER. N = 4, U = 6, M = 2, B = 5, E = 3, R = 1 ⇒ 462531."
     },
     {
       "id": "PYQ-2022-AP-180",
@@ -3598,8 +4348,10 @@
       "subject": "aptitude",
       "unit": "2",
       "unit_name_ta": "நுண்ணறிவு (காரணவியல்)",
+      "unit_name_en": "Mental Ability (Reasoning)",
       "topic": "logical_reasoning",
       "topic_name_ta": "தருக்க அறிவு",
+      "topic_name_en": "Logical Reasoning",
       "difficulty": "easy",
       "question_ta": "100-லிருந்து 10-ஐ உன்னால் எத்தனை முறை கழிக்க முடியும்?",
       "options_ta": [
@@ -3611,7 +4363,15 @@
       "answer_index": 0,
       "explanation_ta": "இது ஒரு தருக்கப் புதிர்: 100-லிருந்து 10-ஐ ஒருமுறை கழித்தவுடன் அது 90 ஆகிவிடுகிறது; அதன்பின் கழிப்பது 90-லிருந்துதான், 100-லிருந்து அல்ல. எனவே 100-லிருந்து 10-ஐ ஒரே ஒருமுறைதான் கழிக்க முடியும்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 180",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "How many times can you subtract 10 from 100?",
+      "options_en": [
+        "1",
+        "100",
+        "10",
+        "9"
+      ],
+      "explanation_en": "This is a logic puzzle: once you subtract 10 from 100, it becomes 90; after that you are subtracting from 90, not from 100. So you can subtract 10 from 100 only once."
     },
     {
       "id": "PYQ-2022-AP-181",
@@ -3619,8 +4379,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "time_work",
       "topic_name_ta": "நேரமும் வேலையும்",
+      "topic_name_en": "Time & Work",
       "difficulty": "easy",
       "question_ta": "முகேஷ் ஒரு நாளில் 2/7 பகுதி வேலையை செய்து முடிப்பார் எனில் எத்தனை நாட்களில் அவ்வேலையை முழுமையாக செய்து முடிப்பார்?",
       "options_ta": [
@@ -3632,7 +4394,15 @@
       "answer_index": 1,
       "explanation_ta": "முழு வேலைக்கு ஆகும் நாட்கள் = 1 ÷ (2/7) = 7/2 = 3½ நாட்கள்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 181",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Mukesh completes 2/7 of a piece of work in one day. In how many days will he complete the whole work?",
+      "options_en": [
+        "2½ days",
+        "3½ days",
+        "4½ days",
+        "5½ days"
+      ],
+      "explanation_en": "Days for the whole work = 1 ÷ (2/7) = 7/2 = 3½ days."
     },
     {
       "id": "PYQ-2022-AP-182",
@@ -3640,8 +4410,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "simple_interest",
       "topic_name_ta": "தனிவட்டி",
+      "topic_name_en": "Simple Interest",
       "difficulty": "easy",
       "question_ta": "ஒரு விவசாயி ₹ 20,000-ஐ ஆண்டொன்றுக்கு 4.5% தனி வட்டியில் ஒருவரிடமிருந்து கடனாக பெறுகிறார். ஐந்து ஆண்டுகளுக்குப் பின் அவர் முழுவதும் கடனை அடைக்க செலுத்த வேண்டிய தொகை",
       "options_ta": [
@@ -3653,7 +4425,15 @@
       "answer_index": 3,
       "explanation_ta": "தனிவட்டி = 20000 × 4.5 × 5 / 100 = ₹4,500. செலுத்த வேண்டிய மொத்தத் தொகை = 20000 + 4500 = ₹24,500. (₹4,500 வட்டி மட்டுமே.)",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 182",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "A farmer borrows ₹20,000 at 4.5% per annum simple interest. What amount must he pay after five years to clear the loan completely?",
+      "options_en": [
+        "₹4,500",
+        "₹15,500",
+        "₹17,000",
+        "₹24,500"
+      ],
+      "explanation_en": "Simple interest = 20000 × 4.5 × 5 / 100 = ₹4,500. Total amount to be paid = 20000 + 4500 = ₹24,500. (₹4,500 is only the interest.)"
     },
     {
       "id": "PYQ-2022-AP-183",
@@ -3661,8 +4441,10 @@
       "subject": "aptitude",
       "unit": "1",
       "unit_name_ta": "திறனறிவு",
+      "unit_name_en": "Aptitude",
       "topic": "simple_interest",
       "topic_name_ta": "தனிவட்டி",
+      "topic_name_en": "Simple Interest",
       "difficulty": "medium",
       "question_ta": "₹ 1,500-க்கு 3 ஆண்டுகளில் இரு வெவ்வேறு இடங்களில் இருந்து கிடைத்த தனிவட்டிகளின் வித்தியாசம் ₹ 13.50 எனில் வட்டி வீதங்களின் வித்தியாசம்",
       "options_ta": [
@@ -3674,7 +4456,15 @@
       "answer_index": 2,
       "explanation_ta": "வட்டி வித்தியாசம் = P × n × (r₁ − r₂) / 100 ⇒ 13.50 = 1500 × 3 × d / 100 = 45d ⇒ d = 0.3%.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 183",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The difference between the simple interests received from two different sources on ₹1,500 for 3 years is ₹13.50. Find the difference between their rates of interest.",
+      "options_en": [
+        "0.1%",
+        "0.2%",
+        "0.3%",
+        "0.4%"
+      ],
+      "explanation_en": "Difference in interest = P × n × (r₁ − r₂) / 100 ⇒ 13.50 = 1500 × 3 × d / 100 = 45d ⇒ d = 0.3%."
     },
     {
       "id": "PYQ-2022-GS-184",
@@ -3682,8 +4472,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "rights_duties",
       "topic_name_ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்",
+      "topic_name_en": "Rights, Duties & Directive Principles",
       "difficulty": "easy",
       "question_ta": "தவறாக பொருந்தியுள்ளது எது?",
       "options_ta": [
@@ -3695,7 +4487,15 @@
       "answer_index": 1,
       "explanation_ta": "உறுப்பு 17 தீண்டாமை ஒழிப்பு பற்றியது; பொது வேலைவாய்ப்பில் சமவாய்ப்பு உறுப்பு 16-இல் உள்ளது. எனவே இரண்டாவது இணை தவறு. உறுப்பு 14 (சட்டத்தின் முன் சமம்), 21A (6–14 வயதினருக்குக் கல்வி உரிமை), 26 (சமய விவகார மேலாண்மை) சரி.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 184",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following is wrongly matched?",
+      "options_en": [
+        "Article 14 – Equality before law",
+        "Article 17 – Equality of opportunity in public employment",
+        "Article 21(A) – Right to elementary education",
+        "Article 26 – Freedom to manage religious affairs"
+      ],
+      "explanation_en": "Article 17 abolishes untouchability; equality of opportunity in public employment is in Article 16. So the second pair is wrong. Article 14 (equality before law), 21A (right to education for ages 6–14) and 26 (managing religious affairs) are correct."
     },
     {
       "id": "PYQ-2022-GS-185",
@@ -3703,8 +4503,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "rights_duties",
       "topic_name_ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்",
+      "topic_name_en": "Rights, Duties & Directive Principles",
       "difficulty": "medium",
       "question_ta": "இந்திய அரசியலமைப்பு சாசனத்தின் வழிகாட்டு நெறிமுறைகள் ________ போல் தோற்றம் அளிப்பவையாகும்.",
       "options_ta": [
@@ -3716,7 +4518,15 @@
       "answer_index": 2,
       "explanation_ta": "இந்திய அரசுச் சட்டம் 1935-இன் கீழ் ஆளுநர்களுக்கு வழங்கப்பட்ட 'அறிவுறுத்தல் கருவிகள்' (Instrument of Instructions) போன்றவை நெறிமுறைக் கோட்பாடுகள் என அம்பேத்கர் குறிப்பிட்டார்; வேறுபாடு — இவை சட்டமன்றத்துக்கும் ஆட்சித்துறைக்குமான அறிவுறுத்தல்கள்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 185",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "The Directive Principles of the Indian Constitution resemble the ________.",
+      "options_en": [
+        "Magna Carta, 1215",
+        "Charter Act, 1813",
+        "Instrument of Instructions, 1935",
+        "Regulating Act, 1773"
+      ],
+      "explanation_en": "Ambedkar said the Directive Principles are like the 'Instrument of Instructions' issued to Governors under the Government of India Act, 1935; the difference is that these are instructions to the legislature and the executive."
     },
     {
       "id": "PYQ-2022-GS-186",
@@ -3724,8 +4534,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "union_govt",
       "topic_name_ta": "ஒன்றிய அரசு",
+      "topic_name_en": "Union Government",
       "difficulty": "medium",
       "question_ta": "பொருத்துக:\n(a) சர்க்காரியா ஆணையம் – 1. தமிழ்நாடு அரசாங்கம்\n(b) இராஜமன்னார் குழு – 2. அகாலி தளம்\n(c) அனந்தப்பூர் சாஹிப் தீர்மானம் – 3. உச்சநீதிமன்றம்\n(d) பொம்மை தீர்ப்பு – 4. மத்திய அரசாங்கம்",
       "options_ta": [
@@ -3737,7 +4549,15 @@
       "answer_index": 1,
       "explanation_ta": "சர்க்காரியா ஆணையம் (1983) – மத்திய அரசு அமைத்தது (4); இராஜமன்னார் குழு (1969) – தமிழ்நாடு அரசு அமைத்தது (1); அனந்தபூர் சாஹிப் தீர்மானம் (1973) – அகாலி தளம் (2); எஸ்.ஆர். பொம்மை தீர்ப்பு (1994) – உச்சநீதிமன்றம் (3). எனவே 4, 1, 2, 3.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 186",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match:\n(a) Sarkaria Commission – 1. Tamil Nadu Government\n(b) Rajamannar Committee – 2. Akali Dal\n(c) Anandpur Sahib Resolution – 3. Supreme Court\n(d) Bommai judgment – 4. Central Government",
+      "options_en": [
+        "(a)-1, (b)-2, (c)-3, (d)-4",
+        "(a)-4, (b)-1, (c)-2, (d)-3",
+        "(a)-2, (b)-1, (c)-3, (d)-4",
+        "(a)-3, (b)-2, (c)-4, (d)-1"
+      ],
+      "explanation_en": "Sarkaria Commission (1983) – set up by the Central Government (4); Rajamannar Committee (1969) – set up by the Tamil Nadu Government (1); Anandpur Sahib Resolution (1973) – Akali Dal (2); S.R. Bommai judgment (1994) – Supreme Court (3). Hence 4, 1, 2, 3."
     },
     {
       "id": "PYQ-2022-GS-187",
@@ -3745,8 +4565,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "polity_misc",
       "topic_name_ta": "தேர்தல், ஊழல் தடுப்பு & மனித உரிமைகள்",
+      "topic_name_en": "Elections, Anti-corruption & Human Rights",
       "difficulty": "medium",
       "question_ta": "கீழ்க்கண்டவைகளை முறையாகப் பொருத்துக.\n(a) நுகர்வோர் பாதுகாப்புச் சட்டம் – 1. 1980\n(b) சட்ட அளவியல் சட்டம் – 2. 1955\n(c) அத்தியாவசியப் பொருட்கள் சட்டம் – 3. 2009\n(d) கள்ளச் சந்தைப்படுத்துதல் தடுப்பு சட்டம் – 4. 1986",
       "options_ta": [
@@ -3758,7 +4580,15 @@
       "answer_index": 0,
       "explanation_ta": "நுகர்வோர் பாதுகாப்புச் சட்டம் – 1986 (4); சட்ட அளவியல் சட்டம் (Legal Metrology) – 2009 (3); அத்தியாவசியப் பொருட்கள் சட்டம் – 1955 (2); கள்ளச்சந்தைத் தடுப்பு மற்றும் அத்தியாவசியப் பொருள் வழங்கல் பராமரிப்புச் சட்டம் – 1980 (1). எனவே 4, 3, 2, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 187",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match correctly.\n(a) Consumer Protection Act – 1. 1980\n(b) Legal Metrology Act – 2. 1955\n(c) Essential Commodities Act – 3. 2009\n(d) Prevention of Black Marketing Act – 4. 1986",
+      "options_en": [
+        "(a)-4, (b)-3, (c)-2, (d)-1",
+        "(a)-1, (b)-2, (c)-3, (d)-4",
+        "(a)-3, (b)-4, (c)-1, (d)-2",
+        "(a)-4, (b)-1, (c)-3, (d)-2"
+      ],
+      "explanation_en": "Consumer Protection Act – 1986 (4); Legal Metrology Act – 2009 (3); Essential Commodities Act – 1955 (2); Prevention of Black Marketing and Maintenance of Supplies of Essential Commodities Act – 1980 (1). Hence 4, 3, 2, 1."
     },
     {
       "id": "PYQ-2022-GS-188",
@@ -3766,8 +4596,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "ancient_india",
       "topic_name_ta": "பண்டைய இந்தியா",
+      "topic_name_en": "Ancient India",
       "difficulty": "easy",
       "question_ta": "பொருத்துக (குப்தர் காலம்).\n(a) வராகமிகிரர் – 1. மருத்துவர்\n(b) காளிதாசர் – 2. அகராதியியல் ஆசிரியர்\n(c) அமரசிம்ஹா – 3. சமஸ்கிருத புலவர்\n(d) தன்வந்திரி – 4. வானியல் அறிஞர்",
       "options_ta": [
@@ -3779,7 +4611,15 @@
       "answer_index": 2,
       "explanation_ta": "வராகமிகிரர் – வானியல் அறிஞர் (பிருகத் சம்ஹிதை) (4); காளிதாசர் – சமஸ்கிருதப் புலவர் (சாகுந்தலம்) (3); அமரசிம்மர் – அகராதியியல் (அமரகோசம்) (2); தன்வந்திரி – மருத்துவர் (1). இவர்கள் விக்கிரமாதித்தன் அவையின் 'நவரத்தினங்கள்' எனப்படுகின்றனர்.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 188",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match (Gupta period).\n(a) Varahamihira – 1. Physician\n(b) Kalidasa – 2. Lexicographer\n(c) Amarasimha – 3. Sanskrit poet\n(d) Dhanvantari – 4. Astronomer",
+      "options_en": [
+        "(a)-4, (b)-3, (c)-1, (d)-2",
+        "(a)-4, (b)-2, (c)-1, (d)-3",
+        "(a)-4, (b)-3, (c)-2, (d)-1",
+        "(a)-3, (b)-4, (c)-1, (d)-2"
+      ],
+      "explanation_en": "Varahamihira – astronomer (Brihat Samhita) (4); Kalidasa – Sanskrit poet (Shakuntalam) (3); Amarasimha – lexicographer (Amarakosha) (2); Dhanvantari – physician (1). They are called the 'Navaratnas' of Vikramaditya's court."
     },
     {
       "id": "PYQ-2022-GS-189",
@@ -3787,8 +4627,10 @@
       "subject": "general_studies",
       "unit": "3",
       "unit_name_ta": "இந்திய வரலாறு, பண்பாடு & தேசிய இயக்கம்",
+      "unit_name_en": "History, Culture & National Movement",
       "topic": "indian_culture",
       "topic_name_ta": "இந்தியப் பண்பாடு",
+      "topic_name_en": "Indian Culture",
       "difficulty": "easy",
       "question_ta": "கி.பி. முதலாம் நூற்றாண்டில் கிருத்துவ மதம் இந்தியாவில் இயேசுவின் சீடரான ________ என்பவரால் கொண்டு வரப்பட்டது.",
       "options_ta": [
@@ -3800,7 +4642,15 @@
       "answer_index": 3,
       "explanation_ta": "இயேசுவின் பன்னிரு சீடர்களுள் ஒருவரான புனித தோமா (தாமஸ்) கி.பி. 52-இல் கேரளக் கடற்கரைக்கு வந்து கிறித்தவத்தைப் பரப்பினார் என்பது மரபு; அவர் சென்னை மயிலாப்பூரில் (சாந்தோம்) மறைந்ததாகக் கருதப்படுகிறது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 189",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Christianity was brought to India in the 1st century CE by ________, a disciple of Jesus.",
+      "options_en": [
+        "St. Peter",
+        "St. John",
+        "St. Matthew",
+        "St. Thomas"
+      ],
+      "explanation_en": "By tradition, St. Thomas, one of the twelve apostles of Jesus, arrived on the Kerala coast in 52 CE and spread Christianity; he is believed to have died at Mylapore (Santhome), Chennai."
     },
     {
       "id": "PYQ-2022-GS-190",
@@ -3808,8 +4658,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tamil_lit_history",
       "topic_name_ta": "தமிழ் இலக்கிய வரலாறு",
+      "topic_name_en": "History of Tamil Literature",
       "difficulty": "easy",
       "question_ta": "கீழ்க்கண்ட மொழிகளை செம்மொழி தகுதிபெற்ற ஆண்டுகளின் அடிப்படையில் வரிசைப்படுத்துக.\n1. சமஸ்கிருதம்\n2. தெலுங்கு\n3. மலையாளம்\n4. தமிழ்",
       "options_ta": [
@@ -3821,7 +4673,15 @@
       "answer_index": 3,
       "explanation_ta": "தமிழ் (2004) → சமஸ்கிருதம் (2005) → தெலுங்கு (கன்னடத்துடன், 2008) → மலையாளம் (2013). எனவே 4, 1, 2, 3.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 190",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Arrange the following languages by the year they received classical language status.\n1. Sanskrit\n2. Telugu\n3. Malayalam\n4. Tamil",
+      "options_en": [
+        "2, 3, 4, 1",
+        "3, 1, 4, 2",
+        "4, 2, 3, 1",
+        "4, 1, 2, 3"
+      ],
+      "explanation_en": "Tamil (2004) → Sanskrit (2005) → Telugu (with Kannada, 2008) → Malayalam (2013). Hence 4, 1, 2, 3."
     },
     {
       "id": "PYQ-2022-GS-191",
@@ -3829,8 +4689,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "hard",
       "question_ta": "பின்வருவனவற்றுள் ஒன்று நர்மதை ஆற்றின் வலது கரை துணை ஆறு ஆகும்.",
       "options_ta": [
@@ -3842,7 +4704,15 @@
       "answer_index": 0,
       "explanation_ta": "நர்மதையின் வலக்கரைத் துணையாறுகள்: ஹிரன், ஓர்சாங், பர்னா, கோலார். இடக்கரைத் துணையாறுகள்: பர்னர், பஞ்சர், ஷேர், ஷக்கர், தவா (மிகப்பெரியது), குண்டி. எனவே ஹிரன் வலக்கரைத் துணையாறு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 191",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following is a right-bank tributary of the Narmada river?",
+      "options_en": [
+        "Hiran",
+        "Burner",
+        "Banjar",
+        "Tawa"
+      ],
+      "explanation_en": "Right-bank tributaries of the Narmada: Hiran, Orsang, Barna, Kolar. Left-bank tributaries: Burner, Banjar, Sher, Shakkar, Tawa (the largest), Kundi. So the Hiran is the right-bank tributary."
     },
     {
       "id": "PYQ-2022-GS-192",
@@ -3850,8 +4720,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "tn_ancient",
       "topic_name_ta": "தமிழ்ச் சமூக வரலாறு & தொல்லியல்",
+      "topic_name_en": "Tamil Society History & Archaeology",
       "difficulty": "medium",
       "question_ta": "அகழ்வாராய்ச்சி இடங்களை அதன் மாவட்டத்துடன் பொருத்துக.\n(a) கீழடி – 1. தூத்துக்குடி\n(b) கொற்கை – 2. அரியலூர்\n(c) கங்கை கொண்ட சோழபுரம் – 3. தஞ்சாவூர்\n(d) குரும்பன்மேடு – 4. சிவகங்கை",
       "options_ta": [
@@ -3863,7 +4735,15 @@
       "answer_index": 2,
       "explanation_ta": "கீழடி – சிவகங்கை (4); கொற்கை (பாண்டியர் துறைமுகம்) – தூத்துக்குடி (1); கங்கைகொண்ட சோழபுரம் – அரியலூர் (2); குரும்பன்மேடு – தஞ்சாவூர் (3). எனவே 4, 1, 2, 3.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 192",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the excavation sites with their districts.\n(a) Keezhadi – 1. Thoothukudi\n(b) Korkai – 2. Ariyalur\n(c) Gangaikonda Cholapuram – 3. Thanjavur\n(d) Kurumbanmedu – 4. Sivagangai",
+      "options_en": [
+        "(a)-4, (b)-3, (c)-2, (d)-1",
+        "(a)-3, (b)-2, (c)-1, (d)-4",
+        "(a)-4, (b)-1, (c)-2, (d)-3",
+        "(a)-1, (b)-4, (c)-3, (d)-2"
+      ],
+      "explanation_en": "Keezhadi – Sivagangai (4); Korkai (Pandya port) – Thoothukudi (1); Gangaikonda Cholapuram – Ariyalur (2); Kurumbanmedu – Thanjavur (3). Hence 4, 1, 2, 3."
     },
     {
       "id": "PYQ-2022-GS-193",
@@ -3871,8 +4751,10 @@
       "subject": "general_studies",
       "unit": "2",
       "unit_name_ta": "புவியியல்",
+      "unit_name_en": "Geography",
       "topic": "geography_india",
       "topic_name_ta": "இந்தியப் புவியியல்",
+      "topic_name_en": "Indian Geography",
       "difficulty": "easy",
       "question_ta": "இந்தியாவின் 'மின்னியல் தலைநகரம்' (Electronic Capital of India) என்று அழைக்கப்படும் நகரம் எது?",
       "options_ta": [
@@ -3884,7 +4766,15 @@
       "answer_index": 1,
       "explanation_ta": "மின்னணு, மென்பொருள் தொழில்களின் மையமான பெங்களூரு 'இந்தியாவின் மின்னணுத் தலைநகரம்' (மேலும் 'சிலிக்கான் பள்ளத்தாக்கு') எனப்படுகிறது.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 193",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which city is called the 'Electronic Capital of India'?",
+      "options_en": [
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai",
+        "Delhi"
+      ],
+      "explanation_en": "Bengaluru, the hub of electronics and software industries, is called the 'Electronic Capital of India' (and also the 'Silicon Valley of India')."
     },
     {
       "id": "PYQ-2022-GS-194",
@@ -3892,8 +4782,10 @@
       "subject": "general_studies",
       "unit": "1",
       "unit_name_ta": "பொது அறிவியல்",
+      "unit_name_en": "General Science",
       "topic": "physics",
       "topic_name_ta": "இயற்பியல்",
+      "topic_name_en": "Physics",
       "difficulty": "medium",
       "question_ta": "ஒரு மின்சுற்றிலுள்ள மின்கூறுகளை அதன் பயன்பாட்டுடன் சரியாக பொருத்துக.\n(a) கால்வனோ மீட்டர் – 1. மின்சுற்றில் பாயும் மின்னோட்டத்தின் அளவை நிர்ணயம் செய்ய\n(b) வோல்ட் மீட்டர் – 2. மின்னோட்டத்தை அளவிட\n(c) அம்மீட்டர் – 3. மின்னழுத்த வேறுபாட்டை அளவிட\n(d) மின்தடையாக்கி – 4. மின்னோட்டம் மற்றும் அதன் திசையைக் கண்டறிய",
       "options_ta": [
@@ -3905,7 +4797,15 @@
       "answer_index": 0,
       "explanation_ta": "கால்வனோமீட்டர் – மின்னோட்டம் உள்ளதா, அதன் திசை என்ன எனக் கண்டறிய (4); வோல்ட்மீட்டர் – மின்னழுத்த வேறுபாடு (3); அம்மீட்டர் – மின்னோட்டம் (2); மின்தடையாக்கி – மின்னோட்ட அளவை நிர்ணயிக்க (1). எனவே 4, 3, 2, 1.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 194",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Match the electrical components of a circuit with their uses.\n(a) Galvanometer – 1. To regulate the amount of current flowing in the circuit\n(b) Voltmeter – 2. To measure current\n(c) Ammeter – 3. To measure potential difference\n(d) Rheostat – 4. To detect current and its direction",
+      "options_en": [
+        "(a)-4, (b)-3, (c)-2, (d)-1",
+        "(a)-2, (b)-3, (c)-1, (d)-4",
+        "(a)-4, (b)-2, (c)-3, (d)-1",
+        "(a)-2, (b)-3, (c)-4, (d)-1"
+      ],
+      "explanation_en": "Galvanometer – detects whether current flows and its direction (4); voltmeter – potential difference (3); ammeter – current (2); rheostat – regulates the amount of current (1). Hence 4, 3, 2, 1."
     },
     {
       "id": "PYQ-2022-GS-195",
@@ -3913,8 +4813,10 @@
       "subject": "general_studies",
       "unit": "5",
       "unit_name_ta": "இந்தியப் பொருளாதாரம் & தமிழ்நாட்டில் வளர்ச்சி நிர்வாகம்",
+      "unit_name_en": "Indian Economy & Development Administration in Tamil Nadu",
       "topic": "tn_development",
       "topic_name_ta": "தமிழ்நாடு வளர்ச்சி & நலத்திட்டங்கள்",
+      "topic_name_en": "Tamil Nadu Development & Welfare Schemes",
       "difficulty": "easy",
       "question_ta": "முதல் தேசிய கல்விக் கொள்கை எப்போது உருவாக்கப்பட்டது?",
       "options_ta": [
@@ -3926,7 +4828,15 @@
       "answer_index": 2,
       "explanation_ta": "கோத்தாரி கல்விக் குழு (1964–66) பரிந்துரைகளின் அடிப்படையில் முதல் தேசியக் கல்விக் கொள்கை 1968-இல் இந்திரா காந்தி அரசால் உருவாக்கப்பட்டது. இரண்டாவது 1986 (ராஜீவ் காந்தி), மூன்றாவது 2020.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 195",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "When was the first National Policy on Education formulated?",
+      "options_en": [
+        "1964",
+        "1946",
+        "1968",
+        "1986"
+      ],
+      "explanation_en": "Based on the recommendations of the Kothari Education Commission (1964–66), the first National Policy on Education was formulated in 1968 by the Indira Gandhi government. The second was in 1986 (Rajiv Gandhi) and the third in 2020."
     },
     {
       "id": "PYQ-2022-GS-198",
@@ -3934,8 +4844,10 @@
       "subject": "general_studies",
       "unit": "4",
       "unit_name_ta": "இந்திய ஆட்சியியல்",
+      "unit_name_en": "Indian Polity",
       "topic": "rights_duties",
       "topic_name_ta": "உரிமைகள், கடமைகள் & நெறிமுறைகள்",
+      "topic_name_en": "Rights, Duties & Directive Principles",
       "difficulty": "easy",
       "question_ta": "கீழ்க்கண்ட கூற்றுகளில் எது/எவை தவறானது?\nஅரசியல் உரிமைகள் உள்ளடக்கியது.\n(1) வாக்களிக்கும் உரிமை\n(2) அரசுப் பணிகளில் பதவி வகிக்கும் உரிமை\n(3) அரசை விமர்சிக்கக் கூடாது",
       "options_ta": [
@@ -3947,7 +4859,15 @@
       "answer_index": 3,
       "explanation_ta": "வாக்களிக்கும் உரிமை, தேர்தலில் போட்டியிடும்/பொதுப் பதவி வகிக்கும் உரிமை, அரசை விமர்சிக்கும் உரிமை ஆகியவை அரசியல் உரிமைகள். 'அரசை விமர்சிக்கக் கூடாது' என்பது உரிமை அல்ல; அது கருத்துரிமைக்கு எதிரானது — எனவே (3) மட்டும் தவறு.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 198",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "Which of the following statements is/are wrong?\nPolitical rights include:\n(1) The right to vote\n(2) The right to hold public office\n(3) Not criticising the government",
+      "options_en": [
+        "(1) and (2)",
+        "(1) and (3)",
+        "(2) and (3)",
+        "(3) only"
+      ],
+      "explanation_en": "The right to vote, the right to contest elections/hold public office, and the right to criticise the government are political rights. 'Not criticising the government' is not a right; it goes against freedom of expression — so only (3) is wrong."
     },
     {
       "id": "PYQ-2022-GS-199",
@@ -3955,8 +4875,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "thirukkural_gs",
       "topic_name_ta": "திருக்குறள் – சிறப்பு",
+      "topic_name_en": "Thirukkural",
       "difficulty": "medium",
       "question_ta": "நாட்டிற்கு அணிகலனானவற்றை வள்ளுவர் எந்த வரிசையில் தந்துள்ளார்?\n(1) செல்வம் (2) இன்பம் (3) ஏமம் (4) பிணியின்மை (5) விளைவு",
       "options_ta": [
@@ -3968,7 +4890,15 @@
       "answer_index": 0,
       "explanation_ta": "'பிணியின்மை செல்வம் விளைவின்பம் ஏமம் அணியென்ப நாட்டிற்கிவ் வைந்து' (குறள் 738, நாடு). வரிசை: பிணியின்மை, செல்வம், விளைவு, இன்பம், ஏமம் (பாதுகாப்பு) = 4, 1, 5, 2, 3.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 199",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "In what order does Valluvar list the ornaments of a country?\n(1) Wealth (2) Happiness (3) Security (4) Freedom from disease (5) Produce",
+      "options_en": [
+        "(4), (1), (5), (2), (3)",
+        "(1), (2), (3), (4), (5)",
+        "(4), (3), (5), (2), (1)",
+        "(1), (4), (3), (5), (2)"
+      ],
+      "explanation_en": "'பிணியின்மை செல்வம் விளைவின்பம் ஏமம் அணியென்ப நாட்டிற்கிவ் வைந்து' (Kural 738, Naadu). Order: freedom from disease, wealth, produce, happiness, security = 4, 1, 5, 2, 3."
     },
     {
       "id": "PYQ-2022-GS-200",
@@ -3976,8 +4906,10 @@
       "subject": "general_studies",
       "unit": "6",
       "unit_name_ta": "தமிழ்நாட்டின் வரலாறு, பண்பாடு, மரபு & சமூக-அரசியல் இயக்கங்கள்",
+      "unit_name_en": "History, Culture, Heritage & Socio-Political Movements of Tamil Nadu",
       "topic": "thirukkural_gs",
       "topic_name_ta": "திருக்குறள் – சிறப்பு",
+      "topic_name_en": "Thirukkural",
       "difficulty": "easy",
       "question_ta": "ஒருவருக்குச் சிறந்த அணிகலன்களாக இருப்பவை என வள்ளுவர் எவற்றைக் குறிப்பிடுகின்றார்?",
       "options_ta": [
@@ -3989,7 +4921,15 @@
       "answer_index": 1,
       "explanation_ta": "'பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு அணியல்ல மற்றுப் பிற' (குறள் 95, இனியவைகூறல்). பணிவும் இனிய சொல்லுமே ஒருவருக்கு உண்மையான அணிகலன்கள்; மற்றவை அணிகலன்கள் அல்ல.",
       "source_hint": "TNPSC குரூப் 4 – 2022 வினாத்தாள், வினா 200",
-      "is_current_affairs": false
+      "is_current_affairs": false,
+      "question_en": "What does Valluvar say are the best ornaments of a person?",
+      "options_en": [
+        "Love and virtue",
+        "Humility and sweet speech",
+        "Knowledge and ability",
+        "Family life and renunciation"
+      ],
+      "explanation_en": "'பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு அணியல்ல மற்றுப் பிற' (Kural 95, Iniyavaikooral). Humility and sweet speech are a person's true ornaments; nothing else is."
     }
   ]
 }

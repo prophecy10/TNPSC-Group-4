@@ -1,9 +1,6 @@
 {
   "note": "List of every question data file the app loads. Add generated files here; the loader dedups by question id. Files that don't exist yet are skipped safely.",
   "files": [
-    "tamil.json",
-    "general_studies.json",
-    "aptitude.json",
     "gen_pyq_2024.json",
     "gen_pyq_2025.json",
     "gen_pyq_2022.json",

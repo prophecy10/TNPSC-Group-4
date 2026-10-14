@@ -5,8 +5,8 @@
 A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on phone and desktop, with no sign-up and no ads.
 
 - Built for **Notification 11/2026** (exam on **10 January 2027**), following its official syllabus.
-- **799 questions, all in Tamil.** Each has a detailed explanation of why the answer is right and why the other options are wrong.
-- Your progress stays only in your own browser. Nothing is uploaded and nothing is tracked.
+- **900 questions in Tamil.** The 501 Part B questions (General Studies and Aptitude) also have an **English version**; switch with the **த / En** button. Each question has a detailed explanation of why the answer is right and why the other options are wrong.
+- Your progress stays only in your own browser; nothing you answer is uploaded. The site may count visits with [GoatCounter](https://www.goatcounter.com/), which uses no cookies and collects no personal data.
 
 > This project was built with **[Claude Code](https://claude.com/claude-code)** (Anthropic's AI coding assistant), guided and reviewed by the repo owner. That covers the app, the transcription of past papers, the new questions, and the answer checking.
 
@@ -16,7 +16,8 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 
 | Section | What it does |
 |---|---|
-| 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. |
+| **த / En (Language)** | Shows Part B questions (General Studies and Aptitude) in Tamil or English. The switch is on the home page and at the top of the screen whenever a Part B question is showing, and the site remembers your choice. Part A (Tamil) is always in Tamil, as in the real exam. |
+| 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. Leaving returns you to the topic list. |
 | ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
 | 📝 **முழுத் தேர்வு (Full Test)** | A full **200-question mock exam**: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown** and submits automatically when time runs out. You can skip a question and come back to it. |
 | 🏆 **Score page** | Marks **out of 300** (1.5 per question), shown separately for each part. It also checks the **Part A Tamil pass mark (60/150)**: in the real exam, Parts B and C are only marked if you clear it. |
@@ -33,7 +34,7 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | Source | Used for |
 |---|---|
 | **TNPSC Notification 11/2026, Annexure III (syllabus)** | Units, topics and question weightage (Tamil 100 · GS 75 · Aptitude 25) |
-| **TNPSC Group 4 question papers: 2022, 2024, 2025** | Past questions, transcribed and with **every answer independently re-checked**. Where the official key or the printed question was wrong, it has been corrected and a note added in the explanation. |
+| **TNPSC Group 4 question papers: 2022, 2024, 2025** | Past questions, transcribed and with **every answer independently re-checked**. The 2022 and 2024 answers have also been compared with TNPSC's **official final answer keys**. Where TNPSC accepted more than one answer, or the printed question was wrong, the question has been corrected and a note added in the explanation. |
 | **Samacheer Kalvi (Tamil Nadu State Board) textbooks, Classes 6–12, Tamil and English medium** | New questions on geography, polity, economics, history, science and Tamil grammar, with facts cross-checked against the textbook text |
 | **Topic-wise TNPSC study material** and **"where to study" guides** | Checking that the syllabus is fully covered |
 | **Official and reliable websites** (government portals, PRS, ISRO and Election Commission information, major newspapers) | Current affairs and recent schemes. These questions are marked as time-sensitive. |
@@ -56,14 +57,14 @@ Contributions are very welcome, whether that's new questions, corrections or app
 
 ### Want to add questions?
 1. Fork this repo.
-2. Add your questions to a file in `tools/staging/` in the short format described in [CONTRIBUTING.md](CONTRIBUTING.md): question, 4 options, answer, Tamil explanation and source.
+2. Add your questions to a file in `tools/staging/` in the short format described in [CONTRIBUTING.md](CONTRIBUTING.md): question, 4 options, answer, Tamil explanation and source. For a General Studies or Aptitude question, also add its English version in `tools/staging_en/`.
 3. Run `python tools/build_bank.py`. It builds the question files and checks every question for mistakes such as wrong option counts, duplicate IDs, unknown topics or garbled Tamil.
 4. Test locally (see below), then open a pull request.
 
 **The one rule: accuracy first.** Every fact needs a source, and every maths answer must be recalculated. If a question could have two correct answers, rewrite it or leave it out. Full guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Want to improve the app?
-It's plain HTML, CSS and JavaScript with no build step. Please keep it mobile-friendly and free of tracking.
+It's plain HTML, CSS and JavaScript with no build step. Please keep it mobile-friendly, and keep users' answers and progress in their own browser.
 
 ---
 
@@ -87,7 +88,8 @@ Then open http://localhost:8000.
 │   └── _coverage.json        # questions per unit vs target
 ├── tools/
 │   ├── build_bank.py         # builds and validates the question bank
-│   └── staging/*.json        # editable question sources: add questions here
+│   ├── staging/*.json        # editable question sources (Tamil): add questions here
+│   └── staging_en/*.json     # English versions of Part B questions
 └── CONTRIBUTING.md           # detailed contribution guide
 ```
 

@@ -1,0 +1,662 @@
+{
+ "NEW-AP-U2-503": {
+  "q": "Next number in the series: 5, 11, 23, 47, ?",
+  "o": [
+   "94",
+   "95",
+   "96",
+   "71"
+  ],
+  "e": "Each term is the previous term × 2 + 1: 5×2+1 = 11, 11×2+1 = 23, 23×2+1 = 47, 47×2+1 = 95.",
+  "h": "8a215845db17"
+ },
+ "NEW-AP-U2-504": {
+  "q": "Next number in the series: 2, 6, 12, 20, 30, ?",
+  "o": [
+   "40",
+   "42",
+   "44",
+   "36"
+  ],
+  "e": "Form n(n + 1): 1×2, 2×3, 3×4, 4×5, 5×6; next is 6×7 = 42. (Differences 4, 6, 8, 10, 12.)",
+  "h": "2e3291cff1c9"
+ },
+ "NEW-AP-U2-505": {
+  "q": "In a code language, each letter is shifted two places forward in the English alphabet (A → C, B → D). How is TEACHER written in that language?",
+  "o": [
+   "VGCEJGT",
+   "VGCEIGT",
+   "UFBDIFS",
+   "VGDEJGT"
+  ],
+  "e": "T→V, E→G, A→C, C→E, H→J, E→G, R→T ⇒ VGCEJGT. (UFBDIFS shifts only one place.)",
+  "h": "ccb5fa0d44e1"
+ },
+ "NEW-AP-U2-506": {
+  "q": "In a code, CAT is written as DBU. How is PEN written?",
+  "o": [
+   "QFO",
+   "OFM",
+   "QDO",
+   "RGP"
+  ],
+  "e": "Each letter is replaced by the next letter (+1): C→D, A→B, T→U. So P→Q, E→F, N→O ⇒ QFO.",
+  "h": "13b0f1a2a17d"
+ },
+ "NEW-AP-U2-507": {
+  "q": "What is the angle between the hour hand and the minute hand of a clock at 3:30?",
+  "o": [
+   "90°",
+   "75°",
+   "60°",
+   "105°"
+  ],
+  "e": "Angle = |30H − 5.5M| = |30 × 3 − 5.5 × 30| = |90 − 165| = 75°. (When the minute hand is at 6, the hour hand is halfway between 3 and 4.)",
+  "h": "82ab67b4c64f"
+ },
+ "NEW-AP-U2-508": {
+  "q": "Pointing to a photograph, Ramu says, 'This is the son of the only son of my grandfather.' If Ramu has no brother, who is in the photograph?",
+  "o": [
+   "Ramu's father",
+   "Ramu's uncle",
+   "Ramu himself",
+   "Ramu's son"
+  ],
+  "e": "The only son of Ramu's grandfather = Ramu's father. The father's son — since Ramu has no brother — is Ramu himself. So the person in the photograph is Ramu.",
+  "h": "1dbba2220c3a"
+ },
+ "NEW-AP-U2-509": {
+  "q": "A is B's brother. B is C's father. How is A related to C?",
+  "o": [
+   "Father",
+   "Uncle (father's brother)",
+   "Grandfather",
+   "Brother"
+  ],
+  "e": "B is C's father; A is B's brother ⇒ A is C's father's brother, i.e. C's paternal uncle.",
+  "h": "fb34840959c4"
+ },
+ "NEW-AP-U2-510": {
+  "q": "Find the odd one out: 2, 3, 5, 9, 11",
+  "o": [
+   "2",
+   "3",
+   "9",
+   "11"
+  ],
+  "e": "2, 3, 5 and 11 are prime numbers; 9 (= 3 × 3) is composite — so it is the odd one out.",
+  "h": "2c2cff02ef79"
+ },
+ "NEW-AP-U2-511": {
+  "q": "Find the odd one out: 16, 25, 36, 48, 64",
+  "o": [
+   "25",
+   "36",
+   "48",
+   "64"
+  ],
+  "e": "16 (4²), 25 (5²), 36 (6²) and 64 (8²) are perfect squares; 48 is not a perfect square.",
+  "h": "c44484cadb3a"
+ },
+ "NEW-AP-U2-512": {
+  "q": "A man walks 10 m north, turns right and walks 5 m, then turns right again and walks 10 m. How far, and in which direction, is he from his starting point?",
+  "o": [
+   "5 m east",
+   "5 m west",
+   "10 m south",
+   "15 m east"
+  ],
+  "e": "North 10 m → turning right means east, 5 m → turning right again means south, 10 m. The north and south movements cancel, so he is 5 m east of the starting point.",
+  "h": "3d830c35df00"
+ },
+ "NEW-AP-U2-513": {
+  "q": "In the English alphabet, which letter is 4th to the right of the 10th letter from the left?",
+  "o": [
+   "M",
+   "N",
+   "O",
+   "P"
+  ],
+  "e": "The 10th letter from the left is J. The 4th to its right = 10 + 4 = 14th letter, N.",
+  "h": "66ad2060e9cd"
+ },
+ "NEW-AP-U2-514": {
+  "q": "Five students by height: Arun is taller than Balu; Balu is taller than Chandru; Dinesh is taller than Arun; Eswar is shorter than Chandru. Who is the tallest?",
+  "o": [
+   "Arun",
+   "Balu",
+   "Dinesh",
+   "Eswar"
+  ],
+  "e": "From the data: Dinesh > Arun > Balu > Chandru > Eswar. So Dinesh is the tallest and Eswar the shortest.",
+  "h": "2b9b6047a9c5"
+ },
+ "NEW-AP-U2-515": {
+  "q": "Statements: All cats are animals. Some animals are dogs.\nConclusions: (I) All cats are dogs. (II) Some animals are cats.",
+  "o": [
+   "Only conclusion I follows",
+   "Only conclusion II follows",
+   "Both follow",
+   "Neither follows"
+  ],
+  "e": "Since all cats are animals, 'Some animals are cats' (II) definitely follows. No link is given between cats and dogs, so 'All cats are dogs' (I) cannot be concluded.",
+  "h": "8aace7a64ab7"
+ },
+ "NEW-GS-U1-901": {
+  "q": "The SI unit of force is",
+  "o": [
+   "Joule",
+   "Newton",
+   "Watt",
+   "Pascal"
+  ],
+  "e": "The SI unit of force is the newton (N): the force that gives a 1 kg mass an acceleration of 1 m/s². Joule – work/energy; watt – power; pascal – pressure.",
+  "h": "b50182c86135"
+ },
+ "NEW-GS-U1-902": {
+  "q": "The SI unit of electrical resistance is",
+  "o": [
+   "Ampere",
+   "Volt",
+   "Ohm",
+   "Coulomb"
+  ],
+  "e": "The SI unit of resistance is the ohm (Ω). Ampere – current; volt – potential difference; coulomb – charge (textbook).",
+  "h": "0bdb2e199526"
+ },
+ "NEW-GS-U1-903": {
+  "q": "One horse power (1 HP) is equal to",
+  "o": [
+   "546 watts",
+   "746 watts",
+   "1000 watts",
+   "100 watts"
+  ],
+  "e": "Horse power is a unit of power in the foot-pound-second system; 1 HP = 746 watts (textbook).",
+  "h": "f4c1bf5849c8"
+ },
+ "NEW-GS-U1-904": {
+  "q": "One kilowatt-hour (1 kWh) = ?",
+  "o": [
+   "3.6 × 10⁶ joules",
+   "3.6 × 10³ joules",
+   "1000 joules",
+   "36 joules"
+  ],
+  "e": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J. This is the 'one unit' of electrical energy on an electricity bill (textbook).",
+  "h": "86e6dfcdfbe4"
+ },
+ "NEW-GS-U1-905": {
+  "q": "The SI unit of the power of a lens is",
+  "o": [
+   "Metre",
+   "Dioptre",
+   "Lux",
+   "Candela"
+  ],
+  "e": "Power of a lens = 1/focal length (in metres); its unit is the dioptre (D). Lux – illuminance; candela – luminous intensity.",
+  "h": "6d802e77a1c0"
+ },
+ "NEW-GS-U1-906": {
+  "q": "In which medium is the speed of sound highest?",
+  "o": [
+   "Vacuum",
+   "Air",
+   "Water",
+   "Solid (steel)"
+  ],
+  "e": "Sound travels fastest in solids, slower in liquids and slowest in gases. Sound needs a medium, so it cannot travel through a vacuum.",
+  "h": "414cb18aaa1d"
+ },
+ "NEW-GS-U1-907": {
+  "q": "The value of Avogadro's number is",
+  "o": [
+   "6.023 × 10²³",
+   "3.6 × 10⁶",
+   "1.6 × 10⁻¹⁹",
+   "9.8"
+  ],
+  "e": "The number of particles in one mole of a substance is Avogadro's number = 6.023 × 10²³ (textbook). 1.6 × 10⁻¹⁹ C – charge of an electron; 9.8 m/s² – acceleration due to gravity.",
+  "h": "a70502dbc3ba"
+ },
+ "NEW-GS-U1-908": {
+  "q": "Below what pH of the mouth does tooth enamel start to decay?",
+  "o": [
+   "7.5",
+   "6.5",
+   "5.5",
+   "8.5"
+  ],
+  "e": "Tooth enamel (calcium phosphate), the hardest substance in the body, starts to decay when the pH in the mouth falls below 5.5; that is why toothpastes are basic (textbook).",
+  "h": "a51ab66c3016"
+ },
+ "NEW-GS-U1-909": {
+  "q": "The chemical name of baking soda is",
+  "o": [
+   "Sodium carbonate",
+   "Sodium bicarbonate",
+   "Calcium carbonate",
+   "Sodium chloride"
+  ],
+  "e": "Baking soda = sodium bicarbonate (NaHCO₃). Washing soda = sodium carbonate (Na₂CO₃·10H₂O); limestone = calcium carbonate; common salt = sodium chloride.",
+  "h": "077d649773ab"
+ },
+ "NEW-GS-U1-910": {
+  "q": "The chemical name of Plaster of Paris is",
+  "o": [
+   "Calcium sulphate hemihydrate",
+   "Calcium oxide",
+   "Calcium hydroxide",
+   "Calcium chloride"
+  ],
+  "e": "Plaster of Paris = calcium sulphate hemihydrate (CaSO₄·½H₂O); used for setting fractured bones and making statues. Gypsum = CaSO₄·2H₂O; quicklime = CaO; slaked lime = Ca(OH)₂.",
+  "h": "8b37ec2f3112"
+ },
+ "NEW-GS-U1-911": {
+  "q": "The pH value of a neutral solution is",
+  "o": [
+   "0",
+   "7",
+   "14",
+   "1"
+  ],
+  "e": "The pH scale runs from 0 to 14; pH 7 is neutral (pure water); below 7 is acidic; above 7 is basic.",
+  "h": "751df31aa7ca"
+ },
+ "NEW-GS-U1-912": {
+  "q": "The disease caused by deficiency of vitamin C is",
+  "o": [
+   "Night blindness",
+   "Scurvy",
+   "Rickets",
+   "Beriberi"
+  ],
+  "e": "Vitamin C (ascorbic acid) deficiency – scurvy (bleeding gums). Vitamin A – night blindness; D – rickets; B1 (thiamine) – beriberi.",
+  "h": "fd0871fefb0e"
+ },
+ "NEW-GS-U1-913": {
+  "q": "The hormone that lowers blood sugar level is",
+  "o": [
+   "Glucagon",
+   "Insulin",
+   "Adrenaline",
+   "Thyroxine"
+  ],
+  "e": "Insulin, secreted by the beta cells of the islets of Langerhans in the pancreas, lowers blood sugar; glucagon, secreted by the alpha cells, raises it. Insulin deficiency – diabetes.",
+  "h": "7bf134431cbe"
+ },
+ "NEW-GS-U1-914": {
+  "q": "The pigment in red blood cells that carries oxygen is",
+  "o": [
+   "Chlorophyll",
+   "Haemoglobin",
+   "Melanin",
+   "Keratin"
+  ],
+  "e": "Iron-containing haemoglobin combines with oxygen to form oxyhaemoglobin and carries oxygen throughout the body. Chlorophyll – green plant pigment; melanin – skin pigment; keratin – protein of hair and nails.",
+  "h": "b3994ac56237"
+ },
+ "NEW-GS-U1-915": {
+  "q": "The gas released by plants during photosynthesis is",
+  "o": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Methane"
+  ],
+  "e": "In photosynthesis, plants convert carbon dioxide and water into glucose using sunlight and chlorophyll, and release oxygen: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.",
+  "h": "764490d6dd10"
+ },
+ "NEW-GS-U1-916": {
+  "q": "The largest gland in the human body is",
+  "o": [
+   "Pancreas",
+   "Liver",
+   "Thyroid",
+   "Pituitary"
+  ],
+  "e": "The liver is the largest gland in the human body; it secretes bile. The pituitary is called the 'master gland'; the pancreas is a dual gland (exocrine + endocrine).",
+  "h": "ca98d83c246c"
+ },
+ "NEW-GS-U3-1001": {
+  "q": "In which year was the Indian National Congress founded?",
+  "o": [
+   "1857",
+   "1885",
+   "1905",
+   "1920"
+  ],
+  "e": "Through the efforts of A.O. Hume, the Indian National Congress was founded in Bombay on 28 December 1885; its first president was W.C. Bonnerjee.",
+  "h": "77ccb36e04af"
+ },
+ "NEW-GS-U3-1002": {
+  "q": "The Viceroy who partitioned Bengal (1905) was",
+  "o": [
+   "Lord Curzon",
+   "Lord Ripon",
+   "Lord Dalhousie",
+   "Lord Minto"
+  ],
+  "e": "In the name of administrative convenience, but intending to divide the national movement, Lord Curzon partitioned Bengal in 1905; the Swadeshi movement arose against it; the partition was annulled in 1911.",
+  "h": "8101bb55d176"
+ },
+ "NEW-GS-U3-1003": {
+  "q": "On which date did the Jallianwala Bagh massacre take place?",
+  "o": [
+   "13 April 1919",
+   "5 February 1922",
+   "12 March 1930",
+   "8 August 1942"
+  ],
+  "e": "On 13 April 1919 General Dyer opened fire on people gathered at Jallianwala Bagh, Amritsar, against the Rowlatt Act. 5.2.1922 – Chauri Chaura; 12.3.1930 – start of the Dandi March; 8.8.1942 – Quit India resolution.",
+  "h": "2a6feda47e71"
+ },
+ "NEW-GS-U3-1004": {
+  "q": "Which event made Gandhiji withdraw the Non-Cooperation Movement?",
+  "o": [
+   "Jallianwala Bagh massacre",
+   "Chauri Chaura incident",
+   "Arrival of the Simon Commission",
+   "Kakori Conspiracy"
+  ],
+  "e": "In February 1922 at Chauri Chaura in Uttar Pradesh, protesters set fire to a police station and killed 22 policemen; Gandhiji, who rejected violence, withdrew the Non-Cooperation Movement.",
+  "h": "878ce0ef7e0d"
+ },
+ "NEW-GS-U3-1005": {
+  "q": "In which year did Gandhiji's Dandi March (Salt Satyagraha) begin?",
+  "o": [
+   "1920",
+   "1928",
+   "1930",
+   "1942"
+  ],
+  "e": "On 12 March 1930 Gandhiji set out from Sabarmati Ashram with 78 volunteers, covered 241 miles in 24 days to reach Dandi, and broke the salt law on 6 April (textbook).",
+  "h": "42028e93814a"
+ },
+ "NEW-GS-U3-1006": {
+  "q": "The slogan 'Do or Die' is associated with which movement?",
+  "o": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Swadeshi Movement"
+  ],
+  "e": "When the Quit India resolution was passed in Bombay on 8 August 1942, Gandhiji gave the call 'Do or Die'.",
+  "h": "6066db8ffd0b"
+ },
+ "NEW-GS-U3-1007": {
+  "q": "Match:\n(a) Lucknow Pact – 1. 1932\n(b) Poona Pact – 2. 1916\n(c) Cripps Mission – 3. 1946\n(d) Cabinet Mission – 4. 1942",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "Lucknow Pact (Congress–Muslim League) – 1916 (2); Poona Pact (Gandhi–Ambedkar) – 1932 (1); Cripps Mission – 1942 (4); Cabinet Mission – 1946 (3). Hence 2, 1, 4, 3.",
+  "h": "114b35e5278a"
+ },
+ "NEW-GS-U3-1008": {
+  "q": "The year and place in which the Muslim League was founded",
+  "o": [
+   "1906, Dhaka",
+   "1885, Bombay",
+   "1916, Lucknow",
+   "1940, Lahore"
+  ],
+  "e": "The All-India Muslim League was founded in Dhaka in December 1906 (Aga Khan, Nawab Salimullah and others). The Pakistan Resolution was passed at the 1940 Lahore session.",
+  "h": "c0b7cdd13070"
+ },
+ "NEW-GS-U3-1009": {
+  "q": "In which year was the Battle of Plassey fought?",
+  "o": [
+   "1757",
+   "1764",
+   "1857",
+   "1799"
+  ],
+  "e": "In the Battle of Plassey (1757), the English East India Company under Robert Clive defeated Siraj-ud-Daulah, the Nawab of Bengal; it laid the foundation of British rule in India. 1764 – Battle of Buxar; 1799 – Fourth Mysore War.",
+  "h": "8fa78684178a"
+ },
+ "NEW-GS-U3-1010": {
+  "q": "The 'Doctrine of Lapse' is associated with",
+  "o": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Cornwallis",
+   "William Bentinck"
+  ],
+  "e": "Lord Dalhousie applied the Doctrine of Lapse (1848), under which a state whose ruler died without a natural male heir was annexed to British rule (Satara, Jhansi, Nagpur). Subsidiary Alliance – Wellesley; Permanent Settlement – Cornwallis.",
+  "h": "7be11ad889d0"
+ },
+ "NEW-GS-U3-1011": {
+  "q": "Who introduced the 'Subsidiary Alliance'?",
+  "o": [
+   "Lord Wellesley",
+   "Warren Hastings",
+   "Lord Dalhousie",
+   "Lord Canning"
+  ],
+  "e": "Under the Subsidiary Alliance introduced by Lord Wellesley (1798), Indian rulers had to keep a British force in their territory and bear its cost; the Nizam of Hyderabad was the first to accept.",
+  "h": "f992e747f2a2"
+ },
+ "NEW-GS-U3-1012": {
+  "q": "Who wrote the 'Arthashastra'?",
+  "o": [
+   "Megasthenes",
+   "Kautilya (Chanakya)",
+   "Bana",
+   "Kalidasa"
+  ],
+  "e": "Kautilya (Chanakya), minister of Chandragupta Maurya, wrote the Arthashastra on politics and administration. Megasthenes – Indica; Bana – Harshacharita; Kalidasa – Shakuntalam.",
+  "h": "0f1a1faf9b5a"
+ },
+ "NEW-GS-U3-1013": {
+  "q": "Which Mauryan emperor embraced Buddhism after the Kalinga war?",
+  "o": [
+   "Chandragupta",
+   "Bindusara",
+   "Ashoka",
+   "Brihadratha"
+  ],
+  "e": "Moved by the destruction of the Kalinga war (261 BCE), Ashoka gave up war, embraced Buddhism and spread the policy of 'Dhamma'.",
+  "h": "89953a820727"
+ },
+ "NEW-GS-U3-1014": {
+  "q": "The Chinese pilgrim who visited India during the Gupta period was",
+  "o": [
+   "Hiuen Tsang",
+   "Fa-Hien",
+   "I-Tsing",
+   "Marco Polo"
+  ],
+  "e": "Fa-Hien (399–414 CE) came to India during the reign of Chandragupta II (Vikramaditya). Hiuen Tsang came in Harsha's time; Marco Polo was a Venetian traveller.",
+  "h": "5bc8bb1148b6"
+ },
+ "NEW-GS-U3-1015": {
+  "q": "The Chinese pilgrim who came to India during Harsha's reign and studied at Nalanda University was",
+  "o": [
+   "Fa-Hien",
+   "Hiuen Tsang",
+   "Ibn Battuta",
+   "Al-Biruni"
+  ],
+  "e": "Hiuen Tsang (Xuanzang) came to India in Harsha's time and studied at Nalanda; he wrote his travel account 'Si-Yu-Ki'. Ibn Battuta – time of Muhammad bin Tughlaq; Al-Biruni – time of Mahmud of Ghazni.",
+  "h": "8563a730dc2c"
+ },
+ "NEW-GS-U3-1016": {
+  "q": "The Sultan who shifted his capital from Delhi to Devagiri (Daulatabad) was",
+  "o": [
+   "Alauddin Khalji",
+   "Muhammad bin Tughlaq",
+   "Firoz Shah Tughlaq",
+   "Iltutmish"
+  ],
+  "e": "In 1327 Muhammad bin Tughlaq shifted the capital from Delhi to Devagiri and renamed it 'Daulatabad'; later he moved it back to Delhi. He also introduced token (copper) currency.",
+  "h": "f58934357ab9"
+ },
+ "NEW-GS-U3-1017": {
+  "q": "The Mughal emperor who founded the new religious path 'Din-i-Ilahi' was",
+  "o": [
+   "Babur",
+   "Akbar",
+   "Jahangir",
+   "Aurangzeb"
+  ],
+  "e": "Combining the good ideas of all religions, Akbar founded 'Din-i-Ilahi' in 1582; only a few, including Birbal, followed it.",
+  "h": "1f786d880863"
+ },
+ "NEW-GS-U3-1018": {
+  "q": "The First Battle of Panipat (1526) was fought between",
+  "o": [
+   "Babur – Ibrahim Lodi",
+   "Akbar – Hemu",
+   "Ahmad Shah Abdali – Marathas",
+   "Babur – Rana Sanga"
+  ],
+  "e": "In the First Battle of Panipat (1526) Babur defeated Ibrahim Lodi and founded the Mughal Empire. Akbar–Hemu: Second Panipat (1556); Abdali–Marathas: Third Panipat (1761); Babur–Rana Sanga: Battle of Khanwa (1527).",
+  "h": "932e5f6ea10f"
+ },
+ "NEW-GS-U3-1019": {
+  "q": "Who is called the 'Iron Man of India'?",
+  "o": [
+   "Subhas Chandra Bose",
+   "Sardar Vallabhbhai Patel",
+   "Lala Lajpat Rai",
+   "Bal Gangadhar Tilak"
+  ],
+  "e": "Sardar Vallabhbhai Patel, India's first Home Minister, who integrated over 500 princely states into the Indian Union, is the 'Iron Man of India'. Lajpat Rai – 'Lion of Punjab'; Tilak – 'Lokmanya'.",
+  "h": "7eb4755e47c7"
+ },
+ "NEW-GS-U3-1020": {
+  "q": "Who declared, 'Swaraj is my birthright and I shall have it'?",
+  "o": [
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak",
+   "Dadabhai Naoroji",
+   "Mahatma Gandhi"
+  ],
+  "e": "The Extremist leader Bal Gangadhar Tilak made this declaration; he ran the papers 'Kesari' (Marathi) and 'Maratha' (English).",
+  "h": "920b5eea4fe1"
+ },
+ "NEW-GS-U3-1021": {
+  "q": "Who led the Indian National Army (INA) and gave the call 'Delhi Chalo'?",
+  "o": [
+   "Bhagat Singh",
+   "Subhas Chandra Bose",
+   "Rash Behari Bose",
+   "Chandrashekhar Azad"
+  ],
+  "e": "In 1943 Subhas Chandra Bose took charge of the Indian National Army started by Rash Behari Bose and gave the calls 'Delhi Chalo' and 'Jai Hind'.",
+  "h": "bde28644a2d7"
+ },
+ "NEW-GS-U3-1022": {
+  "q": "India's national song 'Vande Mataram' appears in which book?",
+  "o": [
+   "Gitanjali",
+   "Anandamath",
+   "The Story of My Experiments with Truth",
+   "The Discovery of India"
+  ],
+  "e": "'Vande Mataram' appears in Bankim Chandra Chatterjee's novel 'Anandamath'. The national anthem 'Jana Gana Mana' – Rabindranath Tagore; My Experiments with Truth – Gandhiji; The Discovery of India – Nehru.",
+  "h": "726b55e83387"
+ },
+ "NEW-GS-U5-1101": {
+  "q": "In which city is the headquarters of the Reserve Bank of India?",
+  "o": [
+   "New Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai"
+  ],
+  "e": "The Reserve Bank of India started in Kolkata in 1935 and has had its headquarters in Mumbai since 1937.",
+  "h": "9edc877129f8"
+ },
+ "NEW-GS-U5-1102": {
+  "q": "In India, which authority issues all currency notes except the ₹1 note?",
+  "o": [
+   "Ministry of Finance, Government of India",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "NABARD"
+  ],
+  "e": "The RBI issues notes of ₹2 and above; the ₹1 note and coins are issued by the Ministry of Finance, Government of India (the ₹1 note carries the Finance Secretary's signature).",
+  "h": "5c0e448d3d32"
+ },
+ "NEW-GS-U5-1103": {
+  "q": "In which year were 14 major commercial banks nationalised in India?",
+  "o": [
+   "1949",
+   "1955",
+   "1969",
+   "1991"
+  ],
+  "e": "On 19 July 1969 the Indira Gandhi government nationalised 14 major commercial banks; 6 more were nationalised in 1980. 1949 – RBI nationalised; 1955 – Imperial Bank became State Bank of India.",
+  "h": "993c4585e040"
+ },
+ "NEW-GS-U5-1104": {
+  "q": "The apex bank for agriculture and rural development is",
+  "o": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IDBI"
+  ],
+  "e": "NABARD (National Bank for Agriculture and Rural Development), set up in 1982, is the apex body for agricultural and rural credit. SIDBI – small industries; EXIM – exports and imports.",
+  "h": "48c43a95af90"
+ },
+ "NEW-GS-U5-1105": {
+  "q": "The year of launch and aim of the 'Pradhan Mantri Jan Dhan Yojana'",
+  "o": [
+   "2014 – a bank account for all (financial inclusion)",
+   "2016 – housing",
+   "2015 – Clean India",
+   "2019 – financial support to farmers"
+  ],
+  "e": "Jan Dhan Yojana, launched on 28 August 2014, is a financial-inclusion scheme giving every household a zero-balance bank account, a RuPay card and insurance. 2019 – PM-KISAN (₹6,000 a year to farmers).",
+  "h": "973542e71fd9"
+ },
+ "NEW-GS-U5-1106": {
+  "q": "The period of India's First Five-Year Plan was",
+  "o": [
+   "1947–1952",
+   "1951–1956",
+   "1956–1961",
+   "1961–1966"
+  ],
+  "e": "First Five-Year Plan: 1951–56 (Harrod–Domar model; priority to agriculture and irrigation). Second Plan 1956–61; Third Plan 1961–66.",
+  "h": "ba16876a2c44"
+ },
+ "NEW-GS-U5-1107": {
+  "q": "The period of India's last (Twelfth) Five-Year Plan was",
+  "o": [
+   "2007–2012",
+   "2012–2017",
+   "2017–2022",
+   "2002–2007"
+  ],
+  "e": "The Twelfth Five-Year Plan (2012–2017) was the last; its theme was 'faster, more inclusive and sustainable growth'. After it, NITI Aayog's vision documents replaced five-year plans.",
+  "h": "34e7e5fbfa62"
+ },
+ "NEW-GS-U5-1108": {
+  "q": "The Chairman of the Planning Commission was the",
+  "o": [
+   "President",
+   "Prime Minister",
+   "Finance Minister",
+   "RBI Governor"
+  ],
+  "e": "The Prime Minister was the Chairman of the Planning Commission set up in 1950, and is also the Chairperson of NITI Aayog, which replaced it in 2015.",
+  "h": "46074ae233f5"
+ },
+ "NEW-GS-U5-1109": {
+  "q": "The nature of the Indian economy is",
+  "o": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Closed economy"
+  ],
+  "e": "Since the public sector and the private sector work together in India, it is called a mixed economy.",
+  "h": "a5c8e699a2b7"
+ }
+}

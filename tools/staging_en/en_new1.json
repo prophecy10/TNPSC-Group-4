@@ -1,0 +1,662 @@
+{
+ "NEW-GS-U2-001": {
+  "q": "Which is the central meridian (longitude) on which Indian Standard Time (IST) is based?",
+  "o": [
+   "68°7′ E",
+   "82°30′ E",
+   "97°25′ E",
+   "23°30′ N"
+  ],
+  "e": "India's central meridian, 82°30′ East, passes through Mirzapur in Uttar Pradesh; its local time is Indian Standard Time, which is 5½ hours ahead of Greenwich Mean Time. 68°7′ and 97°25′ are India's western and eastern limits of longitude; 23°30′ N is the Tropic of Cancer.",
+  "h": "1d3413c413ea"
+ },
+ "NEW-GS-U2-002": {
+  "q": "Which is the southernmost point of India (including the islands)?",
+  "o": [
+   "Kanniyakumari",
+   "Indira Point (Pygmalion Point)",
+   "Kodiyakkarai",
+   "Indira Col"
+  ],
+  "e": "India's southernmost point is Indira Point (6°45′ N) on Great Nicobar Island in the Andaman and Nicobar Islands. The southern tip of the Indian mainland is Kanniyakumari (Cape Comorin); the northernmost point is Indira Col; Kodiyakkarai is Tamil Nadu's eastern tip.",
+  "h": "9d7a16a9e864"
+ },
+ "NEW-GS-U2-003": {
+  "q": "India's north–south length and east–west width are, respectively,",
+  "o": [
+   "2,933 km, 3,214 km",
+   "3,214 km, 2,933 km",
+   "3,214 km, 6,100 km",
+   "7,516 km, 3,214 km"
+  ],
+  "e": "India is 3,214 km long from Indira Col in the north to Kanniyakumari in the south, and 2,933 km wide from the Gulf of Kachchh in the west to Arunachal Pradesh in the east. 6,100 km is the mainland coastline; 7,516.6 km is the coastline including the islands.",
+  "h": "4a1194ccff11"
+ },
+ "NEW-GS-U2-004": {
+  "q": "Which narrow, shallow stretch of sea separates India and Sri Lanka?",
+  "o": [
+   "Palk Strait",
+   "Strait of Malacca",
+   "Ten Degree Channel",
+   "Eight Degree Channel"
+  ],
+  "e": "India and Sri Lanka are separated by the Palk Strait and the Gulf of Mannar. The Ten Degree Channel separates the Andamans from the Nicobars; the Eight Degree Channel separates Minicoy Island from the Maldives.",
+  "h": "fa3df0b6cdf7"
+ },
+ "NEW-GS-U2-005": {
+  "q": "Which line of latitude passes through the middle of India and divides it into a northern sub-tropical (temperate) part and a southern tropical part?",
+  "o": [
+   "Equator",
+   "Tropic of Capricorn",
+   "Tropic of Cancer (23°30′ N)",
+   "Arctic Circle"
+  ],
+  "e": "The Tropic of Cancer (23°30′ North) passes through the middle of India and divides the country into a temperate (sub-tropical) north and a tropical south. The Equator and the Tropic of Capricorn do not pass through India.",
+  "h": "857873465455"
+ },
+ "NEW-GS-U2-006": {
+  "q": "Which is the highest peak in South India?",
+  "o": [
+   "Doddabetta",
+   "Anaimudi",
+   "Mahendragiri",
+   "Guru Shikhar"
+  ],
+  "e": "Anaimudi (2,695 m) in the Anaimalai hills of Kerala is the highest peak in South India. Doddabetta (2,637 m) is the highest peak of the Nilgiris/Tamil Nadu; Mahendragiri is the highest peak of the Eastern Ghats; Guru Shikhar is the highest peak of the Aravallis.",
+  "h": "799675c1ee75"
+ },
+ "NEW-GS-U2-007": {
+  "q": "In which state is Mawsynram, the place with the highest rainfall in the world?",
+  "o": [
+   "Assam",
+   "Meghalaya",
+   "Sikkim",
+   "Arunachal Pradesh"
+  ],
+  "e": "The Bay of Bengal branch of the monsoon is blocked by the Garo, Khasi and Jaintia hills and brings the world's highest rainfall (about 1141 cm) to Mawsynram in Meghalaya.",
+  "h": "20a2f3946fcc"
+ },
+ "NEW-GS-U2-008": {
+  "q": "Match (Multipurpose project – River):\n(a) Bhakra-Nangal – 1. Mahanadi\n(b) Hirakud – 2. Sutlej\n(c) Nagarjunasagar – 3. Narmada\n(d) Sardar Sarovar – 4. Krishna",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-3, (b)-1, (c)-4, (d)-2"
+  ],
+  "e": "Bhakra-Nangal – Sutlej (one of the world's highest gravity dams) (2); Hirakud – Mahanadi (one of the world's longest dams) (1); Nagarjunasagar – Krishna (4); Sardar Sarovar – Narmada (3).",
+  "h": "44b652016c3a"
+ },
+ "NEW-GS-U2-010": {
+  "q": "What is Tamil Nadu's rank among Indian states by area?",
+  "o": [
+   "5th",
+   "8th",
+   "10th",
+   "11th"
+  ],
+  "e": "With an area of 1,30,058 sq. km, Tamil Nadu is the 11th largest state of India; it is about 4% of India's area (textbook).",
+  "h": "0b2b853becb9"
+ },
+ "NEW-GS-U2-011": {
+  "q": "Match the extreme points of Tamil Nadu:\n(a) East – 1. Anaimalai hills\n(b) West – 2. Pulicat lake\n(c) North – 3. Cape Comorin (Kumari Munai)\n(d) South – 4. Kodiyakkarai",
+  "o": [
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-3, (b)-1, (c)-2, (d)-4"
+  ],
+  "e": "Extreme points of Tamil Nadu: East – Kodiyakkarai (Point Calimere); West – Anaimalai hills; North – Pulicat lake; South – Cape Comorin (textbook).",
+  "h": "daa870d323d8"
+ },
+ "NEW-GS-U2-012": {
+  "q": "Which is the highest peak in Tamil Nadu?",
+  "o": [
+   "Anaimudi",
+   "Doddabetta",
+   "Mukurthi",
+   "Kottaimalai"
+  ],
+  "e": "Doddabetta (2,637 m) in the Nilgiris is the highest peak in Tamil Nadu; next is Mukurthi (2,554 m). Anaimudi is in Kerala.",
+  "h": "b545281e1734"
+ },
+ "NEW-GS-U2-013": {
+  "q": "Which river of Tamil Nadu is perennial?",
+  "o": [
+   "Kaveri",
+   "Vaigai",
+   "Thamirabarani",
+   "Palar"
+  ],
+  "e": "Because it receives water from both the south-west and north-east monsoons, the Thamirabarani is the only perennial river of Tamil Nadu; the other rivers are seasonal (textbook).",
+  "h": "39ba1724b4ef"
+ },
+ "NEW-GS-U2-014": {
+  "q": "Which is correct about the river Kaveri?\n(i) It rises at Talakaveri in the Brahmagiri hills of Kodagu district, Karnataka.\n(ii) Its total length is 805 km, of which about 416 km is in Tamil Nadu.\n(iii) It forms the Hogenakkal falls in Dharmapuri district.",
+  "o": [
+   "(i) only",
+   "(i), (ii) only",
+   "(ii), (iii) only",
+   "(i), (ii), (iii) all"
+  ],
+  "e": "As per the textbook, the Kaveri rises at Talakaveri in the Brahmagiri hills of Kodagu district and flows 805 km, of which 416 km is in Tamil Nadu; for 64 km it forms the Karnataka–Tamil Nadu border; it forms the Hogenakkal falls in Dharmapuri district. All three are correct.",
+  "h": "b90b4619710a"
+ },
+ "NEW-GS-U2-015": {
+  "q": "In which district are the Pichavaram mangrove forests located?",
+  "o": [
+   "Nagapattinam",
+   "Cuddalore",
+   "Tiruvarur",
+   "Ramanathapuram"
+  ],
+  "e": "The Pichavaram mangroves cover about 1,100 hectares near Chidambaram in Cuddalore district; the textbook calls it the second largest mangrove forest in the world. Avicennia and Rhizophora are the main plants there.",
+  "h": "1a24401934cb"
+ },
+ "NEW-GS-U2-016": {
+  "q": "Which river separates the Coimbatore plateau from the Mysore plateau?",
+  "o": [
+   "Bhavani",
+   "Noyyal",
+   "Moyar",
+   "Amaravathi"
+  ],
+  "e": "The Moyar separates the Coimbatore plateau from the Mysore plateau. The Bhavani, Noyyal and Amaravathi rise in the Western Ghats and form valleys in this plateau region (textbook).",
+  "h": "c09a696a874d"
+ },
+ "NEW-GS-U2-017": {
+  "q": "The main area where the Nilgiri Tahr, the state animal of Tamil Nadu, is found is",
+  "o": [
+   "Kolli hills",
+   "Nilgiri hills",
+   "Shevaroy hills",
+   "Javadhu hills"
+  ],
+  "e": "The Nilgiri Tahr, Tamil Nadu's state animal, is found in the Nilgiri hills and the high grasslands of the Western Ghats. The Kolli, Shevaroy and Javadhu hills belong to the Eastern Ghats.",
+  "h": "9debbe5f54ee"
+ },
+ "NEW-GS-U2-018": {
+  "q": "The Sundarbans, the world's largest delta, was formed by which rivers?",
+  "o": [
+   "Godavari – Krishna",
+   "Ganga – Brahmaputra",
+   "Mahanadi – Brahmani",
+   "Indus – Sutlej"
+  ],
+  "e": "The Sundarbans delta, formed by the Ganga and the Brahmaputra together, is the largest delta in the world; its mangrove forests are the home of the Bengal tiger.",
+  "h": "4cd9fb04ccef"
+ },
+ "NEW-GS-U2-019": {
+  "q": "With which country does India share its longest land border?",
+  "o": [
+   "China",
+   "Pakistan",
+   "Bangladesh",
+   "Nepal"
+  ],
+  "e": "India shares its longest land border with Bangladesh (4,156 km); the shortest is with Afghanistan (106 km) (textbook).",
+  "h": "2baeec7f85b9"
+ },
+ "NEW-GS-U2-020": {
+  "q": "In which season does Tamil Nadu receive most of its annual rainfall?",
+  "o": [
+   "South-west monsoon season",
+   "North-east monsoon season (October–December)",
+   "Winter (January–February)",
+   "Summer (March–May)"
+  ],
+  "e": "Lying in the rain-shadow of the Western Ghats, Tamil Nadu gets little rain from the south-west monsoon; most of its annual rainfall comes during the October–December north-east monsoon (retreating monsoon) season.",
+  "h": "dd61921110cd"
+ },
+ "NEW-GS-U4-101": {
+  "q": "On which date did the Constituent Assembly of India hold its first meeting?",
+  "o": [
+   "15 August 1947",
+   "9 December 1946",
+   "26 November 1949",
+   "26 January 1950"
+  ],
+  "e": "The Constituent Assembly, formed under the Cabinet Mission Plan (1946), first met on 9 December 1946. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950.",
+  "h": "56ab00d5b763"
+ },
+ "NEW-GS-U4-102": {
+  "q": "When adopted on 26 November 1949, the Indian Constitution contained",
+  "o": [
+   "A Preamble, 22 Parts, 395 Articles, 8 Schedules",
+   "A Preamble, 25 Parts, 448 Articles, 12 Schedules",
+   "22 Parts, 395 Articles, 12 Schedules",
+   "A Preamble, 24 Parts, 400 Articles, 10 Schedules"
+  ],
+  "e": "When adopted, the Constitution had a Preamble, 22 Parts, 395 Articles and 8 Schedules (textbook). Later amendments raised the Schedules to 12.",
+  "h": "9db2dd000867"
+ },
+ "NEW-GS-U4-103": {
+  "q": "Who hand-wrote (calligraphed) the original copy of the Indian Constitution?",
+  "o": [
+   "Nandalal Bose",
+   "Prem Behari Narain Raizada",
+   "B.N. Rau",
+   "Jawaharlal Nehru"
+  ],
+  "e": "The original copy of the Constitution was hand-written in a flowing italic style by Prem Behari Narain Raizada (textbook). Nandalal Bose decorated its pages with paintings; B.N. Rau was the Constitutional Adviser.",
+  "h": "cf2c41420769"
+ },
+ "NEW-GS-U4-104": {
+  "q": "The Preamble of the Indian Constitution is based on which resolution?",
+  "o": [
+   "Lahore Resolution",
+   "Objectives Resolution",
+   "Karachi Resolution",
+   "August Offer"
+  ],
+  "e": "The 'Objectives Resolution', drafted by Jawaharlal Nehru and adopted by the Constituent Assembly on 22 January 1947, is the basis of the Preamble. The Preamble is called the 'key to the Constitution'; it has been amended only once, by the 42nd Amendment in 1976.",
+  "h": "a97c57132208"
+ },
+ "NEW-GS-U4-105": {
+  "q": "The words added to the Preamble by the 42nd Constitutional Amendment (1976) are",
+  "o": [
+   "Sovereign, Democratic, Republic",
+   "Socialist, Secular, Integrity",
+   "Justice, Liberty, Equality",
+   "Fraternity, Dignity, Unity"
+  ],
+  "e": "The 42nd Amendment added three words to the Preamble: 'Socialist', 'Secular' and 'Integrity' (textbook).",
+  "h": "c2d0981b9dfd"
+ },
+ "NEW-GS-U4-106": {
+  "q": "The Part and Articles of the Constitution that deal with citizenship are",
+  "o": [
+   "Part I, Articles 1–4",
+   "Part II, Articles 5–11",
+   "Part III, Articles 12–35",
+   "Part IV, Articles 36–51"
+  ],
+  "e": "Citizenship is covered in Part II, Articles 5 to 11. India provides single citizenship. Part I – the Union and its territory; Part III – Fundamental Rights; Part IV – Directive Principles.",
+  "h": "ae7bcc06ea26"
+ },
+ "NEW-GS-U4-107": {
+  "q": "Under the Citizenship Act, 1955, the ways of losing citizenship are",
+  "o": [
+   "Renunciation, Termination, Deprivation",
+   "Registration, Naturalisation, Birth",
+   "Descent, Registration, Deprivation",
+   "Renunciation, Registration, Incorporation"
+  ],
+  "e": "The three ways of losing citizenship: voluntary Renunciation, Termination on acquiring another country's citizenship, and Deprivation by the government for reasons such as fraud. Birth, descent, registration, naturalisation and incorporation of territory are ways of acquiring citizenship.",
+  "h": "75e62b93037e"
+ },
+ "NEW-GS-U4-108": {
+  "q": "Which Article did Dr. Ambedkar call 'the heart and soul of the Constitution'?",
+  "o": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "e": "Ambedkar called Article 32 — which gives the right to move the Supreme Court directly when Fundamental Rights are violated (Right to Constitutional Remedies) — 'the heart and soul of the Constitution'.",
+  "h": "5c0c92e992f0"
+ },
+ "NEW-GS-U4-109": {
+  "q": "Match (Writs):\n(a) Habeas Corpus – 1. Prevents unlawful occupation of a public office\n(b) Mandamus – 2. Protects against unlawful detention\n(c) Prohibition – 3. Stops a lower court from exceeding its jurisdiction\n(d) Quo Warranto – 4. Orders a public official to perform his duty",
+  "o": [
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-1, (b)-3, (c)-4, (d)-2",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-4, (b)-2, (c)-1, (d)-3"
+  ],
+  "e": "Habeas Corpus – protection from unlawful detention (2); Mandamus – order to a public official to perform his duty (4); Prohibition – stops a lower court from exceeding its jurisdiction (3); Quo Warranto – prevents unlawful holding of a public office (1). (Certiorari quashes an order of a lower court made beyond its jurisdiction.)",
+  "h": "ee3244c81703"
+ },
+ "NEW-GS-U4-110": {
+  "q": "When a National Emergency is declared under Article 352, the rights under which Article are automatically suspended?",
+  "o": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "e": "When a National Emergency (Article 352) is declared, the six freedoms under Article 19 are automatically suspended (Article 358) — after the 44th Amendment, only when the emergency is declared on grounds of war or external aggression, not armed rebellion. Other rights may be suspended by a separate Presidential order (after the 44th Amendment, Articles 20 and 21 cannot be suspended).",
+  "h": "2264c6673362"
+ },
+ "NEW-GS-U4-111": {
+  "q": "In which Part of the Constitution are the Fundamental Rights found? (This Part is called the 'Magna Carta of India')",
+  "o": [
+   "Part II",
+   "Part III",
+   "Part IV",
+   "Part IV-A"
+  ],
+  "e": "Fundamental Rights are in Part III, Articles 12 to 35; this Part is called the 'Magna Carta of India'. There were 7 rights originally; with the right to property removed, there are now 6. Part IV-A contains the Fundamental Duties.",
+  "h": "fd6e0ec10af2"
+ },
+ "NEW-GS-U4-112": {
+  "q": "Under which Article is the right to property now a legal right?",
+  "o": [
+   "Article 31",
+   "Article 300-A",
+   "Article 19(1)(f)",
+   "Article 21-A"
+  ],
+  "e": "The 44th Amendment (1978) removed the right to property from the Fundamental Rights and made it a legal right under Article 300-A in Part XII. Article 21-A – Right to Education (86th Amendment, 2002).",
+  "h": "cb0897ef7ddf"
+ },
+ "NEW-GS-U4-113": {
+  "q": "In Centre–State financial relations, the Finance Commission, which recommends the sharing of taxes, is constituted by the President under which Article?",
+  "o": [
+   "Article 280",
+   "Article 324",
+   "Article 352",
+   "Article 368"
+  ],
+  "e": "Under Article 280 the President constitutes a Finance Commission every five years; it recommends how taxes are shared between the Centre and the States. Article 324 – Election Commission; 352 – National Emergency; 368 – amendment of the Constitution.",
+  "h": "aa25e074b1f1"
+ },
+ "NEW-GS-U4-114": {
+  "q": "Which of the following was NOT among the subjects moved from the State List to the Concurrent List by the 42nd Amendment (1976)?",
+  "o": [
+   "Education",
+   "Forests",
+   "Weights and measures",
+   "Police"
+  ],
+  "e": "The 42nd Amendment moved five subjects from the State List to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice. Police is still in the State List.",
+  "h": "3570ccb93d1e"
+ },
+ "NEW-GS-U4-115": {
+  "q": "If a Union law and a State law conflict on a subject in the Concurrent List,",
+  "o": [
+   "The State law prevails",
+   "The Parliamentary law prevails",
+   "Both become invalid",
+   "The Supreme Court makes a new law"
+  ],
+  "e": "In case of conflict on a Concurrent List subject, the law made by Parliament prevails (Article 254); the State law is void to the extent of the conflict (textbook).",
+  "h": "5f5135c2e45e"
+ },
+ "NEW-GS-U4-116": {
+  "q": "Who set up the Sarkaria Commission in 1983 to examine Centre–State relations?",
+  "o": [
+   "Morarji Desai",
+   "Indira Gandhi",
+   "Rajiv Gandhi",
+   "V.P. Singh"
+  ],
+  "e": "Prime Minister Indira Gandhi set up the commission under Justice R.S. Sarkaria in 1983; the Union Government implemented 180 of its 247 recommendations (textbook).",
+  "h": "81b3ec093cf4"
+ },
+ "NEW-GS-U4-117": {
+  "q": "The Part and Articles of the Constitution dealing with the official language are",
+  "o": [
+   "Part XV, Articles 324–329",
+   "Part XVII, Articles 343–351",
+   "Part XVIII, Articles 352–360",
+   "Part XX, Article 368"
+  ],
+  "e": "Part XVII (Articles 343–351) deals with the official language; the Eighth Schedule originally had 14 languages, now 22. Part XV – elections; XVIII – emergency; XX – amendment.",
+  "h": "9b70aa755888"
+ },
+ "NEW-GS-U4-118": {
+  "q": "Match (Types of emergency):\n(a) National Emergency – 1. Article 360\n(b) State Emergency (President's Rule) – 2. Article 352\n(c) Financial Emergency – 3. Article 356",
+  "o": [
+   "(a)-2, (b)-3, (c)-1",
+   "(a)-1, (b)-2, (c)-3",
+   "(a)-3, (b)-1, (c)-2",
+   "(a)-2, (b)-1, (c)-3"
+  ],
+  "e": "National Emergency – Article 352 (war, external aggression, armed rebellion); State Emergency – Article 356 (failure of constitutional machinery in a State); Financial Emergency – Article 360 (never declared so far).",
+  "h": "2315df0f457e"
+ },
+ "NEW-GS-U4-119": {
+  "q": "The minimum age at which Indian citizens get the right to vote is",
+  "o": [
+   "16",
+   "18",
+   "21",
+   "25"
+  ],
+  "e": "The Indian Constitution provides 'universal adult franchise'; the 61st Amendment (1988) lowered the voting age from 21 to 18.",
+  "h": "fac485c6cee4"
+ },
+ "NEW-GS-U4-120": {
+  "q": "The number of subjects originally in the Union, State and Concurrent Lists of the Seventh Schedule were, respectively,",
+  "o": [
+   "97, 66, 47",
+   "100, 61, 52",
+   "66, 97, 47",
+   "47, 66, 97"
+  ],
+  "e": "Originally the Union List had 97 subjects, the State List 66 and the Concurrent List 47 (textbook). Amendments have since changed these numbers (the Concurrent List now has 52).",
+  "h": "263791b1e78a"
+ },
+ "NEW-GS-U5-201": {
+  "q": "On which date did the Goods and Services Tax (GST) come into force?",
+  "o": [
+   "29 March 2017",
+   "1 April 2017",
+   "1 July 2017",
+   "1 January 2018"
+  ],
+  "e": "The GST bill was passed by Parliament on 29 March 2017 and GST came into force from 1 July 2017. Its slogan: 'One Nation, One Market, One Tax' (textbook).",
+  "h": "ec86bf68ea01"
+ },
+ "NEW-GS-U5-202": {
+  "q": "Which is an example of a direct tax?",
+  "o": [
+   "Goods and Services Tax",
+   "Customs duty",
+   "Income tax",
+   "Excise duty"
+  ],
+  "e": "A direct tax is levied directly on a person's income or property, and its burden cannot be shifted to others (e.g. income tax, corporate tax). GST, customs duty and excise duty are indirect taxes levied on goods and services.",
+  "h": "d0c2a6e0ea2f"
+ },
+ "NEW-GS-U5-203": {
+  "q": "The components of GST levied on a sale within a state (intra-state) are",
+  "o": [
+   "IGST only",
+   "CGST and SGST",
+   "IGST and SGST",
+   "CGST only"
+  ],
+  "e": "On an intra-state transaction both Central GST (CGST) and State GST (SGST) are levied. Integrated GST (IGST) is levied on inter-state transactions and imports.",
+  "h": "90d6c9467e85"
+ },
+ "NEW-GS-U5-204": {
+  "q": "A tax levied at the same rate whatever the size of the income is a",
+  "o": [
+   "Progressive tax",
+   "Proportional tax",
+   "Regressive tax",
+   "Double tax"
+  ],
+  "e": "In a proportional tax the rate stays the same whatever the tax base (e.g. 10% on ₹10,000 and on ₹30,000). In a progressive tax the rate rises as income rises; in a regressive tax it falls.",
+  "h": "4fa9d289cc9f"
+ },
+ "NEW-GS-U5-205": {
+  "q": "Which city is called the 'Detroit of Asia' because it is a major automobile manufacturing centre?",
+  "o": [
+   "Coimbatore",
+   "Chennai",
+   "Hosur",
+   "Tiruppur"
+  ],
+  "e": "Chennai, home to multinational companies such as Hyundai, Ford, Renault-Nissan and Daimler and Indian companies such as Ashok Leyland and TVS, is called the 'Detroit of Asia' (textbook).",
+  "h": "ec9ae9cc9dbc"
+ },
+ "NEW-GS-U5-206": {
+  "q": "Which city is called the 'Manchester of South India'?",
+  "o": [
+   "Madurai",
+   "Erode",
+   "Coimbatore",
+   "Salem"
+  ],
+  "e": "About 200 of Tamil Nadu's 435 cotton spinning mills are in Coimbatore, so it is called the 'Manchester of South India' (textbook).",
+  "h": "0dc9926e40e4"
+ },
+ "NEW-GS-U5-207": {
+  "q": "Match (Tamil Nadu industrial development institutions – Year founded):\n(a) TIIC – 1. 1971\n(b) TIDCO – 2. 1970\n(c) TANSIDCO – 3. 1965\n(d) SIPCOT – 4. 1949",
+  "o": [
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-2, (c)-3, (d)-1",
+   "(a)-1, (b)-3, (c)-2, (d)-4"
+  ],
+  "e": "TIIC (Tamil Nadu Industrial Investment Corporation) – 1949 (4); TIDCO (Tamil Nadu Industrial Development Corporation) – 1965 (3); TANSIDCO (Small Industries Development Corporation) – 1970 (2); SIPCOT (State Industries Promotion Corporation) – 1971 (1). Hence 4, 3, 2, 1.",
+  "h": "4fbdb1d510d6"
+ },
+ "NEW-GS-U5-208": {
+  "q": "Which plant was set up in 1973 to produce stainless steel?",
+  "o": [
+   "Salem Steel Plant",
+   "Heavy Vehicles Factory, Avadi",
+   "BHEL, Tiruchi",
+   "Neyveli Lignite Corporation"
+  ],
+  "e": "The Salem Steel Plant was set up in 1973 to produce stainless steel. The Heavy Vehicles Factory (making tanks) is at Avadi (textbook).",
+  "h": "245223eeaf9f"
+ },
+ "NEW-GS-U5-209": {
+  "q": "In which year was the Madras Export Processing Zone (MEPZ) established?",
+  "o": [
+   "1965",
+   "1984",
+   "2000",
+   "2005"
+  ],
+  "e": "MEPZ, one of the country's seven Export Processing Zones, was set up at Tambaram in 1984; under the April 2000 policy it was converted into a Special Economic Zone (SEZ) (textbook).",
+  "h": "3cff43dd0ac9"
+ },
+ "NEW-GS-U5-211": {
+  "q": "The centres through which the Integrated Child Development Services (ICDS) scheme is implemented in Tamil Nadu are generally called",
+  "o": [
+   "Uzhavar Sandhais",
+   "Anganwadi centres",
+   "Fair price shops",
+   "Primary health centres"
+  ],
+  "e": "The ICDS scheme provides nutrition, pre-school education and other services to children under 6 and to pregnant and nursing mothers through Anganwadi centres (and mini-Anganwadi centres); it is one of the largest such programmes in the world.",
+  "h": "050aad2cb2a2"
+ },
+ "NEW-GS-U5-212": {
+  "q": "The total market value of final goods and services produced within the boundary of a country in one year is",
+  "o": [
+   "Gross National Product (GNP)",
+   "Gross Domestic Product (GDP)",
+   "Net National Product (NNP)",
+   "Per capita income"
+  ],
+  "e": "GDP is the market value of final goods and services produced within the country's geographical boundary in a year. GNP = GDP + net factor income from abroad; NNP = GNP − depreciation; per capita income = national income ÷ population.",
+  "h": "7dddcf92a39a"
+ },
+ "NEW-GS-U5-213": {
+  "q": "Disposable Personal Income = ?",
+  "o": [
+   "Personal income + direct taxes",
+   "Personal income − direct taxes",
+   "GNP − depreciation",
+   "GDP − indirect taxes"
+  ],
+  "e": "DPI = PI − direct taxes (textbook). What remains of personal income for consumption and saving after paying direct taxes such as income tax is disposable income. GNP − depreciation = NNP.",
+  "h": "551c50baefcb"
+ },
+ "NEW-GS-U5-214": {
+  "q": "On which date was NITI Aayog set up to replace the Planning Commission?",
+  "o": [
+   "15 March 1950",
+   "1 January 2015",
+   "1 April 2014",
+   "26 January 2016"
+  ],
+  "e": "The National Institution for Transforming India (NITI Aayog) was set up on 1 January 2015 to replace the Planning Commission, which had been set up on 15 March 1950; the Prime Minister is its Chairperson.",
+  "h": "ba15e22513f5"
+ },
+ "NEW-GS-U5-215": {
+  "q": "Which Five-Year Plan, based on the Mahalanobis model, gave priority to heavy industries?",
+  "o": [
+   "First Five-Year Plan",
+   "Second Five-Year Plan",
+   "Third Five-Year Plan",
+   "Fourth Five-Year Plan"
+  ],
+  "e": "The Second Five-Year Plan (1956–61), based on P.C. Mahalanobis's model, gave priority to heavy and basic industries (Bhilai, Rourkela and Durgapur steel plants). The First Plan (1951–56, Harrod–Domar model) gave priority to agriculture.",
+  "h": "53a924bb6443"
+ },
+ "NEW-GS-U5-216": {
+  "q": "The year the Reserve Bank of India was established and the year it was nationalised are",
+  "o": [
+   "1935, 1949",
+   "1947, 1950",
+   "1921, 1955",
+   "1969, 1980"
+  ],
+  "e": "Under the RBI Act, 1934, the RBI started on 1 April 1935; it was nationalised on 1 January 1949. 1969 and 1980 are the years commercial banks were nationalised.",
+  "h": "e651c2712360"
+ },
+ "NEW-GS-U5-217": {
+  "q": "The interest rate at which the Reserve Bank lends short-term funds to commercial banks is the",
+  "o": [
+   "Bank Rate",
+   "Repo Rate",
+   "Cash Reserve Ratio (CRR)",
+   "Statutory Liquidity Ratio (SLR)"
+  ],
+  "e": "The rate of interest on short-term loans that commercial banks take from the RBI by pledging securities is the repo rate. The bank rate is for longer-term loans; CRR and SLR are reserve ratios banks must maintain.",
+  "h": "2b42062f6ff8"
+ },
+ "NEW-GS-U5-218": {
+  "q": "Who is honoured as the Father of the Green Revolution in India?",
+  "o": [
+   "Verghese Kurien",
+   "M.S. Swaminathan",
+   "Norman Borlaug",
+   "C. Subramaniam"
+  ],
+  "e": "Agricultural scientist M.S. Swaminathan, who introduced high-yielding wheat and rice varieties, is called the 'Father of the Green Revolution in India'. Norman Borlaug is the father of the global Green Revolution; Verghese Kurien is the father of the White Revolution (milk).",
+  "h": "1a6e704c0e0e"
+ },
+ "NEW-GS-U5-219": {
+  "q": "In which year did the New Economic Policy turn the Indian economy towards Liberalisation, Privatisation and Globalisation (LPG)?",
+  "o": [
+   "1980",
+   "1985",
+   "1991",
+   "2000"
+  ],
+  "e": "After the 1991 foreign-exchange crisis, the New Economic Policy (LPG reforms) was introduced under Prime Minister P.V. Narasimha Rao and Finance Minister Manmohan Singh.",
+  "h": "4142ba3614d9"
+ },
+ "NEW-GS-U5-220": {
+  "q": "Which system was started in Tamil Nadu in 1999 so that farmers can sell their produce directly to consumers without middlemen?",
+  "o": [
+   "Fair price shops",
+   "Uzhavar Sandhai",
+   "Amma Unavagam",
+   "Cooperative stores"
+  ],
+  "e": "The 'Uzhavar Sandhai' (farmers' market), started at Madurai in 1999, lets farmers sell vegetables and fruits directly to consumers without middlemen. Fair price shops are part of the public distribution system.",
+  "h": "4dff306ccb4f"
+ },
+ "NEW-AP-U2-501": {
+  "q": "Next number in the series: 3, 6, 12, 24, 48, ?",
+  "o": [
+   "72",
+   "96",
+   "84",
+   "60"
+  ],
+  "e": "Each term is twice the previous one (×2). 48 × 2 = 96.",
+  "h": "0f1be74b1967"
+ },
+ "NEW-AP-U2-502": {
+  "q": "Next number in the series: 2, 5, 10, 17, 26, ?",
+  "o": [
+   "35",
+   "36",
+   "37",
+   "39"
+  ],
+  "e": "Form n² + 1: 1²+1 = 2, 2²+1 = 5, 3²+1 = 10, 4²+1 = 17, 5²+1 = 26, 6²+1 = 37. (Or differences 3, 5, 7, 9, 11.)",
+  "h": "c096fa2fa7ca"
+ }
+}

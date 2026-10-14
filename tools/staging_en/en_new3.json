@@ -1,0 +1,607 @@
+{
+ "NEW-GS-U5-1110": {
+  "q": "In India, the poverty line is mainly measured on the basis of",
+  "o": [
+   "Size of the house",
+   "Consumption expenditure / calorie intake",
+   "Educational qualification",
+   "Ownership of vehicles"
+  ],
+  "e": "In India the poverty line is estimated from per-capita monthly consumption expenditure and minimum calorie needs (rural 2400, urban 2100 calories – the older yardstick).",
+  "h": "9bfaa3ea2a8a"
+ },
+ "NEW-GS-U5-1111": {
+  "q": "Match (Sectors of the economy):\n(a) Primary sector – 1. Banking, transport\n(b) Secondary sector – 2. Agriculture, fishing\n(c) Tertiary sector – 3. Factory production",
+  "o": [
+   "(a)-2, (b)-3, (c)-1",
+   "(a)-1, (b)-2, (c)-3",
+   "(a)-3, (b)-1, (c)-2",
+   "(a)-2, (b)-1, (c)-3"
+  ],
+  "e": "Primary sector – directly uses natural resources: agriculture, fishing, mining (2); secondary – industry that turns raw materials into products (3); tertiary – services such as banking, transport and trade (1).",
+  "h": "4161e842d577"
+ },
+ "NEW-GS-U5-1112": {
+  "q": "How many days of work a year does the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantee to a rural household?",
+  "o": [
+   "50 days",
+   "100 days",
+   "150 days",
+   "200 days"
+  ],
+  "e": "Under the 2005 Act (in operation from 2006), every rural household that wants it is guaranteed 100 days of manual work a year; hence it is called the '100-day work scheme'.",
+  "h": "100806dc65bf"
+ },
+ "NEW-GS-U5-1113": {
+  "q": "India's financial year runs from",
+  "o": [
+   "January 1 – December 31",
+   "April 1 – March 31",
+   "July 1 – June 30",
+   "October 1 – September 30"
+  ],
+  "e": "India's financial year runs from 1 April to 31 March. The Union Budget is now presented on 1 February.",
+  "h": "80c2ba0ef4e9"
+ },
+ "NEW-GS-U5-1114": {
+  "q": "The Chairperson of the GST Council is the",
+  "o": [
+   "Prime Minister",
+   "Union Finance Minister",
+   "RBI Governor",
+   "President"
+  ],
+  "e": "The GST Council, set up under Article 279A, is chaired by the Union Finance Minister; State Finance Ministers are members. GST was brought in by the 101st Constitutional Amendment (2016).",
+  "h": "2734e15c2084"
+ },
+ "NEW-GS-U5-1115": {
+  "q": "The 'White Revolution' is associated with",
+  "o": [
+   "Milk production",
+   "Fish production",
+   "Egg production",
+   "Cotton production"
+  ],
+  "e": "White Revolution (Operation Flood, 1970) – milk production; father – Verghese Kurien. Blue Revolution – fish; Silver Revolution – eggs; Green Revolution – food grains.",
+  "h": "5699f4bc48da"
+ },
+ "NEW-GS-U5-1116": {
+  "q": "The 'Yellow Revolution' is associated with",
+  "o": [
+   "Oilseeds",
+   "Turmeric crop",
+   "Gold",
+   "Pulses"
+  ],
+  "e": "Yellow Revolution – increase in oilseed production (especially mustard and sunflower). Pink Revolution – meat/onions; Brown Revolution – leather/cocoa.",
+  "h": "4f1a254f7ebd"
+ },
+ "NEW-GS-U5-1117": {
+  "q": "Which district is called the 'Granary (rice bowl) of Tamil Nadu'?",
+  "o": [
+   "Madurai",
+   "Thanjavur",
+   "Coimbatore",
+   "Salem"
+  ],
+  "e": "Thanjavur district, in the Kaveri delta, excels in paddy production and is therefore called the 'Granary of Tamil Nadu'.",
+  "h": "57f88bc83b11"
+ },
+ "NEW-GS-U5-1119": {
+  "q": "The Tamil Nadu Government scheme launched in 2022 that provides breakfast to Class 1–5 students in government schools is",
+  "o": [
+   "Pudhumai Penn scheme",
+   "Chief Minister's Breakfast Scheme",
+   "Illam Thedi Kalvi",
+   "Naan Mudhalvan"
+  ],
+  "e": "The Chief Minister's Breakfast Scheme, launched on 15 September 2022, provides breakfast to primary students in government schools. Pudhumai Penn – ₹1,000 a month to girls from government schools who go on to higher education; Naan Mudhalvan – skill development.",
+  "h": "d86c20fa2939"
+ },
+ "NEW-GS-U5-1120": {
+  "q": "The Tamil Nadu Government scheme launched in 2022 that gives ₹1,000 a month to girls who studied Classes 6–12 in government schools and join higher education is",
+  "o": [
+   "Pudhumai Penn scheme",
+   "Moovalur Ramamirtham Marriage Assistance Scheme",
+   "Kanavu Illam scheme",
+   "Makkalai Thedi Maruthuvam"
+  ],
+  "e": "The 'Pudhumai Penn' scheme (2022), also called the 'Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme', gives girls ₹1,000 a month until they complete higher education. 'Makkalai Thedi Maruthuvam' – medical care at the doorstep.",
+  "h": "4fd958091029"
+ },
+ "NEW-GS-U5-1121": {
+  "q": "The Tamil Nadu Government scheme (2021) that delivers medical care for non-communicable diseases at people's homes is",
+  "o": [
+   "Varumun Kaappom",
+   "Makkalai Thedi Maruthuvam",
+   "Innuyir Kaappom – Nammai Kaakkum 48",
+   "Chief Minister's Comprehensive Health Insurance"
+  ],
+  "e": "'Makkalai Thedi Maruthuvam', launched in August 2021, gives patients with diabetes, high blood pressure and similar conditions medicines and tests at home. 'Nammai Kaakkum 48' – free treatment in the first 48 hours after a road accident.",
+  "h": "663e5db362a6"
+ },
+ "NEW-GS-U5-1122": {
+  "q": "Which organisation publishes the Human Development Index (HDI)?",
+  "o": [
+   "World Bank",
+   "United Nations Development Programme (UNDP)",
+   "International Monetary Fund (IMF)",
+   "World Trade Organization (WTO)"
+  ],
+  "e": "UNDP has published the HDI in its Human Development Report since 1990; it is based on life expectancy, education and per-capita income. The index was developed by Mahbub-ul-Haq and Amartya Sen.",
+  "h": "526a80af1dd6"
+ },
+ "NEW-GS-U5-1123": {
+  "q": "Inflation means",
+  "o": [
+   "A continuous rise in the general price level",
+   "A continuous fall in the price level",
+   "A rise in employment",
+   "A rise in exports"
+  ],
+  "e": "Inflation is a continuous rise in the general price level of goods and services, reducing the purchasing power of money. A continuous fall in the price level is deflation.",
+  "h": "62ec16e7fb53"
+ },
+ "NEW-GS-U5-1124": {
+  "q": "Which tax is levied jointly (dual tax) by the Union and the State governments?",
+  "o": [
+   "Land tax",
+   "Goods and Services Tax (GST)",
+   "Corporation tax",
+   "Stamp duty"
+  ],
+  "e": "GST is a dual tax: on an intra-state sale the Union levies CGST and the State levies SGST at the same time (101st Amendment, Article 246A). Land tax and stamp duty – State taxes; corporation tax – Union tax.",
+  "h": "39018f8016be"
+ },
+ "NEW-GS-U5-1125": {
+  "q": "Where is the lignite (brown coal) mine of Tamil Nadu located?",
+  "o": [
+   "Neyveli",
+   "Salem",
+   "Kolar",
+   "Jharia"
+  ],
+  "e": "Neyveli in Cuddalore district has India's largest lignite mine and the thermal power stations that run on it (NLC India). Salem – iron ore, magnesite; Kolar – gold (Karnataka); Jharia – coal (Jharkhand).",
+  "h": "10b8b4a7910b"
+ },
+ "NEW-GS-U4-1201": {
+  "q": "Choose the correct statements about the Constituent Assembly.\n(i) It was formed under the Cabinet Mission Plan (1946).\n(ii) It had 389 members in all.\n(iii) Its first meeting was held on 26 November 1949.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "The Constituent Assembly was formed under the Cabinet Mission Plan of 1946 (i correct); it had 389 members — 292 from provinces, 93 from princely states, 3 from Chief Commissioner's provinces and 1 from Baluchistan (ii correct). Its first meeting was on 9 December 1946; 26 November 1949 is the day the Constitution was adopted (iii wrong).",
+  "h": "394077b8fb88"
+ },
+ "NEW-GS-U4-1202": {
+  "q": "Assertion [A]: The Preamble of the Indian Constitution is called the 'key to the Constitution'.\nReason [R]: The Preamble sets out the objectives and basic principles of the Constitution.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Because the Preamble contains the ideals, objectives and basic principles of the Constitution, it is praised as the 'key to the Constitution' (textbook). Both are true; the Reason explains the Assertion.",
+  "h": "f724f8c2b9a0"
+ },
+ "NEW-GS-U4-1203": {
+  "q": "Match (Ways of acquiring citizenship – Description):\n(a) Birth – 1. Born outside India, with the father an Indian citizen at the time of birth\n(b) Descent – 2. A foreigner acquires it by applying to the government\n(c) Naturalisation – 3. A new territory becomes part of India\n(d) Incorporation of territory – 4. Born in India after 26 January 1950",
+  "o": [
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-1, (b)-4, (c)-3, (d)-2",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-3, (b)-1, (c)-2, (d)-4"
+  ],
+  "e": "Under the Citizenship Act, 1955: birth – born in India after 26 January 1950 (4); descent – born abroad with the father an Indian citizen (1); naturalisation – a foreigner acquires it by applying (2); incorporation of territory – people of a territory that joins India (3). Hence 4, 1, 2, 3 (textbook).",
+  "h": "cf040305a5b3"
+ },
+ "NEW-GS-U4-1204": {
+  "q": "Which of the following about Fundamental Rights are correct?\n(i) They are in Part III of the Constitution, Articles 12 to 35.\n(ii) There were seven Fundamental Rights originally; now there are six.\n(iii) India borrowed this idea from the British Constitution.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "Fundamental Rights are in Part III, Articles 12–35 (i correct); there were 7 originally, now 6 since the right to property was removed (ii correct). The idea was borrowed from the US Constitution, not Britain (iii wrong) — textbook.",
+  "h": "9ab48da92fab"
+ },
+ "NEW-GS-U4-1205": {
+  "q": "Assertion [A]: The 42nd Constitutional Amendment Act (1976) moved education from the State List to the Concurrent List.\nReason [R]: If Union and State laws conflict on a Concurrent List subject, the State law prevails.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "The 42nd Amendment moved education, forests, weights and measures, protection of wildlife and administration of justice to the Concurrent List — Assertion true. But in a Concurrent List conflict, the law made by Parliament prevails (Article 254) — Reason false.",
+  "h": "727d420d016d"
+ },
+ "NEW-GS-U4-1206": {
+  "q": "Which of the following about Centre–State relations are correct?\n(i) Centre–State financial relations are dealt with in Part XII, Articles 268–293.\n(ii) The Finance Commission is constituted by the President under Article 280.\n(iii) The Sarkaria Commission was set up by the Tamil Nadu Government in 1969.",
+  "o": [
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "(i) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — the Sarkaria Commission was set up in 1983 by the Union Government under Indira Gandhi; what the Tamil Nadu Government set up in 1969 was the three-member committee headed by Dr. P.V. Rajamannar.",
+  "h": "35facac1666d"
+ },
+ "NEW-GS-U4-1207": {
+  "q": "Which is correct about the lists in the Seventh Schedule?\n(i) Originally the Union List had 97 subjects.\n(ii) Originally the State List had 66 subjects.\n(iii) Originally the Concurrent List had 52 subjects.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "Originally the Union List had 97, the State List 66 and the Concurrent List 47 subjects (textbook). So (i) and (ii) are correct; (iii) is wrong — 52 is the Concurrent List count after later amendments.",
+  "h": "5248cc88578c"
+ },
+ "NEW-GS-U4-1208": {
+  "q": "Arrange in chronological order:\n1. Adoption of the Objectives Resolution\n2. First meeting of the Constituent Assembly\n3. The Constitution came into force\n4. The Constitution was adopted",
+  "o": [
+   "2, 1, 4, 3",
+   "1, 2, 4, 3",
+   "2, 4, 1, 3",
+   "1, 2, 3, 4"
+  ],
+  "e": "First meeting of the Constituent Assembly – 9 December 1946 → Objectives Resolution adopted – 22 January 1947 → Constitution adopted – 26 November 1949 → came into force – 26 January 1950. Hence 2, 1, 4, 3.",
+  "h": "288580d73c02"
+ },
+ "NEW-GS-U4-1209": {
+  "q": "Assertion [A]: Dr. Ambedkar called Article 32 'the heart and soul of the Constitution'.\nReason [R]: Article 32 gives the right to move the Supreme Court directly for remedies when Fundamental Rights are violated.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Without the right to approach the Supreme Court directly to enforce rights when they are violated (Right to Constitutional Remedies), the other rights would be useless; that is why Ambedkar praised Article 32 so. Both are true; the Reason explains the Assertion.",
+  "h": "92aad5126d75"
+ },
+ "NEW-GS-U4-1210": {
+  "q": "Match the years in which the languages got classical status:\n(a) Tamil – 1. 2005\n(b) Sanskrit – 2. 2013\n(c) Malayalam – 3. 2014\n(d) Odia – 4. 2004",
+  "o": [
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-1, (b)-4, (c)-2, (d)-3",
+   "(a)-4, (b)-1, (c)-3, (d)-2",
+   "(a)-4, (b)-2, (c)-1, (d)-3"
+  ],
+  "e": "Tamil – 2004 (4); Sanskrit – 2005 (1); Malayalam – 2013 (2); Odia – 2014 (3) (textbook; Telugu and Kannada – 2008). Hence 4, 1, 2, 3.",
+  "h": "6d117b208247"
+ },
+ "NEW-GS-U4-1211": {
+  "q": "Which of the following about National Emergency (Article 352) are correct?\n(i) It can be declared on grounds of war, external aggression or armed rebellion.\n(ii) Parliament must approve the proclamation within one month.\n(iii) A National Emergency has never been declared in India so far.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct — after the 44th Amendment the grounds are war, external aggression and armed rebellion; (ii) Correct — both Houses of Parliament must approve it within one month. (iii) Wrong — National Emergency has been declared three times: 1962 (war with China), 1971 (war with Pakistan) and 1975 (internal disturbance). The one never declared so far is Financial Emergency (Article 360).",
+  "h": "215734153371"
+ },
+ "NEW-GS-U2-1212": {
+  "q": "Which of the following about India's location are correct?\n(i) India extends from 8°4′ N to 37°6′ N latitude.\n(ii) Indian Standard Time is 5 hours 30 minutes ahead of Greenwich time.\n(iii) India's central meridian, 82°30′ E, passes through Chennai.",
+  "o": [
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "(i) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — the 82°30′ E meridian passes through Mirzapur in Uttar Pradesh, not Chennai.",
+  "h": "0f9484ac1c42"
+ },
+ "NEW-GS-U2-1213": {
+  "q": "Match (Project – Beneficiary states):\n(a) Damodar Valley Project – 1. Bihar, Nepal\n(b) Kosi Project – 2. Jharkhand, West Bengal\n(c) Tungabhadra Project – 3. Rajasthan, Madhya Pradesh\n(d) Chambal Valley Project – 4. Andhra Pradesh, Karnataka",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-3, (b)-1, (c)-4, (d)-2"
+  ],
+  "e": "As per the textbook table: Damodar – Jharkhand, West Bengal (2); Kosi – Bihar, Nepal (1); Tungabhadra – Andhra Pradesh, Karnataka (4); Chambal – Rajasthan, Madhya Pradesh (3). Hence 2, 1, 4, 3.",
+  "h": "ede5b3f188df"
+ },
+ "NEW-GS-U2-1214": {
+  "q": "Assertion [A]: Mawsynram in Meghalaya receives the highest rainfall in the world.\nReason [R]: The Bay of Bengal branch of the monsoon is obstructed by the Garo, Khasi and Jaintia hills.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "The Bay of Bengal branch of the south-west monsoon is blocked by the Garo, Khasi and Jaintia hills and forced to rise, so Mawsynram (about 1141 cm) gets the world's highest rainfall (textbook). The Reason explains the Assertion.",
+  "h": "45654af0e196"
+ },
+ "NEW-GS-U2-1215": {
+  "q": "Which of the following about Tamil Nadu are correct?\n(i) Tamil Nadu extends from 8°4′ N to 13°35′ N latitude.\n(ii) Tamil Nadu's area is 1,30,058 sq. km, about 4% of India's area.\n(iii) Only Karnataka lies on Tamil Nadu's western border.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — Tamil Nadu has Kerala to the west, Karnataka to the north-west, Andhra Pradesh to the north, the Bay of Bengal to the east and the Indian Ocean to the south.",
+  "h": "e246924822c9"
+ },
+ "NEW-GS-U2-1216": {
+  "q": "Assertion [A]: Of Tamil Nadu's rivers, only the Thamirabarani is perennial.\nReason [R]: The Thamirabarani receives water from both the south-west and north-east monsoons.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Textbook: 'All rivers of the state except the Thamirabarani are seasonal; it is perennial because it gets water from both the south-west and north-east monsoons.' The Reason directly explains the Assertion.",
+  "h": "44b76886dd2b"
+ },
+ "NEW-GS-U2-1217": {
+  "q": "Which statement about the river Kaveri is wrong?",
+  "o": [
+   "The total length of the Kaveri is 805 km",
+   "For about 64 km the Kaveri forms the Karnataka – Tamil Nadu border",
+   "The Kaveri forms the Hogenakkal falls in Krishnagiri district",
+   "The Kaveri rises at Talakaveri in Kodagu district"
+  ],
+  "e": "The Hogenakkal falls are in Dharmapuri district, not Krishnagiri — so this is the wrong statement. The others are correct as in the textbook: length 805 km (416 km in Tamil Nadu), a 64 km border, origin at Talakaveri (Brahmagiri, Kodagu).",
+  "h": "828d6c704dcc"
+ },
+ "NEW-GS-U2-1218": {
+  "q": "Match (Extreme points of Tamil Nadu):\n(a) Eastern end – 1. Pulicat lake\n(b) Western end – 2. Cape Comorin\n(c) Northern end – 3. Anaimalai hills\n(d) Southern end – 4. Kodiyakkarai",
+  "o": [
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-1, (b)-3, (c)-4, (d)-2",
+   "(a)-4, (b)-1, (c)-3, (d)-2",
+   "(a)-2, (b)-3, (c)-1, (d)-4"
+  ],
+  "e": "Textbook: east – Kodiyakkarai (Point Calimere) (4); west – Anaimalai hills (3); north – Pulicat lake (1); south – Cape Comorin (2). Hence 4, 3, 1, 2.",
+  "h": "69f8790c014b"
+ },
+ "NEW-GS-U2-1219": {
+  "q": "Which of the following about India's extent are correct?\n(i) North–south length is 3,214 km.\n(ii) East–west width is 2,933 km.\n(iii) India's coastline including the islands is 6,100 km.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — the mainland coastline is about 6,100 km; including the islands it is 7,516.6 km.",
+  "h": "46a3b23189d7"
+ },
+ "NEW-GS-U2-1220": {
+  "q": "Match (Dam / project – River):\n(a) Hirakud – 1. Bhagirathi\n(b) Tehri – 2. Mahanadi\n(c) Bhakra-Nangal – 3. Krishna\n(d) Nagarjunasagar – 4. Sutlej",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "Hirakud – Mahanadi (one of the world's longest dams) (2); Tehri – Bhagirathi (Uttarakhand) (1); Bhakra-Nangal – Sutlej (4); Nagarjunasagar – Krishna (3). Hence 2, 1, 4, 3.",
+  "h": "5afde11ffd45"
+ },
+ "NEW-GS-U3-1221": {
+  "q": "Arrange in chronological order:\n1. Chauri Chaura incident\n2. Jallianwala Bagh massacre\n3. Dandi March\n4. Quit India resolution",
+  "o": [
+   "2, 1, 3, 4",
+   "1, 2, 3, 4",
+   "2, 3, 1, 4",
+   "3, 2, 1, 4"
+  ],
+  "e": "Jallianwala Bagh – 13 April 1919 → Chauri Chaura – February 1922 → Dandi March – March 1930 → Quit India resolution – 8 August 1942. Hence 2, 1, 3, 4.",
+  "h": "5d1ba080c2f1"
+ },
+ "NEW-GS-U3-1222": {
+  "q": "Assertion [A]: In 1922 Gandhiji withdrew the Non-Cooperation Movement.\nReason [R]: At Chauri Chaura, protesters set fire to a police station and killed policemen.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Because of the violence at Chauri Chaura in February 1922, Gandhiji, firmly committed to non-violence, withdrew the Non-Cooperation Movement. Both are true; the Reason explains the Assertion.",
+  "h": "490c3c769666"
+ },
+ "NEW-GS-U3-1223": {
+  "q": "Which of the following about the Dandi March are correct?\n(i) Gandhiji set out from Sabarmati Ashram on 12 March 1930.\n(ii) He covered 241 miles in 24 days to reach Dandi.\n(iii) This march marked the beginning of the Non-Cooperation Movement.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook: 241 miles, 24 days). (iii) is wrong — the Dandi March began the Civil Disobedience Movement; the Non-Cooperation Movement began in 1920 and was withdrawn in 1922.",
+  "h": "4f517b764d0b"
+ },
+ "NEW-GS-U3-1224": {
+  "q": "Match (Movement / event – Year):\n(a) Partition of Bengal – 1. 1916\n(b) Lucknow Pact – 2. 1932\n(c) Poona Pact – 3. 1905\n(d) Cabinet Mission – 4. 1946",
+  "o": [
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-1, (b)-3, (c)-2, (d)-4",
+   "(a)-3, (b)-2, (c)-1, (d)-4",
+   "(a)-3, (b)-1, (c)-4, (d)-2"
+  ],
+  "e": "Partition of Bengal – 1905 (3); Lucknow Pact – 1916 (1); Poona Pact – 1932 (2); Cabinet Mission – 1946 (4). Hence 3, 1, 2, 4.",
+  "h": "8cb2813e8cac"
+ },
+ "NEW-GS-U3-1225": {
+  "q": "Assertion [A]: In 1905 Lord Curzon partitioned Bengal.\nReason [R]: The Partition of Bengal was annulled in 1911.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Both statements are true: Lord Curzon partitioned Bengal in 1905; as a result of the Swadeshi movement it was annulled in 1911. But the annulment is not the reason for the partition — so the Reason does not explain the Assertion.",
+  "h": "61c63eec573b"
+ },
+ "NEW-GS-U3-1226": {
+  "q": "Match (Governor-General – Policy):\n(a) Lord Wellesley – 1. Permanent Settlement\n(b) Lord Dalhousie – 2. Subsidiary Alliance\n(c) Lord Cornwallis – 3. Doctrine of Lapse",
+  "o": [
+   "(a)-2, (b)-3, (c)-1",
+   "(a)-3, (b)-2, (c)-1",
+   "(a)-1, (b)-3, (c)-2",
+   "(a)-2, (b)-1, (c)-3"
+  ],
+  "e": "Wellesley – Subsidiary Alliance (1798) (2); Dalhousie – Doctrine of Lapse (1848) (3); Cornwallis – Permanent Settlement of Bengal (1793) (1). Hence 2, 3, 1.",
+  "h": "67410b229465"
+ },
+ "NEW-GS-U3-1227": {
+  "q": "Arrange in chronological order:\n1. Battle of Buxar\n2. Battle of Plassey\n3. First Battle of Panipat\n4. Third Battle of Panipat",
+  "o": [
+   "3, 2, 4, 1",
+   "3, 4, 2, 1",
+   "2, 3, 1, 4",
+   "3, 2, 1, 4"
+  ],
+  "e": "First Panipat – 1526 → Plassey – 1757 → Third Panipat – 1761 → Buxar – 1764. Hence 3, 2, 4, 1.",
+  "h": "a1cae7f5d43c"
+ },
+ "NEW-GS-U3-1228": {
+  "q": "Match (Traveller – Period of visit):\n(a) Fa-Hien – 1. Muhammad bin Tughlaq\n(b) Hiuen Tsang – 2. Chandragupta II\n(c) Ibn Battuta – 3. Harsha",
+  "o": [
+   "(a)-2, (b)-3, (c)-1",
+   "(a)-3, (b)-2, (c)-1",
+   "(a)-1, (b)-3, (c)-2",
+   "(a)-2, (b)-1, (c)-3"
+  ],
+  "e": "Fa-Hien – time of Chandragupta II (Vikramaditya) (2); Hiuen Tsang – time of Harsha (3); Moroccan traveller Ibn Battuta – time of Muhammad bin Tughlaq (1). Hence 2, 3, 1.",
+  "h": "d22f583d70fc"
+ },
+ "NEW-GS-U3-1229": {
+  "q": "Which of the following about Muhammad bin Tughlaq are correct?\n(i) He shifted his capital from Delhi to Devagiri and called it Daulatabad.\n(ii) He introduced copper coins as token currency.\n(iii) He founded the religious path 'Din-i-Ilahi'.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct — shifting the capital (Daulatabad) and introducing token (copper/brass) currency were Muhammad bin Tughlaq's experiments. (iii) is wrong — Din-i-Ilahi was founded by the Mughal emperor Akbar.",
+  "h": "c6c77912c66a"
+ },
+ "NEW-GS-U3-1230": {
+  "q": "Match (Leader – Title):\n(a) Sardar Vallabhbhai Patel – 1. Lokmanya\n(b) Bal Gangadhar Tilak – 2. Lion of Punjab\n(c) Lala Lajpat Rai – 3. Grand Old Man of India\n(d) Dadabhai Naoroji – 4. Iron Man of India",
+  "o": [
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-1, (b)-4, (c)-2, (d)-3",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-4, (b)-1, (c)-3, (d)-2"
+  ],
+  "e": "Patel – Iron Man of India (4); Tilak – Lokmanya (1); Lajpat Rai – Lion of Punjab (2); Dadabhai Naoroji – Grand Old Man of India (3). Hence 4, 1, 2, 3.",
+  "h": "8bd854cdff8d"
+ },
+ "NEW-GS-U5-1231": {
+  "q": "Which of the following about the Goods and Services Tax (GST) are correct?\n(i) The GST bill was passed by Parliament on 29 March 2017.\n(ii) GST came into force from 1 July 2017.\n(iii) GST is a direct tax.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — GST is an indirect tax levied on goods and services; its slogan is 'One Nation, One Market, One Tax'.",
+  "h": "21ec22921364"
+ },
+ "NEW-GS-U5-1232": {
+  "q": "Assertion [A]: Income tax is a direct tax.\nReason [R]: A direct tax is levied on a person's income, and its burden cannot be shifted to others.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Textbook: 'Direct taxes are levied on the income of persons, and indirect taxes on goods and services.' Income tax is levied on income and the taxpayer bears the burden, so it is a direct tax. The Reason explains the Assertion.",
+  "h": "d0eb6aaf076c"
+ },
+ "NEW-GS-U5-1233": {
+  "q": "Arrange in chronological order (year of founding of Tamil Nadu industrial development institutions):\n1. SIPCOT\n2. TIIC\n3. TANSIDCO\n4. TIDCO",
+  "o": [
+   "2, 4, 3, 1",
+   "4, 2, 3, 1",
+   "2, 3, 4, 1",
+   "2, 4, 1, 3"
+  ],
+  "e": "TIIC – 1949 → TIDCO – 1965 → TANSIDCO – 1970 → SIPCOT – 1971 (textbook). Hence 2, 4, 3, 1.",
+  "h": "739aa3c33b91"
+ },
+ "NEW-GS-U5-1234": {
+  "q": "Which statements about Chennai are correct?\n(i) It is called the 'Detroit of Asia' because it is a major automobile centre.\n(ii) The Madras Export Processing Zone (MEPZ) was set up at Tambaram in 1984.\n(iii) The Salem Steel Plant is at Avadi, a suburb of Chennai.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct (textbook). (iii) is wrong — the Salem Steel Plant (1973) is at Salem; Avadi has the Heavy Vehicles Factory (tanks).",
+  "h": "2ef9dc29cc17"
+ },
+ "NEW-GS-U5-1235": {
+  "q": "Assertion [A]: The Stand-Up India scheme (2016) enables every bank branch to lend between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and at least one woman borrower.\nReason [R]: Its aim is to help set up new (greenfield) enterprises.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Textbook: Stand-Up India (5 April 2016) – a scheme under which every bank branch lends ₹10 lakh – ₹1 crore to at least one SC/ST borrower and one woman borrower to set up a new (greenfield) enterprise. The Reason explains the aim of the scheme.",
+  "h": "582df86b077f"
+ },
+ "NEW-GS-U5-1236": {
+  "q": "Which of the following about NITI Aayog are correct?\n(i) It was set up on 1 January 2015 to replace the Planning Commission.\n(ii) The Prime Minister is its Chairperson.\n(iii) It is a Constitutional body.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct. (iii) is wrong — NITI Aayog was set up by a resolution of the Union Cabinet; it is neither a constitutional nor a statutory body (nor was the earlier Planning Commission).",
+  "h": "d840dd911128"
+ },
+ "NEW-GS-U5-1237": {
+  "q": "Arrange in chronological order:\n1. Nationalisation of 14 commercial banks\n2. Establishment of the Reserve Bank of India\n3. Nationalisation of the Reserve Bank of India\n4. Establishment of NABARD",
+  "o": [
+   "2, 3, 1, 4",
+   "3, 2, 1, 4",
+   "2, 1, 3, 4",
+   "2, 3, 4, 1"
+  ],
+  "e": "RBI established – 1935 → RBI nationalised – 1949 → 14 banks nationalised – 1969 → NABARD – 1982. Hence 2, 3, 1, 4.",
+  "h": "d0bc3b31c54f"
+ },
+ "NEW-GS-U5-1238": {
+  "q": "Assertion [A]: The Mahatma Gandhi National Rural Employment Guarantee scheme is called the '100-day work scheme'.\nReason [R]: Every rural household that wants it is guaranteed 100 days of manual work in a year.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Because the MGNREG Act, 2005 guarantees a rural household 100 days of work in a year, it is called the '100-day work scheme'. The Reason explains the Assertion.",
+  "h": "e5fc8fb7e685"
+ },
+ "NEW-GS-U5-1239": {
+  "q": "Match (Revolution – Related sector):\n(a) Green Revolution – 1. Fish production\n(b) White Revolution – 2. Oilseeds\n(c) Blue Revolution – 3. Milk production\n(d) Yellow Revolution – 4. Food grains",
+  "o": [
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-4, (b)-1, (c)-3, (d)-2",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-3, (c)-2, (d)-1"
+  ],
+  "e": "Green Revolution – food grains (4); White Revolution – milk (3); Blue Revolution – fish (1); Yellow Revolution – oilseeds (2). Hence 4, 3, 1, 2.",
+  "h": "2100cd9d93ac"
+ },
+ "NEW-GS-U1-1240": {
+  "q": "Match (Physical quantity – SI unit):\n(a) Electric current – 1. Dioptre\n(b) Resistance – 2. Ampere\n(c) Power of a lens – 3. Ohm\n(d) Force – 4. Newton",
+  "o": [
+   "(a)-2, (b)-3, (c)-1, (d)-4",
+   "(a)-3, (b)-2, (c)-1, (d)-4",
+   "(a)-2, (b)-1, (c)-3, (d)-4",
+   "(a)-2, (b)-3, (c)-4, (d)-1"
+  ],
+  "e": "Electric current – ampere (2); resistance – ohm (3); power of a lens – dioptre (1); force – newton (4) (textbook). Hence 2, 3, 1, 4.",
+  "h": "01d1d2d0b8c5"
+ }
+}

@@ -1,0 +1,519 @@
+{
+ "PYQ-2022-GS-091": {
+  "q": "Other countries where Tamil is an official language (or has government recognition), as per the textbook",
+  "o": [
+   "Sri Lanka, Singapore, Malaysia",
+   "Mauritius, Sri Lanka, Canada",
+   "Britain, Fiji Islands, Penang Island",
+   "Canada, Andaman, Malaysia"
+  ],
+  "e": "Tamil is one of the official languages of Sri Lanka and Singapore; in Malaysia, Tamil-medium schools run with government recognition — the textbook names these three countries. Andaman is part of India; Tamil is not an official language in Canada or Britain.",
+  "h": "f97dd653696d"
+ },
+ "PYQ-2022-GS-101": {
+  "q": "Arrange the Chief Ministers (Premiers) of the Madras Presidency in chronological order.\n1. P.T. Rajan\n2. A. Subbarayalu Reddiar\n3. B. Munuswamy Naidu\n4. C. Rajagopalachari\n5. P. Subbarayan",
+  "o": [
+   "2, 4, 3, 5, 1",
+   "2, 5, 3, 1, 4",
+   "5, 3, 1, 2, 4",
+   "3, 1, 5, 2, 4"
+  ],
+  "e": "Chief Ministers (Premiers) of the Madras Presidency: A. Subbarayalu Reddiar (1920, Justice Party) → P. Subbarayan (1926) → B. Munuswamy Naidu (1930) → P.T. Rajan (1936) → C. Rajagopalachari (1937, Congress). Hence 2, 5, 3, 1, 4.",
+  "h": "37ae12cb7063"
+ },
+ "PYQ-2022-GS-102": {
+  "q": "Identify the incorrect pair(s).\n(i) Maharashtra – Bicameral legislature\n(ii) Telangana – Unicameral legislature\n(iii) Bihar – Unicameral legislature\n(iv) Andhra Pradesh – Bicameral legislature",
+  "o": [
+   "(i), (ii) and (iii) are incorrect",
+   "(i) and (ii) are incorrect",
+   "(ii) and (iii) are incorrect",
+   "All are incorrect"
+  ],
+  "e": "States with a Legislative Council (bicameral): Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana and Uttar Pradesh. So (ii) and (iii), which call Telangana and Bihar 'unicameral', are the incorrect pairs.",
+  "h": "16c96578583f"
+ },
+ "PYQ-2022-GS-103": {
+  "q": "Choose the correct pair(s):\n1. Taxes levied and collected by the Union but assigned to the States – Article 269\n2. Duties levied by the Union but collected and appropriated by the States – Article 268\n3. Taxes levied and collected by the Union and distributed between the Union and the States – Article 267",
+  "o": [
+   "1 only",
+   "2 and 3 only",
+   "1 and 2 only",
+   "1 and 3 only"
+  ],
+  "e": "Article 268 – duties levied by the Union but collected and used by the States (correct); Article 269 – taxes levied and collected by the Union but assigned to the States (correct). Article 267 deals with the Contingency Fund; taxes shared between the Union and States come under Article 270 — so 3 is wrong.",
+  "h": "0dd69b323ef5"
+ },
+ "PYQ-2022-GS-104": {
+  "q": "Cancer arising in epithelial cells is called ________.",
+  "o": [
+   "Leukaemia",
+   "Sarcoma",
+   "Carcinoma",
+   "Lipoma"
+  ],
+  "e": "Cancer that arises in epithelial tissue is carcinoma. Cancer of connective tissue/bone/muscle – sarcoma; of white blood cells – leukaemia; a lipoma is a non-cancerous tumour of fat tissue.",
+  "h": "169b8e9683fa"
+ },
+ "PYQ-2022-GS-105": {
+  "q": "Match (National Park – State):\n(a) Gir National Park – 1. Rajasthan\n(b) Corbett National Park – 2. Jharkhand\n(c) Betla National Park – 3. Gujarat\n(d) Ranthambore National Park – 4. Uttarakhand",
+  "o": [
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-3, (b)-2, (c)-1, (d)-4"
+  ],
+  "e": "Gir – Gujarat (the only natural home of the Asiatic lion) (3); Jim Corbett – Uttarakhand (India's first national park, 1936) (4); Betla – Jharkhand (2); Ranthambore – Rajasthan (1). Hence 3, 4, 2, 1. (Note: the original question had 'Rajgir' (which is in Bihar); it has been corrected to Betla, a Jharkhand park; the answer is unchanged.)",
+  "h": "880df001b556"
+ },
+ "PYQ-2022-GS-106": {
+  "q": "Which of the following statements are correct?\n(i) Zinc blende is concentrated by magnetic separation.\n(ii) Haematite is concentrated by gravity separation.\n(iii) Aluminium is obtained by electrolytic reduction of fused alumina.\n(iv) Matte is a mixture of cupric sulphide and ferrous sulphide.",
+  "o": [
+   "(i) and (ii)",
+   "(i) and (iv)",
+   "(ii) and (iii)",
+   "(ii) and (iv)"
+  ],
+  "e": "(ii) Correct — heavy oxide ores such as haematite are concentrated by gravity separation (hydraulic washing). (iii) Correct — aluminium is obtained by electrolysis of fused alumina (with cryolite) (Hall–Héroult process). (i) Wrong — zinc blende (ZnS) is concentrated by froth flotation. (iv) Wrong — matte is a mixture of cuprous sulphide (Cu₂S) and ferrous sulphide (FeS), not cupric.",
+  "h": "cb07506d1de6"
+ },
+ "PYQ-2022-GS-107": {
+  "q": "Match the countries with their space missions.\n(a) USA – 1. Mangalyaan\n(b) India – 2. Psyche\n(c) Japan – 3. Zheng He\n(d) China – 4. TEREX",
+  "o": [
+   "(a)-1, (b)-4, (c)-3, (d)-2",
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "Psyche – NASA's (USA) asteroid mission (2); Mangalyaan – India's Mars Orbiter (2013) (1); TEREX – Japan's Mars exploration mission (4); Zheng He – China's asteroid sample-return mission (3). Hence 2, 1, 4, 3. (Note: the original question called all of these 'Mars missions'; since Psyche and Zheng He are asteroid missions, it has been reworded as 'space missions'.)",
+  "h": "92f9023960dc"
+ },
+ "PYQ-2022-GS-108": {
+  "q": "Find the odd one out.",
+  "o": [
+   "Ilanchetchenni",
+   "Kochenganan",
+   "Perumcheral Irumporai",
+   "Perunarkilli"
+  ],
+  "e": "Ilanchetchenni, Kochenganan and Perunarkilli were all Sangam-age Chola kings. Perumcheral Irumporai was a Chera king (Pathitruppathu); so he is the odd one out.",
+  "h": "6dd969149c7a"
+ },
+ "PYQ-2022-GS-110": {
+  "q": "Arrange the following events in chronological order.\n1. Death of Puli Thevar\n2. Death of Kuyili\n3. Death of Kattabomman\n4. Death of the Marudhu Brothers",
+  "o": [
+   "2, 3, 1, 4",
+   "1, 2, 3, 4",
+   "1, 3, 2, 4",
+   "3, 1, 4, 2"
+  ],
+  "e": "Puli Thevar (1760s) → Kuyili (1780; she sacrificed her life to destroy the British arsenal in the war to recover Sivagangai) → Kattabomman (1799, Kayathar) → Marudhu Brothers (1801, Tiruppattur). Hence 1, 2, 3, 4.",
+  "h": "57648a98d3b6"
+ },
+ "PYQ-2022-GS-111": {
+  "q": "Who was the first woman doctor of Tamil Nadu?",
+  "o": [
+   "Moovalur Ramamirtham",
+   "Muthulakshmi Reddy",
+   "Dharmambal",
+   "Pandita Ramabai"
+  ],
+  "e": "Dr. Muthulakshmi Reddy (1886–1968) was Tamil Nadu's first woman doctor and India's first woman legislator (1927); she founded the Adyar Cancer Institute.",
+  "h": "2425fbd16db2"
+ },
+ "PYQ-2022-GS-112": {
+  "q": "Which of the following organisations was started by Rettaimalai Srinivasan?",
+  "o": [
+   "Sakya Buddhist Society",
+   "Advaitananda Sabha",
+   "All India Depressed Classes Association",
+   "Adi Dravida Mahajana Sabha"
+  ],
+  "e": "Rettaimalai Srinivasan started the 'Paraiyar Mahajana Sabha' in 1892, later renamed the 'Adi Dravida Mahajana Sabha'. The Sakya Buddhist Society was Iyothee Thass's; the All India Depressed Classes Association is associated with M.C. Rajah.",
+  "h": "c7b1c134f3df"
+ },
+ "PYQ-2022-GS-113": {
+  "q": "Match (Indus Valley site – Excavator):\n(a) Chanhudaro – 1. Suraj Bhan\n(b) Lothal – 2. N.G. Majumdar\n(c) Banawali – 3. S.R. Rao\n(d) Mitathal – 4. Bisht",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-1, (b)-3, (c)-2, (d)-4",
+   "(a)-1, (b)-4, (c)-3, (d)-2"
+  ],
+  "e": "Chanhudaro – N.G. Majumdar (1931) (2); Lothal – S.R. Rao (3); Banawali – R.S. Bisht (4); Mitathal – Suraj Bhan (1). Hence 2, 3, 4, 1.",
+  "h": "c02f1155906f"
+ },
+ "PYQ-2022-GS-114": {
+  "q": "Identify the correct statement(s) about Bhagat Singh:\n(i) In 1930 Bhagat Singh attacked the Chittagong armoury\n(ii) In 1929 Bhagat Singh, along with B.K. Dutt, threw a bomb in the Central Legislative Assembly\n(iii) In 1925 Bhagat Singh founded the Hindustan Republican Army",
+  "o": [
+   "(ii) only is correct",
+   "(i) and (iii) only are correct",
+   "(i) and (ii) only are correct",
+   "(ii) and (iii) only are correct"
+  ],
+  "e": "(ii) Correct — on 8 April 1929 Bhagat Singh and Batukeshwar Dutt threw smoke bombs in the Central Legislative Assembly. (i) Wrong — the Chittagong armoury raid (1930) was led by Surya Sen. (iii) Wrong — the Hindustan Republican Association (HRA) was founded in 1924 by Sachindra Nath Sanyal and others; Bhagat Singh was among those who turned it into the HSRA in 1928.",
+  "h": "6a4d9eb7d106"
+ },
+ "PYQ-2022-GS-115": {
+  "q": "Arrange the newspapers and journals of Thanthai Periyar in chronological order.\n1. Pagutharivu\n2. Viduthalai\n3. Kudi Arasu\n4. Puratchi",
+  "o": [
+   "4, 2, 3, 1",
+   "3, 4, 1, 2",
+   "3, 2, 4, 1",
+   "2, 3, 1, 4"
+  ],
+  "e": "Journals run by Periyar: Kudi Arasu (1925) → Puratchi (1933) → Pagutharivu (1934) → Viduthalai (1935). Hence 3, 4, 1, 2.",
+  "h": "30c0b12a4675"
+ },
+ "PYQ-2022-GS-116": {
+  "q": "Assertion: Indian tradition emphasises hospitality, charity, friendship, love, respect for parents and elders, and tolerance.\nReason: These qualities help people live in unity, forgetting their differences.",
+  "o": [
+   "Both Assertion and Reason are true, and the Reason is the correct explanation of the Assertion",
+   "Both Assertion and Reason are true, but the Reason is not the correct explanation of the Assertion",
+   "Assertion is true, Reason is false",
+   "Assertion is false, Reason is true"
+  ],
+  "e": "Indian culture stresses hospitality, charity and tolerance precisely so that a diverse people can live together in unity, forgetting their differences — 'unity in diversity'. Both are true, and the Reason explains the Assertion.",
+  "h": "6d32c5a488ca"
+ },
+ "PYQ-2022-GS-118": {
+  "q": "Arrange the following plans in chronological order.\n(i) Gandhian Plan\n(ii) Bombay Plan\n(iii) Jawaharlal Nehru Plan\n(iv) Visvesvaraya Plan",
+  "o": [
+   "(i), (ii), (iii), (iv)",
+   "(iv), (iii), (ii), (i)",
+   "(i), (ii), (iv), (iii)",
+   "(ii), (i), (iv), (iii)"
+  ],
+  "e": "Visvesvaraya Plan ('Planned Economy for India', 1934) → National Planning Committee under Nehru (1938) → Bombay Plan (January 1944) → Gandhian Plan (Shriman Narayan Agarwal, 1944). Hence (iv), (iii), (ii), (i).",
+  "h": "34b23f18a767"
+ },
+ "PYQ-2022-GS-120": {
+  "q": "Birth rate is estimated on the basis of:\n(i) number of births per hundred population in a given year\n(ii) number of births per one lakh population in a given year\n(iii) number of births per thousand population over ten years\n(iv) number of births per thousand population in a given year",
+  "o": [
+   "(i) only",
+   "(ii) only",
+   "(iii) only",
+   "(iv) only"
+  ],
+  "e": "Birth rate (Crude Birth Rate) = number of live births per 1000 population in a year. Death rate is also calculated per 1000; the maternal mortality ratio is calculated per 1 lakh live births.",
+  "h": "c38ad7740856"
+ },
+ "PYQ-2022-AP-121": {
+  "q": "The difference between the compound interest and the simple interest on a sum for 3 years at 15% per annum is ₹1,134. Find the principal.",
+  "o": [
+   "₹16,000",
+   "₹15,000",
+   "₹14,000",
+   "₹20,000"
+  ],
+  "e": "For 3 years, CI − SI = P × r² × (300 + r) / 100³ = P × 225 × 315 / 10,00,000 = 0.070875 P. 0.070875 P = 1134 ⇒ P = ₹16,000. Check: CI = 16000 × (1.15³ − 1) = 8334; SI = 7200; difference = 1134.",
+  "h": "49aa3e2a59d4"
+ },
+ "PYQ-2022-AP-122": {
+  "q": "If the HCF of p and q is x and q = xy, then the LCM of p and q is",
+  "o": [
+   "pq",
+   "qy",
+   "xy",
+   "py"
+  ],
+  "e": "LCM = (p × q) ÷ HCF = (p × xy) ÷ x = py.",
+  "h": "e0b6e4e9ce37"
+ },
+ "PYQ-2022-AP-123": {
+  "q": "The length of a rectangle is (3x + 2) units and its breadth is (3x − 2) units. Find its area when x = 20 units.",
+  "o": [
+   "3596 sq. units",
+   "3956 sq. units",
+   "4256 sq. units",
+   "5356 sq. units"
+  ],
+  "e": "Area = (3x + 2)(3x − 2) = 9x² − 4 = 9 × 400 − 4 = 3596 sq. units (or 62 × 58 = 3596).",
+  "h": "708ff07de927"
+ },
+ "PYQ-2022-AP-124": {
+  "q": "Two dice are rolled together. Find the probability of getting the same face on both (a doublet) or a sum of 4.",
+  "o": [
+   "1/9",
+   "3/9",
+   "4/9",
+   "2/9"
+  ],
+  "e": "Total outcomes = 36. Doublets: (1,1)…(6,6) = 6. Sum 4: (1,3), (3,1), (2,2) = 3. (2,2) is counted in both, so 6 + 3 − 1 = 8. Probability = 8/36 = 2/9.",
+  "h": "be930c668b4d"
+ },
+ "PYQ-2022-AP-125": {
+  "q": "Kala and Vani are friends. Kala said, 'Today is my birthday,' and asked Vani, 'When will you celebrate your birthday?' Vani replied, 'Today is Monday; I celebrated my birthday 75 days ago.' On which day of the week was Vani's birthday?",
+  "o": [
+   "Tuesday",
+   "Wednesday",
+   "Thursday",
+   "Friday"
+  ],
+  "e": "75 days = 10 weeks + 5 days. Counting 5 days back from Monday: Sunday, Saturday, Friday, Thursday, Wednesday. Hence Wednesday.",
+  "h": "9345b086ca92"
+ },
+ "PYQ-2022-AP-126": {
+  "q": "The greatest five-digit number which, when divided by 3, 5, 8 and 12, leaves a remainder of 2 in each case is ________.",
+  "o": [
+   "99972",
+   "99958",
+   "99960",
+   "99962"
+  ],
+  "e": "LCM (3, 5, 8, 12) = 120. 99999 ÷ 120 = 833, remainder 39 ⇒ the greatest 5-digit multiple of 120 = 99960. Add the remainder 2: 99962.",
+  "h": "c56bf732a46a"
+ },
+ "PYQ-2022-AP-127": {
+  "q": "The ratio 4^3.5 : 2⁵ is equal to",
+  "o": [
+   "2 : 1",
+   "4 : 1",
+   "7 : 5",
+   "7 : 10"
+  ],
+  "e": "4^3.5 = (2²)^3.5 = 2⁷ = 128; 2⁵ = 32. Ratio = 128 : 32 = 4 : 1.",
+  "h": "bf442b166617"
+ },
+ "PYQ-2022-AP-128": {
+  "q": "4 P + S r 9 B # A 3 ? 7 c > Z % 6 d * Q @ 1\nIf the first half of the given series is written in reverse order, which element will be 14th from the right in the new series?",
+  "o": [
+   ">",
+   "A",
+   "Z",
+   "+"
+  ],
+  "e": "The series has 22 elements; the first half (11): 4 P + S r 9 B # A 3 ? → reversed: ? 3 A # B 9 r S + P 4. New series: ? 3 A # B 9 r S + P 4 7 c > Z % 6 d * Q @ 1. 14th from the right = (22 − 14 + 1) = 9th from the left = '+'.",
+  "h": "7bb83d609744"
+ },
+ "PYQ-2022-AP-129": {
+  "q": "10 farmers plough a field in 21 days. In how many days will 14 farmers plough the same field?",
+  "o": [
+   "14 days",
+   "15 days",
+   "16 days",
+   "17 days"
+  ],
+  "e": "Inverse proportion: men × days = constant. 10 × 21 = 210 man-days. 14 farmers: 210 ÷ 14 = 15 days.",
+  "h": "44bbc08ae03f"
+ },
+ "PYQ-2022-AP-130": {
+  "q": "If 18, a, b, −3 are in arithmetic progression, find the value of (a + b).",
+  "o": [
+   "7",
+   "11",
+   "15",
+   "21"
+  ],
+  "e": "In an AP, the sum of the first and last terms equals the sum of the two middle terms. a + b = 18 + (−3) = 15. (Common difference −7: 18, 11, 4, −3.)",
+  "h": "9abc36c1fb5b"
+ },
+ "PYQ-2022-AP-131": {
+  "q": "Each year a person saves half of what he saved in the previous year. If he saves ₹7,875 in 6 years, how much did he save in the first year?",
+  "o": [
+   "₹3,000",
+   "₹4,000",
+   "₹4,500",
+   "₹5,000"
+  ],
+  "e": "If the first-year saving is x, the savings are x, x/2, x/4, x/8, x/16, x/32. Sum = x × 63/32 = 7875 ⇒ x = 7875 × 32 / 63 = ₹4,000. (4000 + 2000 + 1000 + 500 + 250 + 125 = 7875.)",
+  "h": "8774a1e69d26"
+ },
+ "PYQ-2022-AP-132": {
+  "q": "A sum increases by 60% in 6 years at a certain rate of simple interest. Find the compound interest on ₹12,000 for 3 years at the same rate.",
+  "o": [
+   "₹2,160",
+   "₹3,120",
+   "₹3,972",
+   "₹6,240"
+  ],
+  "e": "60% in 6 years ⇒ rate = 10% per annum. CI = 12000 × (1.1³ − 1) = 12000 × 0.331 = ₹3,972.",
+  "h": "019c85159265"
+ },
+ "PYQ-2022-AP-133": {
+  "q": "The population of a village increases by 7% every year. If the present population is 90,000, what will the population be after 2 years?",
+  "o": [
+   "96,300",
+   "1,03,000",
+   "1,00,000",
+   "1,03,041"
+  ],
+  "e": "Compound growth: 90000 × (1.07)² = 90000 × 1.1449 = 1,03,041. (96,300 is the population after one year only.)",
+  "h": "e4fe5ea7b301"
+ },
+ "PYQ-2022-GS-134": {
+  "q": "Which Fundamental Duty was introduced as Article 51A(k) by the 86th Constitutional Amendment Act, 2002?",
+  "o": [
+   "Parents or guardians to provide opportunities for education to their children between 6 and 14 years of age",
+   "To value and preserve the rich heritage of our composite culture",
+   "To defend the country and render national service when called upon",
+   "To protect the natural environment"
+  ],
+  "e": "The 86th Amendment (2002) added Article 51A(k) as the 11th Fundamental Duty: parents/guardians must provide opportunities for education to their children aged 6–14. The same amendment also added Article 21A (Right to Education). The other duties have existed since 1976 (42nd Amendment). (Note: the original option read 'providing free and compulsory education to all children below 14', which sounds like the State's duty (Article 21A), so TNPSC's final key accepted all answers; it has been reworded here to match Article 51A(k).)",
+  "h": "06efe16297eb"
+ },
+ "PYQ-2022-GS-135": {
+  "q": "How many of the following pairs are correctly matched? (Party – Symbol, as of 2022)\n1. All India Trinamool Congress – Two flowers and grass\n2. Nationalist Congress Party – Clock\n3. Telangana Rashtra Samithi – Car\n4. Asom Gana Parishad – Lock and key",
+  "o": [
+   "1 pair",
+   "2 pairs",
+   "3 pairs",
+   "4 pairs"
+  ],
+  "e": "Trinamool Congress – two flowers and grass (Jora Ghas Phool) ✓; Nationalist Congress Party – clock ✓; Telangana Rashtra Samithi (now BRS) – car ✓. Asom Gana Parishad's symbol is the elephant, not lock and key ✗. So 3 pairs are correct.",
+  "h": "b72fbe667ab0"
+ },
+ "PYQ-2022-GS-136": {
+  "q": "Which of the following is/are correct about judicial review in India?\n(i) India borrowed the concept of judicial review from the USA\n(ii) Both Union and State laws are subject to judicial review by the Supreme Court\n(iii) Article 13B of the Constitution prevents judicial review",
+  "o": [
+   "(i) and (ii) only",
+   "(i) and (iii) only",
+   "(ii) and (iii) only",
+   "(i), (ii) and (iii)"
+  ],
+  "e": "Judicial review was borrowed from the US Constitution (i correct); the Supreme Court can review both Union and State laws (ii correct). There is no 'Article 13B'; Article 31B protects Ninth Schedule laws — and even those placed after 1973 are open to basic-structure review (iii wrong).",
+  "h": "7e4dd847a87b"
+ },
+ "PYQ-2022-GS-137": {
+  "q": "Which Articles empower the Supreme Court and the High Courts to issue writs?",
+  "o": [
+   "Articles 23 and 226",
+   "Articles 32 and 228",
+   "Articles 226 and 36",
+   "Articles 32 and 226"
+  ],
+  "e": "Article 32 – the Supreme Court can issue writs (habeas corpus, mandamus, prohibition, certiorari, quo warranto) to enforce Fundamental Rights; Article 226 – High Courts can issue writs for Fundamental Rights and other legal rights.",
+  "h": "9fc4bee1fd45"
+ },
+ "PYQ-2022-GS-138": {
+  "q": "According to the Thirukkural couplet 'தந்தை மகற்காற்றும் நன்றி' (the good a father does for his son), what is that good?",
+  "o": [
+   "Making him stand first in the assembly of the learned",
+   "Making him first in wealth",
+   "Making him first in family pride",
+   "Making him first in honesty"
+  ],
+  "e": "'தந்தை மகற்காற்று நன்றி அவையத்து முந்தி இருப்பச் செயல்' (Kural 67, Makkatperu – 'The good a father can do for his son is to make him stand first in the assembly of the learned'). A father's duty is to educate his son so that he excels among learned people.",
+  "h": "db7fe9dabf8d"
+ },
+ "PYQ-2022-GS-139": {
+  "q": "The first Surveyor of the Archaeological Survey of India was",
+  "o": [
+   "Charles Masson",
+   "Alexander Burnes",
+   "Alexander Cunningham",
+   "Sir John Marshall"
+  ],
+  "e": "When the Archaeological Survey of India (ASI) was set up in 1861, Alexander Cunningham became its first Archaeological Surveyor; he is called the 'Father of Indian Archaeology'. John Marshall was Director-General from 1902 to 1928 and oversaw the Indus Valley excavations.",
+  "h": "90be97bc22ec"
+ },
+ "PYQ-2022-GS-140": {
+  "q": "An extra copy of chromosome 21 causes",
+  "o": [
+   "Sickle-cell anaemia",
+   "Down syndrome",
+   "Klinefelter syndrome",
+   "Thalassaemia"
+  ],
+  "e": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome. Klinefelter syndrome – an XXY sex-chromosome disorder; sickle-cell anaemia and thalassaemia – disorders caused by haemoglobin gene mutations.",
+  "h": "1fe75324ddc5"
+ },
+ "PYQ-2022-GS-141": {
+  "q": "Choose the correct pairs.\n(1) Pattadakal – Chalukyas of Vatapi\n(2) Elephanta Caves – Ashoka\n(3) Ellora Caves – Rashtrakutas\n(4) Mamallapuram – Narasimhavarman I",
+  "o": [
+   "1, 3, 4 are correct",
+   "2, 3, 4 are correct",
+   "4, 3, 2 are correct",
+   "4, 1, 2 are correct"
+  ],
+  "e": "Pattadakal temples – Chalukyas of Vatapi (Badami) (1 correct); Kailasanatha temple at Ellora – Rashtrakuta Krishna I (3 correct); Mamallapuram – Narasimhavarman I, 'Mamallan' (4 correct). The Elephanta caves are not from Ashoka's time (5th–6th century CE) — 2 is wrong.",
+  "h": "31640e2ad62c"
+ },
+ "PYQ-2022-GS-142": {
+  "q": "Who said, 'India will be a land of many faiths, equally honoured and respected, but of one national outlook'?",
+  "o": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Dr. B.R. Ambedkar",
+   "Sir Syed Ahmed Khan"
+  ],
+  "e": "This idea of a secular India was expressed by Jawaharlal Nehru (textbook – 'India is a secular country').",
+  "h": "57b8f6782b76"
+ },
+ "PYQ-2022-GS-143": {
+  "q": "Which of the following statements are correct?\n(i) The Rajasthan plain lies to the west of the Aravalli range.\n(ii) The Punjab–Haryana plains lie to the north-east of the Indian desert.\n(iii) The Ganga plain extends from the Yamuna river in the west to Mizoram in the east.\n(iv) Most of the Brahmaputra plain lies in Meghalaya.",
+  "o": [
+   "(i), (iii) and (iv) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "(ii) and (iv) only"
+  ],
+  "e": "(i) Correct — the Rajasthan plain lies west of the Aravallis. (ii) Correct — the Punjab–Haryana plain lies north-east of the Thar desert. (iii) Wrong — the Ganga plain extends from the Yamuna eastwards to the Bangladesh border, not to Mizoram. (iv) Wrong — most of the Brahmaputra plain lies in Assam.",
+  "h": "ae675a1e5121"
+ },
+ "PYQ-2022-GS-144": {
+  "q": "Choose the correct option:\nStatement 1: The Ganga–Brahmaputra delta has the largest mangrove (tidal swamp) forests.\nStatement 2: Tidal forests are called 'mangrove' forests.",
+  "o": [
+   "Both statements are correct",
+   "Both statements are wrong",
+   "Statement 1 is correct; 2 is wrong",
+   "Statement 1 is wrong; 2 is correct"
+  ],
+  "e": "The Sundarbans in the Ganga–Brahmaputra delta are the world's largest tidal (coastal swamp) forests. Tidal forests are called 'mangrove' forests (Pichavaram in Tamil Nadu). Both are correct.",
+  "h": "a475268cd6b6"
+ },
+ "PYQ-2022-GS-146": {
+  "q": "Match the Geographical Indication (GI) tagged products with their places.\n(a) Turmeric – 1. Madurai\n(b) Mat – 2. Erode\n(c) Painting – 3. Pattamadai\n(d) Sungudi – 4. Thanjavur",
+  "o": [
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-1, (b)-3, (c)-2, (d)-4",
+   "(a)-2, (b)-1, (c)-4, (d)-3"
+  ],
+  "e": "Erode turmeric (2); Pattamadai mat (3); Thanjavur painting (4); Madurai Sungudi saree (1) — all have GI tags. Hence 2, 3, 4, 1.",
+  "h": "5a0761c69261"
+ },
+ "PYQ-2022-GS-147": {
+  "q": "The idea concerned with the social, educational and psychological well-being among different communities is called ________.",
+  "o": [
+   "Communal harmony",
+   "National integration",
+   "Women's empowerment",
+   "Social welfare"
+  ],
+  "e": "As defined in the textbook, the idea that builds a feeling of social, educational and psychological unity among different communities is called 'National Integration' (answer key).",
+  "h": "b04fb8229a60"
+ },
+ "PYQ-2022-GS-148": {
+  "q": "National Panchayati Raj Day is observed on ________.",
+  "o": [
+   "24 December",
+   "24 August",
+   "24 April",
+   "24 September"
+  ],
+  "e": "24 April is observed every year as National Panchayati Raj Day, marking the 73rd Constitutional Amendment coming into force on 24 April 1993. (24 December – National Consumer Day.)",
+  "h": "367158ead264"
+ },
+ "PYQ-2022-GS-149": {
+  "q": "'இழுக்கா இயன்றது அறம்' (Virtue is living free of these) — which are 'these'?",
+  "o": [
+   "Envy, greed, anger and harsh words",
+   "Virtue, wealth, pleasure and salvation",
+   "Joy, shouting, laughter and calm",
+   "Lust, anger, delusion and deeds"
+  ],
+  "e": "'அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் இழுக்கா இயன்றது அறம்' (Kural 35) — Virtue is living free of these four: envy, greed, anger and harsh words.",
+  "h": "e9a51fd38992"
+ },
+ "PYQ-2022-GS-150": {
+  "q": "Choose the correct pairs.\n1. Ondiveeran – Marudhu Brothers\n2. Gopala Nayakar – Dindigul League\n3. Kuyili – Puli Thevar\n4. Muthu Vadugananthar – Battle of Kalaiyarkoil",
+  "o": [
+   "1 and 3 are correct",
+   "1 and 2 are correct",
+   "2 and 3 are correct",
+   "2 and 4 are correct"
+  ],
+  "e": "Gopala Nayakar – leader of the Dindigul League (2 correct); Muthu Vadugananthar, king of Sivagangai, was killed in the 1772 battle of Kalaiyarkoil (4 correct). Ondiveeran was Puli Thevar's commander (1 wrong); Kuyili was Velu Nachiyar's commander (3 wrong).",
+  "h": "43e31c9df653"
+ }
+}

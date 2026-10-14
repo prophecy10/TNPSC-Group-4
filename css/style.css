@@ -184,3 +184,19 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .rv-tag{font-size:12px;font-weight:700;margin-left:4px}
 .exp-detail{color:var(--text) !important;font-size:14.5px !important}
 .exp-detail .lab{font-weight:700;color:var(--primary)}
+
+/* Language toggle (Part B questions: Tamil / English) */
+.lang-toggle{display:inline-flex;border:1px solid rgba(255,255,255,.6);border-radius:999px;overflow:hidden}
+.lang-toggle button{background:transparent;border:0;color:#fff;font-family:var(--font);font-size:13px;font-weight:600;padding:4px 10px;cursor:pointer}
+.lang-toggle button.on{background:#fff;color:var(--primary-dark)}
+.app-header .lang-toggle{position:absolute;top:50%;right:12px;transform:translateY(-50%)}
+.app-header .lang-toggle.hidden{display:none}
+.lang-row{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--surface);border:1px solid var(--border);
+  border-radius:var(--radius);padding:12px 14px;margin-bottom:14px;box-shadow:var(--shadow)}
+.lang-row-label{font-size:13.5px;font-weight:600;color:var(--primary-dark)}
+.lang-row-label small{font-weight:400;color:var(--muted)}
+.lang-toggle.wide{border-color:var(--primary);flex-shrink:0}
+.lang-toggle.wide button{color:var(--primary-dark);padding:6px 12px}
+.lang-toggle.wide button.on{background:var(--primary);color:#fff}
+.score-actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.t-alt{display:block;font-size:11.5px;color:var(--muted);font-weight:400}

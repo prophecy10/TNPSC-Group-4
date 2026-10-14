@@ -1,0 +1,420 @@
+{
+ "PYQ-2025-GS-156": {
+  "q": "Assertion [A]: The 'Illam Thedi Kalvi' scheme is implemented in Tamil Nadu to reduce the learning gaps among school students caused by the COVID-19 pandemic.\nReason [R]: In this scheme, volunteers go to students' homes and provide education through alternative methods.",
+  "o": [
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]",
+   "[A] is true but [R] is false",
+   "[A] is false but [R] is true"
+  ],
+  "e": "The 'Illam Thedi Kalvi' (Education at the Doorstep) scheme, launched in 2021, runs evening classes through volunteers in students' own neighbourhoods to make up the learning loss caused by school closures during COVID. Both are true; the Reason explains the Assertion.",
+  "h": "bfdb9fb45017"
+ },
+ "PYQ-2025-GS-157": {
+  "q": "Which of the following statement(s) about the Mandal Commission report is/are correct?\n(i) The Commission used three indicators: social, educational and economic.\n(ii) Five criteria were used under the social indicator and two under the educational indicator.\n(iii) Four criteria were used under the economic indicator. In all, 11 criteria were used in the Mandal Commission report.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "To identify backward classes, the Mandal Commission (1979–80) used 11 criteria in all under three indicators — social, educational and economic: social – 4, educational – 3, economic – 4. So (i) and (iii) are correct; (ii), which says 'social 5, educational 2', is wrong.",
+  "h": "724e0d61c4d7"
+ },
+ "PYQ-2025-GS-159": {
+  "q": "Arrange the poverty alleviation programmes in chronological order.\n1. National Rural Livelihood Mission\n2. Rajiv Awas Yojana\n3. Bharat Nirman Yojana\n4. National Food Security scheme",
+  "o": [
+   "1 2 4 3",
+   "3 1 4 2",
+   "3 2 1 4",
+   "2 3 4 1"
+  ],
+  "e": "Bharat Nirman (2005) → Rajiv Awas Yojana (announced 2009) → National Rural Livelihood Mission (Aajeevika, June 2011) → National Food Security Act (2013). Hence 3, 2, 1, 4.",
+  "h": "86f12e58b3d1"
+ },
+ "PYQ-2025-GS-160": {
+  "q": "Choose the incorrect pairs.\n(1) MFAL – Marginal Farmers and Agricultural Labourers Agency\n(2) DPAP – Drought Prone Area Programme\n(3) DDP – District Development Programme\n(4) HDA – Hill Area Development Agencies",
+  "o": [
+   "(1) and (2)",
+   "(1) and (3)",
+   "(3) and (4)",
+   "(2) and (3)"
+  ],
+  "e": "MFAL (Marginal Farmers and Agricultural Labourers Agency) and DPAP (Drought Prone Area Programme) are correctly matched. DDP stands for Desert Development Programme — not District Development Programme; the hill-area scheme is HADP (Hill Area Development Programme) — so the 'HDA' pair is also wrong (answer key). Hence (3) and (4).",
+  "h": "872e3f19c678"
+ },
+ "PYQ-2025-GS-161": {
+  "q": "Which of the following expansions is wrong?\n(1) TSC – Total Sanitation Campaign\n(2) NIC – National Informatics Centre\n(3) MIS – Management Information System\n(4) IMIS – Integrated Management Infrastructure System",
+  "o": [
+   "(1), (2), (3) and (4)",
+   "(1), (2) and (3)",
+   "(1), (2) and (4)",
+   "(4) only"
+  ],
+  "e": "IMIS stands for Integrated Management Information System, not 'Infrastructure'. So only (4) is wrong. TSC, NIC and MIS are correctly expanded.",
+  "h": "d5dd036922d1"
+ },
+ "PYQ-2025-GS-163": {
+  "q": "'கொக்கொக்க கூம்பும் பருவத்து மற்றதன் குத்தொக்க சீர்த்த இடத்து'\nThe idea of this Kural:\n(1) It is wrong to act like a crane.\n(2) One must wait for the right time to come.\n(3) This Kural is in the chapter 'Therinthu Thelithal'.\n(4) The line 'வாடியிருக்குமாம் கொக்கு' (the crane waits patiently) gives a fitting explanation of this Kural.",
+  "o": [
+   "(1) – true (2) – false (3) – false (4) – false",
+   "(1) – false (2) – true (3) – true (4) – false",
+   "(1) – false (2) – true (3) – false (4) – true",
+   "(1) – true (2) – false (3) – true (4) – true"
+  ],
+  "e": "Kural 490 is in the chapter 'Kaalamarithal' (knowing the time) (3 false). Like a crane, one should wait quietly until the chance comes and then strike swiftly, as a crane strikes a fish — so acting like a crane is the advice (1 false); one must wait for the right time (2 true); Avvaiyar's line 'ஓடுமீன் ஓட உறுமீன் வருமளவும் வாடியிருக்குமாம் கொக்கு' is a fitting explanation (4 true).",
+  "h": "1a5399674d00"
+ },
+ "PYQ-2025-GS-164": {
+  "q": "'மனத்தொடு வாய்மை மொழியின் தவத்தொடு தானஞ்செய் வாரின் தலை'.\nStatement 1: Those who speak the truth are greater than those who do charity and penance.\nStatement 2: Even if one speaks only the truth, those who do charity and penance are greater.",
+  "o": [
+   "Statement 1 – true",
+   "Statement 2 – true",
+   "Statements 1, 2 – true",
+   "Statements 1, 2 – false"
+  ],
+  "e": "Kural 295 (Vaaimai): one who speaks the truth in harmony with the heart is greater (தலை) than one who does both penance and charity. So Statement 1 is true; Statement 2, which says the opposite, is false.",
+  "h": "b9af82e9cff4"
+ },
+ "PYQ-2025-GS-165": {
+  "q": "Match:\n(a) Iyothee Thass Pandithar – 1. Tahdhib-ul-Akhlaq\n(b) Ramalinga Adigal – 2. Gulamgiri\n(c) Jyotiba Phule – 3. Thiruvarutpa\n(d) Syed Ahmed Khan – 4. Oru Paisa Tamilan",
+  "o": [
+   "(a)-1, (b)-2, (c)-3, (d)-4",
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-1, (b)-2, (c)-4, (d)-3"
+  ],
+  "e": "Iyothee Thass Pandithar – the weekly 'Oru Paisa Tamilan' (1907) (4); Ramalinga Adigal – Thiruvarutpa (3); Jyotiba Phule – Gulamgiri (Slavery, 1873) (2); Sir Syed Ahmed Khan – the journal Tahdhib-ul-Akhlaq (1). Hence 4, 3, 2, 1.",
+  "h": "35e47a3af79a"
+ },
+ "PYQ-2025-GS-168": {
+  "q": "Assertion [A]: In 1930, in the Madras Legislative Council, Muthulakshmi Ammaiyar introduced a bill for the 'prevention of dedication' of women to Hindu temples in the Madras Presidency.\nReason [R]: This bill, which later became the Devadasi Abolition Act, declared the 'pottukattu' ceremony illegal.",
+  "o": [
+   "[A] is true but [R] is false",
+   "[A] is false but [R] is true",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "In 1930 Dr. Muthulakshmi Reddy moved a bill in the Madras Legislative Council to prevent the dedication of women to temples; it later became the Madras Devadasis (Prevention of Dedication) Act, 1947, which made the pottukattu ceremony illegal. Both are true; the Reason explains the Assertion (answer key).",
+  "h": "193d9d71c1e3"
+ },
+ "PYQ-2025-GS-169": {
+  "q": "Assertion [A]: In Madras it was decided to conduct the Simon boycott agitation under the leadership of Rajaji.\nReason [R]: All members of the Simon Commission were white men, i.e. there was no Indian in the commission.",
+  "o": [
+   "[A] is true, [R] is false",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "[A] is false, [R] is true",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "All seven members of the Simon Commission (1927) were British; there was no Indian — the Reason is true. The exam answer key says the Simon boycott agitation in Madras was not led by Rajaji — so the Assertion is false.",
+  "h": "55525929823c"
+ },
+ "PYQ-2025-GS-171": {
+  "q": "Match the excavation sites with the districts in which they are located.\n(a) Alagankulam – 1. Sivagangai\n(b) Vasavasamudram – 2. Erode\n(c) Kodumanal – 3. Kancheepuram\n(d) Keezhadi – 4. Ramanathapuram",
+  "o": [
+   "(a)-1, (b)-4, (c)-3, (d)-2",
+   "(a)-4, (b)-2, (c)-3, (d)-1",
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-4, (b)-3, (c)-2, (d)-1"
+  ],
+  "e": "Alagankulam – Ramanathapuram (port at the Vaigai mouth) (4); Vasavasamudram – Kancheepuram (Palar bank; Roman pottery) (3); Kodumanal – Erode (Noyyal bank; beads, iron smelting) (2); Keezhadi – Sivagangai (urban settlement on the Vaigai) (1). Hence 4, 3, 2, 1.",
+  "h": "1fb7096f3d01"
+ },
+ "PYQ-2025-GS-172": {
+  "q": "Match the diseases (Column I) with the parts they affect (Column II):\n(a) Dengue – 1. Intestine, brain\n(b) Polio – 2. Skin, blood\n(c) Measles – 3. Respiratory tract, nervous system\n(d) Chickenpox – 4. Skin, respiratory tract",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-2, (b)-1, (c)-3, (d)-4",
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-1, (b)-3, (c)-2, (d)-4"
+  ],
+  "e": "Dengue – skin (rash), blood (low platelets) (2); polio – enters through the intestine and attacks brain/spinal nerves (1); measles – skin, respiratory tract (4); chickenpox – spreads through the respiratory tract and may affect the nervous system (3) — as per the textbook table/answer key, 2, 1, 4, 3.",
+  "h": "80bdd268254d"
+ },
+ "PYQ-2025-GS-173": {
+  "q": "Assertion [A]: Cobalt-60 is used in cancer treatment.\nReason [R]: Cobalt-60 acts through gamma rays and can destroy cancer cells.",
+  "o": [
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]",
+   "[A] is true but [R] is false",
+   "Both [A] and [R] are false"
+  ],
+  "e": "The gamma rays emitted by the radioactive isotope cobalt-60 destroy cancer cells, so it is used in radiation therapy (cobalt therapy). Both are true; the Reason explains the Assertion.",
+  "h": "5ed6dbea64f5"
+ },
+ "PYQ-2025-GS-174": {
+  "q": "When was the 'Vidiyal Payanam' scheme introduced in Tamil Nadu?",
+  "o": [
+   "May 2021",
+   "December 2021",
+   "March 2022",
+   "October 2021"
+  ],
+  "e": "The 'Vidiyal Payanam' scheme, under which women travel free in government town buses (ordinary fare), was introduced in May 2021, as soon as the new government took office.",
+  "h": "3961fb89d6f7"
+ },
+ "PYQ-2025-GS-175": {
+  "q": "Assertion [A]: Climate, relief, soil and natural resources control the distribution of population.\nReason [R]: Birth and death rates do not affect the distribution of population.",
+  "o": [
+   "[A] is true, but [R] is false",
+   "[A] is false, but [R] is true",
+   "Both [A] and [R] are true, and [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Geographical factors such as climate, relief, soil and natural resources determine population distribution (Assertion true). Birth and death rates and migration are demographic factors that do affect population distribution — so the Reason is false.",
+  "h": "cb145b50fe59"
+ },
+ "PYQ-2025-GS-176": {
+  "q": "Match the following (Shifting cultivation – Region):\n(a) Ladang – 1. Malaysia\n(b) Milpa – 2. Vietnam\n(c) Roca – 3. Brazil\n(d) Ray – 4. Mexico",
+  "o": [
+   "(a)-1, (b)-4, (c)-3, (d)-2",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-2, (c)-3, (d)-1",
+   "(a)-2, (b)-3, (c)-4, (d)-1"
+  ],
+  "e": "Regional names of shifting cultivation: Ladang – Malaysia/Indonesia (1); Milpa – Mexico, Central America (4); Roca – Brazil (3); Ray – Vietnam (2). In India it is called 'Jhum'. Hence 1, 4, 3, 2.",
+  "h": "bd11b2a9fb88"
+ },
+ "PYQ-2025-GS-177": {
+  "q": "Match the following (Author – Work):\n(a) Amoghavarsha – 1. Mahapurana\n(b) Jinasena – 2. Kavirajamarga\n(c) Gunabhadra – 3. Kadambari\n(d) Bana – 4. Adipurana",
+  "o": [
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-2, (b)-3, (c)-1, (d)-4"
+  ],
+  "e": "Rashtrakuta king Amoghavarsha – Kavirajamarga (Kannada work on poetics) (2); Jinasena – Adipurana (4); Gunabhadra – Mahapurana (completed the Uttarapurana part) (1); Bana (Banabhatta) – Kadambari (3). Hence 2, 4, 1, 3.",
+  "h": "5e85b98ffddf"
+ },
+ "PYQ-2025-GS-178": {
+  "q": "Which of the following statements about Velu Nachiyar is/are correct?\n(i) Velu Nachiyar was the daughter of Sellamuthu Sethupathi, the king of Sivagangai.\n(ii) As her husband was killed by the Nawab's forces, she formed an alliance with Gopala Nayakar and Hyder Ali with the aim of attacking the British.\n(iii) Velu Nachiyar fell ill and died in 1790.",
+  "o": [
+   "(ii) only",
+   "(i) and (iii)",
+   "(i) and (ii)",
+   "(ii) and (iii)"
+  ],
+  "e": "(i) Wrong — Velu Nachiyar was the daughter of Sellamuthu Sethupathi, king of Ramanathapuram; Sivagangai was the kingdom of her husband Muthu Vadugananthar. (ii) Correct — after her husband was killed in the 1772 battle of Kalaiyarkoil, she fought with the help of Gopala Nayakar and Hyder Ali and recovered Sivagangai in 1780. (iii) Wrong — she died in 1796.",
+  "h": "53f057acda42"
+ },
+ "PYQ-2025-GS-179": {
+  "q": "Which of the following were accepted in the Gandhi–Irwin Pact?\n(i) Allowing salt to be made for personal use.\n(ii) Keeping political prisoners not involved in violence in jail.\n(iii) Allowing demonstrations in front of shops selling foreign cloth.\n(iv) Commuting the death sentences of Bhagat Singh and his comrades.",
+  "o": [
+   "(i) and (ii) only",
+   "(i) and (iii) only",
+   "(ii) and (iii) only",
+   "(ii) and (iv) only"
+  ],
+  "e": "Gandhi–Irwin Pact (March 1931): coastal people allowed to make salt for their own use (i); peaceful picketing allowed in front of foreign-cloth shops (iii). Political prisoners not involved in violence were released — not kept in jail (ii wrong); the death sentences of Bhagat Singh and others were not commuted (iv wrong).",
+  "h": "06d931d26964"
+ },
+ "PYQ-2025-GS-181": {
+  "q": "Which of the following statements about Subhas Chandra Bose is wrong?\n(i) Subhas Chandra Bose was born on January 23, 1897 in Calcutta, West Bengal.\n(ii) The Government of India has declared his birthday, January 23, as 'Parakram Diwas' (Day of Valour).\n(iii) January 23 is a national holiday honouring the legacy of Subhas Chandra Bose.",
+  "o": [
+   "(iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "(i) and (iii) only"
+  ],
+  "e": "Netaji was born on 23 January 1897 at Cuttack, Odisha — not Calcutta (i wrong). Since 2021, 23 January has been observed as 'Parakram Diwas' (Day of Valour) (ii correct). It is not a national holiday (iii wrong).",
+  "h": "00c66a21cd65"
+ },
+ "PYQ-2025-GS-182": {
+  "q": "Match the President who presided over Republic Day with the chief guest who attended with them.\n(a) Droupadi Murmu – 1. Cyril Ramaphosa\n(b) A.P.J. Abdul Kalam – 2. Prabowo Subianto\n(c) Pranab Mukherjee – 3. Vladimir Putin\n(d) Ram Nath Kovind – 4. Barack Obama",
+  "o": [
+   "(a)-1, (b)-4, (c)-3, (d)-2",
+   "(a)-2, (b)-3, (c)-4, (d)-1",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-2, (c)-3, (d)-1"
+  ],
+  "e": "2025 – Indonesian President Prabowo Subianto (President Murmu); 2007 – Russian President Putin (Kalam); 2015 – US President Obama (Pranab Mukherjee); 2019 – South African President Cyril Ramaphosa (Ram Nath Kovind). Hence 2, 3, 4, 1.",
+  "h": "5eecba1a1965"
+ },
+ "PYQ-2025-GS-183": {
+  "q": "The toll-free numbers of the Tamil Nadu Directorate of Vigilance and Anti-Corruption (DVAC) are",
+  "o": [
+   "1062 and 1963",
+   "1064 and 1965",
+   "1066 and 1967",
+   "1068 and 1969"
+  ],
+  "e": "DVAC has two toll-free numbers: anti-corruption helpline 1064 and vigilance helpline 1965 (dvac.tn.gov.in). The other numbers do not belong to DVAC.",
+  "h": "b57f2c10d6bc"
+ },
+ "PYQ-2025-GS-184": {
+  "q": "Identify the correct statements about elections.\n(i) In 2003, EVMs were used in all State elections.\n(ii) The Commission took the historic decision to use only EVMs in the 2004 Lok Sabha election.\n(iii) Two million EVMs were used in this election.",
+  "o": [
+   "(i) only",
+   "(i) and (iii) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only"
+  ],
+  "e": "Electronic voting machines were used in all State Assembly elections and by-elections held in 2003 (i correct). In the 2004 Lok Sabha election only EVMs were used in all 543 constituencies (ii correct). About 10 lakh (one million) machines were used then, not two million (iii wrong).",
+  "h": "4dbb4a9d2fb4"
+ },
+ "PYQ-2025-GS-185": {
+  "q": "Match correctly (Committee – Chairman):\n(1) Committee on Panchayati Raj Elections – K. Santhanam\n(2) Committee on Panchayati Raj Analysis and Statistics – G. Ramachandran\n(3) Committee on Panchayati Raj Training – V.K. Rao\n(4) Committee on Panchayati Raj Administration – V. Iswaran",
+  "o": [
+   "(1) and (3) only are correct",
+   "(1) and (4) only are correct",
+   "(2) and (3) only are correct",
+   "(3) and (4) only are correct"
+  ],
+  "e": "Committee on Panchayati Raj Elections (1965) – K. Santhanam ✓; Study Team on Panchayati Raj Administration (1961) – V. Iswaran ✓. The Committee on Panchayati Raj Training Centres (1960) was headed by G. Ramachandran (not V.K. Rao); G. Ramachandran did not head the statistics committee. So only (1) and (4) are correct.",
+  "h": "e135b38fb5ff"
+ },
+ "PYQ-2025-GS-187": {
+  "q": "Assertion [A]: The Indian Constitution is federal in content.\nReason [R]: Like the USA, the Indian Constitution provides dual citizenship.",
+  "o": [
+   "Assertion [A] is false, Reason [R] is true",
+   "Both Assertion [A] and Reason [R] are true, and [R] is the correct explanation of [A]",
+   "Assertion [A] is true, Reason [R] is false",
+   "Both Assertion [A] and Reason [R] are true, but [R] does not explain [A] correctly"
+  ],
+  "e": "The Indian Constitution has federal features such as division of powers and two levels of government (with a unitary bias) — Assertion true. But unlike the USA, there is no dual citizenship; India provides single citizenship (Indian citizenship only) — the Reason is false.",
+  "h": "3080cac1b2d9"
+ },
+ "PYQ-2025-GS-188": {
+  "q": "Assertion [A]: The Indian Constitution is partly flexible and partly rigid.\nReason [R]: More than 100 amendments have been made so far without changing the basic structure of the Indian Constitution.",
+  "o": [
+   "Assertion [A] is true but Reason [R] is false",
+   "Both Assertion [A] and Reason [R] are true, and [R] is the correct explanation of [A]",
+   "Assertion [A] is false but Reason [R] is true",
+   "Both Assertion [A] and Reason [R] are true, but [R] is not the correct explanation of [A]"
+  ],
+  "e": "Under Article 368 some parts can be amended by simple majority, some by special majority and some only with State ratification — so it is a mix of flexibility and rigidity. Over 100 amendments made without changing the basic structure illustrate this (answer key: both true, the Reason explains the Assertion).",
+  "h": "f3ccb8e19daa"
+ },
+ "PYQ-2025-AP-189": {
+  "q": "In a surveyor's field book, a plot is recorded as follows (distances along the base line from A to C, in metres):\n• At 50 m, offset 30 m to the left to E\n• At 80 m, offset 50 m to the right to B\n• At 120 m, offset 20 m to the left to D\n• C at 150 m\nThe area of the plot is",
+  "o": [
+   "6550 m²",
+   "7550 m²",
+   "5750 m²",
+   "5650 m²"
+  ],
+  "e": "Right side: ΔAB = ½ × 80 × 50 = 2000; ΔBC = ½ × (150 − 80) × 50 = 1750 → 3750. Left side: ΔAE = ½ × 50 × 30 = 750; trapezium E–D = ½ × (30 + 20) × (120 − 50) = 1750; ΔDC = ½ × (150 − 120) × 20 = 300 → 2800. Total = 3750 + 2800 = 6550 m².",
+  "h": "0c5c425a6e34"
+ },
+ "PYQ-2025-AP-190": {
+  "q": "A person distributes his pens among his four friends A, B, C and D in the ratio 1/3 : 1/4 : 1/5 : 1/6. The minimum number of pens he must have is ________.",
+  "o": [
+   "23",
+   "55",
+   "57",
+   "65"
+  ],
+  "e": "LCM of 3, 4, 5, 6 = 60. Multiplying by 60: 20 : 15 : 12 : 10 (whole numbers with no common factor). Minimum total = 20 + 15 + 12 + 10 = 57.",
+  "h": "d4c2e85d6b61"
+ },
+ "PYQ-2025-AP-191": {
+  "q": "If the numbers 2, 5, x, 20, taken in the same order, are in proportion, the value of 'x' is",
+  "o": [
+   "50",
+   "10",
+   "8",
+   "4"
+  ],
+  "e": "2 : 5 = x : 20 ⇒ 5x = 2 × 20 = 40 ⇒ x = 8. (Product of extremes = product of means: 2 × 20 = 5 × 8.)",
+  "h": "b2284c2b90ab"
+ },
+ "PYQ-2025-AP-192": {
+  "q": "If the HCF of 108 and 234 is written in the form 23x − 51, what is the value of x?",
+  "o": [
+   "3",
+   "2",
+   "4",
+   "5"
+  ],
+  "e": "HCF (108, 234) = 18 (108 = 2² × 3³, 234 = 2 × 3² × 13 ⇒ 2 × 3² = 18). 23x − 51 = 18 ⇒ 23x = 69 ⇒ x = 3.",
+  "h": "f868907d4932"
+ },
+ "PYQ-2025-AP-193": {
+  "q": "Find the GCD of the polynomials x³ + x² − x + 2 and 2x³ − 5x² + 5x − 3.",
+  "o": [
+   "x² − x + 1",
+   "x² + x − 1",
+   "−7x² + 7x − 7",
+   "7x² − 7x + 7"
+  ],
+  "e": "x³ + x² − x + 2 = (x + 2)(x² − x + 1); 2x³ − 5x² + 5x − 3 = (2x − 3)(x² − x + 1). The common factor is x² − x + 1 (check by expanding). So the GCD = x² − x + 1.",
+  "h": "d5de14d6c7ee"
+ },
+ "PYQ-2025-AP-194": {
+  "q": "Simplify: (4⁻¹ + 4⁻² + 4⁻³)⁰ × (4⁻¹ + 4⁻² + 4⁻³)¹",
+  "o": [
+   "63/19",
+   "19/63",
+   "21/64",
+   "64/21"
+  ],
+  "e": "Any non-zero number raised to the power 0 is 1. So the value = 1 × (1/4 + 1/16 + 1/64) = (16 + 4 + 1)/64 = 21/64.",
+  "h": "fc210369dfd9"
+ },
+ "PYQ-2025-AP-195": {
+  "q": "The average mark of 25 students is 78.4. It was found that a mark of 96 was wrongly taken as 69. Find the correct average.",
+  "o": [
+   "77.32",
+   "79.48",
+   "78.42",
+   "78.24"
+  ],
+  "e": "Wrong total = 25 × 78.4 = 1960. Correct total = 1960 − 69 + 96 = 1987. Correct average = 1987 ÷ 25 = 79.48.",
+  "h": "aaae33e71bd9"
+ },
+ "PYQ-2025-AP-196": {
+  "q": "D, F, G, H, I and M are sitting in a row. I and M are in the middle; F and D are at the two ends. G is sitting to the left of D. Who is sitting to the right of F?",
+  "o": [
+   "H",
+   "I",
+   "M",
+   "G"
+  ],
+  "e": "Of the 6 seats, I and M take seats 3 and 4. For G to be on D's left, D must be at the right end (6) and G = 5. F = 1. The remaining seat 2 is H. So H is to the right of F.",
+  "h": "480b2cee434f"
+ },
+ "PYQ-2025-AP-197": {
+  "q": "If A = 26 and SUN = 27, then CAT = ?",
+  "o": [
+   "24",
+   "27",
+   "57",
+   "58"
+  ],
+  "e": "Letters take reverse alphabetical values: A = 26, B = 25, …, Z = 1 (value = 27 − position). SUN = S(8) + U(6) + N(13) = 27 ✓. CAT = C(24) + A(26) + T(7) = 57.",
+  "h": "710aa8fc9712"
+ },
+ "PYQ-2025-AP-198": {
+  "q": "If it is given that a ≠ b ≠ c, which of the following is true?",
+  "o": [
+   "b ≠ a ≠ c",
+   "a, b, c are all different",
+   "a = b = c",
+   "a ≠ c or a = c"
+  ],
+  "e": "Only a ≠ b and b ≠ c are given; nothing is said about a and c (e.g. a = 1, b = 2, c = 1 also fits). So the only thing we can say for certain is 'a ≠ c or a = c'. We cannot be sure that all three are different, or that b ≠ a ≠ c (which implies a ≠ c).",
+  "h": "d5e17f8dd9ea"
+ },
+ "PYQ-2025-AP-199": {
+  "q": "Find the missing term in the alpha-numeric series: 2 X 2, 7 T 4, 14 P 12, 23 L 48, ________",
+  "o": [
+   "34 H 240",
+   "34 H 144",
+   "30 H 100",
+   "30 H 120"
+  ],
+  "e": "First numbers: 2, 7, 14, 23 (+5, +7, +9) ⇒ next +11 = 34. Letters: X, T, P, L (4 letters back each time) ⇒ H. Last numbers: 2, 4, 12, 48 (×2, ×3, ×4) ⇒ 48 × 5 = 240. Answer: 34 H 240.",
+  "h": "ada3c4d48724"
+ },
+ "PYQ-2025-AP-200": {
+  "q": "When two fair dice are rolled, what is the probability that the product of the faces is 4 or the difference of the faces is 5?",
+  "o": [
+   "1/12",
+   "5/36",
+   "1/9",
+   "7/36"
+  ],
+  "e": "Total outcomes = 36. Product 4: (1,4), (4,1), (2,2) = 3. Difference 5: (1,6), (6,1) = 2. None is common ⇒ 5 favourable outcomes. Probability = 5/36.",
+  "h": "c61941614bc8"
+ }
+}

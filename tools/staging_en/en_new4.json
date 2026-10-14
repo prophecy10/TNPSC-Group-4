@@ -1,0 +1,574 @@
+{
+ "NEW-GS-U1-1241": {
+  "q": "Choose the correct statements.\n(i) 1 kilowatt-hour = 3.6 × 10⁶ joules.\n(ii) 1 horse power = 746 watts.\n(iii) The SI unit of resistance is the volt.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) 1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J — correct; (ii) 1 HP = 746 W — correct (textbook). (iii) Wrong — the unit of resistance is the ohm; the volt is the unit of potential difference.",
+  "h": "2c205503556c"
+ },
+ "NEW-GS-U1-1242": {
+  "q": "Match (Common name – Chemical name):\n(a) Baking soda – 1. Calcium sulphate hemihydrate\n(b) Washing soda – 2. Sodium bicarbonate\n(c) Plaster of Paris – 3. Sodium carbonate decahydrate\n(d) Quicklime – 4. Calcium oxide",
+  "o": [
+   "(a)-2, (b)-3, (c)-1, (d)-4",
+   "(a)-3, (b)-2, (c)-1, (d)-4",
+   "(a)-2, (b)-1, (c)-3, (d)-4",
+   "(a)-2, (b)-3, (c)-4, (d)-1"
+  ],
+  "e": "Baking soda – NaHCO₃ (2); washing soda – Na₂CO₃·10H₂O (3); Plaster of Paris – CaSO₄·½H₂O (1); quicklime – CaO (4). Hence 2, 3, 1, 4.",
+  "h": "3839ff849501"
+ },
+ "NEW-GS-U1-1243": {
+  "q": "Assertion [A]: Toothpastes are generally basic.\nReason [R]: Tooth enamel starts to decay when the pH in the mouth falls below 5.5.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Textbook: tooth enamel (calcium phosphate), the hardest substance in the body, decays when the pH in the mouth falls below 5.5; basic toothpastes are used to neutralise the acid and prevent this. The Reason explains the Assertion.",
+  "h": "b36ef77fccae"
+ },
+ "NEW-GS-U1-1244": {
+  "q": "Match (Deficiency – Disease):\n(a) Vitamin A – 1. Scurvy\n(b) Vitamin C – 2. Rickets\n(c) Vitamin D – 3. Night blindness\n(d) Insulin – 4. Diabetes",
+  "o": [
+   "(a)-3, (b)-1, (c)-2, (d)-4",
+   "(a)-1, (b)-3, (c)-2, (d)-4",
+   "(a)-3, (b)-2, (c)-1, (d)-4",
+   "(a)-2, (b)-1, (c)-3, (d)-4"
+  ],
+  "e": "Vitamin A – night blindness (3); vitamin C – scurvy (1); vitamin D – rickets (2); insulin deficiency – diabetes (4). Hence 3, 1, 2, 4.",
+  "h": "0abc1795b660"
+ },
+ "NEW-GS-U1-1245": {
+  "q": "Which of the following about the pancreas are correct?\n(i) The pancreas works as both an exocrine and an endocrine gland.\n(ii) The beta cells of the islets of Langerhans secrete insulin.\n(iii) Glucagon lowers the blood sugar level.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct — the pancreas secretes digestive enzymes (exocrine) as well as hormones (endocrine); beta cells secrete insulin. (iii) is wrong — glucagon, secreted by the alpha cells, raises blood sugar; insulin lowers it.",
+  "h": "4dd206ce6ae5"
+ },
+ "NEW-GS-U6-1301": {
+  "q": "Who was sworn in as Chief Minister of Tamil Nadu after the 2026 Tamil Nadu Assembly election?",
+  "o": [
+   "M.K. Stalin",
+   "Edappadi K. Palaniswami",
+   "C. Joseph Vijay (Thalapathy Vijay)",
+   "Udhayanidhi Stalin"
+  ],
+  "e": "In the 2026 election, Tamilaga Vettri Kazhagam (TVK) emerged as the single largest party with 108 seats. Its leader C. Joseph Vijay was sworn in as Chief Minister on 10 May 2026 — the first non-Dravidian-party government since 1967. M.K. Stalin (DMK) and Edappadi Palaniswami (AIADMK) are former Chief Ministers.",
+  "h": "87d869f8ad6d"
+ },
+ "NEW-GS-U6-1302": {
+  "q": "Which party emerged as the single largest party in the 2026 Tamil Nadu Assembly election?",
+  "o": [
+   "Dravida Munnetra Kazhagam (DMK)",
+   "Tamilaga Vettri Kazhagam (TVK)",
+   "All India Anna DMK",
+   "Bharatiya Janata Party"
+  ],
+  "e": "Tamilaga Vettri Kazhagam (TVK) won 108 of the 234 seats and emerged as the single largest party, though it fell short of the 118 needed for a majority on its own. The DMK won 59 seats and the AIADMK 47.",
+  "h": "5dd93d7a8c44"
+ },
+ "NEW-GS-U6-1303": {
+  "q": "Who is the present (2026) Governor of Tamil Nadu?",
+  "o": [
+   "R.N. Ravi",
+   "Banwarilal Purohit",
+   "Rajendra Vishwanath Arlekar",
+   "Tamilisai Soundararajan"
+  ],
+  "e": "Rajendra Vishwanath Arlekar has been Governor of Tamil Nadu, first as additional charge from 12 March 2026 and later full-time. The previous Governor, R.N. Ravi, was moved to West Bengal; Banwarilal Purohit was Governor before him.",
+  "h": "4577e6006bd0"
+ },
+ "NEW-GS-U4-1304": {
+  "q": "In which Part of the Indian Constitution are the Fundamental Rights found?",
+  "o": [
+   "Part II",
+   "Part III",
+   "Part IV",
+   "Part V"
+  ],
+  "e": "Fundamental Rights are in Part III (Articles 12–35). Part II – Citizenship; Part IV – Directive Principles of State Policy; Part V – The Union.",
+  "h": "d52cceb443fe"
+ },
+ "NEW-GS-U1-1305": {
+  "q": "What is the chemical formula of water?",
+  "o": [
+   "CO₂",
+   "H₂O",
+   "O₂",
+   "NaCl"
+  ],
+  "e": "A water molecule has two hydrogen atoms and one oxygen atom — H₂O. CO₂ – carbon dioxide; O₂ – oxygen; NaCl – sodium chloride (common salt).",
+  "h": "32560baab086"
+ },
+ "NEW-AP-U1-1306": {
+  "q": "What is the value of 12 + 8 × 3 − 4?",
+  "o": [
+   "56",
+   "32",
+   "60",
+   "28"
+  ],
+  "e": "By the BODMAS rule, multiplication comes first: 8 × 3 = 24. Then 12 + 24 − 4 = 32. Working wrongly from left to right, (12 + 8) × 3 − 4 gives 56.",
+  "h": "c7fe6fc4908c"
+ },
+ "NEW-AP-U1-1307": {
+  "q": "What is 25% of 200?",
+  "o": [
+   "25",
+   "40",
+   "50",
+   "75"
+  ],
+  "e": "25% = 25/100 = 1/4. So 200 × 1/4 = 50.",
+  "h": "d8bc21e44fad"
+ },
+ "NEW-AP-U1-1308": {
+  "q": "What is the Highest Common Factor (HCF) of 12 and 18?",
+  "o": [
+   "3",
+   "6",
+   "12",
+   "36"
+  ],
+  "e": "12 = 2 × 2 × 3; 18 = 2 × 3 × 3. Common factors 2 and 3 → HCF = 2 × 3 = 6. 36 is the LCM.",
+  "h": "8b9d7dacee50"
+ },
+ "NEW-AP-U1-1309": {
+  "q": "If ₹500 is divided in the ratio 2 : 3, what is the larger share?",
+  "o": [
+   "₹200",
+   "₹250",
+   "₹300",
+   "₹350"
+  ],
+  "e": "Total parts = 2 + 3 = 5. One part = 500 ÷ 5 = ₹100. Larger share = 3 × 100 = ₹300; smaller share = ₹200.",
+  "h": "df68d7ef76a9"
+ },
+ "NEW-AP-U1-1310": {
+  "q": "What is the simple interest on ₹1000 at 10% per annum for 2 years?",
+  "o": [
+   "₹100",
+   "₹200",
+   "₹210",
+   "₹1200"
+  ],
+  "e": "Simple interest = (P × R × T) / 100 = (1000 × 10 × 2) / 100 = ₹200. ₹210 is the compound interest; ₹1200 is the amount (principal + interest).",
+  "h": "df42a4ef94a2"
+ },
+ "NEW-AP-U1-1311": {
+  "q": "What is the area of a square of side 5 cm?",
+  "o": [
+   "10 sq. cm",
+   "20 sq. cm",
+   "25 sq. cm",
+   "30 sq. cm"
+  ],
+  "e": "Area of a square = side × side = 5 × 5 = 25 sq. cm. 20 cm is the perimeter (4 × 5).",
+  "h": "05136b643a0d"
+ },
+ "NEW-AP-U1-1312": {
+  "q": "A can finish a piece of work in 10 days and B can finish the same work in 15 days. In how many days will they finish it working together?",
+  "o": [
+   "5 days",
+   "6 days",
+   "12 days",
+   "25 days"
+  ],
+  "e": "A does 1/10 and B does 1/15 of the work in a day. Together: 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. So 6 days.",
+  "h": "0f78f973e2a1"
+ },
+ "NEW-AP-U1-1313": {
+  "q": "What is the average of 10, 20 and 30?",
+  "o": [
+   "15",
+   "20",
+   "25",
+   "60"
+  ],
+  "e": "Average = sum ÷ count = (10 + 20 + 30) ÷ 3 = 60 ÷ 3 = 20.",
+  "h": "07a64d74f3b6"
+ },
+ "NEW-AP-U2-1314": {
+  "q": "2, 4, 8, 16, ? — what is the next number?",
+  "o": [
+   "20",
+   "24",
+   "32",
+   "64"
+  ],
+  "e": "Each number is twice the previous one (× 2). 16 × 2 = 32.",
+  "h": "5a99b296b08d"
+ },
+ "NEW-AP-U2-1315": {
+  "q": "In a code, CAT is written as 3, 1, 20. In that code, DOG is",
+  "o": [
+   "4, 15, 7",
+   "4, 14, 7",
+   "3, 15, 7",
+   "4, 15, 8"
+  ],
+  "e": "Each English letter is written as its position in the alphabet (C = 3, A = 1, T = 20). So D = 4, O = 15, G = 7 → 4, 15, 7.",
+  "h": "16219aa2405d"
+ },
+ "NEW-AP-U2-1316": {
+  "q": "Pointing to a boy in a photograph, Ramu said, 'He is the son of the only son of my father.' How is the boy related to Ramu?",
+  "o": [
+   "Brother",
+   "Son",
+   "Nephew",
+   "Father"
+  ],
+  "e": "The only son of Ramu's father is Ramu himself. The boy is his son, so the boy is Ramu's son.",
+  "h": "853c243694a5"
+ },
+ "NEW-AP-U2-1317": {
+  "q": "Which of the following is the odd one out?",
+  "o": [
+   "Rose",
+   "Jasmine",
+   "Lotus",
+   "Mango"
+  ],
+  "e": "Rose, jasmine and lotus are flowers; mango is a fruit. So mango is the odd one out.",
+  "h": "525b9ee7c8c9"
+ },
+ "NEW-GS-U4-1401": {
+  "q": "Which of the following about the State Governor are correct?\n(i) Article 153 says there shall be a Governor for each State.\n(ii) The Governor is appointed by the President.\n(iii) The minimum age for appointment as Governor is 25.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – Article 153. (ii) Correct – under Article 155 the President appoints the Governor; the term is 5 years, during the pleasure of the President (Article 156). (iii) Wrong – under Article 157 the minimum age is 35.",
+  "h": "df774e00cf24"
+ },
+ "NEW-GS-U4-1402": {
+  "q": "Assertion [A]: The Tamil Nadu Council of Ministers can have at most 35 ministers, including the Chief Minister.\nReason [R]: Under the 91st Amendment, the number of ministers in a State must not exceed 15% of the total strength of the Legislative Assembly.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "The 91st Constitutional Amendment (2003) added Article 164(1A): the number of ministers must not exceed 15% of the total strength of the Assembly (minimum 12). The Tamil Nadu Assembly has 234 members → 15% = 35.1 → at most 35. The Reason explains the Assertion.",
+  "h": "8047831f09b7"
+ },
+ "NEW-GS-U4-1403": {
+  "q": "Match (Article – Subject):\n(a) Article 153 – 1. High Courts\n(b) Article 164 – 2. Advocate General of the State\n(c) Article 165 – 3. Governor of the State\n(d) Article 214 – 4. Appointment of the Chief Minister and ministers",
+  "o": [
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-3, (b)-2, (c)-4, (d)-1",
+   "(a)-3, (b)-4, (c)-1, (d)-2"
+  ],
+  "e": "Article 153 – Governor of the State (3); 164 – the Governor appoints the Chief Minister, and ministers on his advice (4); 165 – Advocate General of the State (2); 214 – a High Court for each State (1). Hence 3, 4, 2, 1.",
+  "h": "51cbe865d6b2"
+ },
+ "NEW-GS-U4-1404": {
+  "q": "Which of the following about State Legislative Councils are correct?\n(i) If a Legislative Assembly passes a resolution by special majority, Parliament can create or abolish its Legislative Council (Article 169).\n(ii) The Tamil Nadu Legislative Council was abolished in 1986.\n(iii) At present every State in India has a Legislative Council.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – Article 169. (ii) Correct – the Tamil Nadu Legislative Council was abolished in 1986; Tamil Nadu now has a unicameral legislature (234 members). (iii) Wrong – only six States have a Legislative Council: Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana and Uttar Pradesh.",
+  "h": "7066ad1585f4"
+ },
+ "NEW-GS-U4-1405": {
+  "q": "Assertion [A]: When the Legislature is not in session, the Governor may promulgate an Ordinance.\nReason [R]: Article 213 gives the Governor the power to promulgate Ordinances.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Under Article 213, when the Legislature is not in session and immediate action is needed, the Governor may promulgate an Ordinance; it must be approved within six weeks of the Legislature reassembling. (The President's equivalent power – Article 123.) The Reason explains the Assertion.",
+  "h": "919d05532541"
+ },
+ "NEW-GS-U4-1406": {
+  "q": "Match:\n(a) 73rd Amendment – 1. 12th Schedule\n(b) 74th Amendment – 2. 29 subjects\n(c) 11th Schedule – 3. Urban local bodies (Part IXA)\n(d) 12th Schedule – 4. Panchayati Raj (Part IX)",
+  "o": [
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-4, (b)-1, (c)-2, (d)-3"
+  ],
+  "e": "73rd Amendment (1992) – Panchayati Raj, Part IX (4); 74th Amendment (1992) – Municipalities, Part IXA (3); 11th Schedule – 29 subjects for Panchayats (2); 12th Schedule – 18 subjects for Municipalities (1). Hence 4, 3, 2, 1.",
+  "h": "5b3e2b7d8782"
+ },
+ "NEW-GS-U4-1407": {
+  "q": "Which of the following about Panchayati Raj are correct?\n(i) The Balwant Rai Mehta Committee (1957) recommended a three-tier Panchayat system.\n(ii) Panchayati Raj was first launched in 1959 at Nagaur, Rajasthan.\n(iii) The Ashok Mehta Committee recommended a four-tier system.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – three tiers: village, union (block) and district. (ii) Correct – 2 October 1959, Nagaur (Rajasthan). (iii) Wrong – the Ashok Mehta Committee (1977–78) recommended a two-tier system (Mandal Panchayat and Zilla Parishad).",
+  "h": "a01aac124e02"
+ },
+ "NEW-GS-U4-1408": {
+  "q": "Assertion [A]: 24 April is celebrated every year as 'National Panchayati Raj Day'.\nReason [R]: The 73rd Constitutional Amendment Act came into force on 24 April 1993.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "The day is National Panchayati Raj Day because the 73rd Amendment, which gave Panchayats constitutional status, came into force on 24 April 1993. Following it, the Tamil Nadu Panchayats Act was passed in 1994. The Reason explains the Assertion.",
+  "h": "ef5a9b703fc9"
+ },
+ "NEW-GS-U4-1409": {
+  "q": "Which of the following about the judiciary are correct?\n(i) Supreme Court judges retire at the age of 65.\n(ii) High Court judges retire at the age of 62.\n(iii) The Madras High Court was established in 1947, after independence.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – Article 124. (ii) Correct – Article 217. (iii) Wrong – the Madras High Court was established in 1862 (under the Indian High Courts Act, 1861); it is one of the oldest High Courts in the country. Its Madurai Bench was started in 2004.",
+  "h": "51d93e8da607"
+ },
+ "NEW-GS-U4-1410": {
+  "q": "Match (Writ – Meaning):\n(a) Habeas Corpus – 1. 'By what authority?'\n(b) Mandamus – 2. 'Produce the body'\n(c) Quo Warranto – 3. 'To be certified / informed'\n(d) Certiorari – 4. 'We command'",
+  "o": [
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-2, (b)-1, (c)-4, (d)-3"
+  ],
+  "e": "Habeas Corpus – 'produce the body': release from unlawful detention (2). Mandamus – 'we command': orders an official to perform a duty (4). Quo Warranto – 'by what authority?': questions the right to hold a public office (1). Certiorari – 'to be certified': a higher court calls up and reviews a lower court's case (3). The Supreme Court issues these under Article 32 and High Courts under Article 226.",
+  "h": "1070e1b70428"
+ },
+ "NEW-GS-U4-1411": {
+  "q": "Assertion [A]: The award of a Lok Adalat (People's Court) is final; no appeal lies against it.\nReason [R]: Article 39A, added by the 42nd Amendment, directs the State to provide free legal aid to the poor.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Both are true. Under the Legal Services Authorities Act, 1987, a Lok Adalat award is equal to a civil court decree and is final; since it is based on a compromise between the parties, there is no appeal. Article 39A (42nd Amendment, 1976) is a Directive Principle on free legal aid. But Article 39A does not explain why there is no appeal against a Lok Adalat award.",
+  "h": "b1fcfd923777"
+ },
+ "NEW-GS-U4-1412": {
+  "q": "Which of the following about the Election Commission of India are correct?\n(i) It is a constitutional body under Article 324.\n(ii) India's first Chief Election Commissioner was Sukumar Sen.\n(iii) The Election Commission of India also conducts local body elections.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct. (iii) is wrong – Panchayat and Municipal elections are conducted by the State Election Commissions (Articles 243K, 243ZA). The Election Commission of India conducts elections to Parliament, State Legislatures, and the offices of President and Vice-President.",
+  "h": "332c01fe8016"
+ },
+ "NEW-GS-U4-1413": {
+  "q": "Which of the following about Human Rights Commissions are correct?\n(i) The National Human Rights Commission was set up in 1993.\n(ii) It is a statutory body under the Protection of Human Rights Act, 1993.\n(iii) It is a constitutional body directly mentioned in the Constitution.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct – the NHRC was set up on 12 October 1993 as a statutory body under the Protection of Human Rights Act, 1993. (iii) is wrong – it is not a constitutional body. The Tamil Nadu State Human Rights Commission was set up under the same Act in 1997.",
+  "h": "badf53ff5dc9"
+ },
+ "NEW-GS-U4-1414": {
+  "q": "Match (Constitutional amendment – Subject):\n(a) 42nd – 1. Anti-defection (10th Schedule)\n(b) 44th – 2. Voting age reduced from 21 to 18\n(c) 52nd – 3. Right to property removed from Fundamental Rights\n(d) 61st – 4. Words 'Socialist' and 'Secular' added to the Preamble",
+  "o": [
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-3, (c)-2, (d)-1",
+   "(a)-4, (b)-1, (c)-3, (d)-2"
+  ],
+  "e": "42nd (1976) – 'Socialist, Secular, Integrity' added to the Preamble (4); 44th (1978) – right to property removed from Fundamental Rights (3); 52nd (1985) – anti-defection, 10th Schedule (1); 61st – voting age 18 (2). Hence 4, 3, 1, 2.",
+  "h": "4d32a62ecd19"
+ },
+ "NEW-GS-U4-1415": {
+  "q": "Assertion [A]: The Lokpal is an anti-corruption body.\nReason [R]: The Lokpal and Lokayuktas Act, 2013 provides for inquiry into corruption complaints against public servants.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "The Lokpal and Lokayuktas Act, 2013 sets up the Lokpal at the Union level and Lokayuktas in the States to inquire into corruption complaints against public servants, including the Prime Minister. The Tamil Nadu Lokayukta Act was passed in 2018. The Reason explains the Assertion.",
+  "h": "24ce5c41d028"
+ },
+ "NEW-GS-U5-1416": {
+  "q": "Match (Tamil Nadu Government scheme – Aim):\n(a) Pudhumai Penn – 1. Skill training for youth\n(b) Naan Mudhalvan – 2. Breakfast for government school students\n(c) Chief Minister's Breakfast Scheme – 3. Medical care at the doorstep\n(d) Makkalai Thedi Maruthuvam – 4. ₹1000 a month for higher education to girls who studied in government schools",
+  "o": [
+   "(a)-4, (b)-1, (c)-2, (d)-3",
+   "(a)-1, (b)-4, (c)-2, (d)-3",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-4, (b)-1, (c)-3, (d)-2"
+  ],
+  "e": "Pudhumai Penn (2022) – ₹1000 a month to girls who studied Classes 6–12 in government schools and go on to higher education (4); Naan Mudhalvan (2022) – youth skill development (1); Chief Minister's Breakfast Scheme (15 September 2022, Madurai) – breakfast for government school students (2); Makkalai Thedi Maruthuvam (2021) – medical care at the doorstep (3). Hence 4, 1, 2, 3.",
+  "h": "c0fe1d8155bc"
+ },
+ "NEW-GS-U5-1417": {
+  "q": "Arrange in chronological order (year the Tamil Nadu schemes were launched):\n1. Amma Unavagam\n2. Uzhavar Sandhai\n3. Nutritious Noon Meal Scheme\n4. Kalaignar Insurance Scheme",
+  "o": [
+   "3, 2, 4, 1",
+   "2, 3, 4, 1",
+   "3, 4, 2, 1",
+   "3, 2, 1, 4"
+  ],
+  "e": "Chief Minister MGR's Nutritious Noon Meal Scheme – 1982 → Uzhavar Sandhai (Madurai) – 1999 → Kalaignar Insurance Scheme – 2009 → Amma Unavagam – 2013. Hence 3, 2, 4, 1.",
+  "h": "545350025596"
+ },
+ "NEW-GS-U5-1418": {
+  "q": "Assertion [A]: Tamil Nadu is a pioneer for the whole country in the midday meal scheme for school students.\nReason [R]: The midday meal scheme, expanded in Kamaraj's time, was upgraded by MGR into the Nutritious Meal Scheme in 1982.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "When Kamaraj was Chief Minister the midday meal scheme was extended across the state; in 1982 MGR turned it into the Nutritious Meal Scheme. This experience later became the model for the National Midday Meal Scheme (1995). The Reason explains the Assertion.",
+  "h": "7ba5f5c9b2d1"
+ },
+ "NEW-GS-U6-1419": {
+  "q": "Which of the following about reservation in Tamil Nadu are correct?\n(i) The Justice Party government issued the first Communal G.O. in 1921.\n(ii) Tamil Nadu's 69% reservation law was placed in the 9th Schedule by the 76th Amendment (1994).\n(iii) The 9th Schedule was added by the 42nd Amendment in 1976.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – the Justice Party government headed by the Raja of Panagal issued the first Communal G.O. in 1921. (ii) Correct – the 1994 Act was placed in the 9th Schedule by the 76th Amendment. (iii) Wrong – the 9th Schedule was added in 1951 by the First Constitutional Amendment (along with Article 31B).",
+  "h": "624536d77215"
+ },
+ "NEW-GS-U5-1420": {
+  "q": "Which of the following about the Five-Year Plans are correct?\n(i) The First Five-Year Plan (1951–56) gave priority to agriculture.\n(ii) The Second Five-Year Plan, based on P.C. Mahalanobis's model, gave priority to heavy industries.\n(iii) The Thirteenth Five-Year Plan was India's last Five-Year Plan.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) and (ii) are correct – the First Plan used the Harrod–Domar model with priority to agriculture; the Second used the Mahalanobis model with priority to heavy industry. (iii) is wrong – the Twelfth Plan (2012–17) was the last; NITI Aayog replaced the Planning Commission in 2015.",
+  "h": "3b06bf287531"
+ },
+ "NEW-GS-U5-1421": {
+  "q": "Match (Monetary policy tool – Meaning):\n(a) Repo rate – 1. Share of deposits banks must keep with the RBI as cash\n(b) Reverse repo rate – 2. Share banks must keep with themselves as cash, gold and government securities\n(c) Cash Reserve Ratio (CRR) – 3. Rate at which the RBI gives short-term loans to commercial banks\n(d) Statutory Liquidity Ratio (SLR) – 4. Rate the RBI pays on surplus funds banks park with it",
+  "o": [
+   "(a)-3, (b)-4, (c)-1, (d)-2",
+   "(a)-4, (b)-3, (c)-1, (d)-2",
+   "(a)-3, (b)-4, (c)-2, (d)-1",
+   "(a)-3, (b)-1, (c)-4, (d)-2"
+  ],
+  "e": "Repo – rate at which the RBI lends to banks (3); reverse repo – rate the RBI pays on funds banks park with it (4); CRR – share of deposits to be kept with the RBI as cash (1); SLR – share banks must keep with themselves as liquid assets (cash, gold, government securities) (2). Hence 3, 4, 1, 2.",
+  "h": "af3d5a4de7bc"
+ },
+ "NEW-GS-U5-1422": {
+  "q": "Assertion [A]: A country's Gross National Product (GNP) can be more or less than its Gross Domestic Product (GDP).\nReason [R]: GNP = GDP + net factor income from abroad.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "GNP = GDP + net factor income from abroad (income earned abroad by nationals − income earned in the country by foreigners). If this net value is positive, GNP > GDP; if negative, GNP < GDP. The Reason explains the Assertion.",
+  "h": "6a739be96e46"
+ },
+ "NEW-GS-U5-1423": {
+  "q": "Which of the following about the Finance Commission are correct?\n(i) It is constituted by the President every five years under Article 280.\n(ii) The Chairman of the Fifteenth Finance Commission was N.K. Singh.\n(iii) The Chairman of the Sixteenth Finance Commission is Arvind Panagariya.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "All three are correct. The Finance Commission is a constitutional body under Article 280; it recommends the sharing of taxes between the Union and the States. 15th Finance Commission – N.K. Singh; 16th Finance Commission (constituted in December 2023, for 2026–31) – Arvind Panagariya. The first Finance Commission chairman was K.C. Neogy.",
+  "h": "68a7ee5ea7fa"
+ },
+ "NEW-GS-U5-1424": {
+  "q": "Arrange the committees set up to estimate the poverty line in the chronological order of their reports:\n1. Rangarajan Committee\n2. Lakdawala Committee\n3. Tendulkar Committee",
+  "o": [
+   "2, 3, 1",
+   "3, 2, 1",
+   "2, 1, 3",
+   "1, 2, 3"
+  ],
+  "e": "Lakdawala Committee – 1993 → Suresh Tendulkar Committee – 2009 → C. Rangarajan Committee – 2014. Hence 2, 3, 1.",
+  "h": "1545108e64e1"
+ },
+ "NEW-GS-U5-1425": {
+  "q": "Match (Type of unemployment – Example):\n(a) Disguised unemployment – 1. The gap while moving from one job to another\n(b) Seasonal unemployment – 2. Eight people working on land that needs only five\n(c) Frictional unemployment – 3. Skill mismatch due to structural change in the economy\n(d) Structural unemployment – 4. Being without work after the harvest",
+  "o": [
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-4, (b)-2, (c)-1, (d)-3",
+   "(a)-2, (b)-4, (c)-3, (d)-1",
+   "(a)-2, (b)-1, (c)-4, (d)-3"
+  ],
+  "e": "Disguised unemployment – more people than needed in one job (especially farming); removing the extra people would not reduce output (2). Seasonal – no work after the farming season (4). Frictional – the gap while changing jobs (1). Structural – skill mismatch caused by economic change (3). Hence 2, 4, 1, 3.",
+  "h": "e2c2235d3c9c"
+ },
+ "NEW-GS-U5-1426": {
+  "q": "Which of the following is the correct definition?",
+  "o": [
+   "Fiscal deficit = Total expenditure − Total receipts excluding borrowings",
+   "Fiscal deficit = Revenue expenditure − Revenue receipts",
+   "Primary deficit = Fiscal deficit + Interest payments",
+   "Revenue deficit = Total expenditure − Total receipts"
+  ],
+  "e": "Fiscal deficit = total expenditure − (total receipts excluding borrowings), i.e. the government's total borrowing requirement. Revenue deficit = revenue expenditure − revenue receipts (the second option describes that, not the fiscal deficit). Primary deficit = fiscal deficit − interest payments (minus, not plus).",
+  "h": "7ba7f0d6cc4b"
+ },
+ "NEW-GS-U4-1427": {
+  "q": "Assertion [A]: The Chief Minister is the main link between the State Council of Ministers and the Governor.\nReason [R]: Article 167 says it is the duty of the Chief Minister to communicate the decisions of the Council of Ministers to the Governor.",
+  "o": [
+   "Both [A] and [R] are true; [R] is the correct explanation of [A]",
+   "Both [A] and [R] are true; but [R] is not the correct explanation of [A]",
+   "[A] is true; [R] is false",
+   "[A] is false; [R] is true"
+  ],
+  "e": "Under Article 167 it is the Chief Minister's duty to communicate to the Governor the Council of Ministers' decisions on State administration and proposed legislation, and to furnish information the Governor asks for. That is why the CM is the link between the Governor and the Council of Ministers. The Reason explains the Assertion.",
+  "h": "009859ad0416"
+ },
+ "NEW-GS-U4-1428": {
+  "q": "Under the 73rd Amendment, which of the following about Panchayats are correct?\n(i) The term of Panchayats is 5 years.\n(ii) At least one-third of the seats must be reserved for women.\n(iii) Panchayat elections are conducted by the State Election Commission.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "All three are correct: the term is 5 years (Article 243E); at least 1/3 of seats are reserved for women (243D) – several States including Tamil Nadu have raised this to 50%; elections are conducted by the State Election Commission (243K).",
+  "h": "19d754d54066"
+ },
+ "NEW-GS-U4-1429": {
+  "q": "Which of the following about Parliament are correct?\n(i) Parliament consists of the President, the Rajya Sabha and the Lok Sabha.\n(ii) The Rajya Sabha is a permanent House; one-third of its members retire every two years.\n(iii) The President nominates 2 Anglo-Indians to the Rajya Sabha.",
+  "o": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(ii) and (iii) only",
+   "All of (i), (ii), (iii)"
+  ],
+  "e": "(i) Correct – Article 79. (ii) Correct – the Rajya Sabha is never dissolved; members serve 6 years and one-third retire every two years. (iii) Wrong – the President nominates 12 members to the Rajya Sabha from literature, science, art and social service. Anglo-Indian nomination was to the Lok Sabha, and even that was ended by the 104th Amendment (2020).",
+  "h": "4fb010bb9b6d"
+ },
+ "NEW-GS-U5-1430": {
+  "q": "Match (Tamil Nadu city – Title):\n(a) Coimbatore – 1. Little Japan\n(b) Sivakasi – 2. Manchester of South India\n(c) Tiruppur – 3. Detroit of Asia\n(d) Chennai – 4. Knitwear City",
+  "o": [
+   "(a)-2, (b)-1, (c)-4, (d)-3",
+   "(a)-1, (b)-2, (c)-4, (d)-3",
+   "(a)-2, (b)-4, (c)-1, (d)-3",
+   "(a)-2, (b)-1, (c)-3, (d)-4"
+  ],
+  "e": "Coimbatore – 'Manchester of South India' for its cotton mills (2); Sivakasi – 'Little Japan' for its fireworks, matches and printing industries (1); Tiruppur – 'Knitwear City' for knitwear exports (4); Chennai – 'Detroit of Asia' for its automobile industry (3). Hence 2, 1, 4, 3.",
+  "h": "a38dc45a1969"
+ }
+}

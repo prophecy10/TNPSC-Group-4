@@ -45,15 +45,36 @@ python tools/build_bank.py
 
 This writes `data/gen_*.json` and checks every question: 4 distinct options, a valid answer, unique IDs, known topics, and no garbled text. **Do not edit `data/gen_*.json` by hand**, because the next build overwrites it.
 
-### 3. Test locally
+### 3. Add the English version (General Studies and Aptitude only)
+Part B questions also need an English version, so the site's **En** switch can show them. Part A (Tamil) questions stay Tamil-only.
+
+Add an entry to any file in `tools/staging_en/`, keyed by the question's ID (the build prints IDs into `data/gen_*.json`; new questions are `NEW-GS-U<unit>-<n>` or `NEW-AP-U<unit>-<n>`):
+
+```json
+"NEW-GS-U4-1501": {
+  "q": "In which Part of the Constitution are the Fundamental Rights found?",
+  "o": ["Part II", "Part III", "Part IV", "Part IV-A"],
+  "e": "Fundamental Rights are in Part III (Articles 12–35). Part IV – Directive Principles; IV-A – Fundamental Duties."
+}
+```
+
+Keep the options **in the same order** as the Tamil options. After checking the translation, run:
+
+```bash
+python tools/build_bank.py --stamp
+```
+
+`--stamp` records a fingerprint of the Tamil question in the English entry (`"h"`). If someone later changes the Tamil question, options or answer, the build fails until the English version is re-checked. To re-check it, delete its `"h"` and run `--stamp` again.
+
+### 4. Test locally
 
 ```bash
 python -m http.server 8000
 ```
 
-Open http://localhost:8000, find your topic in படிப்பு முறை (Study), and try your questions.
+Open http://localhost:8000, find your topic in படிப்பு முறை (Study), and try your questions. For Part B questions, switch to **En** and check the English version too.
 
-### 4. Open a pull request
+### 5. Open a pull request
 Explain which units you added to and the sources you used.
 
 ## Accuracy rules (please read)
@@ -66,7 +87,7 @@ Explain which units you added to and the sources you used.
 
 ## Code changes
 - Keep it a static site, so GitHub Pages can serve it without a build step.
-- Store progress in `localStorage` only. No tracking, no backend.
+- Store progress in `localStorage` only. No backend, and no tracking beyond the optional cookie-free visit counter in `js/config.js`.
 - Check the layout on a phone-sized screen before submitting.
 
 ## License
