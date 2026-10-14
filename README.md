@@ -1,5 +1,9 @@
 # TNPSC குரூப் 4 — தேர்வுப் பயிற்சி (Quiz App)
 
+**▶ Open the site: https://prophecy10.github.io/TNPSC-Group-4/** (works on phone and desktop, no sign-up)
+
+Contributions are welcome: new questions, corrections and app improvements. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 A mobile-friendly, fully client-side quiz site for the TNPSC Group 4 exam (CCSE-IV, Notification 11/2026, exam on 10 Jan 2027).
 All questions are in Tamil. Progress is stored only in the browser (localStorage). There is no backend and no tracking.
 
@@ -37,6 +41,28 @@ python -m http.server 8000
 ```
 
 Then open http://localhost:8000.
+
+## Contributing
+- **Found a wrong answer?** [Open an issue](https://github.com/prophecy10/TNPSC-Group-4/issues) with the question ID (shown in `data/gen_*.json`) and a source.
+- **Want to add questions?** Write them in `tools/staging/`, then run `python tools/build_bank.py` and open a pull request.
+
+Full guide, question format and accuracy rules: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Project structure
+```
+TNPSC-Quiz/
+├── index.html, css/, js/       # the app (static, no build step)
+├── data/
+│   ├── gen_*.json              # generated question files (do not edit by hand)
+│   ├── _taxonomy.json          # allowed topics per syllabus unit
+│   ├── _coverage.json          # question count vs target per unit
+│   └── manifest.json           # list of files the app loads
+├── tools/
+│   ├── build_bank.py           # build + validate the bank
+│   └── staging/*.json          # editable question sources
+├── HELD_BACK.md                # past-paper questions left out, with reasons
+└── CONTRIBUTING.md
+```
 
 ## Hosting
 The site is served by GitHub Pages from the `main` branch root (`.nojekyll` is included).
