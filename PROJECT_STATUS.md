@@ -1,10 +1,10 @@
 # TNPSC Group 4 Quiz — Project Status
 
-_Last updated: 2026-10-14_
+_Last updated: 2026-10-17_
 
 Exam: TNPSC CCSE-IV (Group 4), Notification 11/2026, on **10 Jan 2027**. Repo: `github.com/prophecy10/TNPSC-Group-4` (GitHub Pages).
 
-## Question bank: 900 questions (Tamil; 501 Part B questions also in English)
+## Question bank: 939 questions (Tamil; 523 Part B questions also in English)
 - **Past papers 2022 / 2024 / 2025:** ticked answers were re-verified. Wrong ticks and misprints were corrected, with a note in the explanation (for example 2024 Q148 and Q154, and 2022 Q105, Q107 and Q171). 48 unfixable questions are left out and listed in `HELD_BACK.md`.
 - **New questions:** written from the Samacheer textbooks and the official syllabus. GS facts were cross-checked against the English-medium Class 8–10 textbook text. Every aptitude and reasoning answer was recomputed in Python.
 - **Final review on 2026-10-14:** all 799 question/answer pairs were re-read, and an automatic consistency check was run. Two questions with now-outdated textbook figures and one time-sensitive amount were removed.
@@ -13,6 +13,8 @@ Exam: TNPSC CCSE-IV (Group 4), Notification 11/2026, on **10 Jan 2027**. Repo: `
 - **English versions:** every GS and aptitude question has an English version in `tools/staging_en/`, fingerprinted against the Tamil source (`build_bank.py --stamp`).
 
 Per-unit counts are in `data/_coverage.json`. Run `python tools/build_bank.py` to rebuild.
+
+- **2026-10-17 additions (39):** 22 GS Unit 6 questions (archaeology, Sangam polities, Tamil literary history, Thirukkural, freedom struggle, social reform) with English versions; 15 Tamil Unit 3 (மரபு, வாக்கிய வகைகள், தன்வினை/பிறவினை, நிறுத்தற்குறிகள், வினா அமைத்தல்); 2 Tamil Unit 4 technical terms. Every unit is now at or above its coverage target.
 
 ## App
 - Study, Quick Test (25 questions, 22½ min) and Full Test (200 questions, 3-hour countdown, auto-submits).
@@ -27,5 +29,5 @@ Per-unit counts are in `data/_coverage.json`. Run `python tools/build_bank.py` t
 - Optional private visit counter: set `GOATCOUNTER_CODE` in `js/config.js`.
 
 ## Next ideas
-- Fill the remaining thin units: Tamil U3 writing skills, GS U4 polity, U6 TN history, U2 geography.
+- All units meet their targets; next, deepen exam-style (statement / match / assertion-reason) questions in GS U6 and Tamil U3.
 - Before each exam cycle, recheck the questions tagged `is_current_affairs`.

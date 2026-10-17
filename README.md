@@ -5,7 +5,7 @@
 A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on phone and desktop, with no sign-up and no ads.
 
 - Built for **Notification 11/2026** (exam on **10 January 2027**), following its official syllabus.
-- **900 questions in Tamil.** The 501 Part B questions (General Studies and Aptitude) also have an **English version**; switch with the **த / En** button. Each question has a detailed explanation of why the answer is right and why the other options are wrong.
+- **939 questions in Tamil.** The 523 Part B questions (General Studies and Aptitude) also have an **English version**; switch with the **த / En** button. Each question has a detailed explanation of why the answer is right and why the other options are wrong.
 - Your progress stays only in your own browser; nothing you answer is uploaded. The site may count visits with [GoatCounter](https://www.goatcounter.com/), which uses no cookies and collects no personal data.
 
 > This project was built with **[Claude Code](https://claude.com/claude-code)** (Anthropic's AI coding assistant), guided and reviewed by the repo owner. That covers the app, the transcription of past papers, the new questions, and the answer checking.
