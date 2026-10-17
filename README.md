@@ -17,6 +17,7 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | Section | What it does |
 |---|---|
 | **த / En (Language)** | The switch at the top of the screen changes the whole site, and the Part B questions (General Studies and Aptitude), to Tamil or English. The site remembers your choice. Part A (Tamil) questions always stay in Tamil, as in the real exam, so the switch is hidden while one is showing. |
+| 🗓️ **இன்றைய 10 (Today's 10)** | 10 new questions every day (5 Tamil, 4 GS, 1 aptitude), the **same set for everyone** that day, with instant explanations. Your first attempt is recorded and builds a **🔥 day streak**. |
 | 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. Leaving returns you to the topic list. |
 | ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
 | 📝 **முழுத் தேர்வு (Full Test)** | A full **200-question mock exam**: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown** and submits automatically when time runs out. You can skip a question and come back to it. |
@@ -26,6 +27,8 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | ★ **அடையாளமிட்டவை (Bookmarks)** | Tap ☆ on any question to save it for revision. |
 | 🎯 **பலவீனப் பகுதிகள் (Weak areas)** | Your accuracy for each topic, weakest first, so you know what to study next. |
 | 📊 **முந்தைய மதிப்பெண்கள் (History)** | Your past test scores with date and time taken. An unfinished test can be **resumed**. |
+| 📤 **Share score** | Share a score card image on WhatsApp or any app, with a link to the site. |
+| 📲 **Install & offline** | Install it like an app from the browser. After the first visit, the whole site and question bank work **without internet**. |
 
 ---
 

@@ -21,6 +21,9 @@ Per-unit counts are in `data/_coverage.json`. Run `python tools/build_bank.py` t
 - Also: resume, mistakes and bookmarks review, weak-area dashboard, score history.
 - Tamil / English switch (top of the screen): changes the whole interface and the Part B questions; Part A Tamil questions stay in Tamil. The choice is saved in the browser.
 - Leaving a topic-wise (Study) quiz returns to the topic list.
+- Today's 10: a date-seeded set of 10 (5 Tamil, 4 GS, 1 aptitude), the same for everyone each day; first attempt recorded; day streak.
+- Share score: canvas score card shared through the phone's share sheet, or WhatsApp + image download on desktop.
+- Installable and offline (PWA): `manifest.webmanifest` + `sw.js` cache the app and the full bank; files refresh in the background.
 - Optional private visit counter: set `GOATCOUNTER_CODE` in `js/config.js`.
 
 ## Next ideas

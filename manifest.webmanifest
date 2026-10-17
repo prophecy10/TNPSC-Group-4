@@ -1,0 +1,17 @@
+{
+  "name": "TNPSC குரூப் 4 — தேர்வுப் பயிற்சி",
+  "short_name": "குரூப் 4",
+  "description": "Free TNPSC Group 4 (CCSE-IV) practice: 900 questions, mock tests, daily 10. Works offline.",
+  "lang": "ta",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6f8",
+  "theme_color": "#0b7285",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
