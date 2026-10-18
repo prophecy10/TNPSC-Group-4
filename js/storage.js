@@ -74,13 +74,33 @@ const Store = (() => {
   function getLang(){ try{ return localStorage.getItem(KEY_LANG)==='en' ? 'en' : 'ta'; }catch(e){ return 'ta'; } }
   function setLang(l){ try{ localStorage.setItem(KEY_LANG, l); }catch(e){} }
 
-  function clearAll(){ [KEY_HIST,KEY_RESUME,KEY_WRONG,KEY_MARK,KEY_STATS].forEach(k=>localStorage.removeItem(k)); }
+  /* ---- Daily 10: first attempt per day counts; streak = consecutive days done ---- */
+  const KEY_DAILY = 'tnpsc_g4_daily_v1';     // { 'YYYY-MM-DD': {score, total} }
+  function allDaily(){ return _get(KEY_DAILY, {}); }
+  function getDaily(day){ return allDaily()[day] || null; }
+  function saveDaily(day, score, total){
+    const d = allDaily();
+    if(d[day]) return false;                 // keep the first attempt only
+    d[day] = {score, total};
+    // keep the last 400 days
+    const keys = Object.keys(d).sort(); while(keys.length>400) delete d[keys.shift()];
+    _set(KEY_DAILY, d); return true;
+  }
+  // Consecutive days up to today (or up to yesterday, if today isn't done yet — the streak is still alive)
+  function dailyStreak(today, prevDay){
+    const d = allDaily(); let day = d[today] ? today : prevDay(today), n = 0;
+    while(d[day]){ n++; day = prevDay(day); }
+    return n;
+  }
+
+  function clearAll(){ [KEY_HIST,KEY_RESUME,KEY_WRONG,KEY_MARK,KEY_STATS,KEY_DAILY].forEach(k=>localStorage.removeItem(k)); }
 
   return {
     allHistory, addHistory, clearHistory,
     saveResume, getResume, clearResume,
     allWrong, addWrong, removeWrong, clearWrong,
     allBookmarks, isBookmarked, toggleBookmark, clearBookmarks,
-    recordAnswer, topicStats, clearStats, getLang, setLang, clearAll
+    recordAnswer, topicStats, clearStats, getLang, setLang,
+    getDaily, saveDaily, dailyStreak, clearAll
   };
 })();
