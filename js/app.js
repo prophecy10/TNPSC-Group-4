@@ -196,7 +196,7 @@ function renderTopics(){
 
 /* ========== STUDY TIME (flashcards) ========== */
 let flash = null;      // data/flashcards.json, loaded on first use
-let fc = null;         // {subject, topic, idx, flipped}
+let fc = null;         // {subject, topic, idx}
 async function loadFlashcards(){
   if(flash) return flash;
   const res = await fetch('data/flashcards.json', {cache:'no-store'});
@@ -237,7 +237,7 @@ function findTopic(subject, topic){
   return null;
 }
 function openCards(subject, topic){
-  fc = {subject, topic, idx:0, flipped:false};
+  fc = {subject, topic, idx:0};
   show('learn-cards'); renderCard();
 }
 function renderCard(){
@@ -248,26 +248,19 @@ function renderCard(){
   $('#fc-meta').textContent = (en && hit.topic.name_en) ? hit.topic.name_en : hit.topic.name;
   const card = $('#fc-card');
   const title = fcField(c,'t'), body = fcField(c,'b')||'', ex = fcField(c,'x')||'';
-  if(!fc.flipped){
-    card.className = 'fc-card front';
-    card.innerHTML = `<div class="fc-title">${title}</div>
-      <div class="fc-hint">${T('👆 தட்டி விளக்கம் காண்க','👆 Tap to see the explanation')}</div>`;
-  } else {
-    card.className = 'fc-card';
-    card.innerHTML = `<div class="fc-title">${title}</div>
-      ${body ? `<div class="fc-body">${body}</div>` : ''}
-      ${ex ? `<div class="fc-ex"><b>${T('எடுத்துக்காட்டு','Example')}</b>${ex}</div>` : ''}`;
-  }
+  card.className = 'fc-card';
+  card.innerHTML = `<div class="fc-title">${title}</div>
+    ${body ? `<div class="fc-body">${body}</div>` : ''}
+    ${ex ? `<div class="fc-ex"><b>${T('எடுத்துக்காட்டு','Example')}</b>${ex}</div>` : ''}`;
   $('#fc-prev').textContent = T('← முந்தையது','← Previous');
   $('#fc-prev').style.visibility = fc.idx>0 ? 'visible' : 'hidden';
   $('#fc-next').textContent = fc.idx<n-1 ? T('அடுத்தது →','Next →') : T('தலைப்புகளுக்குத் திரும்பு','Back to topics');
   updateLangToggles();
 }
-function flipCard(){ fc.flipped = !fc.flipped; renderCard(); }
 function stepCard(d){
   const n = findTopic(fc.subject, fc.topic).topic.cards.length;
   if(d>0 && fc.idx===n-1){ renderLearnTopics(); show('learn-topics'); return; }
-  fc.idx = Math.max(0, Math.min(n-1, fc.idx+d)); fc.flipped = false; renderCard(); window.scrollTo(0,0);
+  fc.idx = Math.max(0, Math.min(n-1, fc.idx+d)); renderCard(); window.scrollTo(0,0);
 }
 
 /* ========== START MODES ========== */
@@ -641,8 +634,6 @@ async function init(){
   $('#share-btn').onclick = shareScore;
   $('#quiz-exit').onclick = exitQuiz;
   $('#learn-back').onclick = ()=>{ renderLearnTopics(); show('learn-topics'); };
-  $('#fc-card').onclick = flipCard;
-  $('#fc-card').onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); flipCard(); } };
   $('#fc-prev').onclick = ()=> stepCard(-1);
   $('#fc-next').onclick = ()=> stepCard(1);
   $('#back-topics').onclick = goTopics;
