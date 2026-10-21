@@ -6,9 +6,9 @@ const FULL_SECONDS = 3*60*60;           // 3 hours for 200 questions
 const PASS_FRACTION = 0.4;              // Part A Tamil: 40% (60 of 150) needed to qualify
 const SUBJ_LABELS = {tamil:'பகுதி அ – தமிழ்', general_studies:'பகுதி ஆ – பொது அறிவு', aptitude:'பகுதி இ – திறனறிவு'};
 const SUBJ_LABELS_EN = {tamil:'Part A – Tamil', general_studies:'Part B – General Studies', aptitude:'Part C – Aptitude'};
-const MODE_LABELS = {study:'படிப்பு முறை', quick:'விரைவுத் தேர்வு', full:'முழுத் தேர்வு',
+const MODE_LABELS = {study:'படிப்பு முறை', quick:'விரைவுத் தேர்வு', full:'முழுத் தேர்வு', daily:'இன்றைய 10',
                      review_wrong:'தவறுகள் மீள்பார்வை', review_marks:'அடையாளமிட்டவை'};
-const MODE_LABELS_EN = {study:'Study mode', quick:'Quick test', full:'Full test',
+const MODE_LABELS_EN = {study:'Study mode', quick:'Quick test', full:'Full test', daily:"Today's 10",
                         review_wrong:'Practise mistakes', review_marks:'Bookmarks'};
 
 let state = null;       // active quiz state
@@ -75,8 +75,20 @@ function fmtMarks(x){ return Number.isInteger(x) ? String(x) : x.toFixed(1); }
 // Same pace as the real exam: 3 hours for 200 questions (25 questions → 22½ minutes)
 function timeLimitFor(n){ return Math.round(FULL_SECONDS * n / 200); }
 
+/* ========== DATES (device-local, so "today" matches the user's clock) ========== */
+function dayStr(d){ return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; }
+function todayStr(){ return dayStr(new Date()); }
+function prevDay(s){ const [y,m,d] = s.split('-').map(Number); return dayStr(new Date(y, m-1, d-1)); }
+function daysToExam(){
+  const [y,m,d] = EXAM_DATE.split('-').map(Number);
+  const now = new Date(); const t0 = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  return Math.round((new Date(y, m-1, d) - t0) / 86400000);
+}
+const EXAM_DATE = '2027-01-10';   // Notification 11/2026
+
 /* ========== HOME ========== */
 function renderHome(){
+  renderDaily();
   renderResumeBanner();
   renderReviewButtons();
   renderDashboard();
@@ -98,6 +110,18 @@ function renderResumeBanner(){
     </div></div>`;
   $('#resume-yes').onclick = resumeTest;
   $('#resume-no').onclick = ()=>{ Store.clearResume(); renderResumeBanner(); };
+}
+
+function renderDaily(){
+  const today = todayStr(), rec = Store.getDaily(today), streak = Store.dailyStreak(today, prevDay);
+  const left = daysToExam();
+  const examLine = left > 0 ? T(` · தேர்வுக்கு ${left} நாள்`, ` · ${left} days to the exam`) : '';
+  $('#daily-card').classList.toggle('done', !!rec);
+  $('#daily-sub').textContent = rec
+    ? T(`இன்று முடித்தீர்கள்: ${rec.score}/${rec.total} · மீண்டும் பயிற்சி செய்யலாம்`, `Done today: ${rec.score}/${rec.total} · tap to practise again`)
+    : T('தினமும் 10 வினாக்கள் · உடனடி விளக்கம்', '10 questions a day · instant explanations') + examLine;
+  $('#daily-streak').textContent = streak ? `🔥 ${streak}` : T('தொடங்கு →', 'Start →');
+  $('#daily-streak').title = T('தொடர்ச்சியான நாட்கள்', 'Day streak');
 }
 
 function renderReviewButtons(){
@@ -264,6 +288,13 @@ function startStudy(topicKey, topicName, exclude){
   if(!qs.length){ alert(T('இந்தத் தலைப்பில் வினாக்கள் இல்லை.','There are no questions in this topic.')); return; }
   beginQuiz({mode:'study', questions:qs, reveal:true, topicName, timed:false});
   state._topicKey = topicKey; state._studied = (exclude||[]).concat(qs.map(q=>q.id));
+}
+function startDaily(){
+  const day = todayStr();
+  const qs = Bank.dailyQuestions(day);
+  if(!qs.length){ alert(T('வினாக்கள் ஏற்றப்படவில்லை.','Questions could not be loaded.')); return; }
+  beginQuiz({mode:'daily', questions:qs, reveal:true, timed:false});
+  state._day = day;
 }
 function startQuick(){ beginQuiz({mode:'quick', questions:Bank.quickTest(), reveal:false, timed:true}); }
 function startFull(){ beginQuiz({mode:'full', questions:Bank.fullTest(), reveal:false, timed:true}); }
@@ -450,6 +481,10 @@ function finishQuiz(){
   const total = qs.length;
   const marks = score*MARK_PER_Q, maxMarks = total*MARK_PER_Q;
   state._result = {isTest, score, skipped, total, parts};
+  if(state.mode==='daily'){
+    state._result.dailyFirst = Store.saveDaily(state._day, score, total);
+    state._result.streak = Store.dailyStreak(state._day, prevDay);
+  }
 
   Store.addHistory({
     mode: state.mode, topic: state.topicName||null, score, total,
@@ -490,7 +525,13 @@ function renderScoreCard(){
        <div class="score-pct">${T(`மதிப்பெண் · ${score}/${total} சரி (${pct}%)`, `Marks · ${score}/${total} correct (${pct}%)`)}${skipped?T(` · ${skipped} விடையளிக்கவில்லை`, ` · ${skipped} unanswered`):''}</div>`
     : `<div class="score-big">${score}<small>/${total}</small></div>
        <div class="score-pct">${T(`${pct}% சரியான விடைகள்`, `${pct}% correct answers`)}</div>`;
-  $('#score-card').innerHTML = `${big}${timeLine}${partRows}${qualifyHtml}<div class="score-msg">${msg}</div>`;
+  let dailyLine = '';
+  if(state.mode==='daily'){
+    const st = state._result.streak || 0;
+    dailyLine = `<div class="score-pct">${st ? T(`🔥 ${st} நாள் தொடர்ச்சி`, `🔥 ${st}-day streak`) : ''}${state._result.dailyFirst ? '' : T(' · இது மறுபயிற்சி (முதல் முயற்சியே பதிவாகும்)', ' · practice re-run (only your first attempt is recorded)')}</div>
+      <div class="score-pct">${T('நாளை புதிய 10 வினாக்கள்!', 'New 10 questions tomorrow!')}</div>`;
+  }
+  $('#score-card').innerHTML = `${big}${timeLine}${dailyLine}${partRows}${qualifyHtml}<div class="score-msg">${msg}</div>`;
 }
 
 // Answer review: every question with your answer, the correct answer and why
@@ -527,9 +568,52 @@ function renderReview(){
   });
 }
 
-/* ========== STUDY: extend / switch after a stretch ========== */
-function studyFollowUp(){
-  // Called from score screen when mode was study — offer more or switch
+/* ========== SHARE ========== */
+async function shareScore(){
+  if(!state || !state._result) return;
+  const {isTest, score, total, parts} = state._result;
+  const pct = Math.round(score/total*100);
+  const marks = score*MARK_PER_Q, maxMarks = total*MARK_PER_Q;
+  const left = daysToExam();
+  const modeName = state.mode==='study' && state.topicName ? `${modeLabel('study')} · ${state.topicName}` : modeLabel(state.mode);
+  const info = {
+    heading: T('TNPSC குரூப் 4 பயிற்சி', 'TNPSC Group 4 Practice'),
+    mode: modeName,
+    big: isTest ? fmtMarks(marks) : String(score),
+    small: '/' + (isTest ? fmtMarks(maxMarks) : String(total)),
+    line: isTest ? T(`${score}/${total} சரி (${pct}%)`, `${score}/${total} correct (${pct}%)`) : T(`${pct}% சரியான விடைகள்`, `${pct}% correct`),
+    rows: isTest ? ['tamil','general_studies','aptitude'].filter(s=>parts[s]).map(s=>[subjLabel(s), `${parts[s].correct}/${parts[s].n}`]) : [],
+    badge: state.mode==='daily' && state._result.streak ? T(`🔥 ${state._result.streak} நாள் தொடர்ச்சி`, `🔥 ${state._result.streak}-day streak`)
+         : (left>0 ? T(`தேர்வுக்கு ${left} நாள்`, `${left} days to the exam`) : ''),
+    cta: T('நீங்களும் முயற்சி செய்யுங்கள் 👇', 'Try it yourself 👇'),
+    accent: pct>=60 ? '#2b8a3e' : pct>=40 ? '#0b7285' : '#c92a2a'
+  };
+  const text = state.mode==='daily'
+    ? T(`இன்றைய TNPSC குரூப் 4 – 10 வினாக்களில் ${score} சரி! உங்களால் முடியுமா? 💪`, `Today's TNPSC Group 4 daily 10: I got ${score}/10. Can you beat it? 💪`)
+    : isTest
+      ? T(`TNPSC குரூப் 4 ${modeLabel(state.mode)}: ${fmtMarks(marks)}/${fmtMarks(maxMarks)} மதிப்பெண். இலவசமாகப் பயிற்சி செய்யுங்கள் 👇`, `TNPSC Group 4 ${modeLabel(state.mode)}: ${fmtMarks(marks)}/${fmtMarks(maxMarks)} marks. Practise free 👇`)
+      : T(`TNPSC குரூப் 4 பயிற்சியில் ${score}/${total} சரி. இலவசமாகப் பயிற்சி செய்யுங்கள் 👇`, `I got ${score}/${total} in TNPSC Group 4 practice. Practise free 👇`);
+  const btn = $('#share-btn'); btn.disabled = true;
+  try { await Share.share(info, text); } finally { btn.disabled = false; }
+}
+
+/* ========== OFFLINE + INSTALL ========== */
+let installEvt = null;
+function setupPwa(){
+  if('serviceWorker' in navigator && location.protocol !== 'file:'){
+    const reg = ()=> navigator.serviceWorker.register('sw.js').catch(()=>{});
+    if(document.readyState==='complete') reg(); else window.addEventListener('load', reg);
+  }
+  window.addEventListener('beforeinstallprompt', e=>{
+    e.preventDefault(); installEvt = e; $('#install-btn').style.display = 'flex';
+  });
+  window.addEventListener('appinstalled', ()=>{ installEvt = null; $('#install-btn').style.display = 'none'; });
+  $('#install-btn').onclick = async ()=>{
+    if(!installEvt) return;
+    installEvt.prompt();
+    try { await installEvt.userChoice; } catch(e){}
+    installEvt = null; $('#install-btn').style.display = 'none';
+  };
 }
 
 /* ========== WIRING ========== */
@@ -540,6 +624,7 @@ function exitQuiz(){ if(state && state.mode==='study') goTopics(); else goHome()
 
 async function init(){
   applyStaticText();
+  setupPwa();
   await Bank.load();
   renderHome();
 
@@ -552,6 +637,8 @@ async function init(){
       else if(m==='full') startFull();
     };
   });
+  $('#daily-card').onclick = startDaily;
+  $('#share-btn').onclick = shareScore;
   $('#quiz-exit').onclick = exitQuiz;
   $('#learn-back').onclick = ()=>{ renderLearnTopics(); show('learn-topics'); };
   $('#fc-card').onclick = flipCard;

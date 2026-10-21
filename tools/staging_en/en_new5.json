@@ -1,0 +1,244 @@
+{
+ "NEW-GS-U6-1527": {
+  "q": "The Adichanallur archaeological site is on the banks of which river?",
+  "o": [
+   "Vaigai",
+   "Thamirabarani",
+   "Kaveri",
+   "Palar"
+  ],
+  "e": "Adichanallur is in Thoothukudi district on the banks of the Thamirabarani; burial urns (mudhumakkal thazhi) were found there. Keezhadi (Sivagangai district) is on the Vaigai.",
+  "h": "7bbf0ad8d268"
+ },
+ "NEW-GS-U6-1528": {
+  "q": "Which archaeological site near Puducherry has yielded evidence of trade with the Romans?",
+  "o": [
+   "Arikamedu",
+   "Kodumanal",
+   "Uraiyur",
+   "Keezhadi"
+  ],
+  "e": "Arikamedu near Puducherry was an Indo-Roman trading port; Mortimer Wheeler excavated it in 1945 and found Roman (Arretine) pottery, beads and more. Kodumanal is in Erode district, Uraiyur in Tiruchirappalli and Keezhadi in Sivagangai district.",
+  "h": "abce00209746"
+ },
+ "NEW-GS-U6-1529": {
+  "q": "The famous port of the Sangam-age Cholas was",
+  "o": [
+   "Korkai",
+   "Musiri",
+   "Kaveripoompattinam (Puhar)",
+   "Thondi"
+  ],
+  "e": "The Chola port was Kaveripoompattinam (Puhar); their capital was Uraiyur. Korkai was the Pandya port; Musiri and Thondi were Chera ports.",
+  "h": "6112c04bda42"
+ },
+ "NEW-GS-U6-1530": {
+  "q": "The capital of the Sangam-age Cheras was",
+  "o": [
+   "Vanji",
+   "Madurai",
+   "Uraiyur",
+   "Kanchi"
+  ],
+  "e": "The Chera capital was Vanji (identified with present-day Karur). Madurai – Pandyas; Uraiyur – Cholas; Kanchi – the later Pallava capital.",
+  "h": "0d742d2b2601"
+ },
+ "NEW-GS-U6-1531": {
+  "q": "A stone erected in memory of a warrior who died in battle is called",
+  "o": [
+   "Milestone",
+   "Nadukal (hero stone)",
+   "Grinding stone",
+   "Boundary stone"
+  ],
+  "e": "A stone set up in memory of a warrior killed in battle is a nadukal (hero stone); Tolkappiyam and Sangam literature describe hero-stone worship.",
+  "h": "863c9c9ef6a4"
+ },
+ "NEW-GS-U6-1532": {
+  "q": "'Neithal' land refers to",
+  "o": [
+   "Mountains and the land around them",
+   "Forests and the land around them",
+   "Fields and the land around them",
+   "The sea and the land around it"
+  ],
+  "e": "Neithal – the sea and the coastal land around it. Kurinji – mountains; Mullai – forest; Marutham – fields; Palai – parched, sandy land.",
+  "h": "e56fff7fc09f"
+ },
+ "NEW-GS-U6-1533": {
+  "q": "The oldest extant grammar work in Tamil is",
+  "o": [
+   "Nannool",
+   "Tolkappiyam",
+   "Yapparungalak Karigai",
+   "Thandiyalangaram"
+  ],
+  "e": "Tolkappiyam by Tolkappiyar is the oldest Tamil grammar available today (three sections: Ezhuthu, Sol, Porul). Nannool – Pavanandhi Munivar (later); Yapparungalak Karigai – Amithasagarar; Thandiyalangaram – Thandi.",
+  "h": "8eec8f7f280e"
+ },
+ "NEW-GS-U6-1534": {
+  "q": "The author of the epic Manimekalai is",
+  "o": [
+   "Ilango Adigal",
+   "Thiruthakkadevar",
+   "Seethalai Sathanar",
+   "Kambar"
+  ],
+  "e": "Manimekalai – Seethalai Sathanar. Silappathikaram – Ilango Adigal; Seevaka Sinthamani – Thiruthakkadevar; Kambaramayanam – Kambar. Silappathikaram and Manimekalai are called the 'twin epics'.",
+  "h": "b36f83c7feab"
+ },
+ "NEW-GS-U6-1535": {
+  "q": "Which of these is NOT one of the Five Great Epics (Aimperumkappiyangal)?",
+  "o": [
+   "Seevaka Sinthamani",
+   "Valayapathi",
+   "Kundalakesi",
+   "Perungathai"
+  ],
+  "e": "The Five Great Epics are Silappathikaram, Manimekalai, Seevaka Sinthamani, Valayapathi and Kundalakesi. Perungathai (by Konguvelir) is not among them.",
+  "h": "570ebb733204"
+ },
+ "NEW-GS-U6-1536": {
+  "q": "'Periya Puranam' (Thiruthondar Puranam) was written by",
+  "o": [
+   "Sekkizhar",
+   "Nambiyandar Nambi",
+   "Manikkavasagar",
+   "Sundarar"
+  ],
+  "e": "Periya Puranam, the lives of the 63 Nayanmars, was written by Sekkizhar (time of Kulothunga Chola II). Nambiyandar Nambi compiled the Thirumurai; Thiruvasagam – Manikkavasagar.",
+  "h": "1fbd4de3db31"
+ },
+ "NEW-GS-U6-1537": {
+  "q": "How many chapters (adhikarams) are there in the Porutpal of the Thirukkural?",
+  "o": [
+   "38",
+   "70",
+   "25",
+   "133"
+  ],
+  "e": "Thirukkural has 133 chapters and 1330 couplets: Arathuppal 38, Porutpal 70 and Kamathuppal (Inbathuppal) 25 chapters (38 + 70 + 25 = 133).",
+  "h": "f2371ccdbf30"
+ },
+ "NEW-GS-U6-1538": {
+  "q": "The total height (with pedestal) of the Thiruvalluvar statue at Kanyakumari is",
+  "o": [
+   "100 feet",
+   "108 feet",
+   "133 feet",
+   "150 feet"
+  ],
+  "e": "The Thiruvalluvar statue at Kanyakumari is 133 feet tall in all, for the Kural's 133 chapters: a 38-foot pedestal (Arathuppal's 38 chapters) and a 95-foot statue. It was unveiled on 1 January 2000.",
+  "h": "0be1cc51f824"
+ },
+ "NEW-GS-U6-1539": {
+  "q": "Who translated the Arathuppal and Porutpal of the Thirukkural into Latin?",
+  "o": [
+   "G.U. Pope",
+   "Veeramamunivar",
+   "Caldwell",
+   "Ziegenbalg"
+  ],
+  "e": "Veeramamunivar (Constantine Joseph Beschi) translated the first two parts of the Kural into Latin. G.U. Pope translated it into English; Caldwell wrote 'A Comparative Grammar of the Dravidian Languages'; Ziegenbalg set up a printing press at Tharangambadi.",
+  "h": "8cf28afd5f21"
+ },
+ "NEW-GS-U6-1540": {
+  "q": "The Vellore Mutiny took place in",
+  "o": [
+   "1799",
+   "1801",
+   "1806",
+   "1857"
+  ],
+  "e": "On 10 July 1806 Indian sepoys revolted in Vellore Fort; new rules on uniform and headgear were the immediate cause. 1799 – Kattabomman hanged; 1801 – the Marudhu brothers hanged; 1857 – the Great Revolt.",
+  "h": "4a78219c5970"
+ },
+ "NEW-GS-U6-1541": {
+  "q": "Who led the 1930 salt satyagraha march from Tiruchirappalli to Vedaranyam?",
+  "o": [
+   "Rajaji",
+   "V.O. Chidambaranar",
+   "Kamaraj",
+   "Sathyamurthy"
+  ],
+  "e": "Following Gandhiji's Dandi March, Rajaji (C. Rajagopalachari) led a salt satyagraha march from Tiruchirappalli to Vedaranyam in 1930 and broke the salt law.",
+  "h": "42e186ba281e"
+ },
+ "NEW-GS-U6-1542": {
+  "q": "Who is honoured as 'Kodi Kaatha Kumaran' (Kumaran who saved the flag)?",
+  "o": [
+   "Vanchinathan",
+   "Tiruppur Kumaran",
+   "Subramaniya Siva",
+   "Chempakaraman"
+  ],
+  "e": "In January 1932, during the Civil Disobedience Movement, Tiruppur Kumaran was beaten in a police lathi charge on a procession in Tiruppur but died still holding the national flag, so he is called 'Kodi Kaatha Kumaran'.",
+  "h": "559d3a3d0017"
+ },
+ "NEW-GS-U6-1543": {
+  "q": "In 1911, Tirunelveli Collector Ashe was shot dead at Maniyachi railway station by",
+  "o": [
+   "Vanchinathan",
+   "Neelakanta Brahmachari",
+   "V.V.S. Aiyar",
+   "Subramaniya Siva"
+  ],
+  "e": "On 17 June 1911 Vanchinathan shot Collector Robert Ashe at Maniyachi railway station and then took his own life. Ashe had played a part in crushing V.O.C.'s shipping company.",
+  "h": "23f069247dad"
+ },
+ "NEW-GS-U6-1544": {
+  "q": "Puli Thevar, one of the earliest palayakkarars to resist the British, belonged to which palayam?",
+  "o": [
+   "Panchalankurichi",
+   "Sivagangai",
+   "Nerkattumseval",
+   "Ramanathapuram"
+  ],
+  "e": "Puli Thevar was the palayakkarar of Nerkattumseval (in present-day Tenkasi district). Panchalankurichi – Veerapandiya Kattabomman; Sivagangai – Velu Nachiyar and the Marudhu brothers.",
+  "h": "c3f3150c7dd8"
+ },
+ "NEW-GS-U6-1545": {
+  "q": "The South Indian Liberal Federation (Justice Party) was founded in",
+  "o": [
+   "1909",
+   "1916",
+   "1920",
+   "1925"
+  ],
+  "e": "Dr T.M. Nair, P. Theagaraya Chetty, C. Natesanar and others founded the South Indian Liberal Federation in 1916; it was called the Justice Party after its paper 'Justice'. 1920 – the Justice Party formed its first ministry; 1925 – the Self-Respect Movement.",
+  "h": "ee05e4eb16c5"
+ },
+ "NEW-GS-U6-1546": {
+  "q": "Who is called 'Vaikom Veerar' (Hero of Vaikom)?",
+  "o": [
+   "E.V. Ramasamy (Periyar)",
+   "Rettaimalai Srinivasan",
+   "Iyothee Thass",
+   "Thiru. Vi. Kalyanasundaranar"
+  ],
+  "e": "Periyar is called 'Vaikom Veerar' for joining, and being jailed in, the 1924–25 Vaikom struggle in Kerala for the right of oppressed castes to use the temple streets.",
+  "h": "81ddfaace6e9"
+ },
+ "NEW-GS-U6-1547": {
+  "q": "Where did Ramalinga Adigal (Vallalar) set up the 'Sathya Dharma Salai' to feed the hungry?",
+  "o": [
+   "Chidambaram",
+   "Vadalur",
+   "Marudur",
+   "Karunguzhi"
+  ],
+  "e": "Vallalar founded the Sathya Dharma Salai at Vadalur in 1867; the hearth he lit is said to be burning still. He was born at Marudur; the Sathya Gnana Sabha is also at Vadalur.",
+  "h": "b26401c21f61"
+ },
+ "NEW-GS-U6-1548": {
+  "q": "E.V. Ramasamy was given the title 'Periyar' at",
+  "o": [
+   "The 1929 Chengalpattu Self-Respect Conference",
+   "The 1938 Tamil Nadu Women's Conference in Chennai",
+   "The 1944 Salem Justice Party Conference",
+   "The 1925 Kanchipuram Congress Conference"
+  ],
+  "e": "At the Tamil Nadu Women's Conference in Chennai in November 1938, E.V.R. was given the title 'Periyar'. 1929 – the first Self-Respect Conference at Chengalpattu; 1944 – at Salem the Justice Party became the Dravidar Kazhagam; 1925 – Periyar walked out of the Kanchipuram Congress conference.",
+  "h": "7d710322f5a7"
+ }
+}

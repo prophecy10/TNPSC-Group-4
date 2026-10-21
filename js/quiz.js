@@ -111,6 +111,41 @@ const Bank = (() => {
     return shuffle(qs).map(shuffleOptions);
   }
 
+  /* ---- Daily 10: the same 10 questions for everyone on a given date ----
+     Mix follows the exam's 100 : 75 : 25 split → 5 Tamil, 4 GS, 1 aptitude.
+     Pools are sorted by id first, so the pick depends only on the date and the bank. */
+  const DAILY_MIX = { tamil:5, general_studies:4, aptitude:1 };
+  function seededRng(str){
+    let h = 1779033703 ^ str.length;                     // string → 32-bit seed
+    for (let i=0;i<str.length;i++){ h = Math.imul(h ^ str.charCodeAt(i), 3432918353); h = h<<13 | h>>>19; }
+    let a = h >>> 0;
+    return () => {                                       // mulberry32
+      a |= 0; a = a + 0x6D2B79F5 | 0;
+      let t = Math.imul(a ^ a>>>15, 1 | a);
+      t = t + Math.imul(t ^ t>>>7, 61 | t) ^ t;
+      return ((t ^ t>>>14) >>> 0) / 4294967296;
+    };
+  }
+  function seededShuffle(arr, rnd){
+    const a = arr.slice();
+    for (let i=a.length-1;i>0;i--){ const j=Math.floor(rnd()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; }
+    return a;
+  }
+  function dailyQuestions(day){
+    const rnd = seededRng('tnpsc-g4-daily:'+day);
+    let qs = [];
+    for (const [subj, n] of Object.entries(DAILY_MIX)){
+      const pool = (loaded[subj]||[]).slice().sort((x,y)=> x.id<y.id?-1:x.id>y.id?1:0);
+      qs = qs.concat(seededShuffle(pool, rnd).slice(0, n));
+    }
+    return seededShuffle(qs, rnd).map(q=>{
+      const order = seededShuffle([0,1,2,3].slice(0, q.options_ta.length), rnd);
+      const out = {...q, options_ta:order.map(i=>q.options_ta[i]), answer_index:order.indexOf(q.answer_index)};
+      if (q.options_en) out.options_en = order.map(i=>q.options_en[i]);
+      return out;
+    });
+  }
+
   // Look up a single question by id across all subjects (for resume)
   function byId(id){
     for (const s of ['tamil','general_studies','aptitude']){
@@ -130,6 +165,6 @@ const Bank = (() => {
     let n=0; for(const s of ['tamil','general_studies','aptitude']) n+=(loaded[s]||[]).length; return n;
   }
 
-  return { load, topics, studyQuestions, quickTest, fullTest, shuffleOptions,
+  return { load, topics, studyQuestions, quickTest, fullTest, dailyQuestions, shuffleOptions,
            byId, reviewQuestions, countAll, _w:{WEIGHT_FULL,WEIGHT_QUICK} };
 })();

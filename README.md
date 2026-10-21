@@ -5,7 +5,7 @@
 A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on phone and desktop, with no sign-up and no ads.
 
 - Built for **Notification 11/2026** (exam on **10 January 2027**), following its official syllabus.
-- **900 questions in Tamil.** The 501 Part B questions (General Studies and Aptitude) also have an **English version**; switch with the **த / En** button. Each question has a detailed explanation of why the answer is right and why the other options are wrong.
+- **939 questions in Tamil.** The 523 Part B questions (General Studies and Aptitude) also have an **English version**; switch with the **த / En** button. Each question has a detailed explanation of why the answer is right and why the other options are wrong.
 - Your progress stays only in your own browser; nothing you answer is uploaded. The site may count visits with [GoatCounter](https://www.goatcounter.com/), which uses no cookies and collects no personal data.
 
 > This project was built with **[Claude Code](https://claude.com/claude-code)** (Anthropic's AI coding assistant), guided and reviewed by the repo owner. That covers the app, the transcription of past papers, the new questions, and the answer checking.
@@ -17,6 +17,7 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | Section | What it does |
 |---|---|
 | **த / En (Language)** | The switch at the top of the screen changes the whole site, and the Part B questions (General Studies and Aptitude), to Tamil or English. The site remembers your choice. Part A (Tamil) questions always stay in Tamil, as in the real exam, so the switch is hidden while one is showing. |
+| 🗓️ **இன்றைய 10 (Today's 10)** | 10 new questions every day (5 Tamil, 4 GS, 1 aptitude), the **same set for everyone** that day, with instant explanations. Your first attempt is recorded and builds a **🔥 day streak**. |
 | 📖 **படிப்பு நேரம் (Study time)** | Every topic of the official syllabus, unit by unit, with **flashcards**: tap a card to see the explanation and an example. 300+ cards written from the Samacheer textbooks and facts already checked in the question bank. |
 | 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. Leaving returns you to the topic list. |
 | ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
@@ -27,6 +28,8 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | ★ **அடையாளமிட்டவை (Bookmarks)** | Tap ☆ on any question to save it for revision. |
 | 🎯 **பலவீனப் பகுதிகள் (Weak areas)** | Your accuracy for each topic, weakest first, so you know what to study next. |
 | 📊 **முந்தைய மதிப்பெண்கள் (History)** | Your past test scores with date and time taken. An unfinished test can be **resumed**. |
+| 📤 **Share score** | Share a score card image on WhatsApp or any app, with a link to the site. |
+| 📲 **Install & offline** | Install it like an app from the browser. After the first visit, the whole site and question bank work **without internet**. |
 
 ---
 

@@ -4,11 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="theme-color" content="#0b7285">
+<meta name="description" content="TNPSC Group 4 (CCSE-IV) free practice: 930+ questions with explanations, mock tests, daily 10. Tamil & English. Works offline.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="குரூப் 4">
 <title>TNPSC குரூப் 4 — பயிற்சி</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css?v=20261021a">
+<link rel="stylesheet" href="css/style.css?v=20261021b">
 </head>
 <body>
 <div id="app">
@@ -23,6 +29,15 @@
   <main id="home" class="screen active">
     <!-- Resume banner (shown only if an unfinished test exists) -->
     <div id="resume-banner" style="display:none"></div>
+
+    <!-- Daily 10 -->
+    <button class="daily-card" id="daily-card">
+      <span class="daily-left">
+        <span class="daily-title" data-en="🗓️ Today's 10">🗓️ இன்றைய 10</span>
+        <span class="daily-sub" id="daily-sub"></span>
+      </span>
+      <span class="daily-right" id="daily-streak"></span>
+    </button>
 
     <div class="mode-grid">
       <button class="mode-card" data-mode="learn">
@@ -63,6 +78,11 @@
 
     <!-- Weak-area dashboard (shown once there are stats) -->
     <section id="dashboard" class="dashboard"></section>
+
+    <!-- Install as an app (shown only when the browser offers it) -->
+    <button class="install-card" id="install-btn" style="display:none">
+      <span>📲</span><span data-en="Install as an app · works offline">செயலியாக நிறுவுக · இணையம் இல்லாமலும் இயங்கும்</span>
+    </button>
 
     <section class="history-section">
       <h2 data-en="📊 Previous scores">📊 முந்தைய மதிப்பெண்கள்</h2>
@@ -118,15 +138,17 @@
     <div id="score-card" class="score-card"></div>
     <div id="explanations" class="explanations"></div>
     <div class="score-actions">
+      <button class="btn-share" id="share-btn" data-en="📤 Share score">📤 மதிப்பெண்ணைப் பகிர்</button>
       <button class="btn-ghost" id="back-topics" style="display:none" data-en="📚 Topics">📚 தலைப்புகள்</button>
       <button class="btn-primary" data-back="home" data-en="🏠 Home">🏠 முகப்பு</button>
     </div>
   </section>
 </div>
 
-<script src="js/config.js?v=20261021a"></script>
-<script src="js/storage.js?v=20261021a"></script>
-<script src="js/quiz.js?v=20261021a"></script>
-<script src="js/app.js?v=20261021a"></script>
+<script src="js/config.js?v=20261021b"></script>
+<script src="js/storage.js?v=20261021b"></script>
+<script src="js/quiz.js?v=20261021b"></script>
+<script src="js/share.js?v=20261021b"></script>
+<script src="js/app.js?v=20261021b"></script>
 </body>
 </html>
