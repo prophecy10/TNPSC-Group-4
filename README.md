@@ -17,6 +17,7 @@ A free practice website for the **TNPSC Group 4 exam (CCSE-IV)**. It works on ph
 | Section | What it does |
 |---|---|
 | **த / En (Language)** | The switch at the top of the screen changes the whole site, and the Part B questions (General Studies and Aptitude), to Tamil or English. The site remembers your choice. Part A (Tamil) questions always stay in Tamil, as in the real exam, so the switch is hidden while one is showing. |
+| 📖 **படிப்பு நேரம் (Study time)** | Every topic of the official syllabus, unit by unit, with **flashcards**: tap a card to see the explanation and an example. 300+ cards written from the Samacheer textbooks and facts already checked in the question bank. |
 | 📚 **படிப்பு முறை (Study)** | Pick a topic (Tamil grammar, Polity, Aptitude and so on) and answer one question at a time. You see right or wrong **immediately**, with the explanation. Up to 25 questions per session. Leaving returns you to the topic list. |
 | ⚡ **விரைவுத் தேர்வு (Quick Test)** | 25 questions in the same subject mix as the real exam, in **22½ minutes**. Answers are shown at the end. |
 | 📝 **முழுத் தேர்வு (Full Test)** | A full **200-question mock exam**: Tamil 100, General Studies 75, Aptitude 25. It has a **3-hour countdown** and submits automatically when time runs out. You can skip a question and come back to it. |
@@ -89,7 +90,8 @@ Then open http://localhost:8000.
 ├── tools/
 │   ├── build_bank.py         # builds and validates the question bank
 │   ├── staging/*.json        # editable question sources (Tamil): add questions here
-│   └── staging_en/*.json     # English versions of Part B questions
+│   ├── staging_en/*.json     # English versions of Part B questions
+│   └── cards/*.json          # Study-time flashcards, by syllabus topic
 └── CONTRIBUTING.md           # detailed contribution guide
 ```
 

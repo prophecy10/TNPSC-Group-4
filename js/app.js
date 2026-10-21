@@ -43,8 +43,9 @@ function updateLangToggles(){
   const onScore = $('#score').classList.contains('active');
   const q = state && $('#quiz').classList.contains('active') ? state.questions[state.idx] : null;
   const partB = q && (q._subject||q.subject)!=='tamil' && !!q.question_en;
-  const onTopics = $('#topic-picker').classList.contains('active');
-  $('#lang-top').classList.toggle('hidden', !(onHome || onScore || onTopics || partB));
+  const onTopics = $('#topic-picker').classList.contains('active') || $('#learn-topics').classList.contains('active');
+  const partBCards = $('#learn-cards').classList.contains('active') && fc && fc.subject!=='tamil';
+  $('#lang-top').classList.toggle('hidden', !(onHome || onScore || onTopics || partB || partBCards));
 }
 function setLang(l){
   if(l===lang) return;
@@ -53,6 +54,8 @@ function setLang(l){
   if($('#quiz').classList.contains('active') && state) renderQuestion();
   else if($('#score').classList.contains('active') && state){ renderScoreCard(); renderReview(); }
   else if($('#topic-picker').classList.contains('active')) renderTopics();
+  else if($('#learn-topics').classList.contains('active')) renderLearnTopics();
+  else if($('#learn-cards').classList.contains('active') && fc) renderCard();
 }
 let timerId = null;     // setInterval handle
 
@@ -165,6 +168,82 @@ function renderTopics(){
   el.querySelectorAll('.topic-btn').forEach(b=>{
     b.onclick = ()=> startStudy(b.dataset.topic, b.dataset.name);
   });
+}
+
+/* ========== STUDY TIME (flashcards) ========== */
+let flash = null;      // data/flashcards.json, loaded on first use
+let fc = null;         // {subject, topic, idx, flipped}
+async function loadFlashcards(){
+  if(flash) return flash;
+  const res = await fetch('data/flashcards.json', {cache:'no-store'});
+  flash = await res.json();
+  return flash;
+}
+// Tamil (Part A) cards stay Tamil; GS and aptitude cards follow the language switch
+function fcEn(){ return lang==='en' && fc && fc.subject!=='tamil'; }
+function fcField(c, k){ return (fcEn() && c[k+'_en']!==undefined) ? c[k+'_en'] : c[k]; }
+const SUBJ_GROUP = {tamil:['பகுதி அ – தமிழ்','Part A – Tamil'], general_studies:['பகுதி ஆ – பொது அறிவு','Part B – General Studies'],
+                    aptitude:['பகுதி இ – திறனறிவு, நுண்ணறிவு','Part C – Aptitude & Mental Ability']};
+async function openLearn(){
+  try { await loadFlashcards(); }
+  catch(e){ alert(T('அட்டைகளை ஏற்ற இயலவில்லை.','Could not load the flashcards.')); return; }
+  renderLearnTopics(); show('learn-topics');
+}
+function renderLearnTopics(){
+  if(!flash) return;
+  let html = '';
+  flash.subjects.forEach(s=>{
+    html += `<div class="topic-group-label">${T(SUBJ_GROUP[s.subject][0], SUBJ_GROUP[s.subject][1])}</div>`;
+    s.units.forEach(u=>{
+      html += `<div class="unit-label">${T('அலகு','Unit')} ${u.unit} · ${(lang==='en' && u.name_en) ? u.name_en : u.name}</div>`;
+      u.topics.forEach(t=>{
+        const label = (lang==='en' && t.name_en) ? `${t.name_en} <small class="t-alt">${t.name}</small>` : t.name;
+        html += `<button class="topic-btn" data-subject="${s.subject}" data-topic="${t.topic}">
+          <span>${label}</span><span class="t-count">${t.cards.length} ${T('அட்டை','cards')}</span></button>`;
+      });
+    });
+  });
+  const el = $('#learn-list');
+  el.innerHTML = html;
+  el.querySelectorAll('.topic-btn').forEach(b=> b.onclick = ()=> openCards(b.dataset.subject, b.dataset.topic));
+}
+function findTopic(subject, topic){
+  for(const s of flash.subjects) if(s.subject===subject)
+    for(const u of s.units) for(const t of u.topics) if(t.topic===topic) return {unit:u, topic:t};
+  return null;
+}
+function openCards(subject, topic){
+  fc = {subject, topic, idx:0, flipped:false};
+  show('learn-cards'); renderCard();
+}
+function renderCard(){
+  const hit = findTopic(fc.subject, fc.topic); if(!hit) return;
+  const cards = hit.topic.cards, c = cards[fc.idx], n = cards.length, en = fcEn();
+  $('#fc-counter').textContent = `${fc.idx+1} / ${n}`;
+  $('#fc-progress').style.width = ((fc.idx+1)/n*100)+'%';
+  $('#fc-meta').textContent = (en && hit.topic.name_en) ? hit.topic.name_en : hit.topic.name;
+  const card = $('#fc-card');
+  const title = fcField(c,'t'), body = fcField(c,'b')||'', ex = fcField(c,'x')||'';
+  if(!fc.flipped){
+    card.className = 'fc-card front';
+    card.innerHTML = `<div class="fc-title">${title}</div>
+      <div class="fc-hint">${T('👆 தட்டி விளக்கம் காண்க','👆 Tap to see the explanation')}</div>`;
+  } else {
+    card.className = 'fc-card';
+    card.innerHTML = `<div class="fc-title">${title}</div>
+      ${body ? `<div class="fc-body">${body}</div>` : ''}
+      ${ex ? `<div class="fc-ex"><b>${T('எடுத்துக்காட்டு','Example')}</b>${ex}</div>` : ''}`;
+  }
+  $('#fc-prev').textContent = T('← முந்தையது','← Previous');
+  $('#fc-prev').style.visibility = fc.idx>0 ? 'visible' : 'hidden';
+  $('#fc-next').textContent = fc.idx<n-1 ? T('அடுத்தது →','Next →') : T('தலைப்புகளுக்குத் திரும்பு','Back to topics');
+  updateLangToggles();
+}
+function flipCard(){ fc.flipped = !fc.flipped; renderCard(); }
+function stepCard(d){
+  const n = findTopic(fc.subject, fc.topic).topic.cards.length;
+  if(d>0 && fc.idx===n-1){ renderLearnTopics(); show('learn-topics'); return; }
+  fc.idx = Math.max(0, Math.min(n-1, fc.idx+d)); fc.flipped = false; renderCard(); window.scrollTo(0,0);
 }
 
 /* ========== START MODES ========== */
@@ -467,12 +546,18 @@ async function init(){
   document.querySelectorAll('.mode-card').forEach(c=>{
     c.onclick = ()=>{
       const m = c.dataset.mode;
-      if(m==='study'){ renderTopics(); show('topic-picker'); }
+      if(m==='learn') openLearn();
+      else if(m==='study'){ renderTopics(); show('topic-picker'); }
       else if(m==='quick') startQuick();
       else if(m==='full') startFull();
     };
   });
   $('#quiz-exit').onclick = exitQuiz;
+  $('#learn-back').onclick = ()=>{ renderLearnTopics(); show('learn-topics'); };
+  $('#fc-card').onclick = flipCard;
+  $('#fc-card').onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); flipCard(); } };
+  $('#fc-prev').onclick = ()=> stepCard(-1);
+  $('#fc-next').onclick = ()=> stepCard(1);
   $('#back-topics').onclick = goTopics;
   document.querySelectorAll('.lang-toggle button').forEach(b=> b.onclick = ()=> setLang(b.dataset.lang));
   updateLangToggles();

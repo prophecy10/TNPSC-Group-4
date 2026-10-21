@@ -186,6 +186,57 @@ def validate_bank():
     return errors
 
 
+def build_cards():
+    """Study-time flashcards: tools/cards/*.json → data/flashcards.json, in syllabus (taxonomy) order.
+
+    Each file maps topic key → list of cards {"t": title, "b": body, "x": example}. General Studies and
+    aptitude cards also carry "t_en", "b_en", "x_en" so the site's English switch can show them.
+    """
+    errors, cards = [], {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "tools", "cards", "*.json"))):
+        for topic, lst in json.load(open(f, encoding="utf-8")).items():
+            where = f"{os.path.basename(f)}:{topic}"
+            s = subject_for(topic)
+            if s is None:
+                errors.append(f"{where}: unknown topic")
+                continue
+            if topic in cards:
+                errors.append(f"{where}: topic already has cards in another file")
+                continue
+            for i, c in enumerate(lst, 1):
+                fields = [("t", "b", "x")] + ([("t_en", "b_en", "x_en")] if s != "tamil" else [])
+                for t_key, b_key, x_key in fields:
+                    if not c.get(t_key, "").strip():
+                        errors.append(f"{where} card {i}: missing {t_key}")
+                    if not (c.get(b_key, "").strip() or c.get(x_key, "").strip()):
+                        errors.append(f"{where} card {i}: needs {b_key} or {x_key}")
+                if s != "tamil" and bool(c.get("b", "").strip()) != bool(c.get("b_en", "").strip()):
+                    errors.append(f"{where} card {i}: Tamil and English bodies don't match up")
+                if s != "tamil" and bool(c.get("x", "").strip()) != bool(c.get("x_en", "").strip()):
+                    errors.append(f"{where} card {i}: Tamil and English examples don't match up")
+                if BAD_CHARS.search("".join(str(v) for v in c.values())):
+                    errors.append(f"{where} card {i}: suspicious mojibake characters")
+            cards[topic] = lst
+    out, missing, n = [], [], 0
+    for s in ("tamil", "general_studies", "aptitude"):
+        units = {}
+        for topic, info in TAX[s]["topics"].items():
+            if topic not in cards:
+                missing.append(topic)
+                continue
+            units.setdefault(info["unit"], []).append({
+                "topic": topic, "name": info["ta"], "name_en": info.get("en"),
+                "cards": [{k: v.strip() for k, v in c.items()} for c in cards[topic]]})
+            n += len(cards[topic])
+        out.append({"subject": s, "units": [
+            {"unit": u, "name": TAX[s]["unit_names_ta"][u], "name_en": TAX[s].get("unit_names_en", {}).get(u),
+             "topics": units[u]} for u in sorted(units, key=int)]})
+    json.dump({"subjects": out}, open(os.path.join(DATA, "flashcards.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    print(f"\nFlashcards: {n} cards in {len(cards)} topics" + (f"; topics without cards: {', '.join(missing)}" if missing else ""))
+    return errors
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     papers = collections.defaultdict(list)
@@ -209,6 +260,7 @@ def main():
         json.dump(data, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"stamped {os.path.relpath(f, ROOT)}")
     errors += validate_bank()
+    errors += build_cards()
     if PENDING:
         print(f"\nHeld back pending verification ({len(PENDING)}):")
         print("\n".join("  " + p for p in PENDING))

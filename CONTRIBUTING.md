@@ -77,6 +77,18 @@ Open http://localhost:8000, find your topic in படிப்பு முற�
 ### 5. Open a pull request
 Explain which units you added to and the sources you used.
 
+## Adding flashcards (Study time)
+Flashcards live in `tools/cards/*.json`, keyed by topic (the same topic keys as `data/_taxonomy.json`):
+
+```json
+"sandhi": [
+  {"t": "நான்காம் வேற்றுமை 'கு' – வல்லினம் மிகும்", "b": "'கு' உருபின் பின் வல்லினம் வந்தால் ஒற்று மிகும்.", "x": "பள்ளிக்குச் சென்றான்"}
+]
+```
+
+`t` is the front of the card, `b` the explanation and `x` the example (use `
+` for new lines). General Studies and Aptitude cards also need `t_en`, `b_en` and `x_en`. `python tools/build_bank.py` checks them and writes `data/flashcards.json`.
+
 ## Accuracy rules (please read)
 1. **Every fact needs a source.** Prefer Samacheer Kalvi textbooks (6th–12th), the official TNPSC syllabus and notifications, or government websites.
 2. **Recompute every maths and reasoning answer.** Don't copy it from a key.

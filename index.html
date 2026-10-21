@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css?v=20261014b">
+<link rel="stylesheet" href="css/style.css?v=20261021a">
 </head>
 <body>
 <div id="app">
@@ -25,6 +25,11 @@
     <div id="resume-banner" style="display:none"></div>
 
     <div class="mode-grid">
+      <button class="mode-card" data-mode="learn">
+        <span class="mode-icon">📖</span>
+        <span class="mode-title" data-en="Study time">படிப்பு நேரம்</span>
+        <span class="mode-sub" data-en="Syllabus topics · flashcards with examples">பாடத்திட்டத் தலைப்புகள் · எடுத்துக்காட்டுடன் நினைவு அட்டைகள்</span>
+      </button>
       <button class="mode-card" data-mode="study">
         <span class="mode-icon">📚</span>
         <span class="mode-title" data-en="Study mode">படிப்பு முறை</span>
@@ -73,6 +78,29 @@
     <div id="topic-list" class="topic-list"></div>
   </section>
 
+  <!-- Study time: syllabus topics -->
+  <section id="learn-topics" class="screen">
+    <button class="back-btn" data-back="home" data-en="← Home">← முகப்பு</button>
+    <h2 data-en="Study time">படிப்பு நேரம்</h2>
+    <p class="learn-intro" data-en="Topics follow the official syllabus (Annexure III). Pick one to study its flashcards.">தலைப்புகள் அதிகாரப்பூர்வப் பாடத்திட்டப்படி (இணைப்பு III) அமைந்துள்ளன. ஒரு தலைப்பைத் தேர்ந்தெடுத்து நினைவு அட்டைகளைப் படிக்கவும்.</p>
+    <div id="learn-list" class="topic-list"></div>
+  </section>
+
+  <!-- Study time: flashcards -->
+  <section id="learn-cards" class="screen">
+    <div class="quiz-topbar">
+      <button class="back-btn" id="learn-back" data-en="← Topics">← தலைப்புகள்</button>
+      <div class="progress-wrap"><div id="fc-progress" class="progress-bar"></div></div>
+      <span id="fc-counter" class="q-counter"></span>
+    </div>
+    <div id="fc-meta" class="q-meta"></div>
+    <div id="fc-card" class="fc-card" role="button" tabindex="0"></div>
+    <div class="quiz-footer">
+      <button class="btn-ghost" id="fc-prev"></button>
+      <button class="btn-primary" id="fc-next"></button>
+    </div>
+  </section>
+
   <!-- Quiz runner -->
   <section id="quiz" class="screen">
     <div class="quiz-topbar">
@@ -96,9 +124,9 @@
   </section>
 </div>
 
-<script src="js/config.js?v=20261014b"></script>
-<script src="js/storage.js?v=20261014b"></script>
-<script src="js/quiz.js?v=20261014b"></script>
-<script src="js/app.js?v=20261014b"></script>
+<script src="js/config.js?v=20261021a"></script>
+<script src="js/storage.js?v=20261021a"></script>
+<script src="js/quiz.js?v=20261021a"></script>
+<script src="js/app.js?v=20261021a"></script>
 </body>
 </html>

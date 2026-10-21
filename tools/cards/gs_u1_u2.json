@@ -1,0 +1,386 @@
+{
+ "physics": [
+  {
+   "t": "அடிப்படை SI அலகுகள் (7)",
+   "b": "நீளம் – மீட்டர்; நிறை – கிலோகிராம்; காலம் – வினாடி; மின்னோட்டம் – ஆம்பியர்; வெப்பநிலை – கெல்வின்; ஒளிச்செறிவு – கேண்டலா; பொருளின் அளவு – மோல்.",
+   "x": "",
+   "t_en": "Base SI units (7)",
+   "b_en": "Length – metre; mass – kilogram; time – second; electric current – ampere; temperature – kelvin; luminous intensity – candela; amount of substance – mole.",
+   "x_en": ""
+  },
+  {
+   "t": "வழி அலகுகள்",
+   "b": "அடிப்படை அலகுகளிலிருந்து பெறப்படும் அலகுகள்.",
+   "x": "விசை – நியூட்டன்\nவேலை/ஆற்றல் – ஜூல்\nதிறன் – வாட்\nஅழுத்தம் – பாஸ்கல்\nமின்தடை – ஓம்\nமின்னழுத்தம் – வோல்ட்\nமின்னூட்டம் – கூலும்\nலென்சின் திறன் – டையாப்டர்",
+   "t_en": "Derived units",
+   "b_en": "Units obtained from the base units.",
+   "x_en": "Force – newton\nWork/energy – joule\nPower – watt\nPressure – pascal\nResistance – ohm\nPotential difference – volt\nCharge – coulomb\nPower of a lens – dioptre"
+  },
+  {
+   "t": "நியூட்டனின் இயக்க விதிகள்",
+   "b": "முதல் விதி: புறவிசை செயல்படாதவரை பொருள் தன் ஓய்வு அல்லது சீரான இயக்க நிலையில் இருக்கும் (நிலைமம்).\nஇரண்டாம் விதி: விசை = உந்த மாற்ற வீதம் = நிறை × முடுக்கம் (F = ma).\nமூன்றாம் விதி: ஒவ்வொரு வினைக்கும் சமமான, எதிரான எதிர்வினை உண்டு.",
+   "x": "பேருந்து திடீரென நின்றால் பயணிகள் முன்னே சாய்வது – முதல் விதி\nஏவுகணை (ராக்கெட்) மேலே செல்வது – மூன்றாம் விதி",
+   "t_en": "Newton's laws of motion",
+   "b_en": "First law: a body stays at rest or in uniform motion unless an external force acts (inertia).\nSecond law: force = rate of change of momentum = mass × acceleration (F = ma).\nThird law: every action has an equal and opposite reaction.",
+   "x_en": "Passengers lurch forward when a bus stops suddenly – first law\nA rocket rising – third law"
+  },
+  {
+   "t": "மின்னோட்டவியல்",
+   "b": "ஓம் விதி: V = IR. தொடர் இணைப்பில் R = R₁ + R₂; பக்க இணைப்பில் 1/R = 1/R₁ + 1/R₂. மின் உருகி (fuse) குறைந்த உருகுநிலை உடைய கம்பி; மின்சுற்றில் தொடராக இணைக்கப்படும்.",
+   "x": "1 kWh = 3.6 × 10⁶ J (மின் கட்டணத்தில் '1 யூனிட்')\n1 குதிரைத்திறன் (HP) = 746 W",
+   "t_en": "Electricity",
+   "b_en": "Ohm's law: V = IR. In series R = R₁ + R₂; in parallel 1/R = 1/R₁ + 1/R₂. A fuse is a wire of low melting point, connected in series in the circuit.",
+   "x_en": "1 kWh = 3.6 × 10⁶ J ('1 unit' on the electricity bill)\n1 horse power (HP) = 746 W"
+  },
+  {
+   "t": "ஒளி",
+   "b": "வெற்றிடத்தில் ஒளியின் வேகம் 3 × 10⁸ மீ/வி. எதிரொளிப்பில் படுகோணம் = எதிரொளிப்புக் கோணம். குவிலென்ஸ் ஒளியைக் குவிக்கும் – தூரப்பார்வைக் குறைபாட்டைச் சரிசெய்யும்; குழிலென்ஸ் விரிக்கும் – கிட்டப்பார்வைக் குறைபாட்டைச் சரிசெய்யும்.",
+   "x": "லென்சின் திறன் P = 1/f (f மீட்டரில்); அலகு டையாப்டர்",
+   "t_en": "Light",
+   "b_en": "Speed of light in vacuum is 3 × 10⁸ m/s. In reflection, angle of incidence = angle of reflection. A convex lens converges light and corrects long sight (hypermetropia); a concave lens diverges light and corrects short sight (myopia).",
+   "x_en": "Power of a lens P = 1/f (f in metres); unit dioptre"
+  },
+  {
+   "t": "ஒலி",
+   "b": "ஒலி பரவ ஊடகம் தேவை; வெற்றிடத்தில் பரவாது. வேகம்: திண்மம் > திரவம் > வாயு. காற்றில் 0°C-இல் சுமார் 331 மீ/வி. மனிதர் கேட்கும் அதிர்வெண் 20 Hz – 20,000 Hz.",
+   "x": "20 kHz-க்கு மேல் – மீயொலி (வௌவால், SONAR)\n20 Hz-க்குக் கீழ் – குற்றொலி",
+   "t_en": "Sound",
+   "b_en": "Sound needs a medium; it cannot travel in a vacuum. Speed: solid > liquid > gas. In air at 0°C about 331 m/s. Humans hear 20 Hz – 20,000 Hz.",
+   "x_en": "Above 20 kHz – ultrasonic (bats, SONAR)\nBelow 20 Hz – infrasonic"
+  },
+  {
+   "t": "அழுத்தம், மிதத்தல்",
+   "b": "பாஸ்கல் விதி: மூடிய திரவத்தில் செலுத்தப்படும் அழுத்தம் எல்லாத் திசைகளிலும் சமமாகப் பரவும். ஆர்க்கிமிடீஸ் தத்துவம்: திரவத்தில் மூழ்கும் பொருள், அது வெளியேற்றும் திரவத்தின் எடைக்குச் சமமான மேல்நோக்கு விசையை உணரும்.",
+   "x": "நீரியல் உயர்த்தி, நீரியல் தடை – பாஸ்கல் விதி\nகப்பல் மிதப்பது – ஆர்க்கிமிடீஸ் தத்துவம்",
+   "t_en": "Pressure and floating",
+   "b_en": "Pascal's law: pressure applied to an enclosed fluid is transmitted equally in all directions. Archimedes' principle: a body immersed in a fluid feels an upward force equal to the weight of fluid it displaces.",
+   "x_en": "Hydraulic lift, hydraulic brakes – Pascal's law\nA ship floating – Archimedes' principle"
+  }
+ ],
+ "chemistry": [
+  {
+   "t": "pH அளவுகோல்",
+   "b": "pH 0 முதல் 14 வரை. pH 7 நடுநிலை; 7-க்குக் கீழ் அமிலம்; 7-க்கு மேல் காரம். வாயின் pH 5.5-க்குக் கீழ் குறைந்தால் பல் எனாமல் சிதையும்; எனவே பற்பசை காரத்தன்மை கொண்டது.",
+   "x": "தூய நீர் – pH 7\nஎலுமிச்சைச் சாறு – அமிலம்\nசோப்புக் கரைசல் – காரம்",
+   "t_en": "The pH scale",
+   "b_en": "pH runs from 0 to 14. pH 7 is neutral; below 7 acidic; above 7 basic. Tooth enamel decays when the mouth's pH falls below 5.5, so toothpaste is basic.",
+   "x_en": "Pure water – pH 7\nLemon juice – acidic\nSoap solution – basic"
+  },
+  {
+   "t": "உணவில் உள்ள அமிலங்கள்",
+   "b": "",
+   "x": "எலுமிச்சை – சிட்ரிக் அமிலம்\nஆப்பிள் – மாலிக் அமிலம்\nதிராட்சை – டார்டாரிக் அமிலம்\nதக்காளி – ஆக்சாலிக் அமிலம்\nதயிர் – லாக்டிக் அமிலம்\nவினிகர் – அசிட்டிக் அமிலம்\nதேயிலை – டானிக் அமிலம்\nநெல்லிக்காய் – அஸ்கார்பிக் அமிலம் (வைட்டமின் C)",
+   "t_en": "Acids in food",
+   "b_en": "",
+   "x_en": "Lemon – citric acid\nApple – malic acid\nGrapes – tartaric acid\nTomato – oxalic acid\nCurd – lactic acid\nVinegar – acetic acid\nTea – tannic acid\nAmla – ascorbic acid (vitamin C)"
+  },
+  {
+   "t": "பொதுப் பெயர் – வேதிப் பெயர்",
+   "b": "",
+   "x": "சமையல் சோடா – சோடியம் பைகார்பனேட் (NaHCO₃)\nசலவை சோடா – Na₂CO₃·10H₂O\nபாரீஸ் சாந்து – CaSO₄·½H₂O\nஜிப்சம் – CaSO₄·2H₂O\nசுட்ட சுண்ணாம்பு – CaO\nநீற்றிய சுண்ணாம்பு – Ca(OH)₂\nசமையல் உப்பு – NaCl",
+   "t_en": "Common name – chemical name",
+   "b_en": "",
+   "x_en": "Baking soda – sodium bicarbonate (NaHCO₃)\nWashing soda – Na₂CO₃·10H₂O\nPlaster of Paris – CaSO₄·½H₂O\nGypsum – CaSO₄·2H₂O\nQuicklime – CaO\nSlaked lime – Ca(OH)₂\nCommon salt – NaCl"
+  },
+  {
+   "t": "அணு அமைப்பு",
+   "b": "எலக்ட்ரான் – எதிர் மின்னூட்டம் (ஜே.ஜே. தாம்சன்); புரோட்டான் – நேர் மின்னூட்டம்; நியூட்ரான் – மின்னூட்டம் இல்லை (ஜேம்ஸ் சாட்விக், 1932). அணு எண் = புரோட்டான்களின் எண்ணிக்கை.",
+   "x": "அவகேட்ரோ எண் = 6.023 × 10²³ (ஒரு மோலில் உள்ள துகள்கள்)",
+   "t_en": "Structure of the atom",
+   "b_en": "Electron – negative charge (J.J. Thomson); proton – positive charge; neutron – no charge (James Chadwick, 1932). Atomic number = number of protons.",
+   "x_en": "Avogadro's number = 6.023 × 10²³ (particles in one mole)"
+  },
+  {
+   "t": "தனிம வரிசை அட்டவணை",
+   "b": "மெண்டலீவ் தனிமங்களை அணு நிறை அடிப்படையில் வரிசைப்படுத்தினார். நவீன ஆவர்த்தன விதி: தனிமங்களின் பண்புகள் அவற்றின் அணு எண்ணைச் சார்ந்தவை (மோஸ்லே). நவீன அட்டவணையில் 18 தொகுதிகள், 7 வரிசைகள் உள்ளன.",
+   "x": "",
+   "t_en": "Periodic table",
+   "b_en": "Mendeleev arranged elements by atomic mass. Modern periodic law: properties of elements depend on their atomic number (Moseley). The modern table has 18 groups and 7 periods.",
+   "x_en": ""
+  },
+  {
+   "t": "உலோகங்களும் தாதுக்களும்",
+   "b": "",
+   "x": "பாக்சைட் – அலுமினியம்\nஹேமடைட் – இரும்பு\nசிங்க் பிளெண்ட் – துத்தநாகம்\nகலீனா – காரீயம்\nசின்னபார் – பாதரசம்\nசல்பைடு தாதுக்கள் நுரை மிதப்பு முறையில் அடர்ப்பிக்கப்படுகின்றன.",
+   "t_en": "Metals and their ores",
+   "b_en": "",
+   "x_en": "Bauxite – aluminium\nHaematite – iron\nZinc blende – zinc\nGalena – lead\nCinnabar – mercury\nSulphide ores are concentrated by froth flotation."
+  }
+ ],
+ "biology": [
+  {
+   "t": "வைட்டமின் குறைபாட்டு நோய்கள்",
+   "b": "",
+   "x": "வைட்டமின் A – மாலைக்கண் நோய்\nவைட்டமின் B1 – பெரிபெரி\nவைட்டமின் C – ஸ்கர்வி\nவைட்டமின் D – ரிக்கட்ஸ்\nவைட்டமின் K – இரத்தம் உறையாமை\nஇரும்புச்சத்து – இரத்தசோகை\nஅயோடின் – முன்கழுத்துக் கழலை",
+   "t_en": "Deficiency diseases",
+   "b_en": "",
+   "x_en": "Vitamin A – night blindness\nVitamin B1 – beriberi\nVitamin C – scurvy\nVitamin D – rickets\nVitamin K – poor blood clotting\nIron – anaemia\nIodine – goitre"
+  },
+  {
+   "t": "இரத்தம்",
+   "b": "ABO இரத்த வகைகளைக் கண்டறிந்தவர் கார்ல் லேண்ட்ஸ்டெய்னர். 'O' வகை – அனைவருக்கும் கொடுப்பவர்; 'AB' வகை – அனைவரிடமும் பெறுபவர். சிவப்பணு – ஆக்சிஜன் கடத்தல் (ஹீமோகுளோபின்); வெள்ளையணு – நோய் எதிர்ப்பு; தட்டணு – இரத்தம் உறைதல்.",
+   "x": "",
+   "t_en": "Blood",
+   "b_en": "Karl Landsteiner discovered the ABO blood groups. Group O – universal donor; group AB – universal recipient. Red cells carry oxygen (haemoglobin); white cells fight infection; platelets help clotting.",
+   "x_en": ""
+  },
+  {
+   "t": "மனித உடல் – சில உண்மைகள்",
+   "b": "",
+   "x": "மிகப்பெரிய சுரப்பி – கல்லீரல்\nமிகப்பெரிய உறுப்பு – தோல்\nமிகச்சிறிய எலும்பு – ஸ்டேப்பிஸ் (காது)\nவளர்ந்தவரின் எலும்புகள் – 206\nஇதய அறைகள் – 4\nஇயல்பான உடல் வெப்பநிலை – 37°C (98.6°F)\nபால்பற்கள் 20; நிலையான பற்கள் 32",
+   "t_en": "Human body – key facts",
+   "b_en": "",
+   "x_en": "Largest gland – liver\nLargest organ – skin\nSmallest bone – stapes (ear)\nBones in an adult – 206\nChambers of the heart – 4\nNormal body temperature – 37°C (98.6°F)\nMilk teeth 20; permanent teeth 32"
+  },
+  {
+   "t": "நாளமில்லாச் சுரப்பிகள்",
+   "b": "பிட்யூட்டரி – 'தலைமைச் சுரப்பி'. தைராய்டு – தைராக்சின் (அயோடின் தேவை). கணையம் – இன்சுலின் (பீட்டா செல்கள், சர்க்கரையைக் குறைக்கும்), குளுகோகான் (ஆல்பா செல்கள், சர்க்கரையை உயர்த்தும்). அட்ரினல் – அட்ரினலின் (அவசரகால ஹார்மோன்).",
+   "x": "இன்சுலின் குறைபாடு – நீரிழிவு நோய்",
+   "t_en": "Endocrine glands",
+   "b_en": "Pituitary – the 'master gland'. Thyroid – thyroxine (needs iodine). Pancreas – insulin (beta cells, lowers sugar) and glucagon (alpha cells, raises sugar). Adrenal – adrenaline (emergency hormone).",
+   "x_en": "Lack of insulin – diabetes"
+  },
+  {
+   "t": "செல்",
+   "b": "செல்லைக் கண்டறிந்தவர் ராபர்ட் ஹூக் (1665). மைட்டோகாண்ட்ரியா – 'செல்லின் ஆற்றல் மையம்'; ரைபோசோம் – புரத உற்பத்தி; உட்கரு – செல்லின் கட்டுப்பாட்டு மையம்; பசுங்கணிகம் – ஒளிச்சேர்க்கை (தாவரங்களில் மட்டும்).",
+   "x": "தாவர செல்லில் மட்டும் செல்சுவர், பசுங்கணிகம் உண்டு.",
+   "t_en": "The cell",
+   "b_en": "Robert Hooke discovered the cell (1665). Mitochondria – 'powerhouse of the cell'; ribosome – protein synthesis; nucleus – control centre; chloroplast – photosynthesis (plants only).",
+   "x_en": "Only plant cells have a cell wall and chloroplasts."
+  },
+  {
+   "t": "நோய்களும் காரணிகளும்",
+   "b": "",
+   "x": "பாக்டீரியா – காசநோய், காலரா, டைபாய்டு\nவைரஸ் – போலியோ, தட்டம்மை, சின்னம்மை, டெங்கு, கோவிட்-19\nபுரோட்டோசோவா – மலேரியா (பிளாஸ்மோடியம்; பெண் அனாபிலிஸ் கொசு பரப்பும்)\nடெங்கு – ஏடிஸ் கொசு பரப்பும்",
+   "t_en": "Diseases and their causes",
+   "b_en": "",
+   "x_en": "Bacteria – tuberculosis, cholera, typhoid\nVirus – polio, measles, chickenpox, dengue, COVID-19\nProtozoa – malaria (Plasmodium; spread by the female Anopheles mosquito)\nDengue – spread by the Aedes mosquito"
+  },
+  {
+   "t": "ஒளிச்சேர்க்கையும் கடத்தலும்",
+   "b": "ஒளிச்சேர்க்கை: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (சூரிய ஒளி, பச்சையம் உதவியுடன்). சைலம் நீரைக் கடத்தும்; ஃபுளோயம் உணவை (சுக்ரோஸ் வடிவில்) கடத்தும்.",
+   "x": "",
+   "t_en": "Photosynthesis and transport",
+   "b_en": "Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (with sunlight and chlorophyll). Xylem carries water; phloem carries food (as sucrose).",
+   "x_en": ""
+  }
+ ],
+ "science_tech": [
+  {
+   "t": "இஸ்ரோ (ISRO)",
+   "b": "இந்திய விண்வெளி ஆய்வு நிறுவனம் 15 ஆகஸ்ட் 1969-இல் தொடங்கப்பட்டது; தலைமையகம் பெங்களூரு. இந்திய விண்வெளித் திட்டத்தின் தந்தை – விக்ரம் சாராபாய். ஏவுதளம் – சதீஷ் தவான் விண்வெளி மையம், ஸ்ரீஹரிகோட்டா.",
+   "x": "",
+   "t_en": "ISRO",
+   "b_en": "The Indian Space Research Organisation was set up on 15 August 1969; headquarters Bengaluru. Father of the Indian space programme – Vikram Sarabhai. Launch centre – Satish Dhawan Space Centre, Sriharikota.",
+   "x_en": ""
+  },
+  {
+   "t": "சந்திரயான் திட்டங்கள்",
+   "b": "சந்திரயான்-1 (22 அக்டோபர் 2008) நிலவில் நீர் மூலக்கூறுகள் இருப்பதை உறுதிப்படுத்த உதவியது. சந்திரயான்-3 23 ஆகஸ்ட் 2023 அன்று நிலவின் தென்துருவப் பகுதியில் தரையிறங்கியது; அப்பகுதியில் தரையிறங்கிய முதல் நாடு இந்தியா.",
+   "x": "ஆகஸ்ட் 23 – தேசிய விண்வெளி நாள்",
+   "t_en": "Chandrayaan missions",
+   "b_en": "Chandrayaan-1 (22 October 2008) helped confirm water molecules on the Moon. Chandrayaan-3 landed near the Moon's south pole on 23 August 2023; India was the first country to land in that region.",
+   "x_en": "23 August – National Space Day"
+  },
+  {
+   "t": "மங்கள்யான், ஆதித்யா-L1",
+   "b": "மங்கள்யான் 5 நவம்பர் 2013-இல் ஏவப்பட்டு, 24 செப்டம்பர் 2014-இல் செவ்வாய்ச் சுற்றுப்பாதையை அடைந்தது; முதல் முயற்சியிலேயே வெற்றி பெற்ற முதல் நாடு இந்தியா. ஆதித்யா-L1 (2 செப்டம்பர் 2023) சூரியனை ஆய்வு செய்யும் இந்தியாவின் முதல் திட்டம்.",
+   "x": "",
+   "t_en": "Mangalyaan, Aditya-L1",
+   "b_en": "Mangalyaan was launched on 5 November 2013 and reached Mars orbit on 24 September 2014; India was the first country to succeed on its first attempt. Aditya-L1 (2 September 2023) is India's first mission to study the Sun.",
+   "x_en": ""
+  },
+  {
+   "t": "அணுசக்தி நிலையங்கள்",
+   "b": "இந்தியாவின் முதல் அணு உலை 'அப்சரா' (1956, டிராம்பே). தமிழ்நாட்டில் கல்பாக்கம் (செங்கல்பட்டு மாவட்டம்), கூடங்குளம் (திருநெல்வேலி மாவட்டம்; ரஷ்ய ஒத்துழைப்பு) அணுமின் நிலையங்கள் உள்ளன.",
+   "x": "",
+   "t_en": "Nuclear power",
+   "b_en": "India's first nuclear reactor was 'Apsara' (1956, Trombay). Tamil Nadu has nuclear power stations at Kalpakkam (Chengalpattu district) and Kudankulam (Tirunelveli district; with Russian cooperation).",
+   "x_en": ""
+  }
+ ],
+ "geography_india": [
+  {
+   "t": "இந்தியாவின் அமைவிடம்",
+   "b": "இந்தியா 8°4′ வ – 37°6′ வ அட்சம், 68°7′ கி – 97°25′ கி தீர்க்கம் வரை பரவியுள்ளது. கடகரேகை நாட்டின் நடுவே செல்கிறது. மைய நெட்டாங்கு 82°30′ கி (மிர்சாப்பூர்); இந்திய திட்ட நேரம் கிரீன்விச்சைவிட 5½ மணி முன்னதாகும்.",
+   "x": "வடக்கு-தெற்கு நீளம் 3,214 கி.மீ; கிழக்கு-மேற்கு அகலம் 2,933 கி.மீ\nகடற்கரை நீளம் (தீவுகளுடன்) 7,516.6 கி.மீ\nபரப்பில் உலகில் 7-வது பெரிய நாடு",
+   "t_en": "Location of India",
+   "b_en": "India extends from 8°4′ N to 37°6′ N and 68°7′ E to 97°25′ E. The Tropic of Cancer passes through the middle. The central meridian is 82°30′ E (Mirzapur); IST is 5½ hours ahead of Greenwich.",
+   "x_en": "North–south 3,214 km; east–west 2,933 km\nCoastline (with islands) 7,516.6 km\n7th largest country by area"
+  },
+  {
+   "t": "அண்டை நாடுகளும் நீர்ச்சந்திகளும்",
+   "b": "மிக நீளமான நில எல்லை – வங்காளதேசம் (4,156 கி.மீ); மிகக் குறுகியது – ஆப்கானிஸ்தான் (106 கி.மீ). பாக் நீர்ச்சந்தி இந்தியா-இலங்கையைப் பிரிக்கிறது. பத்து டிகிரி கால்வாய் அந்தமான்-நிக்கோபாரைப் பிரிக்கிறது.",
+   "x": "தென்கோடி: இந்திரா முனை (பெரிய நிக்கோபார்)\nபெருநிலத் தென்கோடி: கன்னியாகுமரி",
+   "t_en": "Neighbours and straits",
+   "b_en": "Longest land border – Bangladesh (4,156 km); shortest – Afghanistan (106 km). The Palk Strait separates India and Sri Lanka. The Ten Degree Channel separates the Andamans from the Nicobars.",
+   "x_en": "Southernmost point: Indira Point (Great Nicobar)\nSouthern tip of the mainland: Kanniyakumari"
+  },
+  {
+   "t": "இமயமலைத் தொடர்கள்",
+   "b": "பெரிய இமயமலை (இமாத்ரி) – மிக உயரமானதும் தொடர்ச்சியானதும்; சிறிய இமயமலை (இமாச்சல்); வெளி இமயமலை (சிவாலிக்) – தொடர்ச்சியற்றது. காரகோரம், லடாக், சாஸ்கர், கைலாஸ் – டிரான்ஸ் இமயமலைத் தொடர்கள்.",
+   "x": "தென்னிந்தியாவின் உயர்ந்த சிகரம் – ஆனைமுடி (2,695 மீ)",
+   "t_en": "Himalayan ranges",
+   "b_en": "Greater Himalaya (Himadri) – highest and most continuous; Lesser Himalaya (Himachal); Outer Himalaya (Siwaliks) – discontinuous. Karakoram, Ladakh, Zaskar and Kailash are Trans-Himalayan ranges.",
+   "x_en": "Highest peak of South India – Anaimudi (2,695 m)"
+  },
+  {
+   "t": "ஆறுகள்",
+   "b": "இமயமலை ஆறுகள் (சிந்து, கங்கை, பிரம்மபுத்திரா) வற்றாதவை. கிழக்கு நோக்கிப் பாயும் தீபகற்ப ஆறுகள் (மகாநதி, கோதாவரி, கிருஷ்ணா, காவிரி) டெல்டாக்களை உருவாக்கும்; மேற்கு நோக்கிப் பாயும் நர்மதை, தபதி கழிமுகங்களை உருவாக்கும்.",
+   "x": "கோதாவரி – மிக நீளமான தீபகற்ப ஆறு ('தட்சிண கங்கை')\nசுந்தரவனம் – கங்கை-பிரம்மபுத்திரா டெல்டா, உலகின் மிகப்பெரிய டெல்டா",
+   "t_en": "Rivers",
+   "b_en": "Himalayan rivers (Indus, Ganga, Brahmaputra) are perennial. East-flowing peninsular rivers (Mahanadi, Godavari, Krishna, Kaveri) form deltas; the west-flowing Narmada and Tapti form estuaries.",
+   "x_en": "Godavari – longest peninsular river ('Dakshin Ganga')\nSundarbans – Ganga–Brahmaputra delta, the world's largest delta"
+  },
+  {
+   "t": "பருவக்காற்றும் மழையும்",
+   "b": "தென்மேற்குப் பருவக்காற்று (ஜூன்–செப்டம்பர்) இந்தியாவின் பெரும்பாலான மழையைத் தருகிறது. வடகிழக்குப் பருவக்காற்று (அக்டோபர்–டிசம்பர்) தமிழ்நாட்டுக்கு அதிக மழை தருகிறது. மேகாலயாவின் மௌசின்ராம் உலகின் அதிக மழை பெறும் இடம்.",
+   "x": "",
+   "t_en": "Monsoon and rainfall",
+   "b_en": "The south-west monsoon (June–September) brings most of India's rain. The north-east monsoon (October–December) brings Tamil Nadu most of its rain. Mawsynram in Meghalaya gets the world's highest rainfall.",
+   "x_en": ""
+  },
+  {
+   "t": "மண் வகைகள்",
+   "b": "வண்டல் மண் – மிகப் பரவலானது, வளமானது (சமவெளிகள்). கரிசல் மண் (ரீகர்) – பருத்திக்கு ஏற்றது (தக்காணம்). செம்மண் – இரும்பு ஆக்சைடால் சிவப்பு நிறம்; தமிழ்நாட்டில் அதிகம். சரளை மண் (லேட்டரைட்) – அதிக மழைப் பகுதிகள்.",
+   "x": "",
+   "t_en": "Soils",
+   "b_en": "Alluvial soil – most widespread and fertile (plains). Black soil (regur) – suited to cotton (Deccan). Red soil – red due to iron oxide; most common in Tamil Nadu. Laterite – heavy-rainfall areas.",
+   "x_en": ""
+  },
+  {
+   "t": "பல்நோக்குத் திட்டங்கள்",
+   "b": "",
+   "x": "பக்ரா-நங்கல் – சட்லெஜ்\nஹிராகுட் – மகாநதி\nநாகார்ஜுனசாகர் – கிருஷ்ணா\nசர்தார் சரோவர் – நர்மதை\nதெஹ்ரி – பாகீரதி\nதாமோதர் பள்ளத்தாக்கு – ஜார்கண்ட், மேற்கு வங்காளம்",
+   "t_en": "Multipurpose projects",
+   "b_en": "",
+   "x_en": "Bhakra-Nangal – Sutlej\nHirakud – Mahanadi\nNagarjunasagar – Krishna\nSardar Sarovar – Narmada\nTehri – Bhagirathi\nDamodar Valley – Jharkhand, West Bengal"
+  }
+ ],
+ "geography_tn": [
+  {
+   "t": "தமிழ்நாடு – அமைவிடமும் பரப்பும்",
+   "b": "தமிழ்நாடு 8°4′ வ – 13°35′ வ அட்சம் வரை பரவியுள்ளது. பரப்பு 1,30,058 ச.கி.மீ – இந்தியாவில் 11-வது பெரிய மாநிலம் (சுமார் 4%). மேற்கே கேரளா, வடமேற்கே கர்நாடகா, வடக்கே ஆந்திரப் பிரதேசம்.",
+   "x": "கோடிகள்: கிழக்கு – கோடியக்கரை; மேற்கு – ஆனைமலைக் குன்றுகள்; வடக்கு – பழவேற்காடு ஏரி; தெற்கு – குமரிமுனை",
+   "t_en": "Tamil Nadu – location and area",
+   "b_en": "Tamil Nadu extends from 8°4′ N to 13°35′ N. Area 1,30,058 sq. km – India's 11th largest state (about 4%). Kerala to the west, Karnataka to the north-west, Andhra Pradesh to the north.",
+   "x_en": "Extremes: east – Kodiyakkarai; west – Anaimalai hills; north – Pulicat lake; south – Cape Comorin"
+  },
+  {
+   "t": "மலைகள்",
+   "b": "தமிழ்நாட்டின் உயர்ந்த சிகரம் தொட்டபெட்டா (2,637 மீ, நீலகிரி). கிழக்குத் தொடர்ச்சி மலைக் குன்றுகள்: ஜவ்வாது, சேர்வராயன் (ஏற்காடு), கொல்லி, பச்சைமலை, கல்வராயன்.",
+   "x": "ஆனைமுடி கேரளாவில் உள்ளது.",
+   "t_en": "Hills",
+   "b_en": "Tamil Nadu's highest peak is Doddabetta (2,637 m, Nilgiris). Eastern Ghats hills: Javadhu, Shevaroy (Yercaud), Kolli, Pachamalai, Kalrayan.",
+   "x_en": "Anaimudi is in Kerala."
+  },
+  {
+   "t": "ஆறுகள்",
+   "b": "காவிரி: குடகு மாவட்டத் தலைக்காவிரியில் தோன்றி 805 கி.மீ பாய்கிறது (416 கி.மீ தமிழ்நாட்டில்); 64 கி.மீ கர்நாடகா-தமிழ்நாடு எல்லை; தர்மபுரி மாவட்டத்தில் ஒகேனக்கல் நீர்வீழ்ச்சி. தாமிரபரணி – இரு பருவக்காற்றுகளிலும் நீர் பெறுவதால் தமிழ்நாட்டின் ஒரே வற்றாத ஆறு.",
+   "x": "மோயாறு – கோயம்புத்தூர் பீடபூமியை மைசூர் பீடபூமியிலிருந்து பிரிக்கிறது.",
+   "t_en": "Rivers",
+   "b_en": "Kaveri: rises at Talakaveri in Kodagu and flows 805 km (416 km in Tamil Nadu); 64 km forms the Karnataka–Tamil Nadu border; Hogenakkal falls in Dharmapuri district. Thamirabarani – the only perennial river of Tamil Nadu, fed by both monsoons.",
+   "x_en": "The Moyar separates the Coimbatore plateau from the Mysore plateau."
+  },
+  {
+   "t": "தேசியப் பூங்காக்களும் உயிர்க்கோளக் காப்பகங்களும்",
+   "b": "தேசியப் பூங்காக்கள்: கிண்டி (சென்னை), முதுமலை, முக்குருத்தி (நீலகிரி), ஆனைமலை (இந்திரா காந்தி), மன்னார் வளைகுடா கடல்சார் தேசியப் பூங்கா. உயிர்க்கோளக் காப்பகங்கள்: நீலகிரி (1986, இந்தியாவின் முதல்), மன்னார் வளைகுடா, அகத்தியமலை.",
+   "x": "பிச்சாவரம் அலையாத்திக் காடு – கடலூர் மாவட்டம்",
+   "t_en": "National parks and biosphere reserves",
+   "b_en": "National parks: Guindy (Chennai), Mudumalai, Mukurthi (Nilgiris), Anamalai (Indira Gandhi), Gulf of Mannar Marine National Park. Biosphere reserves: Nilgiri (1986, India's first), Gulf of Mannar, Agasthyamalai.",
+   "x_en": "Pichavaram mangrove forest – Cuddalore district"
+  },
+  {
+   "t": "மாநிலச் சின்னங்கள்",
+   "b": "",
+   "x": "மாநில விலங்கு – நீலகிரி வரையாடு\nமாநிலப் பறவை – மரகதப் புறா\nமாநில மரம் – பனை\nமாநில மலர் – செங்காந்தள்\nமாநில வண்ணத்துப்பூச்சி – தமிழ் மறவன்",
+   "t_en": "State symbols",
+   "b_en": "",
+   "x_en": "State animal – Nilgiri tahr\nState bird – emerald dove\nState tree – palmyra palm\nState flower – gloriosa lily\nState butterfly – Tamil yeoman"
+  },
+  {
+   "t": "கனிமங்கள்",
+   "b": "நெய்வேலி (கடலூர் மாவட்டம்) – இந்தியாவின் மிகப்பெரிய பழுப்பு நிலக்கரி (லிக்னைட்) சுரங்கம். சேலம் – மேக்னசைட், இரும்புத்தாது.",
+   "x": "",
+   "t_en": "Minerals",
+   "b_en": "Neyveli (Cuddalore district) – India's largest lignite mine. Salem – magnesite and iron ore.",
+   "x_en": ""
+  }
+ ],
+ "geography_general": [
+  {
+   "t": "அட்சக்கோடுகள், தீர்க்கக்கோடுகள்",
+   "b": "நிலநடுக்கோடு 0°; கடகரேகை 23½° வ; மகரரேகை 23½° தெ; ஆர்க்டிக் வட்டம் 66½° வ. முதன்மைத் தீர்க்கக்கோடு 0° (கிரீன்விச்); பன்னாட்டுத் தேதிக்கோடு 180°. 1° தீர்க்கம் = 4 நிமிட நேர வேறுபாடு.",
+   "x": "",
+   "t_en": "Latitudes and longitudes",
+   "b_en": "Equator 0°; Tropic of Cancer 23½° N; Tropic of Capricorn 23½° S; Arctic Circle 66½° N. Prime Meridian 0° (Greenwich); International Date Line 180°. 1° of longitude = 4 minutes of time.",
+   "x_en": ""
+  },
+  {
+   "t": "வளிமண்டலம்",
+   "b": "அடுக்குகள்: அடிவளிமண்டலம் (வானிலை நிகழ்வுகள்), மீவளிமண்டலம் (ஓசோன் படலம்), இடைவளிமண்டலம், வெப்பவளிமண்டலம், புறவளிமண்டலம். நைட்ரஜன் சுமார் 78%, ஆக்சிஜன் சுமார் 21%.",
+   "x": "",
+   "t_en": "Atmosphere",
+   "b_en": "Layers: troposphere (weather), stratosphere (ozone layer), mesosphere, thermosphere, exosphere. Nitrogen about 78%, oxygen about 21%.",
+   "x_en": ""
+  },
+  {
+   "t": "சூரியக் குடும்பம்",
+   "b": "எட்டுக் கோள்கள். வியாழன் – மிகப்பெரியது; புதன் – மிகச்சிறியது, சூரியனுக்கு அருகில் உள்ளது; வெள்ளி – மிக வெப்பமானது; செவ்வாய் – 'சிவப்புக் கோள்'. கேனிமீட் (வியாழனின் நிலவு) – சூரியக் குடும்பத்தின் மிகப்பெரிய நிலவு.",
+   "x": "",
+   "t_en": "Solar system",
+   "b_en": "Eight planets. Jupiter – largest; Mercury – smallest and closest to the Sun; Venus – hottest; Mars – the 'red planet'. Ganymede (Jupiter's moon) – the largest moon in the solar system.",
+   "x_en": ""
+  },
+  {
+   "t": "பாறைகள்",
+   "b": "தீப்பாறை (எ.கா. கருங்கல்/கிரானைட்), படிவுப்பாறை (எ.கா. சுண்ணாம்புக்கல், மணற்கல்), உருமாறிய பாறை (எ.கா. சுண்ணாம்புக்கல் → பளிங்கு).",
+   "x": "",
+   "t_en": "Rocks",
+   "b_en": "Igneous (e.g. granite), sedimentary (e.g. limestone, sandstone), metamorphic (e.g. limestone → marble).",
+   "x_en": ""
+  },
+  {
+   "t": "இடப்பெயர்வு வேளாண்மை",
+   "b": "காட்டை அழித்து சில ஆண்டுகள் பயிரிட்டு பின் வேறிடம் செல்லும் முறை; பகுதிக்குப் பகுதி பெயர் மாறும்.",
+   "x": "இந்தியா – ஜூம்\nமலேசியா – லடாங்\nமெக்ஸிகோ – மில்பா\nபிரேசில் – ரோக்கா\nவியட்நாம் – ரே",
+   "t_en": "Shifting cultivation",
+   "b_en": "Clearing forest, farming it for a few years and then moving on; the name differs by region.",
+   "x_en": "India – Jhum\nMalaysia – Ladang\nMexico – Milpa\nBrazil – Roca\nVietnam – Ray"
+  }
+ ],
+ "environment": [
+  {
+   "t": "ஓசோன் படலம்",
+   "b": "மீவளிமண்டலத்தில் உள்ள ஓசோன் படலம் சூரியனின் புறஊதாக் கதிர்களை உறிஞ்சுகிறது. குளோரோஃபுளோரோ கார்பன்கள் (CFC) அதைச் சிதைக்கின்றன. மாண்ட்ரியல் நெறிமுறை (1987) அவற்றைக் கட்டுப்படுத்துகிறது.",
+   "x": "செப்டம்பர் 16 – உலக ஓசோன் நாள்",
+   "t_en": "Ozone layer",
+   "b_en": "The ozone layer in the stratosphere absorbs the Sun's ultraviolet rays. Chlorofluorocarbons (CFCs) damage it. The Montreal Protocol (1987) controls them.",
+   "x_en": "16 September – World Ozone Day"
+  },
+  {
+   "t": "பசுமை இல்ல வாயுக்கள்",
+   "b": "கார்பன் டை ஆக்சைடு, மீத்தேன், நைட்ரஸ் ஆக்சைடு, CFC, நீராவி ஆகியவை வெப்பத்தைத் தக்கவைத்துப் புவி வெப்பமயமாதலை ஏற்படுத்துகின்றன. கியோட்டோ நெறிமுறை (1997), பாரிஸ் ஒப்பந்தம் (2015) இதைக் கட்டுப்படுத்த முயல்கின்றன.",
+   "x": "",
+   "t_en": "Greenhouse gases",
+   "b_en": "Carbon dioxide, methane, nitrous oxide, CFCs and water vapour trap heat and cause global warming. The Kyoto Protocol (1997) and the Paris Agreement (2015) aim to control them.",
+   "x_en": ""
+  },
+  {
+   "t": "சுற்றுச்சூழல் சட்டங்கள்",
+   "b": "வனவிலங்கு பாதுகாப்புச் சட்டம் – 1972; புலிகள் பாதுகாப்புத் திட்டம் – 1 ஏப்ரல் 1973; சுற்றுச்சூழல் பாதுகாப்புச் சட்டம் – 1986. இந்தியாவில் 18 உயிர்க்கோளக் காப்பகங்கள் உள்ளன.",
+   "x": "ஜூன் 5 – உலகச் சுற்றுச்சூழல் நாள்\nஏப்ரல் 22 – புவி நாள்",
+   "t_en": "Environmental laws",
+   "b_en": "Wildlife Protection Act – 1972; Project Tiger – 1 April 1973; Environment Protection Act – 1986. India has 18 biosphere reserves.",
+   "x_en": "5 June – World Environment Day\n22 April – Earth Day"
+  },
+  {
+   "t": "பேரிடர் மேலாண்மை",
+   "b": "பேரிடர் மேலாண்மைச் சட்டம் 2005-இன் கீழ் தேசியப் பேரிடர் மேலாண்மை ஆணையம் (NDMA) அமைக்கப்பட்டது; பிரதமர் அதன் தலைவர். மீட்புப் பணிகளுக்குத் தேசியப் பேரிடர் மீட்புப் படை (NDRF) உள்ளது.",
+   "x": "",
+   "t_en": "Disaster management",
+   "b_en": "The National Disaster Management Authority (NDMA) was set up under the Disaster Management Act, 2005; the Prime Minister is its chairperson. The National Disaster Response Force (NDRF) handles rescue.",
+   "x_en": ""
+  }
+ ]
+}

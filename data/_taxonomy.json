@@ -161,6 +161,15 @@
         "ta": "இலக்கிய வரலாறு & நூல்கள்",
         "en": "History of literature & works"
       }
+    },
+    "unit_names_en": {
+      "1": "Grammar",
+      "2": "Vocabulary",
+      "3": "Writing skills",
+      "4": "Technical terms",
+      "5": "Reading comprehension",
+      "6": "Simple translation",
+      "7": "Literature, Tamil scholars and their service"
     }
   },
   "general_studies": {
